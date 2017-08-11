@@ -1,0 +1,901 @@
+title
+"Alternative Local Discriminant Bases Using Empirical Expectation and
+  Variance Estimation"
+Factored Notation for Interval I/O
+On the Significance of Digits in Interval Notation
+A sufficient condition for global invertibility of Lipschitz mapping
+"New Developments in Interval Arithmetic and Their Implications for
+  Floating-Point Standardization"
+"Computing sharp and scalable bounds on errors in approximate zeros of
+  univariate polynomials"
+"Propagation by Selective Initialization and Its Application to Numerical
+  Constraint Satisfaction Problems"
+"Solving Elliptic Finite Element Systems in Near-Linear Time with Support
+  Preconditioners"
+"Analysis of and workarounds for element reversal for a finite
+  element-based algorithm for warping triangular and tetrahedral meshes"
+"A Fully Sparse Implementation of a Primal-Dual Interior-Point Potential
+  Reduction Method for Semidefinite Programming"
+"Two Iterative Algorithms for Solving Systems of Simultaneous Linear
+  Algebraic Equations with Real Matrices of Coefficients"
+"New approach for Finite Difference Method for Thermal Analysis of
+  Passive Solar Systems"
+Divergence-free Wavelets for Navier-Stokes
+"Segmentation of the Homogeneity of a Signal Using a Piecewise Linear
+  Recognition Tool"
+"A VFRoe scheme for 1D shallow water flows : wetting and drying
+  simulation"
+"An informational approach to the global optimization of
+  expensive-to-evaluate functions"
+The Fundamental Theorems of Interval Analysis
+Functions to Support Input and Output of Intervals
+Remarks on the O(N) Implementation of the Fast Marching Method
+Support-Graph Preconditioners for 2-Dimensional Trusses
+"Families of traveling impulses and fronts in some models with
+  cross-diffusion"
+"Fast Intrinsic Mode Decomposition of Time Series Data with Sawtooth
+  Transform"
+"The Stochastic Logarithmic Norm for Stability Analysis of Stochastic
+  Differential Equations"
+"An algebraic approach to the set of intervals (a new approach of
+  arithmetic of intervals)"
+"Non-negative mixed finite element formulations for a tensorial diffusion
+  equation"
+Condition Numbers of Gaussian Random Matrices
+Sensitivity Analysis Using a Fixed Point Interval Iteration
+"How to improve the accuracy of the discrete gradient method in the
+  one-dimensional case"
+"Enhanced sampling schemes for MCMC based blind Bernoulli-Gaussian
+  deconvolution"
+"A Numerical Algorithm for Zero Counting. II: Distance to Ill-posedness
+  and Smoothed Analysis"
+On Element SDD Approximability
+Solution of Non-Square Fuzzy Linear Systems
+"An Iteratively Reweighted Algorithm for Sparse Reconstruction of
+  Subsurface Flow Properties from Nonlinear Dynamic Data"
+Computation- and Space-Efficient Implementation of SSA
+"On the indefinite Helmholtz equation: complex stretched absorbing
+  boundary layers, iterative analysis, and preconditioning"
+A fast randomized algorithm for orthogonal projection
+"Geometric Programming Problem with Co-Efficients and Exponents
+  Associated with Binary Numbers"
+"Comments on ""Routh Stability Criterion"""
+Multi-objective Geometric Programming Problem With Weighted Mean Method
+"New Approach to Identify Common Eigenvalues of real matrices using
+  Gerschgorin Theorem and Bisection method"
+"Enforcing the non-negativity constraint and maximum principles for
+  diffusion with decay on general computational grids"
+"Effective Resistances, Statistical Leverage, and Applications to Linear
+  Equation Solving"
+Experimental Comparisons of Derivative Free Optimization Algorithms
+SM stability for time-dependent problems
+Splitting schemes for hyperbolic heat conduction equation
+The power and Arnoldi methods in an algebra of circulants
+"Domain decomposition schemes for evolutionary equations of first order
+  with not self-adjoint operators"
+Banded Householder representation of linear subspaces
+"A Two-Step High-Order Compact Scheme for the Laplacian Operator and its
+  Implementation in an Explicit Method for Integrating the Nonlinear
+  Schrödinger Equation"
+"On the control of the load increments for a proper description of
+  multiple delamination in a domain decomposition framework"
+A Heuristic Description of Fast Fourier Transform
+"Additive schemes (splitting schemes) for some systems of evolutionary
+  equations"
+Floating-Point Arithmetic on Round-to-Nearest Representations
+Floating-Point Numbers with Error Estimates (revised)
+Data-Driven Execution of Fast Multipole Methods
+Analyzing and enhancing OSKI for sparse matrix-vector multiplication
+Matrix Recipes for Hard Thresholding Methods
+"A numerical methodology for enforcing maximum principles and the
+  non-negative constraint for transient diffusion equations"
+Numerical Computations For Operator Axiom
+"L1 Splines for Robust, Simple, and Fast Smoothing of Grid Data"
+"LU factorization with panel rank revealing pivoting and its
+  communication avoiding version"
+Real root refinements for univariate polynomial equations
+Calculation of orthant probabilities by the holonomic gradient method
+"A New Method for the Analysis of Signals: The Square Wave Transform
+  (SWT)"
+Exponential Integrators on Graphic Processing Units
+The DFLU flux for systems of conservation laws
+"Mathematical analysis of a discrete fracture model coupling Darcy flow
+  in the matrix with Darcy-Forchheimer flow in the fracture"
+Twofold fast summation
+"Domain decomposition methods with overlapping subdomains for
+  time-dependent problems"
+Twofold fast arithmetic
+Towards a Resolution of P = NP Conjecture
+"Computing a Finite Size Representation of the Set of Approximate
+  Solutions of an MOP"
+"Communication-optimal parallel and sequential QR and LU factorizations:
+  theory and practice"
+"A Data-Parallel Algorithm to Reliably Solve Systems of Nonlinear
+  Equations"
+"On the stability of bubble functions and a stabilized mixed finite
+  element formulation for the Stokes problem"
+"Consistent Newton-Raphson vs. fixed-point for variational multiscale
+  formulations for incompressible Navier-Stokes"
+"A stabilized finite element formulation for advection-diffusion using
+  the generalized finite element framework"
+"Implementation for blow up of tornado-type solutions for complex version
+  of 3D Navier-Stokes system"
+"On one method of boundary value problem regularization by passage to the
+  limit"
+"Two hierarchies of spline interpolations. Practical algorithms for
+  multivariate higher order splines"
+"A fast algorithm for computing minimal-norm solutions to underdetermined
+  systems of linear equations"
+On the Convex Feasibility Problem
+A stabilized finite element formulation of non-smooth contact
+Piecewise Convex-Concave Approximation in the $\ell_{\infty}$ Norm
+"Bootstrap Markov chain Monte Carlo and optimal solutions for the Law of
+  Categorical Judgment (Corrected)"
+"A Stable Explicit Scheme for Solving Non-Homogeneous Constant
+  Coefficients Equation using Green's Function"
+"A Stable Explicit Scheme for Solving Inhomogeneous Constant Coefficients
+  Differential Equation using Green's Function"
+"A New Algorithm for General Cyclic Heptadiagonal Linear Systems Using
+  Sherman-Morrison-Woodbury formula"
+Domain decomposition schemes for the Stokes equation
+Rank Aggregation via Nuclear Norm Minimization
+"The Correct Classic Generalized Least-Squares Estimator of an Unknown
+  Constant Mean of Randon Field"
+Pursuit Fractal Analysis of Time-Series Data
+Explicit schemes for parabolic and hyperbolic equations
+"Linear Convergence of Comparison-based Step-size Adaptive Randomized
+  Search via Stability of Markov Chains"
+Easy Accurate Reading and Writing of Floating-Point Numbers
+"Linear Convergence on Positively Homogeneous Functions of a Comparison
+  Based Step-Size Adaptive Randomized Search: the (1+1) ES with Generalized
+  One-fifth Success Rule"
+"An optimally concentrated Gabor transform for localized time-frequency
+  components"
+An adjustable-width window with good dynamic range
+"Algorithms and Polynomiography for Solving Quaternion Quadratic
+  Equations"
+Degree reduction of disk rational Bézier curves
+Fast Intrinsic Mode Decomposition and Filtering of Time Series Data
+"Simultaneously Sparse Solutions to Linear Inverse Problems with Multiple
+  System Matrices and a Single Observation Vector"
+"A numerical study of fluids with pressure dependent viscosity flowing
+  through a rigid porous medium"
+"A Geometric Approach to Solve Fuzzy Linear Systems of Differential
+  Equations"
+An Example of Symmetry Exploitation for Energy-related Eigencomputations
+"Fast algorithms for spherical harmonic expansions, III"
+Least-Squares on the Real Symplectic Group
+Some Architectures for Chebyshev Interpolation
+Solving Tensor Structured Problems with Computational Tensor Algebra
+"VAGO method for the solution of elliptic second-order boundary value
+  problems"
+"A preconditioned iterative solver for the scattering solutions of the
+  Schrödinger equation"
+"GMRES-based multigrid for the complex scaled preconditoner for the
+  indefinite Helmholtz equation"
+A contribution to the conditioning of the total least squares problem
+Generalized Filtering Decomposition
+Substructuring domain decomposition scheme for unsteady problems
+Equivalent Effect Function and Fast Intrinsic Mode Decomposition
+"Development and Modelling of High-Efficiency Computing Structure for
+  Digital Signal Processing"
+"Numerical Stability of Explicit Runge-Kutta Finite-Difference Schemes
+  for the Nonlinear Schrödinger Equation"
+"Image representation by blob and its application in CT reconstruction
+  from few projections"
+"Iterative methods for solving the pressure problem at multiphase
+  filtration"
+"Image Deblurring Using Derivative Compressed Sensing for Optical Imaging
+  Application"
+"The Numerical Generalized Least-Squares Estimator of an Unknown Constant
+  Mean of Random Field"
+A hybrid Hermitian general eigenvalue solver
+An FMM Based on Dual Tree Traversal for Many-core Architectures
+General Lower Bounds based on Computer Generated Higher Order Expansions
+Zur iterativen Loesosung von linearen Gleichungssystemen
+A2ILU: Auto-accelerated ILU Preconditioner for Sparse Linear Systems
+"On the $\mathbb{F}_2$-linear relations of Mersenne Twister pseudorandom
+  number generators"
+"An Efficient Implementation of the Ensemble Kalman Filter Based on an
+  Iterative Sherman-Morrison Formula"
+Relative error due to a single bit-flip in floating-point arithmetic
+Computing Enclosures of Overdetermined Interval Linear Systems
+Matrix Compression using the Nystroöm Method
+"Subsquares Approach - Simple Scheme for Solving Overdetermined Interval
+  Linear Systems"
+Almost-commuting matrices are almost jointly diagonalizable
+Dominant Frequency Extraction
+"Modification to Darcy model for high pressure and high velocity
+  applications and associated mixed finite element formulations"
+Efficient estimation of eigenvalue counts in an interval
+Shape identification and classification in echolocation
+Generalized Perron--Frobenius Theorem for Nonsquare Matrices
+"$L_{1/2}$ Regularization: Convergence of Iterative Half Thresholding
+  Algorithm"
+"An Approximate, Efficient Solver for LP Rounding"
+"A fast directional BEM for large-scale acoustic problems based on the
+  Burton-Miller formulation"
+Randomness of D Sequences via Diehard Testing
+Insight into Primal Augmented Lagrangian Multilplier Method
+"Some isomorphic classes for noncanonical hypercomplex number systems of
+  dimension 2"
+"Tensor Decompositions for Signal Processing Applications From Two-way to
+  Multiway Component Analysis"
+"A fast directional boundary element method for high frequency acoustic
+  problems in three dimensions"
+"Solvers for $\mathcal{O} (N)$ Electronic Structure in the Strong Scaling
+  Limit"
+"A Derivative-Free Trust Region Framework for Variational Data
+  Assimilation"
+"Recursive computation of spherical harmonic rotation coefficients of
+  large degree"
+Overview of Constrained PARAFAC Models
+On the equivalence between low rank matrix completion and tensor rank
+Consensus-based In-Network Computation of the PARAFAC Decomposition
+Clifford Type Algebra Characteristics Investigation
+A benchmark generator for boolean quadratic programming
+"An improved car-following model considering variable safety headway
+  distance"
+Preconditioned Krylov solvers for kernel regression
+Approximate Exponential Algorithms to Solve the Chemical Master Equation
+Newton-Ellipsoid Method and its Polynomiography
+Solving stochastic chemical kinetics by Metropolis Hastings sampling
+A Field Guide to Forward-Backward Splitting with a FASTA Implementation
+Enhanced joint sparsity via Iterative Support Detection
+"Simultaneous diagonalization: the asymmetric, low-rank, and noisy
+  settings"
+"Improved Monte Carlo Variance Reduction for Space and Energy
+  Self-Shielding"
+Fast Spectral Low Rank Matrix Approximation
+"Noise Robustness of a Combined Phase Retrieval and Reconstruction Method
+  for Phase-Contrast Tomography"
+"Automatic Detection of the Common and Non-common Frequencies in
+  Congruent Discrete Spectra. A Theoretical Approach"
+"Reversible Digital Filters Total Parametric Sensitivity Optimization
+  using Non-canonical Hypercomplex Number Systems"
+Improving the numerical stability of fast matrix multiplication
+"A Gauss-Seidel Iterative Thresholding Algorithm for lq Regularized Least
+  Squares Regression"
+Certified Roundoff Error Bounds Using Semidefinite Programming
+Rank-1 Tensor Approximation Methods and Application to Deflation
+Detecting Potential Instabilities of Numerical Algorithms
+"Trading Accuracy for Numerical Stability: Orthogonalization,
+  Biorthogonalization and Regularization"
+"Illustration of iterative linear solver behavior on simple 1D and 2D
+  problems"
+Reduced Precision Checking to Detect Errors in Floating Point Arithmetic
+"New fast divide-and-conquer algorithms for the symmetric tridiagonal
+  eigenvalue problem"
+"Monte Carlo Dynamically Weighted Importance Sampling For Finite Element
+  Model Updating"
+Spectral Partitioning with Blends of Eigenvectors
+"Efficient Approaches for Enclosing the United Solution Set of the
+  Interval Generalized Sylvester Matrix Equation"
+"Signal Processing Structures for Solving Conservative Constraint
+  Satisfaction Problems"
+About Notations in Multiway Array Processing
+A Simple Approach to Optimal CUR Decomposition
+Accelerating Random Kaczmarz Algorithm Based on Clustering Information
+"Empirical Research and Automatic Processing Method of Precision-specific
+  Operation"
+"Wilkinson's Inertia-Revealing Factorization and Its Application to
+  Sparse Matrices"
+"Spectral Compressed Sensing via CANDECOMP/PARAFAC Decomposition of
+  Incomplete Tensors"
+"Stability and bifurcation properties of the algorithms for keeping of
+  differential equations solutions on the required level"
+Efficient tensor completion: Low-rank tensor train
+"An Optimal Block Diagonal Preconditioner for Heterogeneous Saddle Point
+  Problems in Phase Separation"
+"Fluid Dynamics Modeling : The Numerical Solution Of 2D Navier Hyperbolic
+  Equations"
+"A New Pivot Selection Algorithm for Symmetric Indefinite Factorization
+  Arising in Quadratic Programming with Block Constraint Matrices"
+New Pivot Selection for Sparse Symmetric Indefinite Factorization
+"Fast Multipole Method as a Matrix-Free Hierarchical Low-Rank
+  Approximation"
+Toom-Cook Multiplication: Some Theoretical and Practical Aspects
+"Online Low-Rank Tensor Subspace Tracking from Incomplete Data by CP
+  Decomposition using Recursive Least Squares"
+"The swept rule for breaking the latency barrier in time advancing
+  two-dimensional PDEs"
+Ultrafast a Distributed Arithmetic in multi-row codes
+"A Direct Elliptic Solver Based on Hierarchically Low-rank Schur
+  Complements"
+"Unit Consistency, Generalized Inverses, and Effective System Design
+  Methods"
+Pixel matrices: An elementary technique for solving nonlinear systems
+"A Necessary and Sufficient Condition for Local Maxima of Polynomial
+  Modulus Over Unit Disc"
+Abnormal Subspace Sparse PCA for Anomaly Detection and Interpretation
+"Comments on ""A Square-Root-Free Matrix Decomposition Method for
+  Energy-Efficient Least Square Computation on Embedded Systems"""
+A Short Proof for Gap Independence of Simultaneous Iteration
+Space-Efficient Karatsuba Multiplication for Multi-Precision Integers
+"A Rank Revealing Randomized Singular Value Decomposition (R3SVD)
+  Algorithm for Low-rank Matrix Approximations"
+Locality-Aware Laplacian Mesh Smoothing
+"A Parallel Implementation of the Ensemble Kalman Filter Based on
+  Modified Cholesky Decomposition"
+Mathematical Modeling of General Inaccurate Adders
+"A strategy to implement Dirichlet boundary conditions in the context of
+  ADER finite volume schemes. One-dimensional conservation laws"
+"Monotonicity-preserving finite element schemes based on differentiable
+  nonlinear stabilization"
+"A Unified Alternating Direction Method of Multipliers by Majorization
+  Minimization"
+"Selecting Algorithms for Black Box Matrices: Checking for Matrix
+  Properties That Can Simplify Computations"
+"Black Box Linear Algebra: Extending Wiedemann's Analysis of a Sparse
+  Matrix Preconditioner for Computations over Small Fields"
+Accelerated Kaczmarz Algorithms using History Information
+Analysis of time series and signals using the Square Wave Method
+"A simple algorithm to find the L-curve corner in the regularization of
+  inverse problems"
+"Low-Rank Tensor Networks for Dimensionality Reduction and Large-Scale
+  Optimization Problems: Perspectives and Challenges PART 1"
+Tighter bound of Sketched Generalized Matrix Approximation
+"Soft Recovery Through $\ell_{1,2}$ Minimization with Applications in
+  Recovery of Simultaneously Sparse and Low-Rank Matrice"
+On Memory Footprints of Partitioned Sparse Matrices
+"Technical Report: Improved Fourier Reconstruction using Jump Information
+  with Applications to MRI"
+"Proximal Algorithms and Temporal Differences for Large Linear Systems:
+  Extrapolation, Approximation, and Simulation"
+"Certified Roundoff Error Bounds using Bernstein Expansions and Sparse
+  Krivine-Stengle Representations"
+"A Revisit of Block Power Methods for Finite State Markov Chain
+  Applications"
+Data-driven time parallelism via forecasting
+"Stability analysis of the numerical Method of characteristics applied to
+  a class of energy-preserving systems. Part I: Periodic boundary conditions"
+"Stability analysis of the numerical Method of characteristics applied to
+  a class of energy-preserving systems. Part II: Nonreflecting boundary
+  conditions"
+Splitting schemes for unsteady problems involving the grad-div operator
+Fast Multipole Method based filtering of non-uniformly sampled data
+"Revisiting Hammel et al. (1987): Does the shadowing property hold for
+  modern computers?"
+"Approximate fast graph Fourier transforms via multi-layer sparse
+  approximations"
+"Spectral Statistics of Lattice Graph Structured, Non-uniform
+  Percolations"
+"Multivariate predictions of local reduced-order-model errors and
+  dimensions"
+EPIRK-W and EPIRK-K time discretization methods
+A Practical Randomized CP Tensor Decomposition
+"A Unifying Framework for Convergence Analysis of Approximate Newton
+  Methods"
+Systematic Generation of Algorithms for Iterative Methods
+"Using Approximate Computing for the Calculation of Inverse Matrix p-th
+  Roots"
+"Space-time least-squares Petrov-Galerkin projection for nonlinear model
+  reduction"
+"Accelerated and Inexact Soft-Impute for Large-Scale Matrix and Tensor
+  Completion"
+Report on Two-Step Knowledge-Aided Iterative ESPRIT Algorithm
+"A stable and optimally convergent LaTIn-Cut Finite Element Method for
+  multiple unilateral contact problems"
+Eigenvalues of symmetric tridiagonal interval matrices revisited
+"A Fast Implementation of Singular Value Thresholding Algorithm using
+  Recycling Rank Revealing Randomized Singular Value Decomposition"
+"Positive Semidefiniteness and Positive Definiteness of a Linear
+  Parametric Interval Matrix"
+Multiscale Analysis for Higher-order Tensors
+"Two-component domain decomposition scheme with overlapping subdomains
+  for parabolic equations"
+Cache-oblivious Matrix Multiplication for Exact Factorisation
+Fundamental mode exact schemes for unsteady problems
+Learning Efficient Tensor Representations with Ring Structure Networks
+Fully reliable error control for evolutionary problems
+"Successive Rank-One Approximations for Nearly Orthogonally Decomposable
+  Symmetric Tensors"
+"Higher-order meshing of implicit geometries - part II: Approximations on
+  manifolds"
+"Higher-order meshing of implicit geometries - part III: Conformal
+  Decomposition FEM (CDFEM)"
+Greedy Approaches to Symmetric Orthogonal Tensor Decomposition
+"Numerically Stable Variants of the Communication-hiding Pipelined
+  Conjugate Gradients Algorithm for the Parallel Solution of Large Scale
+  Symmetric Linear Systems"
+AE regularity of interval matrices
+"A Technical Note: Two-Step PECE Methods for Approximating Solutions To
+  First- and Second-Order ODEs"
+"The Convergence of Least-Squares Progressive Iterative Approximation
+  with Singular Iterative Matrix"
+"Signal-Theoretic Characterization of Waveguide Mesh Geometries for
+  Models of Two--Dimensional Wave Propagation in Elastic Media"
+"Several new domain-type and boundary-type numerical discretization
+  schemes with radial basis function"
+"Errata and supplements to: Orthonormal RBF Wavelet and Ridgelet-like
+  Series and Transforms for High-Dimensional Problems"
+"Analytical solution of transient scalar wave and diffusion problems of
+  arbitrary dimensionality and geometry by RBF wavelet series"
+New RBF collocation methods and kernel RBF with applications
+Some addenda on distance function wavelets
+A new definition of the fractional Laplacian
+Excellence in Computer Simulation
+"A Bernstein-Bezier Sufficient Condition for Invertibility of Polynomial
+  Mapping Functions"
+"Smoothed Analysis of the Condition Numbers and Growth Factors of
+  Matrices"
+Mean and Variance Estimation by Kriging
+Computational Aspects of a Numerical Model for Combustion Flow
+Harmonic Analysis
+"Complex Mean and Variance of Linear Regression Model for High-Noised
+  Systems by Kriging"
+"A Monadic, Functional Implementation of Real Numbers"
+"Nearly-Linear Time Algorithms for Preconditioning and Solving Symmetric,
+  Diagonally Dominant Linear Systems"
+A Condition Number Analysis of a Line-Surface Intersection Algorithm
+"A Robust Solution Procedure for Hyperelastic Solids with Large Boundary
+  Deformation"
+Modern Statistics by Kriging
+Doppler Spectrum Estimation by Ramanujan Fourier Transforms
+Faithful Polynomial Evaluation with Compensated Horner Algorithm
+Computing Integer Powers in Floating-Point Arithmetic
+"Properties of polynomial bases used in a line-surface intersection
+  algorithm"
+Numerical Calculation With Arbitrary Precision
+A fixed point iteration for computing the matrix logarithm
+On the complexity of nonnegative matrix factorization
+Certifying floating-point implementations using Gappa
+"Another approach to decide on real root existence for univariate
+  Polynomials, and a multivariate extension for 3-SAT"
+Optimizing polynomials for floating-point implementation
+"On dual Schur domain decomposition method for linear first-order
+  transient problems"
+"An Efficient Algorithm for a Sharp Approximation of Universally
+  Quantified Inequalities"
+"Bias-Variance Techniques for Monte Carlo Optimization: Cross-validation
+  for the CE Method"
+Interval Semantics for Standard Floating-Point Arithmetic
+Self-stabilizing Numerical Iterative Computation
+"On the vibrations of lumped parameter systems governed by
+  differential-algebraic equations"
+Algebraic Change-Point Detection
+Logarithmic Barrier Optimization Problem Using Neural Network
+A Highly Efficient Parallel Algorithm for Computing the Fiedler Vector
+Using vector divisions in solving linear complementarity problem
+Fast Digital Convolutions using Bit-Shifts
+On a new class of additive (splitting) operator-difference schemes
+"Increasing the Reliability of Adaptive Quadrature Using Explicit
+  Interpolants"
+"A Tuned and Scalable Fast Multipole Method as a Preeminent Algorithm for
+  Exascale Systems"
+"A framework for coupled deformation-diffusion analysis with application
+  to degradation/healing"
+A time-parallel algorithm for almost integrable Hamiltonian systems
+"On the performance of high-order finite elements with respect to maximum
+  principles and the non-negative constraint for diffusion-type equations"
+"On strong homogeneity of two global optimization algorithms based on
+  statistical models of multimodal objective functions"
+Solving Principal Component Pursuit in Linear Time via $l_1$ Filtering
+"Hierarchical N-body simulations with auto-tuning for heterogeneous
+  systems"
+"Trace Norm Regularized Tensor Classification and Its Online Learning
+  Approaches"
+"Demonstrating the Applicability of PAINT to Computationally Expensive
+  Real-life Multiobjective Optimization"
+"A Modulus-Squared Dirichlet Boundary Condition for Time-Dependent
+  Complex Partial Differential Equations and its Application to the Nonlinear
+  Schrödinger Equation"
+"Effective Stiffness: Generalizing Effective Resistance Sampling to
+  Finite Element Matrices"
+High-order finite volume schemes for layered atmospheric models
+"Vertex-centroid finite volume scheme on tetrahedral grids for
+  conservation laws"
+Parameter Identification in a Probabilistic Setting
+How Accurate is inv(A)*b?
+"Power Series Method applied to Inverse Analysis in Chemical Kinetics
+  Problem"
+An Arithmetic and Geometric Mean Invariant
+"Revisiting the D-iteration method: from theoretical to practical
+  computation cost"
+"A parallel sweeping preconditioner for heterogeneous 3D Helmholtz
+  equations"
+D-iteration: application to differential equations
+On Fast Computation of Gradients for CANDECOMP/PARAFAC Algorithms
+"Computational complexity and memory usage for multi-frontal direct
+  solvers in structured mesh finite elements"
+Dissecting the FEAST algorithm for generalized eigenproblems
+Alternative Tilings for the Fast Multipole Method on the Plane
+"Computing without a computer: a new approach for solving nonlinear
+  differential equations"
+Understanding differential equations through diffusion point of view
+Revisiting the D-iteration method: runtime comparison
+"Comments on ""On Approximating Euclidean Metrics by Weighted t-Cost
+  Distances in Arbitrary Dimension"""
+"The cost of continuity: performance of iterative solvers on isogeometric
+  finite elements"
+Optimizing the eigenvector computation algorithm with diffusion approach
+"Parsimonious Mahalanobis Kernel for the Classification of High
+  Dimensional Data"
+Numerical Methods for Solving Convection-Diffusion Problems
+"Unconditionally stable schemes for non-stationary convection-diffusion
+  equations"
+"A SVD accelerated kernel-independent fast multipole method and its
+  application to BEM"
+Report: Error estimation of recovered solution in FE analysis
+"Numerical comparison of different algorithms for construction of wavelet
+  matrices"
+A Mathematical Random Number Generator (MRNG)
+"A novel method based on the Tikhonov functional for non-negative
+  solution of a system of linear equations with non-negative coefficients"
+"Numerical solutions of a class of second order boundary value problems
+  on using Bernoulli Polynomials"
+"Coefficient Matrices Computation of Structural Vector Autoregressive
+  Model"
+"Numerical Solutions of Fredholm Integral Equations Using Bernstein
+  Polynomials"
+Kaczmarz Algorithm with Soft Constraints for User Interface Layout
+"Speeding-Up Convergence via Sequential Subspace Optimization: Current
+  State and Future Directions"
+Exponential-Krylov methods for ordinary differential equations
+Inifnite hypercomplex number system factorization methods
+Solving Cubic Equations By the Quadratic Formula
+On generic frequency decomposition. Part 1: vectorial decomposition
+"An Improved Algorithm based on Shannon-Happ Formula for Calculating
+  Transfer Function from Signal Flow Graph and Its Visualization"
+Additive Non-negative Matrix Factorization for Missing Data
+Novel Modifications of Parallel Jacobi Algorithms
+A GPU-based hyperbolic SVD algorithm
+A domain decomposing parallel sparse linear system solver
+"The FEM approach to the 2D Poisson equation in 'meshes' optimized with
+  the Metropolis algorithm"
+"A stabilized mixed formulation for unsteady Brinkman equation based on
+  the method of horizontal lines"
+Three-Level Parallel J-Jacobi Algorithms for Hermitian Matrices
+On Euclidean Norm Approximations
+"Uncertainty Updating in the Description of Coupled Heat and Moisture
+  Transport in Heterogeneous Materials"
+"Fast and Faster: A Comparison of Two Streamed Matrix Decomposition
+  Algorithms"
+A Hough Transform Approach to Solving Linear Min-Max Problems
+General inner approximation of vector-valued functions
+"Isogeometric finite element analysis of functionally graded plates using
+  a refined plate theory"
+"The application of the exact operational matrices for solving the
+  Emden-Fowler equations, arising in astrophysics"
+"GPU-Acceleration of Parallel Unconditionally Stable Group Explicit
+  Finite Difference Method"
+A class of generalized additive Runge-Kutta methods
+Multirate generalized additive Runge Kutta methods
+Adaptive $h$-refinement for reduced-order models
+"Projection Algorithms for Non-Convex Minimization with Application to
+  Sparse Principal Component Analysis"
+Global Newton Iteration over Archimedean and non-Archimedean Fields
+"Proximal Iteratively Reweighted Algorithm with Multiple Splitting for
+  Nonconvex Sparsity Optimization"
+Multilinear PageRank
+"A One-Line Proof of the Fundamental Theorem of Algebra with Newton's
+  Method as a Consequence"
+"The Hildreth's Algorithm with Applications to Soft Constraints for User
+  Interface Layout"
+A Note on Preconditioning by Low-Stretch Spanning Trees
+Nonnegative approximations of nonnegative tensors
+A Geometric Approach to Solve Fuzzy Linear Systems
+"A Gradient Descent Algorithm on the Grassman Manifold for Matrix
+  Completion"
+Computing the Least Fixed Point of Positive Polynomial Systems
+On the precision attainable with various floating-point number systems
+Analysis of Basis Pursuit Via Capacity Sets
+"Fast Sparse Matrix-Vector Multiplication on GPUs: Implications for Graph
+  Mining"
+"A mixed formulation for a modification to Darcy equation based on Picard
+  linearization and numerical solutions to large-scale realistic problems"
+A new algebraic and arithmetic framework for interval computations
+On the approximation in the smoothed finite element method (SFEM)
+Model Checking CSL for Markov Population Models
+Improving non-linear fits
+"Technical Report on Hypergraph-Partitioning-Based Models and Methods for
+  Exploiting Cache Locality in Sparse-Matrix Vector Multiplication"
+On the complexity of solving initial value problems
+"Divide-and-Conquer Method for L1 Norm Matrix Factorization in the
+  Presence of Outliers and Missing Data"
+Flux-splitting schemes for parabolic problems
+Adaptive Smolyak Pseudospectral Approximations
+"On Implementation and Evaluation of Inverse Iteration Algorithm with
+  compact WY Orthogonalization"
+"A numerical framework for diffusion-controlled bimolecular-reactive
+  systems to enforce maximum principles and non-negative constraint"
+"Epigraphical splitting for solving constrained convex formulations of
+  inverse problems with proximal tools"
+Strict localization of eigenvectors and eigenvalues
+"An inverse iteration method for eigenvalue problems with eigenvector
+  nonlinearities"
+"A direct solver with reutilization of previously-computed LU
+  factorizations for h-adaptive finite element grids with point singularities"
+Nonsymmetric multigrid preconditioning for conjugate gradient methods
+Spectral Condition-Number Estimation of Large Sparse Matrices
+The Diagonalized Newton Algorithm for Nonnegative Matrix Factorization
+Simultaneous computation of the row and column rank profiles
+On the Behavior of the Residual in Conjugate Gradient Method
+"Introducing One Step Back Iterative Approach to Solve Linear and Non
+  Linear Fixed Point Problem"
+"A decomposition method with minimum communication amount for
+  parallelization of multi-dimensional FFTs"
+A Novel Algorithm for Linear Programming
+"Note: interpreting iterative methods convergence with diffusion point of
+  view"
+"Improved Accuracy and Parallelism for MRRR-based Eigensolvers -- A Mixed
+  Precision Approach"
+Extrapolation-based implicit-explicit general linear methods
+"Numerical solving the identification problem for the lower coefficient
+  of parabolic equation"
+"Asymptotic metrics on the space of matrices under the commutation
+  relation"
+"Computing Solution Operators of Boundary-value Problems for Some Linear
+  Hyperbolic Systems of PDEs"
+"Local error estimates for adaptive simulation of the Reaction-Diffusion
+  Master Equation via operator splitting"
+On multi-time-step monolithic coupling algorithms for elastodynamics
+"An adaptive time integration strategy based on displacement history
+  curvature"
+"Local Convergence of an Algorithm for Subspace Identification from
+  Partial Data"
+"From-Below Approximations in Boolean Matrix Factorization: Geometry and
+  New Algorithm"
+Improved bounds on sample size for implicit matrix trace estimators
+"Fast Multipole Preconditioners for Sparse Matrices Arising from Elliptic
+  Equations"
+"Randomized algorithms for low-rank matrix factorizations: sharp
+  performance bounds"
+"A priori estimation of a time step for numerically solving parabolic
+  problems"
+An Efficient Parallel Solver for SDD Linear Systems
+Splitting schemes for poroelasticity and thermoelasticity problems
+"Data completion and stochastic algorithms for PDE inversion problems
+  with many measurements"
+Exploiting Data Representation for Fault Tolerance
+"Numerical Reproducibility and Parallel Computations: Issues for Interval
+  Algorithms"
+Matrix recovery using Split Bregman
+"Numerical solving the boundary value problem for fractional powers of
+  elliptic operators"
+Non-Orthogonal Tensor Diagonalization
+"Comparison of POD reduced order strategies for the nonlinear 2D Shallow
+  Water Equations"
+"On the maximum relative error when computing x^n in floating-point
+  arithmetic"
+"Non-linear mass-spring system for large soft tissue deformations
+  modeling"
+"Improvement of the monotonicity properties of the difference schemes by
+  building in them of the monotonizing operators"
+Balancing Sparsity and Rank Constraints in Quadratic Basis Pursuit
+"A Fast Block Low-Rank Dense Solver with Applications to Finite-Element
+  Matrices"
+Characterizing the Topography of Multi-dimensional Energy Landscapes
+"A monolithic multi-time-step computational framework for first-order
+  transient systems with disparate scales"
+"An Alternating KMF Algorithm to Solve the Cauchy Problem for Laplaces
+  Equation"
+An error estimate of Gaussian Recursive Filter in 3Dvar problem
+"Development of the method of computer analogy for studying and solving
+  complex nonlinear systems"
+"Fast Isogeometric Boundary Element Method based on Independent Field
+  Approximation"
+Isogeometric Boundary Element Method with Hierarchical Matrices
+"Boundary Element Analysis with trimmed NURBS and a generalized IGA
+  approach"
+"Structural index reduction algorithms for differential algebraic
+  equations via fixed-point iteration"
+Homotopy based algorithms for $\ell_0$-regularized least-squares
+"Enhancing adaptive sparse grid approximations and improving refinement
+  strategies using adjoint-based a posteriori error estimates"
+Generalized Higher-Order Tensor Decomposition via Parallel ADMM
+"High Order Implicit-Explicit General Linear Methods with Optimized
+  Stability Regions"
+"Tensor Networks for Big Data Analytics and Large-Scale Optimization
+  Problems"
+"A modern resistive magnetohydrodynamics solver using C++ and the Boost
+  library"
+Deterministic Versus Randomized Kaczmarz Iterative Projection
+"Enhancing $\ell_1$-minimization estimates of polynomial chaos expansions
+  using basis selection"
+"Computing the log-determinant of symmetric, diagonally dominant matrices
+  in near-linear time"
+A new operational matrix based on Bernoulli polynomials
+"The meshless method for solving radiative transfer problems in a slab
+  medium based on radial basis functions"
+"A Preconditioned Hybrid SVD Method for Computing Accurately Singular
+  Triplets of Large Matrices"
+"Algorithms that satisfy a stopping criterion, probably"
+A Note on Archetypal Analysis and the Approximation of Convex Hulls
+"A Fast and Memory Efficient Sparse Solver with Applications to
+  Finite-Element Matrices"
+"Generalized Summation-by-Parts Operators for the Second Derivative with
+  Variable Coefficients"
+"Optimization-based smoothing algorithm for triangle meshes over
+  arbitrarily shaped domains"
+"Optimization of the Multigrid-Convergence Rate on Semi-structured Meshes
+  by Local Fourier Analysis"
+"Solving Stress and Compliance Constrained Volume Minimization using
+  Anisotropic Mesh Adaptation, the Method of Moving Asymptotes and a Global
+  p-norm"
+"A random algorithm for low-rank decomposition of large-scale matrices
+  with missing entries"
+Tensor Transpose and Its Properties
+"Better Late Than Never: Filling a Void in the History of Fast Matrix
+  Multiplication and Tensor Decompositions"
+Approximating Matrices with Multiple Symmetries
+"A Two Stage CVT / Eikonal Convection Mesh Deformation Approach for Large
+  Nodal Deformations"
+Decomposition of Big Tensors With Low Multilinear Rank
+Subspace based low rank and joint sparse matrix recovery
+Towards a Broader View of Theory of Computing
+"Numerical solution of nonstationary problems for a space-fractional
+  diffusion equation"
+Perona-Malik equation and its numerical properties
+Semi-Stochastic Coordinate Descent
+Erasure coding for fault oblivious linear system solvers
+"Generalized quaternions and their relations with Grassmann-Clifford
+  procedure of doubling"
+Clustering Boolean Tensors
+Mechanics-based solution verification for porous media models
+A simple approach to the numerical simulation with trimmed CAD surfaces
+Close Approximations for Daublets and their Spectra
+"A comparison of the Extrapolated Successive Overrelaxation and the
+  Preconditioned Simultaneous Displacement methods for augmented linear systems"
+Primal Dual Affine Scaling on GPUs
+"A Flexible Implementation of a Matrix Laurent Series-Based 16-Point Fast
+  Fourier and Hartley Transforms"
+"On mesh restrictions to satisfy comparison principles, maximum
+  principles, and the non-negative constraint: Recent developments and new
+  results"
+"A Comparative Analysis of Tensor Decomposition Models Using Hyper
+  Spectral Image"
+A Finite Element Based P3M Method for N-body Problems
+Finding a low-rank basis in a matrix subspace
+"The Discretely-Discontinuous Galerkin Coarse Grid for Domain
+  Decomposition"
+"Multi-Block ADMM for Big Data Optimization in Modern Communication
+  Networks"
+"Galerkin v. least-squares Petrov--Galerkin projection in nonlinear model
+  reduction"
+"Factorized schemes of second-order accuracy for numerical solving
+  unsteady problems"
+"Convergence of a finite difference scheme to weak solutions of the
+  system of partial differential equation arising in mean field games"
+"On the Global Convergence of Majorization Minimization Algorithms for
+  Nonconvex Optimization Problems"
+"Numerical investigation of a space-fractional model of turbulent fluid
+  flow in rectangular ducts"
+"A splitting scheme to solve an equation for fractional powers of
+  elliptic operators"
+"Schur Complement based domain decomposition preconditioners with
+  Low-rank corrections"
+"Low-rank correction methods for algebraic domain decomposition
+  preconditioners"
+"A Time-parallel Approach to Strong-constraint Four-dimensional
+  Variational Data Assimilation"
+"A Hybrid Monte-Carlo Sampling Smoother for Four Dimensional Data
+  Assimilation"
+Saddle-free Hessian-free Optimization
+Faster SGD Using Sketched Conditioning
+Fast Methods for Eikonal Equations: an Experimental Survey
+The Isogeometric Nyström Method
+"Efficient algorithm for computing large scale systems of differential
+  algebraic equations"
+Approximation with Random Bases: Pro et Contra
+Tensor Deflation for CANDECOMP/PARAFAC. Part 3: Rank Splitting
+"Centralized and Distributed Newton Methods for Network Optimization and
+  Extensions"
+"A quadrilateral 'mini' finite element for the Stokes problem using a
+  single bubble function"
+On Dual-Finite Volume Methods for Extended Porous Medium Equations
+"An Efficient Solver for Sparse Linear Systems Based on Rank-Structured
+  Cholesky Factorization"
+A $N$-Body Solver for Square Root Iteration
+"Stochastic Behavior of the Nonnegative Least Mean Fourth Algorithm for
+  Stationary Gaussian Inputs and Slow Learning"
+"Two-level space-time domain decomposition methods for unsteady inverse
+  problems"
+"Improved Analyses of the Randomized Power Method and Block Lanczos
+  Method"
+"Rational Chebyshev of Second Kind Collocation Method for Solving a Class
+  of Astrophysics Problems"
+"Fast Algorithms for the computation of Fourier Extensions of arbitrary
+  length"
+"Exact Real Arithmetic with Perturbation Analysis and Proof of
+  Correctness"
+"On the geometry of border rank algorithms for n x 2 by 2 x 2 matrix
+  multiplication"
+Parallel Tensor Compression for Large-Scale Scientific Data
+"The scalability of the matrices in direct Trefftz method in 2D Laplace
+  problem"
+"An Iterative Reweighted Method for Tucker Decomposition of Incomplete
+  Multiway Tensors"
+Restricted Low-Rank Approximation via ADMM
+Nonuniformly weighted Schwarz smoothers for spectral element multigrid
+Histogram Arithmetic under Uncertainty of Probability Density Function
+"Adaptive multi-stage integrators for optimal energy conservation in
+  molecular simulations"
+On Approximating Univariate NP-Hard Integrals
+Geometric Integration Over Irregular Domains with topologic Guarantees
+Distributed Low Rank Approximation of Implicit Functions of a Matrix
+"Factorizing the factorization - a spectral-element solver for elliptic
+  equations with linear operation count"
+"An Efficient, Sparsity-Preserving, Online Algorithm for Data
+  Approximation"
+Wanted: Floating-Point Add Round-off Error instruction
+"A Data-Scalable Randomized Misfit Approach for Solving Large-Scale
+  PDE-Constrained Inverse Problems"
+Coupling of finite element method with boundary algebraic equations
+A Penalty Function Promoting Sparsity Within and Across Groups
+"On the Petras algorithm for verified integration of piecewise analytic
+  functions"
+A note on the convergence of nonconvex line search
+Stable Isogeometric Analysis of Trimmed Geometries
+"Conformal higher-order remeshing schemes for implicitly defined
+  interface problems"
+Lipschitz Continuity of Mahalanobis Distances and Bilinear Forms
+"A Singularly Perturbed Boundary Value Problems with Fractional Powers of
+  Elliptic Operators"
+"Iterative computational identification of a spacewise dependent the
+  source in a parabolic equations"
+How Many Real Attractive Fixed Points Can A Polynomial Have?
+Profile-Driven Automated Mixed Precision
+"Efficient tensor completion for color image and video recovery: Low-rank
+  tensor train"
+An efficient mathematically correct scale free CORDIC
+"Isogeometric computation reuse method for complex objects with
+  topology-consistent volumetric parameterization"
+"A critical analysis of some popular methods for the discretisation of
+  the gradient operator in finite volume methods"
+"Quasi-matrix-free hybrid multigrid on dynamically adaptive Cartesian
+  grids"
+On the non-uniqueness of the instantaneous frequency
+"Inexact Block Coordinate Descent Methods For Symmetric Nonnegative
+  Matrix Factorization"
+Higher-Order Block Term Decomposition for Spatially Folded fMRI Data
+"Dimensionality reduction based on Distance Preservation to Local Mean
+  (DPLM) for SPD matrices and its application in BCI"
+Multi-way Monte Carlo Method for Linear Systems
+"On Formal Verification in Imperative Multivalued Programming over
+  Continuous Data Types"
+"Structural Convergence Results for Approximation of Dominant Subspaces
+  from Block Krylov Spaces"
+Consistent Discretization and Minimization of the L1 Norm on Manifolds
+A Fast Algorithm for Convolutional Structured Low-Rank Matrix Recovery
+"Modeling Parallel Wiener-Hammerstein Systems Using Tensor Decomposition
+  of Volterra Kernels"
+"Tensor Networks for Latent Variable Analysis. Part I: Algorithms for
+  Tensor Train Decomposition"
+Real-time Error Control for Surgical Simulation
+Fast and Accurate Surface Normal Integration on Non-Rectangular Domains
+"On the Approximation of Functionals of Very Large Hermitian Matrices
+  represented as Matrix Product Operators"
+"Error estimates with explicit constants for the Sinc approximation over
+  infinite intervals"
+Certified Lower Bounds of Roundoff Errors using Semidefinite Programming
+Accelerated Stochastic ADMM with Variance Reduction
+"How to overcome the Courant-Friedrichs-Lewy condition of explicit
+  discretizations?"
+"Robust Multigrid for Cartesian Interior Penalty DG Formulations of the
+  Poisson Equation in 3D"
+"Construction and implementation of asymptotic expansions for
+  Laguerre-type orthogonal polynomials"
+"Differentiable monotonicity-preserving schemes for discontinuous
+  Galerkin methods on arbitrary meshes"
+"On the Computation of Complex-valued Gradients with Application to
+  Statistically Optimum Beamforming"
+"The Unum Number Format: Mathematical Foundations, Implementation and
+  Comparison to IEEE 754 Floating-Point Numbers"
+Unconstrained inverse quadratic programming problem
+"Error modeling for surrogates of dynamical systems using machine
+  learning"
+Space-time balancing domain decomposition
+The Adaptive $s$-step Conjugate Gradient Method
+"The tensor network representation of high order cumulant and algorithm
+  for their calculation"
+An hp-adaptive strategy for elliptic problems
+"On the optimality and sharpness of Laguerre's lower bound on the
+  smallest eigenvalue of a symmetric positive definite matrix"
+Hybrid System Modelling and Simulation with Dirac Deltas
+Decoupled Block-Wise ILU(k) Preconditioner on GPU
+"Recovery of Sparse and Low Rank Components of Matrices Using Iterative
+  Method with Adaptive Thresholding"
+Randomized CP Tensor Decomposition
+"Vico-Greengard-Ferrando quadratures in the tensor solver for integral
+  equations"

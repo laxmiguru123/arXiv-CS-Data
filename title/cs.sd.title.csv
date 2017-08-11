@@ -1,0 +1,983 @@
+title
+Fractionally-addressed delay lines
+The Sound Manifesto
+"Generalization of a 3-D resonator model for the simulation of spherical
+  enclosures"
+Source-Filter Decomposition of Harmonic Sounds
+Flexible Software Framework for Modal Synthesis
+"Pitch Tracking of Acoustic Signals based on Average Squared Mean
+  Difference Function"
+DSP Based System for Real time Voice Synthesis Applications Development
+TR01: Time-continuous Sparse Imputation
+iKlax: a New Musical Audio Format for Active Listening
+New Ica-Beamforming Method to Under-Determined BSS
+"Improvement of Text Dependent Speaker Identification System Using
+  Neuro-Genetic Hybrid Algorithm in Office Environmental Conditions"
+Noise Speech wavelet analyzing in special time ranges
+Untangling Phase and Time in Monophonic Sounds
+A Digital Guitar Tuner
+Perceptual analyses of action-related impact sounds
+Dichotic harmony for the musical practice
+"Treatment the Effects of Studio Wall Resonance and Coincidence Phenomena
+  for Recording Noisy Speech Via FPGA Digital Filter"
+"A Study on the Interactive ""HOPSCOTCH"" Game for the Children Using
+  Computer Music Techniques"
+"Estimation of Infants' Cry Fundamental Frequency using a Modified SIFT
+  algorithm"
+Detecting gross alignment errors in the Spoken British National Corpus
+An automatic volume control for preserving intelligibility
+"A Fast Affine Projection Algorithm Based on Matching Pursuit in Adaptive
+  Noise Cancellation for Speech Enhancement"
+"A Family of Adaptive Filter Algorithms in Noise Cancellation for Speech
+  Enhancement"
+Open-loop multi-channel inversion of room impulse response
+Rényi Information Measures for Spectral Change Detection
+"A Reduced Multiple Gabor Frame for Local Time Adaptation of the
+  Spectrogram"
+An Entropy Based Method for Local Time-Adaptation of the Spectrogram
+Sound Analysis and Synthesis Adaptive in Time and Two Frequency Bands
+"Discovering novel computer music techniques by exploring the space of
+  short computer programs"
+A general framework for online audio source separation
+"A comparative study of performance of fpga based mel filter bank & bark
+  filter bank"
+"Improving Blind Source Separation Performance By Adaptive Array
+  Geometries For Humanoid Robots"
+Computerized Multi Microphone Test System
+"DSP.Ear: Leveraging Co-Processor Support for Continuous Audio Sensing on
+  Smartphones"
+"A Single-Processor Approach to Speech Processing Pipeline of Bilateral
+  Cochlear Implants"
+Which notes are Vadi-Samvadi in Raga Rageshree?
+A Unified Theory of Time-Frequency Reassignment
+TR02: State dependent oracle masks for improved dynamical features
+"Inter Genre Similarity Modelling For Automatic Music Genre
+  Classification"
+Speech Recognition of the letter 'zha' in Tamil Language using HMM
+"Intelligent System for Speaker Identification using Lip features with
+  PCA and ICA"
+"Should Corpora be Big, Rich, or Dense?"
+Sampling-rate-aware noise generation
+Estimation of Severity of Speech Disability through Speech Envelope
+"Application of Gammachirp Auditory Filter as a Continuous Wavelet
+  Analysis"
+Harmony Explained: Progress Towards A Scientific Theory of Music
+"Analysis of speech under stress using Linear techniques and Non-Linear
+  techniques for emotion recognition system"
+"Algorithm to suppress scanner noise in recorded speech during functional
+  magnetic resonance imaging"
+"A novel method for obtaining a better quality speech signal for cochlear
+  Implants using kalman with drnl and ssb technique"
+"Blind speech separation based on undecimated wavelet packet-perceptual
+  filterbanks and independent component analysis"
+A nuclear-norm based convex formulation for informed source separation
+About Multichannel Speech Signal Extraction and Separation Techniques
+"Usable Speech Assignment for Speaker Identification under Co-Channel
+  Situation"
+"Evaluation of a Multi-Resolution Dyadic Wavelet Transform Method for
+  usable Speech Detection"
+Maximum a posteriori estimation of piecewise arcs in tempo time-series
+"Improved multiple birdsong tracking with distribution derivative method
+  and Markov renewal process clustering"
+Consistent Iterative Hard Thresholding For Signal Declipping
+"Toward Evolution Strategies Application in Automatic Polyphonic Music
+  Transcription using Electronic Synthesis"
+"Acoustic Echo Cancellation Postfilter Design Issues For Speech
+  Recognition System"
+"The GTZAN dataset: Its contents, its faults, their effects on
+  evaluation, and its future use"
+Harmony Perception by Periodicity Detection
+"Phoneme discrimination using neurons with symmetric nonlinear response
+  over a spectral range"
+An Intuitive Design Approach For Implementing Real Time Audio Effects
+"A Geometric Approach to Sound Source Localization from Time-Delay
+  Estimates"
+Large-scale analysis of frequency modulation in birdsong databases
+"Objets Sonores: Une Représentation Bio-Inspirée Hiérarchique
+  Parcimonieuse À Très Grandes Dimensions Utilisable En Reconnaissance;
+  Auditory Objects: Bio-Inspired Hierarchical Sparse High Dimensional
+  Representation for Recognition"
+Reverberant Audio Source Separation via Sparse and Low-Rank Modeling
+"A Simple Method to Produce Algorithmic MIDI Music based on Randomness,
+  Simple Probabilities and Multi-Threading"
+"A Hybrid Approach for Co-Channel Speech Segregation based on CASA, HMM
+  Multipitch Tracking, and Medium Frame Harmonic Model"
+"Acoustic Space Learning for Sound Source Separation and Localization on
+  Binaural Manifolds"
+"Maximizing the Signal-to-Alias Ratio in Non-Uniform Filter Banks for
+  Acoustic Echo Cancellation"
+Sparse DOA Estimation of Wideband Sound Sources Using Circular Harmonics
+"Optimal Window and Lattice in Gabor Transform Application to Audio
+  Analysis"
+"Sparsity-Aware Filtered-X Affine Projection Algorithms for Active Noise
+  Control"
+"Vocal signal digital processing. Instrument for analog to digital
+  conversion study"
+"Efficient Steered-Response Power Methods for Sound Source Localization
+  Using Microphone Arrays"
+Speech Polarity Detection Using Hilbert Phase Information
+"Phase-Optimized K-SVD for Signal Extraction from Underdetermined
+  Multichannel Sparse Mixtures"
+On the use of Stress information in Speech for Speaker Recognition
+"Detection of transitions between broad phonetic classes in a speech
+  signal"
+An Interesting Property of LPCs for Sonorant Vs Fricative Discrimination
+"A Novel Uncertainty Parameter SR (Signal To Residual Spectrum Ratio)
+  Evaluation Approach For Speech Enhancement"
+"Spatial Source Subtraction Based on Incomplete Measurements of Relative
+  Transfer Function"
+"A Complex Matrix Factorization approach to Joint Modeling of Magnitude
+  and Phase for Source Separation"
+Listening to features
+Sparse Head-Related Impulse Response for Efficient Direct Convolution
+"A Full Frequency Masking Vocoder for Legal Eavesdropping Conversation
+  Recording"
+Coherent-to-Diffuse Power Ratio Estimation for Dereverberation
+"Mandarin Singing Voice Synthesis Based on Harmonic Plus Noise Model and
+  Singing Expression Analysis"
+"Evaluation of spatial audio reproduction schemes for application in
+  hearing aid research"
+"Online Monaural Speech Enhancement Based on Periodicity Analysis and A
+  Priori SNR Estimation"
+Acoustic event detection for multiple overlapping similar sources
+"Absolute Geometry Calibration of Distributed Microphone Arrays in an
+  Audio-Visual Sensor Network"
+Time-Frequency Trade-offs for Audio Source Separation with Binary Masks
+"Deep Remix: Remixing Musical Mixtures Using a Convolutional Deep Neural
+  Network"
+An Efficient Parameterization of the Room Transfer Function
+"Sparsity and cosparsity for audio declipping: a flexible non-convex
+  approach"
+"Binaural coherent-to-diffuse-ratio estimation for dereverberation using
+  an ITD model"
+"Channel Interaction and Current Level Affect Across-Electrode
+  Integration of Interaural Time Differences in Bilateral Cochlear-Implant
+  Listeners"
+"Towards a Generalization of Relative Transfer Functions to More Than One
+  Source"
+Cover Song Identification with Timbral Shape Sequences
+"A model for the temporal evolution of the spatial coherence in decaying
+  reverberant sound fields"
+"Semi-Supervised Sound Source Localization Based on Manifold
+  Regularization"
+Transposition of Notations in Just Intonation
+Transformée en scattering sur la spirale temps-chroma-octave
+"Estimation of the Direct-Path Relative Transfer Function for Supervised
+  Sound-Source Localization"
+"Background-tracking Acoustic Features for Genre Identification of
+  Broadcast Shows"
+"Robust coherence-based spectral enhancement for distant speech
+  recognition"
+"An Investigation of Universal Background Sparse Coding Based Speaker
+  Verification on TIMIT"
+Speech Dereverberation in the STFT Domain
+"Noise robust integration for blind and non-blind reverberation time
+  estimation"
+"The ICSTM+TUM+UP Approach to the 3rd CHIME Challenge: Single-Channel
+  LSTM Speech Enhancement with Multi-Channel Correlation Shaping
+  Dereverberation and LSTM Language Models"
+"Proceedings of the ACE Challenge Workshop - a satellite event of
+  IEEE-WASPAA (2015)"
+Reverberation time estimation on the ACE corpus using the SDD method
+"Music Viewed by its Entropy Content: A Novel Window for Comparative
+  Analysis"
+"Reducing one-to-many problem in Voice Conversion by equalizing the
+  formant locations using dynamic frequency warping"
+"A Variational EM Algorithm for the Separation of Time-Varying
+  Convolutive Audio Mixtures"
+"Evaluating the Non-Intrusive Room Acoustics Algorithm with the ACE
+  Challenge"
+"Joint Estimation of Reverberation Time and Direct-to-Reverberation Ratio
+  from Speech using Auditory-Inspired Features"
+SRMR variants for improved blind room acoustics characterization
+"A Hybrid Approach for Speech Enhancement Using MoG Model and Neural
+  Network Phoneme Classifier"
+"Direct-to-Reverberant Ratio Estimation on the ACE Corpus Using a
+  Two-channel Beamformer"
+"A dictionary learning and source recovery based approach to classify
+  diverse audio sources"
+"MUSAN: A Music, Speech, and Noise Corpus"
+"Estimation of the direct-to-reverberant Energy Ratio using a spherical
+  microphone array"
+"PSD estimation in Beamspace for Estimating Direct-to-Reverberant Ratio
+  from A Reverberant Speech Signal"
+Sparsity-based Algorithm for Detecting Faults in Rotating Machines
+"Detection of Faults in Rotating Machinery Using Periodic Time-Frequency
+  Sparsity"
+"Combination of binaural and harmonic masking release effects in the
+  detection of a single component in complex tones"
+"Single-Channel Maximum-Likelihood T60 Estimation Exploiting Subband
+  Information"
+Quality assessment of voice converted speech using articulatory features
+Real Time Vowel Tremolo Detection Using Low Level Audio Descriptors
+"High quality voice conversion using prosodic and high-resolution
+  spectral features"
+Joint Time-Frequency Scattering for Audio Classification
+"Exploiting a Geometrically Sampled Grid in the Steered Response Power
+  Algorithm for Localization Improvement"
+"Spectral Study of the Vocal Tract in Vowel Synthesis: A Comparison
+  between 1D and 3D Acoustic Analysis"
+"Multichannel audio signal source separation based on an Interchannel
+  Loudness Vector Sum"
+"An Analysis of Rhythmic Staccato-Vocalization Based on Frequency
+  Demodulation for Laughter Detection in Conversational Meetings"
+"Gender Identification using MFCC for Telephone Applications - A
+  Comparative Study"
+Dynamic Transposition of Melodic Sequences on Digital Devices
+Wavelet speech enhancement based on nonnegative matrix factorization
+Repetitive Transients Extraction Algorithm for Detecting Bearing Faults
+Categorization of Tablas by Wavelet Analysis
+Automatic Determination of Chord Roots
+"A Perceptually Motivated Filter Bank with Perfect Reconstruction for
+  Audio Signal Processing"
+"An Iterative Linearised Solution to the Sinusoidal Parameter Estimation
+  Problem"
+"Near-field signal acquisition for smartglasses using two acoustic
+  vector-sensors"
+Breath Activity Detection Algorithm
+"Bandwidth Extension of Narrowband Speech for Low Bit-Rate Wideband
+  Coding"
+"Occupancy Estimation in Smart Buildings using Audio-Processing
+  Techniques"
+"Perceptually-Motivated Nonlinear Channel Decorrelation For Stereo
+  Acoustic Echo Cancellation"
+Speex: A Free Codec For Free Speech
+Low-Complexity Iterative Sinusoidal Parameter Estimation
+"Improved Noise Weighting in CELP Coding of Speech - Applying the Vorbis
+  Psychoacoustic Model To Speex"
+"Microphone array post-filter for separation of simultaneous
+  non-stationary sources"
+"Channel Decorrelation For Stereo Acoustic Echo Cancellation In
+  High-Quality Audio Communication"
+"Spoofing Detection Goes Noisy: An Analysis of Synthetic Speech Detection
+  in the Presence of Additive Noise"
+Guitar Solos as Networks
+Modified Group Delay Based MultiPitch Estimation in Co-Channel Speech
+"A pairwise approach to simultaneous onset/offset detection for singing
+  voice using correntropy"
+"Deductive Refinement of Species Labelling in Weakly Labelled Birdsong
+  Recordings"
+"Individual identity in songbirds: signal representations and metric
+  learning for locating the information in complex corvid calls"
+"On the Impact of Localization Errors on HRTF-based Robust Least-Squares
+  Beamforming"
+Mathematical Harmony Analysis
+"Multifractal Detrended Cross Correlation Analysis A Tool for the
+  Assessment of Raga in Bollywood Music"
+"How Do the Singing Styles vary over Generations in different Gharanas of
+  Hindustani Classical Music A Comparative Non Linear Study"
+"Robust coherence-based spectral enhancement for speech recognition in
+  adverse real-world environments"
+"Two Pairwise Iterative Schemes For High Dimensional Blind Source
+  Separation"
+Robust Joint Alignment of Multiple Versions of a Piece of Music
+Diagonal Unloading Beamforming for Source Localization
+"Speech Enhancement In Multiple-Noise Conditions using Deep Neural
+  Networks"
+"Sub-vector Extraction and Cascade Post-Processing for Speaker
+  Verification Using MLLR Super-vectors"
+"Deep convolutional networks on the pitch spiral for musical instrument
+  recognition"
+madmom: a new Python Audio and Music Signal Processing Library
+"Complex NMF under phase constraints based on signal modeling:
+  application to audio source separation"
+"Phase reconstruction of spectrograms with linear unwrapping: application
+  to audio signal restoration"
+"Phase reconstruction of spectrograms based on a model of repeated audio
+  events"
+"Phase recovery in NMF for audio source separation: an insightful
+  benchmark"
+"Using instantaneous frequency and aperiodicity detection to estimate F0
+  for high-quality speech synthesis"
+The Implementation of Low-cost Urban Acoustic Monitoring Devices
+"Nonnegative tensor factorization with frequency modulation cues for
+  blind audio source separation"
+Modelling Symbolic Music: Beyond the Piano Roll
+"Acoustic Characterization of Environments (ACE) Challenge Results
+  Technical Report"
+Uncalibrated 3D Room Reconstruction from Sound
+A Speaker Diarization System for Studying Peer-Led Team Learning Groups
+An Active Machine Hearing System for Auditory Stream Segregation
+Spherical Harmonic Signal Covariance and Sound Field Diffuseness
+"Acoustic scene classification using convolutional neural network and
+  multiple-width frequency-delta data augmentation"
+"HRTF-based Robust Least-Squares Frequency-Invariant Polynomial
+  Beamforming"
+"Experiments on the DCASE Challenge 2016: Acoustic Scene Classification
+  and Sound Event Detection in Real Life Recording"
+"ABROA : Audio-Based Room-Occupancy Analysis using Gaussian Mixtures and
+  Hidden Markov Models"
+"Early and Late Time Acoustic Measures for Underwater Seismic Airgun
+  Signals In Long-Term Acoustic Data Sets"
+Lévy NMF for robust nonnegative source separation
+Model-based STFT phase recovery for audio source separation
+Bird detection in audio: a survey and a challenge
+"Improving the Efficiency of DAMAS for Sound Source Localization via
+  Wavelet Compression Computational Grid"
+Diffuse-field coherence of sensors with arbitrary directional responses
+A Non-iterative Method for (Re)Construction of Phase from STFT Magnitude
+"Discriminative Enhancement for Single Channel Audio Source Separation
+  using Deep Neural Networks"
+A Neural Network Alternative to Non-Negative Audio Models
+"Acoustic intensity, energy-density and diffuseness estimation in a
+  directionally-constrained region"
+"Interference Reduction in Music Recordings Combining Kernel Additive
+  Modelling and Non-Negative Matrix Factorization"
+"A Robust Diarization System for Measuring Dominance in Peer-Led Team
+  Learning Groups"
+"Low Rank and Sparsity Analysis Applied to Speech Enhancement via Online
+  Estimated Dictionary"
+Measurement of Sound Fields Using Moving Microphones
+Semi-supervised Speech Enhancement in Envelop and Details Subspaces
+"Hearing in a shoe-box : binaural source position and wall absorption
+  estimation using virtually supervised learning"
+"Adaptive dictionary based approach for background noise and speaker
+  classification and subsequent source separation"
+"Speech Enhancement via Two-Stage Dual Tree Complex Wavelet Packet
+  Transform with a Speech Presence Probability Estimator"
+"A Joint Detection-Classification Model for Audio Tagging of Weakly
+  Labelled Data"
+"An Automatic System for Acoustic Microphone Geometry Calibration based
+  on Minimal Solvers"
+Domain adaptation based Speaker Recognition on Short Utterances
+DNN based Speaker Recognition on Short Utterances
+"RAVEN X High Performance Data Mining Toolbox for Bioacoustic Data
+  Analysis"
+"Non-negative matrix factorization-based subband decomposition for
+  acoustic source localization"
+"Semi-Supervised Source Localization on Multiple-Manifolds with
+  Distributed Microphones"
+Making Mainstream Synthesizers with Csound
+"Improving Short Utterance PLDA Speaker Verification using SUV Modelling
+  and Utterance Partitioning Approach"
+"Acoustic Reflector Localization: Novel Image Source Reversion and Direct
+  Localization Methods"
+A model of infant speech perception and learning
+"Multiple-Speaker Localization Based on Direct-Path Features and
+  Likelihood Maximization with Spatial Sparsity Regularization"
+Noise reduction combining microphone and piezoelectric device
+"Detection of north atlantic right whale upcalls using local binary
+  patterns in a two-stage strategy"
+Detecting tala Computationally in Polyphonic Context - A Novel Approach
+"Decision-Based Transcription of Jazz Guitar Solos Using a Harmonic
+  Bident Analysis Filter Bank and Spectral Distribution Weighting"
+"Fast Chirplet Transform to Enhance CNN Machine Listening - Validation on
+  Animal calls and Speech"
+"SISO and SIMO Accompaniment Cancellation for Live Solo Recordings Based
+  on Short-Time ERB-Band Wiener Filtering and Spectral Subtraction"
+"Understanding Audio Pattern Using Convolutional Neural Network From Raw
+  Waveforms"
+Getting Closer to the Essence of Music: The Con Espressione Manifesto
+FRIDA: FRI-Based DOA Estimation for Arbitrary Array Layouts
+"An algorithm to assign musical prime commas to every prime number and
+  construct a universal and compact free Just Intonation musical notation"
+"Convolutional Neural Networks for Passive Monitoring of a Shallow Water
+  Environment using a Single Sensor"
+Adaptive DCTNet for Audio Signal Classification
+"Combination of Linear Prediction and Phase Decomposition for Glottal
+  Source Analysis on Voiced Speech"
+Music Generation with Deep Learning
+Live Score Following on Sheet Music Images
+A Phase Vocoder based on Nonstationary Gabor Frames
+LIA system description for NIST SRE 2016
+Basis-Function Modeling of Loudness Variations in Ensemble Performance
+"On-bird Sound Recordings: Automatic Acoustic Recognition of Activities
+  and Contexts"
+"HRTF-based two-dimensional robust least-squares frequency-invariant
+  beamformer design for robot audition"
+Efficient Target Activity Detection based on Recurrent Neural Networks
+What Makes Audio Event Detection Harder than Classification?
+"Phase-incorporating Speech Enhancement Based on Complex-valued Gaussian
+  Process Latent Variable Model"
+On Higher Order Positive Differential Energy Operator
+"An Experimental Analysis of the Entanglement Problem in
+  Neural-Network-based Music Transcription Systems"
+"Identification of Voice Utterance with Aging Factor Using the Method of
+  MFCC Multichannel"
+"On the Importance of Temporal Context in Proximity Kernels: A Vocal
+  Separation Case Study"
+"Speaker Change Detection Using Features through A Neural Network Speaker
+  Classifier"
+"Neural Network Based Speaker Classification and Verification Systems
+  with Enhanced Features"
+"A new cosine series antialiasing function and its application to
+  aliasing-free glottal source models for speech and singing synthesis"
+Nonlinear Model and its Inverse of an Audio System
+"Nonlinear Volterra model of a loudspeaker behavior based on Laser
+  Doppler Vibrometry"
+"Linear and Circular Microphone Array for Remote Surveillance: Simulated
+  Performance Analysis"
+"On the Importance of Super-Gaussian Speech Priors for Pre-Trained Speech
+  Enhancement"
+"Attention and Localization based on a Deep Convolutional Recurrent Model
+  for Weakly Supervised Audio Tagging"
+"Timbre Analysis of Music Audio Signals with Convolutional Neural
+  Networks"
+Simple empirical algorithm to obtain signal envelope in three steps
+"Adaptive Multi-Class Audio Classification in Noisy In-Vehicle
+  Environment"
+"Multi-Objective Learning and Mask-Based Post-Processing for Deep Neural
+  Network Based Speech Enhancement"
+"Single Channel Audio Source Separation using Convolutional Denoising
+  Autoencoders"
+Speech Enhancement using a Deep Mixture of Experts
+i Vector used in Speaker Identification by Dimension Compactness
+Speaker Identification by GMM based i Vector
+Effects of virtual acoustics on dynamic auditory distance perception
+"Using Speech Technology for Quantifying Behavioral Characteristics in
+  Peer-Led Team Learning Sessions"
+Audio-based performance evaluation of squash players
+"Design of robust two-dimensional polynomial beamformers as a convex
+  optimization problem with application to robot audition"
+End-to-end Source Separation with Adaptive Front-Ends
+"Frequency Domain Singular Value Decomposition for Efficient Spatial
+  Audio Coding"
+"Riddim: A Rhythm Analysis and Decomposition Tool Based On Independent
+  Subspace Analysis"
+"Texture features for the reproduction of the perceptual organization of
+  sound"
+Understanding MIDI: A Painless Tutorial on Midi Format
+"Music generation with variational recurrent autoencoder supported by
+  history"
+Time-frequency or time-scale representation fission and fusion rules
+Microphone Subset Selection for MVDR Beamformer Based Noise Reduction
+"Matrix of Polynomials Model based Polynomial Dictionary Learning Method
+  for Acoustic Impulse Response Modeling"
+"Improved I-vector-based Speaker Recognition for Utterances with Speaker
+  Generated Non-speech sounds"
+"Mixed penalization in convolutive nonnegative matrix factorization for
+  blind speech dereverberation"
+"A Study on Replay Attack and Anti-Spoofing for Automatic Speaker
+  Verification"
+"A modulation property of time-frequency derivatives of filtered phase
+  and its application to aperiodicity and fo estimation"
+"Adversarial Network Bottleneck Features for Noise Robust Speaker
+  Verification"
+"Blind MultiChannel Identification and Equalization for Dereverberation
+  and Noise Reduction based on Convolutive Transfer Function"
+"Investigating the Potential of Pseudo Quadrature Mirror Filter-Banks in
+  Music Source Separation Tasks"
+SUT System Description for NIST SRE 2016
+A Wavenet for Speech Denoising
+"A universal negative group delay filter for the prediction of
+  band-limited signals"
+"Personalized Acoustic Modeling by Weakly Supervised Multi-Task Deep
+  Learning using Acoustic Tokens Discovered from Unlabeled Data"
+VoxCeleb: a large-scale speaker identification dataset
+"Impulsive Sound Detection by a Novel Energy Formula and its Usage for
+  Gunshot Recognition"
+"On a Novel Speech Representation Using Multitapered Modified Group Delay
+  Function"
+"Speaker Identification in the Shouted Environment Using Suprasegmental
+  Hidden Markov Models"
+"Enhancing speaker identification performance under the shouted talking
+  condition using second-order circular hidden Markov models"
+"Employing Second-Order Circular Suprasegmental Hidden Markov Models to
+  Enhance Speaker Identification Performance in Shouted Talking Environments"
+"Talking Condition Recognition in Stressful and Emotional Talking
+  Environments Based on CSPHMM2s"
+Speaking Style Authentication Using Suprasegmental Hidden Markov Models
+"Speaker Identification Investigation and Analysis in Unbiased and Biased
+  Emotional Talking Environments"
+"Using Second-Order Hidden Markov Model to Improve Speaker Identification
+  Recognition Performance under Neutral Condition"
+"Employing both Gender and Emotion Cues to Enhance Speaker Identification
+  Performance in Emotional Talking Environments"
+"Employing Emotion Cues to Verify Speakers in Emotional Talking
+  Environments"
+"Speaker Identification in Shouted Talking Environments Based on Novel
+  Third-Order Hidden Markov Models"
+"Modeling and Analyzing the Vocal Tract under Normal and Stressful
+  Talking Conditions"
+"Emirati Speaker Verification Based on HMM1s, HMM2s, and HMM3s"
+Talking Condition Identification Using Second-Order Hidden Markov Models
+"Studying and Enhancing Talking Condition Recognition in Stressful and
+  Emotional Talking Environments Based on HMMs, CHMM2s and SPHMMs"
+"Speaker Identification in a Shouted Talking Environment Based on Novel
+  Third-Order Circular Suprasegmental Hidden Markov Models"
+"pch2csd: an application for converting Nord Modular G2 patches into
+  Csound code"
+"Statistical Parametric Speech Synthesis Using Generative Adversarial
+  Networks Under A Multi-task Learning Framework"
+Model-Based Speech Enhancement in the Modulation Domain
+"Feature Joint-State Posterior Estimation in Factorial Speech Processing
+  Models using Deep Neural Networks"
+"Score-informed syllable segmentation for a cappella singing voice with
+  convolutional neural networks"
+Audio to score matching by combining phonetic and duration information
+Localization of Sound Sources in a Room with One Microphone
+"Bearing fault diagnosis under varying working condition based on domain
+  adaptation"
+Online Correction of Dispersion Error in 2D Waveguide Meshes
+Towards Experimental Nanosound Using Almost Disjoint Set Theory
+"Voiced speech as secondary response of a self-consistent fundamental
+  drive"
+"Accommodating Sample Size Effect on Similarity Measures in Speaker
+  Clustering"
+Alignment of Speech to Highly Imperfect Text Transcriptions
+Algorithm of Segment-Syllabic Synthesis in Speech Recognition Problem
+"Local Area Damage Detection in Composite Structures Using Piezoelectric
+  Transducers"
+A Statistical Approach to Modeling Indian Classical Music Performance
+"Codebook Design Method for Noise Robust Speaker Identification based on
+  Genetic Algorithm"
+The Information Theory of Emotions of Musical Chords
+"Up-sampling and Natural Sample Value Computation for Digital Pulse Width
+  Modulators"
+Spoken Language Identification Using Hybrid Feature Extraction Methods
+"Wavelet-Based Mel-Frequency Cepstral Coefficients for Speaker
+  Identification using Hidden Markov Models"
+"Improved Method for Individualization of Head-Related Transfer Functions
+  on Horizontal Plane Using Reduced Number of Anthropometric Measurements"
+"A Fast Audio Clustering Using Vector Quantization and Second Order
+  Statistics"
+Approximate Maximum A Posteriori Inference with Entropic Priors
+Fractal String Generation and Its Application in Music Composition
+Employing Subsequence Matching in Audio Data Processing
+Using Mimicry to Learn about Mental Representations
+"Analysis of a Modern Voice Morphing Approach using Gaussian Mixture
+  Models for Laryngectomees"
+"An open dataset for research on audio field recording archives:
+  freefield1010"
+"Non-negative Matrix Factorization with Linear Constraints for
+  Single-Channel Speech Enhancement"
+A Synthesizer Based on Frequency-Phase Analysis and Square Waves
+Major and minor. The formula of musical emotions
+Idealized computational models for auditory receptive fields
+"Ad Hoc Microphone Array Calibration: Euclidean Distance Matrix
+  Completion Algorithm and Theoretical Guarantees"
+Topological Considerations for Tuning and Fingering Stringed Instruments
+"Improving Performance of Speaker Identification System Using
+  Complementary Information Fusion"
+Single-sided Real-time PESQ Score Estimation
+"An Approach for Classification of Dysfluent and Fluent Speech Using K-NN
+  And SVM"
+"Finite element computation of elliptical vocal tract impedances using
+  the two-microphone transfer function method"
+"Techniques for Feature Extraction In Speech Recognition System : A
+  Comparative Study"
+Speech Enhancement Modeling Towards Robust Speech Recognition System
+Speech Enhancement Using Pitch Detection Approach For Noisy Environment
+"Automatic Speech Recognition Using Template Model for Man-Machine
+  Interface"
+"A 10-dimensional Phonetic-prosodic Space and its Stochastic Structure (A
+  framework for probabilistic modeling of spoken languages and their phonology)"
+Sound Representation and Classification Benchmark for Domestic Robots
+"Design and Optimization of a Speech Recognition Front-End for
+  Distant-Talking Control of a Music Playback Device"
+Trends and Perspectives for Signal Processing in Consumer Audio
+"Automatic large-scale classification of bird sounds is strongly improved
+  by unsupervised feature learning"
+Music and Vocal Separation Using Multi-Band Modulation Based Features
+Learning An Invariant Speech Representation
+Automatic Fado Music Classification
+"A Multi Level Data Fusion Approach for Speaker Identification on
+  Telephone Speech"
+Choice of Mel Filter Bank in Computing MFCC of a Resampled Speech
+Speaker Identification From Youtube Obtained Data
+Acoustic Scene Classification
+Which Are You In A Photo?
+"The bag-of-frames approach: a not so sufficient model for urban
+  soundscapes"
+"Psychophysics of musical elements in the discrete-time representation of
+  sound"
+Audio Source Separation with Discriminative Scattering Networks
+"A Comparison of Classifiers in Performing Speaker Accent Recognition
+  Using MFCCs"
+CS reconstruction of the speech and musical signals
+Efficient Synthesis of Room Acoustics via Scattering Delay Networks
+"A Review of Audio Features and Statistical Models Exploited for Voice
+  Pattern Design"
+"Who Spoke What? A Latent Variable Framework for the Joint Decoding of
+  Multiple Speakers and their Keywords"
+"Hybridized Feature Extraction and Acoustic Modelling Approach for
+  Dysarthric Speech Recognition"
+Deep Denoising Auto-encoder for Statistical Speech Synthesis
+"Automatic Identification of Animal Breeds and Species Using Bioacoustics
+  and Artificial Neural Networks"
+"The SYSU System for the Interspeech 2015 Automatic Speaker Verification
+  Spoofing and Countermeasures Challenge"
+"Significance of Maximum Spectral Amplitude in Sub-bands for Spectral
+  Envelope Estimation and Its Application to Statistical Parametric Speech
+  Synthesis"
+"Histogram of gradients of Time-Frequency Representations for Audio scene
+  detection"
+"A Novel Reconfigurable Hardware Design for Speech Enhancement Based on
+  Multi-Band Spectral Subtraction Involving Magnitude and Phase Components"
+"Melodic Contour and Mid-Level Global Features Applied to the Analysis of
+  Flamenco Cantes"
+Post-processing speech recordings during MRI
+"Noise Robust IOA/CAS Speech Separation and Recognition System For The
+  Third 'CHIME' Challenge"
+"Noise-Robust ASR for the third 'CHiME' Challenge Exploiting
+  Time-Frequency Masking based Multi-Channel Speech Enhancement and Recurrent
+  Neural Network"
+"A dedicated greedy pursuit algorithm for sparse spectral representation
+  of music sound"
+Processing of acoustical signals via a wavelet-based analysis
+"A Waveform Representation Framework for High-quality Statistical
+  Parametric Speech Synthesis"
+"A language model based approach towards large scale and lightweight
+  language identification systems"
+"Corpus COFLA: A research corpus for the Computational study of Flamenco
+  Music"
+"Automatic Transcription of Flamenco Singing from Polyphonic Music
+  Recordings"
+Harmonic and Timbre Analysis of Tabla Strokes
+Binary Speaker Embedding
+Max-margin Metric Learning for Speaker Recognition
+"Fault Diagnosis of Rolling Element Bearings with a Spectrum Searching
+  Method"
+Deep Learning for Single and Multi-Session i-Vector Speaker Recognition
+"Musical instrument sound classification with deep convolutional neural
+  network using feature fusion approach"
+Technical Report: a tool for measuring Prosodic Accommodation
+Wavelet Scattering on the Pitch Spiral
+"A Robust Frame-based Nonlinear Prediction System for Automatic Speech
+  Coding"
+"LSTM Deep Neural Networks Postfiltering for Improving the Quality of
+  Synthetic Voices"
+A High-Quality Speech and Audio Codec With Less Than 10 ms Delay
+Audio Recording Device Identification Based on Deep Learning
+"Improved Accent Classification Combining Phonetic Vowels with Acoustic
+  Features"
+"On Adjusting the Learning Rate in Frequency Domain Echo Cancellation
+  With Double-Talk"
+PCA/LDA Approach for Text-Independent Speaker Recognition
+"Adaptive Frequency Cepstral Coefficients for Word Mispronunciation
+  Detection"
+"Extension spectrale d'un signal de parole de la bande téléphonique
+  à la bande AM"
+"A New Robust Frequency Domain Echo Canceller With Closed-Loop Learning
+  Rate Adaptation"
+"Audio Word2Vec: Unsupervised Learning of Audio Segment Representations
+  using Sequence-to-sequence Autoencoder"
+An Argument-based Creative Assistant for Harmonic Blending
+Novel Speech Features for Improved Detection of Spoofing Attacks
+"Singing Voice Separation and Vocal F0 Estimation based on Mutual
+  Combination of Robust Principal Component Analysis and Subharmonic Summation"
+"Noise Robust Speech Recognition Using Multi-Channel Based Channel
+  Selection And ChannelWeighting"
+"Composition of Deep and Spiking Neural Networks for Very Low Bit Rate
+  Speech Coding"
+"Deep Convolutional Neural Networks and Data Augmentation for Acoustic
+  Event Detection"
+Accent Classification with Phonetic Vowel Representation
+Music transcription modelling and composition using deep learning
+Joint Sound Source Separation and Speaker Recognition
+Single Channel Speech Enhancement Using Outlier Detection
+DCTNet and PCANet for acoustic signal feature extraction
+Robust Downbeat Tracking Using an Ensemble of Convolutional Networks
+Automatic tagging using deep convolutional neural networks
+"Piano Transcription in the Studio Using an Extensible Alternating
+  Directions Framework"
+Symbolic Music Data Version 1.0
+Audio Content based Geotagging in Multimedia
+"Statistical Parametric Speech Synthesis Using Bottleneck Representation
+  From Sequence Auto-encoder"
+"Fast, Compact, and High Quality LSTM-RNN Based Statistical Parametric
+  Speech Synthesizers for Mobile Devices"
+"AudioSentibank: Large-scale Semantic Ontology of Acoustic Concepts for
+  Audio Content Analysis"
+"DCAR: A Discriminative and Compact Audio Representation to Improve Event
+  Detection"
+Features and Kernels for Audio Event Recognition
+"Incorporation of Speech Duration Information in Score Fusion of Speaker
+  Recognition Systems"
+"Speech Signal Analysis for the Estimation of Heart Rates Under Different
+  Emotional States"
+Relaxed Binaural LCMV Beamforming
+WaveNet: A Generative Model for Raw Audio
+TristouNet: Triplet Loss for Speaker Turn Embedding
+"Intrinsic normalization and extrinsic denormalization of formant data of
+  vowels"
+"KU-ISPL Language Recognition System for NIST 2015 i-Vector Machine
+  Learning Challenge"
+"A New Statistic Feature of the Short-Time Amplitude Spectrum Values for
+  Human's Unvoiced Pronunciation"
+Speaker Recognition for Children's Speech
+Deep learning for detection of bird vocalisations
+Local Training for PLDA in Speaker Verification
+Collaborative Learning for Language and Speaker Recognition
+"Rectified binaural ratio: A complex T-distributed feature for robust
+  sound localization"
+"Phase Unmixing : Multichannel Source Separation with Magnitude
+  Constraints"
+"Divide-and-Conquer based Ensemble to Spot Emotions in Speech using MFCC
+  and Random Forest"
+"Investigation of Synthetic Speech Detection Using Frame- and
+  Segment-Specific Importance Weighting"
+Frame Theory for Signal Processing in Psychoacoustics
+"VR 'SPACE OPERA': Mimetic Spectralism in an Immersive Starlight
+  Audification System"
+Song From PI: A Musically Plausible Network for Pop Music Generation
+MOMOS-MT: Mobile Monophonic System for Music Transcription
+Deep attractor network for single-microphone speaker separation
+Learning Filter Banks Using Deep Learning For Acoustic Signals
+"A Non Linear Multifractal Study to Illustrate the Evolution of Tagore
+  Songs Over a Century"
+"A Non Linear Approach towards Automated Emotion Analysis in Hindustani
+  Music"
+FMA: A Dataset For Music Analysis
+Towards computer-assisted understanding of dynamics in symphonic music
+Joint Bayesian Gaussian discriminant analysis for speaker verification
+Feature Learning for Chord Recognition: The Deep Chroma Extractor
+On the Potential of Simple Framewise Approaches to Piano Transcription
+Neural networks based EEG-Speech Models
+VAST : The Virtual Acoustic Space Traveler Dataset
+SampleRNN: An Unconditional End-to-End Neural Audio Generation Model
+"Empirical Study of Drone Sound Detection in Real-Life Environment with
+  Deep Neural Networks"
+"Lyrics-to-Audio Alignment by Unsupervised Discovery of Repetitive
+  Patterns in Vowel Acoustics"
+A Comprehensive Survey on Bengali Phoneme Recognition
+"On the Futility of Learning Complex Frame-Level Language Models for
+  Chord Recognition"
+"KU-ISPL Speaker Recognition Systems under Language mismatch condition
+  for NIST 2016 Speaker Recognition Evaluation"
+"Multichannel Linear Prediction for Blind Reverberant Audio Source
+  Separation"
+Audio Scene Classification with Deep Recurrent Neural Networks
+Multichannel End-to-end Speech Recognition
+Deducing the severity of psychiatric symptoms from the human voice
+"Multi-talker Speech Separation with Utterance-level Permutation
+  Invariant Training of Deep Recurrent Neural Networks"
+Gestalt Phenomenon in Music? A Neurocognitive Physics Study with EEG
+A Comparison of deep learning methods for environmental sound
+"MidiNet: A Convolutional Generative Adversarial Network for
+  Symbolic-domain Music Generation"
+Recognizing Multi-talker Speech with Permutation Invariant Training
+"Time-Contrastive Learning Based Unsupervised DNN Feature Extraction for
+  Speaker Verification"
+"Broadband DOA estimation using Convolutional neural networks trained
+  with noise signals"
+Comparison of Uniform and Random Sampling for Speech and Music Signals
+Modeling temporal constraints for a system of interactive scores
+"Musical Instrument Recognition Using Their Distinctive Characteristics
+  in Artificial Neural Networks"
+Modeling of the Latent Embedding of Music using Deep Neural Network
+A Biomimetic Vocalisation System for MiRo
+On Residual CNN in text-dependent speaker verification task
+DNN-based uncertainty estimation for weighted DNN-HMM ASR
+"Collaborative Deep Learning for Speech Enhancement: A Run-Time Model
+  Selection Method Using Autoencoders"
+Machine Learning Based Crackle Detection in Lung Sounds
+Deep Factorization for Speech Signal
+"Stacked Convolutional and Recurrent Neural Networks for Bird Audio
+  Detection"
+"Sound Event Detection Using Spatial Features and Convolutional Recurrent
+  Neural Network"
+"Stacked Convolutional and Recurrent Neural Networks for Music Emotion
+  Recognition"
+"Sound Event Detection in Multichannel Audio Using Spatial and Harmonic
+  Features"
+Learning and Evaluating Musical Features with Deep Autoencoders
+"A Hybrid Approach with Multi-channel I-Vectors and Convolutional Neural
+  Networks for Acoustic Scene Classification"
+Deep Speaker Verification: Do We Need End to End?
+"Speaker Recognition with Cough, Laugh and ""Wei"""
+Cross-lingual Speaker Verification with Deep Feature Learning
+"A Variational EM Method for Pole-Zero Modeling of Speech with Mixed
+  Block Sparse and Gaussian Excitation"
+"Between Homomorphic Signal Processing and Deep Neural Networks:
+  Constructing Deep Algorithms for Polyphonic Music Transcription"
+Gabor frames and deep scattering networks in audio processing
+Acoustic Modeling Using a Shallow CNN-HTSVM Architecture
+Machine listening intelligence
+"An Augmented Lagrangian Method for Piano Transcription using Equal
+  Loudness Thresholding and LSTM-based Decoding"
+"Rank-1 Constrained Multichannel Wiener Filter for Speech Recognition in
+  Noisy Environments"
+"Automatic estimation of harmonic tension by distributed representation
+  of chords"
+Hidden-Markov-Model Based Speech Enhancement
+Speaker-independent Speech Separation with Deep Attractor Network
+"Comparison of Multiple Features and Modeling Methods for Text-dependent
+  Speaker Verification"
+Recognizing Abnormal Heart Sounds Using Deep Learning
+"From Bach to the Beatles: The simulation of human tonal expectation
+  using ecologically-trained predictive models"
+"Learning Audio Sequence Representations for Acoustic Event
+  Classification"
+"A breakthrough in Speech emotion recognition using Deep Retinal
+  Convolution Neural Networks"
+DISCO: An object-oriented system for music composition and sound design
+Data sonification and sound visualization
+Algorithmic Clustering of Music
+Detecting User Engagement in Everyday Conversations
+G3 : GENESIS software envrionment update
+"Simulating the Electroweak Phase Transition: Sonification of Bubble
+  Nucleation"
+A Deep Representation for Invariance And Music Classification
+"High Throughput and Less Area AMP Architecture for Audio Signal
+  Restoration"
+Audio Surveillance: a Systematic Review
+An end-to-end machine learning system for harmonic analysis of music
+"Text-Independent Speaker Recognition for Low SNR Environments with
+  Encryption"
+Evolving Musical Counterpoint: The Chronopoint Musical Evolution System
+"Semi-blind Source Separation via Sparse Representations and Online
+  Dictionary Learning"
+Phoneme discrimination using KS algebra I
+Phoneme discrimination using $KS$-algebra II
+Sound localization using compressive sensing
+Deep Scattering Spectrum
+TDOA--based localization in two dimensions: the bifurcation curve
+"Automatic Segmentation of Broadcast News Audio using Self Similarity
+  Matrix"
+A Bengali HMM Based Speech Synthesis System
+Raking the Cocktail Party
+"Co-Localization of Audio Sources in Images Using Binaural Features and
+  Locally-Linear Regression"
+Weakly Supervised Multi-Embeddings Learning of Acoustic Models
+Audio Source Separation Using a Deep Autoencoder
+"Implementation of an Automatic Syllabic Division Algorithm from Speech
+  Files in Portuguese Language"
+Unsupervised Incremental Learning and Prediction of Music Signals
+"Gaussian Process Models for HRTF based Sound-Source Localization and
+  Active-Learning"
+"Joint Optimization of Masks and Deep Recurrent Neural Networks for
+  Monaural Source Separation"
+"Plagiarism Detection in Polyphonic Music using Monaural Signal
+  Separation"
+"Deep Transform: Time-Domain Audio Error Correction via Probabilistic
+  Re-Synthesis"
+"Deep Transform: Cocktail Party Source Separation via Probabilistic
+  Re-Synthesis"
+"Probabilistic Binary-Mask Cocktail-Party Source Separation in a
+  Convolutional Deep Neural Network"
+"Deep Transform: Cocktail Party Source Separation via Complex Convolution
+  in a Deep Neural Network"
+"Deep Karaoke: Extracting Vocals from Musical Mixtures Using a
+  Convolutional Deep Neural Network"
+Noise Sensitivity of Teager-Kaiser Energy Operators and Their Ratios
+Detection and Analysis of Emotion From Speech Signals
+STC Anti-spoofing Systems for the ASVspoof 2015 Challenge
+"Enhancement and Recognition of Reverberant and Noisy Speech by Extending
+  Its Coherence"
+Source localization and denoising: a perspective from the TDOA space
+"Sports highlights generation based on acoustic events detection: A rugby
+  case study"
+"Automatic Instrument Recognition in Polyphonic Music Using Convolutional
+  Neural Networks"
+"Trigonometric dictionary based codec for music compression with high
+  quality recovery"
+"A new robust adaptive algorithm for underwater acoustic channel
+  equalization"
+"Real-Time Audio-to-Score Alignment of Music Performances Containing
+  Errors and Arbitrary Repeats and Skips"
+"Categorization of Stringed Instruments with Multifractal Detrended
+  Fluctuation Analysis"
+Towards a topological fingerprint of music
+"EEG-informed attended speaker extraction from recorded speech mixtures
+  with application in neuro-steered hearing prostheses"
+"Improving Trajectory Modelling for DNN-based Speech Synthesis by using
+  Stacked Bottleneck Features and Minimum Generation Error Training"
+The IBM 2016 Speaker Recognition System
+PCA Method for Automated Detection of Mispronounced Words
+"Performance Analysis of Source Image Estimators in Blind Source
+  Separation"
+"Recurrent Neural Networks for Polyphonic Sound Event Detection in Real
+  Life Recordings"
+"Learning Compact Structural Representations for Audio Events Using
+  Regressor Banks"
+Audio Event Detection using Weakly Labeled Data
+"Deep convolutional neural networks for predominant instrument
+  recognition in polyphonic music"
+"The ""Horse'' Inside: Seeking Causes Behind the Behaviours of Music
+  Content Analysis Systems"
+"BigEAR: Inferring the Ambient and Emotional Correlates from
+  Smartphone-based Acoustic Big Data"
+Weakly Supervised Scalable Audio Content Analysis
+Polymetric Rhythmic Feel for a Cognitive Drum Computer
+"Penambahan emosi menggunakan metode manipulasi prosodi untuk sistem text
+  to speech bahasa Indonesia"
+"CaR-FOREST: Joint Classification-Regression Decision Forests for
+  Overlapping Audio Event Detection"
+"Unsupervised Feature Learning Based on Deep Models for Environmental
+  Audio Tagging"
+Hierarchical learning for DNN-based acoustic scene classification
+"Automatic Environmental Sound Recognition: Performance versus
+  Computational Cost"
+Audio inpainting with similarity graphs
+"Design of Variable Bandpass Filters Using First Order Allpass
+  Transformation And Coefficient Decimation"
+"Deep Convolutional Neural Networks and Data Augmentation for
+  Environmental Sound Classification"
+An Approach for Self-Training Audio Event Detectors Using Web Data
+Discovering Sound Concepts and Acoustic Relations In Text
+Decision Making Based on Cohort Scores for Speaker Verification
+CNN Architectures for Large-Scale Audio Classification
+Very Deep Convolutional Neural Networks for Raw Waveforms
+On the Modeling of Musical Solos as Complex Networks
+"A Music-generating System Inspired by the Science of Complex Adaptive
+  Systems"
+"A multi-task learning model for malware classification with useful file
+  access pattern from API call sequence"
+A Bayesian Approach to Estimation of Speaker Normalization Parameters
+"Enhanced Factored Three-Way Restricted Boltzmann Machines for Speech
+  Detection"
+The Intelligent Voice 2016 Speaker Recognition System
+Fast Wavenet Generation Algorithm
+"Segmental Convolutional Neural Networks for Detection of Cardiac
+  Abnormality With Noisy Heart Sound Recordings"
+"A Unit Selection Methodology for Music Generation Using Deep Neural
+  Networks"
+"Imposing higher-level Structure in Polyphonic Music Generation using
+  Convolutional Restricted Boltzmann Machines and Constraints"
+Towards End-to-End Audio-Sheet-Music Retrieval
+Robustness of Voice Conversion Techniques Under Mismatched Conditions
+DNN Filter Bank Cepstral Coefficients for Spoofing Detection
+"Convolutional Gated Recurrent Neural Network Incorporating Spatial
+  Features for Audio Tagging"
+"Sample-level Deep Convolutional Neural Networks for Music Auto-tagging
+  Using Raw Waveforms"
+Convolutional Recurrent Neural Networks for Bird Audio Detection
+"Gate Activation Signal Analysis for Gated Recurrent Neural Networks and
+  Its Correlation with Phoneme Boundaries"
+"Audio-Visual Speech Enhancement based on Multimodal Deep Convolutional
+  Neural Network"
+"Revisiting the problem of audio-based hit song prediction using
+  convolutional neural networks"
+OBTAIN: Real-Time Beat Tracking in Audio Signals
+"Voice Conversion Using Sequence-to-Sequence Learning of Context
+  Posterior Probabilities"
+"Sampling-based speech parameter generation using moment-matching
+  networks"
+A Neural Parametric Singing Synthesizer
+Deep Speaker Feature Learning for Text-independent Speaker Verification
+Monaural Audio Speaker Separation with Source Contrastive Estimation
+Audio-replay attack detection countermeasures
+Anti-spoofing Methods for Automatic SpeakerVerification System
+Investigation of Using VAE for i-Vector Speaker Verification
+"Deep Learning for Environmentally Robust Speech Recognition: An Overview
+  of Recent Developments"
+"Kapre: On-GPU Audio Preprocessing Layers for a Quick Implementation of
+  Deep Neural Network Models with Keras"
+"Multi-Level and Multi-Scale Feature Aggregation Using Sample-level Deep
+  Convolutional Neural Networks for Music Classification"
+"Revisiting Autotagging Toward Faultless Instrumental Playlists
+  Generation"
+Modeling Musical Context with Word2vec
+Toward Inverse Control of Physics-Based Sound Synthesis
+"Chord Label Personalization through Deep Learning of Integrated Harmonic
+  Interval-based Representations"
+"Transforming Musical Signals through a Genre Classifying Convolutional
+  Neural Network"
+Music Signal Processing Using Vector Product Neural Networks
+Talking Drums: Generating drum grooves with neural networks
+"Audio Spectrogram Representations for Processing with Convolutional
+  Neural Networks"
+Multi-scale Multi-band DenseNets for Audio Source Separation
+Automated Audio Captioning with Recurrent Neural Networks
+"Deep CNN Framework for Audio Event Recognition using Weakly Labeled Web
+  Data"
+Metrical-accent Aware Vocal Onset Detection in Polyphonic Audio
+"Single-Channel Multi-talker Speech Recognition with Permutation
+  Invariant Training"
+"The Modular Audio Recognition Framework (MARF) and its Applications:
+  Scientific and Software Engineering Notes"
+Measuring the evolution of contemporary western popular music
+Using Deep Learning for Detecting Spoofing Attacks on Speech Signals
+"Tonal consonance parameters link microscopic and macroscopic properties
+  of music exposing a hidden order in melody"

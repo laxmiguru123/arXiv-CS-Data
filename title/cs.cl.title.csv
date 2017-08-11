@@ -1,0 +1,1354 @@
+title
+Linear Segmentation and Segment Significance
+"Modelling Users, Intentions, and Structure in Spoken Dialog"
+A Lexicalized Tree Adjoining Grammar for English
+Prefix Probabilities from Stochastic Tree Adjoining Grammars
+Conditions on Consistency of Probabilistic Tree Adjoining Grammars
+Separating Dependency from Constituency in a Tree Rewriting System
+Incremental Parser Generation for Tree Adjoining Grammars
+"A Freely Available Morphological Analyzer, Disambiguator and Context
+  Sensitive Lemmatizer for German"
+Processing Unknown Words in HPSG
+Computing Declarative Prosodic Morphology
+"On the Evaluation and Comparison of Taggers: The Effect of Noise in
+  Testing Corpora"
+Improving Tagging Performance by Using Voting Taggers
+Resources for Evaluation of Summarization Techniques
+Restrictions on Tree Adjoining Languages
+"Translating near-synonyms: Possibilities and preferences in the
+  interlingua"
+"Choosing the Word Most Typical in Context Using a Lexical Co-occurrence
+  Network"
+Comparing a statistical and a rule-based tagger for German
+Expoiting Syntactic Structure for Language Modeling
+A Structured Language Model
+"A Probabilistic Approach to Lexical Semantic Knowledge Acquisition and S
+  tructural Disambiguation"
+Optimal Multi-Paragraph Text Segmentation by Dynamic Programming
+A Flexible Shallow Approach to Text Generation
+An Empirical Approach to Temporal Reference Resolution (journal version)
+Compacting the Penn Treebank Grammar
+"The ""Fodor""-FODOR fallacy bites back"
+Is Word Sense Disambiguation just one more NLP task?
+A Formal Framework for Linguistic Annotation
+Empirically Evaluating an Adaptable Spoken Dialogue System
+Transducers from Rewrite Rules with Backreferences
+An ascription-based approach to speech acts
+A Computational Memory and Processing Model for Processing
+"Supervised Grammar Induction Using Training Data with Limited
+  Constituent Information"
+The syntactic processing of particles in Japanese spoken language
+Cascaded Markov Models
+Evaluation of the NLP Components of the OVIS2 Spoken Dialogue System
+Learning Transformation Rules to Find Grammatical Relations
+Temporal Meaning Representations in a Natural Language Front-End
+Mapping Multilingual Hierarchies Using Relaxation Labeling
+Robust Grammatical Analysis for Spoken Dialogue Systems
+A Unified Example-Based and Lexicalist Approach to Machine Translation
+"Annotation graphs as a framework for multidimensional linguistic data
+  analysis"
+Representing Text Chunks
+Cross-Language Information Retrieval for Technical Documents
+Explanation-based Learning for Machine Translation
+Language Identification With Confidence Limits
+Selective Magic HPSG Parsing
+Corpus Annotation for Parser Evaluation
+A Bootstrap Approach to Automatically Generating Lexical Transfer Rules
+"Architectural Considerations for Conversational Systems -- The
+  Verbmobil/INTARC Experience"
+Detecting Sub-Topic Correspondence through Bipartite Term Clustering
+"Semantic robust parsing for noun extraction from natural language
+  queries"
+Selective Sampling for Example-based Word Sense Disambiguation
+"Practical experiments with regular approximation of context-free
+  languages"
+Question Answering System Using Syntactic Information
+One-Level Prosodic Morphology
+"Resolution of Indirect Anaphora in Japanese Sentences Using Examples 'X
+  no Y (Y of X)'"
+"Pronoun Resolution in Japanese Sentences Using Surface Expressions and
+  Examples"
+An Estimate of Referent of Noun Phrases in Japanese Sentences
+"Resolution of Verb Ellipsis in Japanese Sentence using Surface
+  Expressions and Examples"
+"An Example-Based Approach to Japanese-to-English Translation of Tense,
+  Aspect, and Modality"
+"Deduction over Mixed-Level Logic Representations for Text Passage
+  Retrieval"
+"Mixed-Level Knowledge Representation and Variable-Depth Inference in
+  Natural Language Processing"
+A Real World Implementation of Answer Extraction
+Measures of Distributional Similarity
+Exploiting Syntactic Structure for Natural Language Modeling
+Refinement of a Structured Language Model
+Recognition Performance of a Structured Language Model
+Structured Language Modeling for Speech Recognition
+Requirements of Text Processing Lexicons
+An Usage Measure Based on Psychophysical Relations
+TnT - A Statistical Part-of-Speech Tagger
+Message Classification in the Call Center
+"A Finite State and Data-Oriented Method for Grapheme to Phoneme
+  Conversion"
+Variable Word Rate N-grams
+Advances in domain independent linear text segmentation
+Information Extraction from Broadcast News
+Looking at discourse in a corpus: The role of lexical cohesion
+"A Simple Approach to Building Ensembles of Naive Bayesian Classifiers
+  for Word Sense Disambiguation"
+Noun Phrase Recognition by System Combination
+Improving Testsuites via Instrumentation
+"On the Scalability of the Answer Extraction System ""ExtrAns"""
+Finite-State Reduplication in One-Level Prosodic Morphology
+"Ranking suspected answers to natural language questions using predictive
+  annotation"
+Exploiting Diversity in Natural Language Processing: Combining Parsers
+Bagging and Boosting a Treebank Parser
+Exploiting Diversity for Natural Language Parsing
+Turning Speech Into Scripts
+"A Compact Architecture for Dialogue Management Based on Scripts and
+  Meta-Outputs"
+A Comparison of the XTAG and CLE Grammars for English
+"Compiling Language Models from a Linguistically Motivated Unification
+  Grammar"
+"Dialogue Act Modeling for Automatic Tagging and Recognition of
+  Conversational Speech"
+"Can Prosody Aid the Automatic Classification of Dialog Acts in
+  Conversational Speech?"
+Entropy-based Pruning of Backoff Language Models
+Trainable Methods for Surface Natural Language Generation
+Prosody-Based Automatic Segmentation of Speech into Sentences and Topics
+Approximation and Exactness in Finite State Optimality Theory
+Finite-State Non-Concatenative Morphotactics
+Incremental construction of minimal acyclic finite-state automata
+"Bootstrapping a Tagged Corpus through Combination of Existing
+  Heterogeneous Taggers"
+ATLAS: A flexible and extensible architecture for linguistic annotation
+"Many uses, many annotations for large speech corpora: Switchboard and
+  TDT as case studies"
+Parameter-free Model of Rank Polysemantic Distribution
+Mapping WordNets Using Structural Information
+"Language identification of controlled systems: Modelling, control and
+  anomaly detection"
+Interfacing Constraint-Based Grammars and Generation Algorithms
+Comparing two trainable grammatical relations finders
+"More accurate tests for the statistical significance of result
+  differences"
+Tagger Evaluation Given Hierarchical Tag Sets
+Applying System Combination to Base Noun Phrase Identification
+Meta-Learning for Phonemic Annotation of Corpora
+Aspects of Pattern-Matching in Data-Oriented Parsing
+Temiar Reduplication in One-Level Prosodic Morphology
+Efficient probabilistic top-down and left-corner parsing
+"Compact non-left-recursive grammars using the selective left-corner
+  transform and factoring"
+Selectional Restrictions in HPSG
+"Estimation of Stochastic Attribute-Value Grammars using an Informative
+  Sample"
+"Noun-phrase co-occurrence statistics for semi-automatic semantic lexicon
+  construction"
+"Measuring efficiency in high-accuracy, broad-coverage statistical
+  parsing"
+Estimators for Stochastic ``Unification-Based'' Grammars
+"Exploiting auxiliary distributions in stochastic unification-based
+  grammars"
+Metonymy Interpretation Using X NO Y Examples
+Bunsetsu Identification Using Category-Exclusive Rules
+"Japanese Probabilistic Information Retrieval Using Location and Category
+  Information"
+Temporal Expressions in Japanese-to-English Machine Translation
+"Lexicalized Stochastic Modeling of Constraint-Based Grammars using
+  Log-Linear Measures and EM Training"
+"Using a Probabilistic Class-Based Lexicon for Lexical Ambiguity
+  Resolution"
+"Probabilistic Constraint Logic Programming. Formal Foundations of
+  Quantitative and Statistical Inference in Constraint-Based Natural Language
+  Processing"
+Automatic Extraction of Subcategorization Frames for Czech
+Introduction to the CoNLL-2000 Shared Task: Chunking
+"Anaphora Resolution in Japanese Sentences Using Surface Expressions and
+  Examples"
+A Tableaux Calculus for Ambiguous Quantification
+Parsing with the Shortest Derivation
+An improved parser for data-oriented lexical-functional analysis
+"Finding consensus in speech recognition: word error minimization and
+  other applications of confusion networks"
+"Using existing systems to supplement small amounts of annotated
+  grammatical relations training data"
+"Exploring automatic word sense disambiguation with decision lists and
+  the Web"
+"Extraction of semantic relations from a Basque monolingual dictionary
+  using Constraint Grammar"
+Enriching very large ontologies using the WWW
+One Sense per Collocation and Genre/Topic Variations
+Reduction of Intermediate Alphabets in Finite-State Transducer Cascades
+"Utilizing the World Wide Web as an Encyclopedia: Extracting Term
+  Descriptions from Semi-Structured Texts"
+A Novelty-based Evaluation Method for Information Retrieval
+"Applying Machine Translation to Two-Stage Cross-Language Information
+  Retrieval"
+The Use of Instrumentation in Grammar Engineering
+Semantic interpretation of temporal information by abductive inference
+Abductive reasoning with temporal information
+Do All Fragments Count?
+Multi-Syllable Phonotactic Modelling
+Taking Primitive Optimality Theory Beyond the Finite State
+"Finite-State Phonology: Proceedings of the 5th Workshop of the ACL
+  Special Interest Group in Computational Phonology (SIGPHON)"
+"Mathematical Model of Word Length on the Basis of the Cebanov-Fucks
+  Distribution with Uniform Parameter Distribution"
+"Two-parameter Model of Word Length ""Language - Genre"""
+"Magical Number Seven Plus or Minus Two: Syntactic Structure Recognition
+  in Japanese and English Sentences"
+"A Machine-Learning Approach to Estimating the Referential Properties of
+  Japanese Noun Phrases"
+"Meaning Sort - Three examples: dictionary construction, tagged corpus
+  construction, and information presentation system"
+CRL at Ntcir2
+A Decision Tree of Bigrams is an Accurate Predictor of Word Sense
+Type Arithmetics: Computation based on the theory of types
+"Dynamic Nonlocal Language Modeling via Hierarchical Topic-Based
+  Adaptation"
+Microplanning with Communicative Intentions: The SPUD System
+"Correction of Errors in a Modality Corpus Used for Machine Translation
+  by Using Machine-learning Method"
+Man [and Woman] vs. Machine: A Case Study in Base Noun Phrase Learning
+A Complete WordNet1.5 to WordNet1.6 Mapping
+Joint and conditional estimation of tagging and parsing models
+Probabilistic top-down parsing and language modeling
+Robust Probabilistic Predictive Syntactic Processing
+"Generating a 3D Simulation of a Car Accident from a Written Description
+  in Natural Language: the CarSim System"
+Historical Dynamics of Lexical System as Random Walk Process
+Integrating Prosodic and Lexical Cues for Automatic Topic Segmentation
+"Organizing Encyclopedic Knowledge based on the Web and its Application
+  to Question Answering"
+"Using the Distribution of Performance for Studying Statistical NLP
+  Systems and Corpora"
+"Modeling informational novelty in a conversational system with a hybrid
+  statistical and grammar-based approach to natural language generation"
+The Role of Conceptual Relations in Word Sense Disambiguation
+"Looking Under the Hood : Tools for Diagnosing your Question Answering
+  Engine"
+Introduction to the CoNLL-2001 Shared Task: Clause Identification
+Learning Computational Grammars
+Combining a self-organising map with memory-based learning
+Applying Natural Language Generation to Indicative Summarization
+Transformation-Based Learning in the Fast Lane
+Multidimensional Transformation-Based Learning
+A Bit of Progress in Language Modeling
+Classes for Fast Maximum Entropy Training
+Portability of Syntactic Structure for Language Modeling
+Anaphora and Discourse Structure
+Boosting Trees for Anti-Spam Email Filtering
+"Modelling Semantic Association and Conceptual Inheritance for Semantic
+  Analysis"
+Learning class-to-class selectional preferences
+Knowledge Sources for Word Sense Disambiguation
+Enriching WordNet concepts with topic signatures
+"Testing for Mathematical Lineation in Jim Crace's ""Quarantine"" and T. S.
+  Eliot's ""Four Quartets"""
+Richer Syntactic Dependencies for Structured Language Modeling
+Part-of-Speech Tagging with Two Sequential Transducers
+"What is the minimal set of fragments that achieves maximal parse
+  accuracy?"
+Combining semantic and syntactic structure for language modeling
+A procedure for unsupervised lexicon learning
+A Statistical Model for Word Discovery in Transcribed Speech
+"Using a Support-Vector Machine for Japanese-to-English Translation of
+  Tense, Aspect, and Modality"
+Part of Speech Tagging in Thai Language Using Support Vector Machine
+"Universal Model for Paraphrasing -- Using Transformation Based on a
+  Defined Criteria --"
+Blind Normalization of Speech From Different Channels and Speakers
+An Integrated Framework for Treebanks and Multilayer Annotations
+"Annotation Graphs and Servers and Multi-Modal Resources: Infrastructure
+  for Interdisciplinary Education, Research and Development"
+Computational Phonology
+Phonology
+Integrating selectional preferences in WordNet
+Decision Lists for English and Basque
+The Basque task: did systems perform in the upperbound?
+Memory-Based Shallow Parsing
+"Unsupervised discovery of morphologically related words based on
+  orthographic and semantic similarity"
+Mostly-Unsupervised Statistical Segmentation of Japanese Kanji Sequences
+Ellogon: A New Text Engineering Platform
+A variable-free dynamic semantics
+NLTK: The Natural Language Toolkit
+Unsupervised Discovery of Morphemes
+Bootstrapping Lexical Choice via Multiple-Sequence Alignment
+"Evaluating the Effectiveness of Ensembles of Decision Trees in
+  Disambiguating Senseval Lexical Samples"
+"Assessing System Agreement and Instance Difficulty in the Lexical Sample
+  Tasks of Senseval-2"
+"Machine Learning with Lexical Features: The Duluth Approach to
+  Senseval-2"
+A Method for Open-Vocabulary Speech-Driven Text Retrieval
+"Japanese/English Cross-Language Information Retrieval: Exploration of
+  Query Translation and Transliteration"
+"A Probabilistic Method for Analyzing Japanese Anaphora Integrating Zero
+  Pronoun Detection and Resolution"
+"Applying a Hybrid Query Translation Method to Japanese/English
+  Cross-Language Patent Retrieval"
+PRIME: A System for Multi-lingual Patent Retrieval
+Language Modeling for Multi-Domain Speech-Driven Text Retrieval
+"Speech-Driven Text Retrieval: Using Target IR Collections for
+  Statistical Language Model Adaptation in Speech Recognition"
+Using eigenvectors of the bigram graph to infer morpheme identity
+"Analysis of Titles and Readers For Title Generation Centered on the
+  Readers"
+Efficient Deep Processing of Japanese
+Using the DIFF Command for Natural Language Processing
+Evaluation of Coreference Rules on Complex Narrative Texts
+Three New Methods for Evaluating Reference Resolution
+"Cooperation between Pronoun and Reference Resolution for Unrestricted
+  Texts"
+"Reference Resolution Beyond Coreference: a Conceptual Frame and its
+  Application"
+A Chart-Parsing Algorithm for Efficient Semantic Analysis
+"Rerendering Semantic Ontologies: Automatic Extensions to UMLS through
+  Corpus Analytics"
+"Introduction to the CoNLL-2002 Shared Task: Language-Independent Named
+  Entity Recognition"
+Probabilistic Parsing Strategies
+Answering Subcognitive Turing Test Questions: A Reply to French
+"An Algorithm for Aligning Sentences in Bilingual Corpora Using Lexical
+  Information"
+Empirical Methods for Compound Splitting
+About compression of vocabulary in computer oriented languages
+Glottochronology and problems of protolanguage reconstruction
+"Learning to Paraphrase: An Unsupervised Approach Using Multiple-Sequence
+  Alignment"
+Blind Normalization of Speech From Different Channels
+Glottochronologic Retrognostic of Language System
+"""I'm sorry Dave, I'm afraid I can't do that"": Linguistics, Statistics,
+  and Natural Language Processing circa 2001"
+An XML based Document Suite
+"Exploiting Sublanguage and Domain Characteristics in a Bootstrapping
+  Approach to Lexicon and Ontology Creation"
+An Approach for Resource Sharing in Multilingual NLP
+Factorization of Language Models through Backing-Off Lattices
+"Introduction to the CoNLL-2003 Shared Task: Language-Independent Named
+  Entity Recognition"
+"Learning to Order Facts for Discourse Planning in Natural Language
+  Generation"
+An Improved k-Nearest Neighbor Algorithm for Text Categorization
+Issues in Communication Game
+Parsing and Generation with Tabulation and Compilation
+The Linguistic DS: Linguisitic Description in MPEG-7
+Collaborative Creation of Digital Content in Indian Languages
+Information Revolution
+Anusaaraka: Overcoming the Language Barrier in India
+Language Access: An Information Based Approach
+LERIL : Collaborative Effort for Creating Lexical Resources
+Building a Test Collection for Speech-Driven Web Retrieval
+A Cross-media Retrieval System for Lecture Videos
+Effective XML Representation for Spoken Language in Organisations
+"Application Architecture for Spoken Language Resources in Organisational
+  Settings"
+"The Rank-Frequency Analysis for the Functional Style Corpora in the
+  Ukrainian Language"
+Measuring the Functional Load of Phonological Contrasts
+"Lexical Base as a Compressed Language Model of the World (on the
+  material of the Ukrainian language)"
+Polarity sensitivity and evaluation order in type-logical grammar
+Tabular Parsing
+"Test Collections for Patent-to-Patent Retrieval and Patent Map
+  Generation in NTCIR-4 Workshop"
+A Probabilistic Model of Machine Translation
+"Catching the Drift: Probabilistic Content Models, with Applications to
+  Generation and Summarization"
+"A Public Reference Implementation of the RAP Anaphora Resolution
+  Algorithm"
+Building a linguistic corpus from bee dance data
+Annotating Predicate-Argument Structure for a Parallel Treebank
+Statistical Machine Translation by Generalized Parsing
+Summarizing Encyclopedic Term Descriptions on the Web
+Unsupervised Topic Adaptation for Lecture Speech Retrieval
+Effects of Language Modeling on Speech-driven Question Answering
+A Bimachine Compiler for Ranked Tagging Rules
+Application of the Double Metaphone Algorithm to Amharic Orthography
+Proofing Tools Technology at Neurosoft S.A.
+Verbal chunk extraction in French using limited resources
+An electronic dictionary as a basis for NLP tools: The Greek case
+A Model for Fine-Grained Alignment of Multilingual Texts
+"A Sentimental Education: Sentiment Analysis Using Subjectivity
+  Summarization Based on Minimum Cuts"
+"A Tutorial on the Expectation-Maximization Algorithm Including
+  Maximum-Likelihood Estimation and EM Training of Probabilistic Context-Free
+  Grammars"
+Inside-Outside Estimation Meets Dynamic EM
+"State of the Art, Evaluation and Recommendations regarding ""Document
+  Processing and Visualization Techniques"""
+Thematic Annotation: extracting concepts out of documents
+Multi-document Biography Summarization
+"A Matter of Opinion: Sentiment Analysis and Business Intelligence
+  (position paper)"
+Word sense disambiguation criteria: a systematic study
+Using phonetic constraints in acoustic-to-articulatory inversion
+"An elitist approach for extracting automatically well-realized speech
+  sounds with high confidence"
+"Statistical Parameters of the Novel ""Perekhresni stezhky"" (""The
+  Cross-Paths"") by Ivan Franko"
+Analyzing language development from a network approach
+"Unification of multi-lingual scientific terminological resources using
+  the ISO 16642 standard. The TermSciences initiative"
+Foundations of Modern Language Resource Archives
+Building a resource for studying translation shifts
+"Raisonner avec des diagrammes : perspectives cognitives et
+  computationnelles"
+Improving Term Extraction with Terminological Resources
+"Challenging the principle of compositionality in interpreting natural
+  language texts"
+The role of time in considering collections
+"The JRC-Acquis: A multilingual aligned parallel corpus with 20+
+  languages"
+DepAnn - An Annotation Tool for Dependency Treebanks
+"Dependency Treebanks: Methods, Annotation Schemes and Tools"
+"Un modèle générique d'organisation de corpus en ligne: application
+  à la FReeBank"
+Scaling Construction Grammar up to Production Systems: the SCIM
+"An Anthological Review of Research Utilizing MontyLingua, a Python-Based
+  End-to-End Text Processor"
+Complex networks and human language
+A Note on Local Ultrametricity in Text
+Menzerath-Altmann Law for Syntactic Structures in Ukrainian
+Random Sentences from a Generalized Phrase-Structure Grammar Interpreter
+Network statistics on early English Syntax: Structural criteria
+International Standard for a Linguistic Annotation Framework
+A Formal Model of Dictionary Structure and Content
+Learning Phonotactics Using ILP
+On the role of autocorrelations in texts
+"On the fractal nature of mutual relevance sequences in the Internet news
+  message flows"
+Generating models for temporal representations
+Using Description Logics for Recognising Textual Entailment
+"Some Reflections on the Task of Content Determination in the Context of
+  Multi-Document Summarization of Evolving Events"
+"Discriminative Phoneme Sequences Extraction for Non-Native Speaker's
+  Origin Classification"
+"Combined Acoustic and Pronunciation Modelling for Non-Native Speech
+  Recognition"
+"Amélioration des Performances des Systèmes Automatiques de
+  Reconnaissance de la Parole pour la Parole Non Native"
+Proof nets for display logic
+Morphological annotation of Korean with Directly Maintainable Resources
+Lexicon management and standard formats
+In memoriam Maurice Gross
+A resource-based Korean morphological annotation system
+Graphes paramétrés et outils de lexicalisation
+Evaluation of a Grammar of French Determiners
+Very strict selectional restrictions
+"Outilex, plate-forme logicielle de traitement de textes écrits"
+Let's get the student into the driver's seat
+Valence extraction using EM selection and co-occurrence matrices
+"Robustness Evaluation of Two CCG, a PCFG and a Link Grammar Parsers"
+"Methods to integrate a language model with semantic information for a
+  word prediction component"
+Some properties of the Ukrainian writing system
+About the creation of a parallel bilingual corpora of web-publications
+"TuLiPA: Towards a Multi-Formalism Parsing Environment for Grammar
+  Engineering"
+Using descriptive mark-up to formalize translation quality assessment
+Distribution of complexities in the Vai script
+"Une grammaire formelle du créole martiniquais pour la génération
+  automatique"
+"A Layered Grammar Model: Using Tree-Adjoining Grammars to Build a Common
+  Syntactic Kernel for Related Dialects"
+"UNL-French deconversion as transfer & generation from an interlingua
+  with possible quality enhancement through offline human interaction"
+The Application of Fuzzy Logic to Collocation Extraction
+Statistical analysis of the Indus script using $n$-grams
+Google distance between words
+New Confidence Measures for Statistical Machine Translation
+What's in a Message?
+Syntactic variation of support verb constructions
+"Empowering OLAC Extension using Anusaaraka and Effective text processing
+  using Double Byte coding"
+"Implementation of Rule Based Algorithm for Sandhi-Vicheda Of Compound
+  Hindi Words"
+Reference Resolution within the Framework of Cognitive Grammar
+Marking-up multiple views of a Text: Discourse and Reference
+A Common XML-based Framework for Syntactic Annotations
+Standards for Language Resources
+Language Models for Handwritten Short Message Services
+Vers la reconnaissance de mini-messages manuscrits
+Analyse en dépendances à l'aide des grammaires d'interaction
+Grouping Synonyms by Definitions
+"Mathematics, Recursion, and Universals in Human Languages"
+Towards Multimodal Content Representation
+"A New Computational Schema for Euphonic Conjunctions in Sanskrit
+  Processing"
+"ANN-based Innovative Segmentation Method for Handwritten text in
+  Assamese"
+A Discourse-based Approach in Text-based Machine Translation
+Resolution of Unidentified Words in Machine Translation
+Standards for Language Resources
+A New Look at the Classical Entropy of Written English
+"Standardization of the formal representation of lexical information for
+  NLP"
+Parsing of part-of-speech tagged Assamese Texts
+Representing human and machine dictionaries in Markup languages
+"Étude et traitement automatique de l'anglais du XVIIe siècle :
+  outils morphosyntaxiques et dictionnaires"
+"""Mind your p's and q's"": or the peregrinations of an apostrophe in 17th
+  Century English"
+"Recognition and translation Arabic-French of Named Entities: case of the
+  Sport places"
+"Morphological study of Albanian words, and processing with NooJ"
+"Approximations to the MMI criterion and their effect on lattice-based
+  MMI"
+On Event Structure in the Torn Dress
+"Towards a Heuristic Categorization of Prepositional Phrases in English
+  with WordNet"
+Thai Rhetorical Structure Analysis
+"Co-channel Interference Cancellation for Space-Time Coded OFDM Systems
+  Using Adaptive Beamforming and Null Deepening"
+SLAM : Solutions lexicales automatique pour métaphores
+"Why has (reasonably accurate) Automatic Speech Recognition been so hard
+  to achieve?"
+"Change of word types to word tokens ratio in the course of translation
+  (based on Russian translations of K. Vonnegut novels)"
+Linguistic Geometries for Unsupervised Dimensionality Reduction
+"Automatic derivation of domain terms and concept location based on the
+  analysis of the identifiers"
+"A Computational Algorithm based on Empirical Analysis, that Composes
+  Sanskrit Poetry"
+"Les Entités Nommées : usage et degrés de précision et de
+  désambiguïsation"
+La représentation formelle des concepts spatiaux dans la langue
+"Les entités spatiales dans la langue : étude descriptive, formelle
+  et expérimentale de la catégorisation"
+Learning Recursive Segments for Discourse Parsing
+Morphonette: a morphological network of French
+The Lambek-Grishin calculus is NP-complete
+"Quantitative parametrization of texts written by Ivan Franko: An attempt
+  of the project"
+A generic tool to generate a lexicon for NLP from Lexicon-Grammar tables
+"Ivan Franko's novel Dlja domashnjoho ohnyshcha (For the Hearth) in the
+  light of the frequency dictionary"
+Offline Arabic Handwriting Recognition Using Artificial Neural Network
+"Fuzzy Modeling and Natural Language Processing for Panini's Sanskrit
+  Grammar"
+"Complete Complementary Results Report of the MARF's NLP Approach to the
+  DEFT 2010 Competition"
+Testing SDRT's Right Frontier
+Constructions définitoires des tables du Lexique-Grammaire
+Tableaux for the Lambek-Grishin calculus
+A probabilistic top-down parser for minimalist grammars
+Learning Taxonomy for Text Segmentation by Formal Concept Analysis
+Geometric representations for minimalist grammars
+"Developing a New Approach for Arabic Morphological Analysis and
+  Generation"
+Polarized Montagovian Semantics for the Lambek-Grishin calculus
+"Materials to the Russian-Bulgarian Comparative Dictionary ""EAD"""
+A Universal Part-of-Speech Tagset
+"Seeking Meaning in a Space Made out of Strokes, Radicals, Characters and
+  Compounds"
+"Performance Evaluation of Statistical Approaches for Text Independent
+  Speaker Recognition Using Source Feature"
+Computational Approach to Anaphora Resolution in Spanish Dialogues
+Acquiring Correct Knowledge for Natural Language Generation
+Entropy of Telugu
+Cross-moments computation for stochastic context-free grammars
+Serialising the ISO SynAF Syntactic Object Model
+"A Concise Query Language with Search and Transform Operations for
+  Corpora with Multiple Levels of Annotation"
+"Using Inverse lambda and Generalization to Translate English to Formal
+  Languages"
+"Language understanding as a step towards human level intelligence -
+  automatizing the construction of the initial dictionary from example
+  sentences"
+"Query Expansion: Term Selection using the EWC Semantic Relatedness
+  Measure"
+"Minimalist Grammars and Minimalist Categorial Grammars, definitions
+  toward inclusion of generated languages"
+Inter-rater Agreement on Sentence Formality
+Building Ontologies to Understand Spoken Tunisian Dialect
+"LexRank: Graph-based Lexical Centrality as Salience in Text
+  Summarization"
+Combining Knowledge- and Corpus-based Word-Sense-Disambiguation Methods
+"Learning Content Selection Rules for Generating Object Descriptions in
+  Dialogue"
+A Probabilistic Approach to Pronunciation by Analogy
+"Automatic transcription of 17th century English text in Contemporary
+  English with NooJ: Method and Evaluation"
+"Object-oriented semantics of English in natural language understanding
+  system"
+A Constraint-Satisfaction Parser for Context-Free Grammars
+Data formats for phonological corpora
+NP Animacy Identification for Anaphora Resolution
+Ideogram Based Chinese Sentiment Word Orientation Computation
+"Statistical Sign Language Machine Translation: from English written text
+  to American Sign Language Gloss"
+"Grammatical Relations of Myanmar Sentences Augmented by
+  Transformation-Based Learning of Function Tagging"
+"Creating a Live, Public Short Message Service Corpus: The NUS SMS Corpus"
+"Visualization and Analysis of Frames in Collections of Messages: Content
+  Analysis and the Measurement of Meaning"
+Proof nets for the Lambek-Grishin calculus
+"Formalization of semantic network of image constructions in electronic
+  content"
+Recognizing Bangla Grammar using Predictive Parser
+Wikipedia Arborification and Stratified Explicit Semantic Analysis
+The Horse Raced Past: Gardenpath Processing in Dynamical Systems
+"Statistical Function Tagging and Grammatical Relations of Myanmar
+  Sentences"
+Distributional Measures of Semantic Distance: A Survey
+Distributional Measures as Proxies for Semantic Relatedness
+Fault detection system for Arabic language
+"Toward an example-based machine translation from written text to ASL
+  using virtual agent animation"
+"An Accurate Arabic Root-Based Lemmatizer for Information Retrieval
+  Purposes"
+"Arabic Keyphrase Extraction using Linguistic knowledge and Machine
+  Learning Techniques"
+"Reduplicated MWE (RMWE) helps in improving the CRF based Manipuri POS
+  Tagger"
+Analysing Temporally Annotated Corpora with CAVaT
+Using Signals to Improve Automatic Classification of Temporal Relations
+USFD2: Annotating Temporal Expresions and TLINKs for TempEval-2
+An Annotation Scheme for Reichenbach's Verbal Tense Structure
+A Corpus-based Study of Temporal Signals
+"USFD at KBP 2011: Entity Linking, Slot Filling and Temporal Bounding"
+Massively Increasing TIMEX3 Resources: A Transduction Approach
+"Post-Editing Error Correction Algorithm for Speech Recognition using
+  Bing Spelling Suggestion"
+ASR Context-Sensitive Error Correction Based on Microsoft N-Gram Dataset
+"Tree Transducers, Machine Translation, and Cross-Language Divergences"
+Roget's Thesaurus as a Lexical Resource for Natural Language Processing
+Parallel Spell-Checking Algorithm Based on Yahoo! N-Grams Dataset
+"OCR Post-Processing Error Correction Algorithm using Google Online
+  Spelling Suggestion"
+Roget's Thesaurus and Semantic Similarity
+"Not As Easy As It Seems: Automating the Construction of Lexical Chains
+  Using Roget's Thesaurus"
+Roget's Thesaurus: a Lexical Resource to Treasure
+Segmentation Similarity and Agreement
+"Indus script corpora, archaeo-metallurgy and Meluhha (Mleccha)"
+"Context-sensitive Spelling Correction Using Google Web 1T 5-Gram
+  Information"
+"A Corpus-based Evaluation of a Domain-specific Text to Knowledge Mapping
+  Prototype"
+Language Acquisition in Computers
+"UNL Based Bangla Natural Text Conversion - Predicate Preserving Parser
+  Approach"
+"Hedge detection as a lens on framing in the GMO debates: A position
+  paper"
+"Developing a model for a text database indexed pedagogically for
+  teaching the Arabic language"
+"BADREX: In situ expansion and coreference of biomedical abbreviations
+  using dynamic regular expressions"
+"TempEval-3: Evaluating Events, Time Expressions, and Temporal Relations"
+"Adaptation of pedagogical resources description standard (LOM) with the
+  specificity of Arabic language"
+"A Method for Selecting Noun Sense using Co-occurrence Relation in
+  English-Korean Translation"
+"More than Word Frequencies: Authorship Attribution via Natural Frequency
+  Zoned Word Distribution Analysis"
+"Recent Technological Advances in Natural Language Processing and
+  Artificial Intelligence"
+Introduction of the weight edition errors in the Levenshtein distance
+Average word length dynamics as indicator of cultural changes in society
+Transition-Based Dependency Parsing With Pluggable Classifiers
+Detecting English Writing Styles For Non-native Speakers
+"A Principled Approach to Grammars for Controlled Natural Languages and
+  Predictive Editors"
+Semantic Polarity of Adjectival Predicates in Online Reviews
+"Improving Pointwise Mutual Information (PMI) by Incorporating
+  Significant Co-occurrence"
+Intelligent Hybrid Man-Machine Translation Quality Estimation
+"Improving the quality of Gujarati-Hindi Machine Translation through
+  part-of-speech tagging and stemmer-assisted transliteration"
+Part of Speech Tagging of Marathi Text Using Trigram Method
+Rule Based Transliteration Scheme for English to Punjabi
+Clustering Algorithm for Gujarati Language
+Human and Automatic Evaluation of English-Hindi Machine Translation
+Learning Frames from Text with an Unsupervised Latent Variable Model
+Advances in the Logical Representation of Lexical Semantics
+Learning to answer questions
+"Analysing Quality of English-Hindi Machine Translation Engine Outputs
+  Using Bayesian Classification"
+"Preparing Korean Data for the Shared Task on Parsing Morphologically
+  Rich Languages"
+"Implementation of nlization framework for verbs, pronouns and
+  determiners with eugene"
+General Purpose Textual Sentiment Analysis and Emotion Detection Tools
+Exploiting Similarities among Languages for Machine Translation
+Text segmentation with character-level text embeddings
+"JRC EuroVoc Indexer JEX - A freely available multi-label categorisation
+  tool"
+DGT-TM: A freely Available Translation Memory in 22 Languages
+An introduction to the Europe Media Monitor family of applications
+Even the Abstract have Colour: Consensus in Word-Colour Associations
+LDC Arabic Treebanks and Associated Corpora: Data Divisions Manual
+A Hybrid Algorithm for Matching Arabic Names
+Sentiment Analysis: How to Derive Prior Polarities from SentiWordNet
+"From Once Upon a Time to Happily Ever After: Tracking Emotions in Novels
+  and Fairy Tales"
+Colourful Language: Measuring Word-Colour Associations
+"JRC-Names: A freely available, highly multilingual named entity resource"
+Acronym recognition and processing in 22 languages
+Sentiment Analysis in the News
+Tracking Sentiment in Mail: How Genders Differ on Emotional Axes
+Using Nuances of Emotion to Identify Personality
+"Domain-Specific Sentiment Word Extraction by Seed Expansion and Pattern
+  Generation"
+Development and Transcription of Assamese Speech Corpus
+"Natural Language Processing in Biomedicine: A Unified System
+  Architecture Overview"
+Multi-Topic Multi-Document Summarizer
+Plurals: individuals and sets in a richly typed semantics
+Effective Slot Filling Based on Shallow Distant Supervision Methods
+The semantic similarity ensemble
+"Towards a Generic Framework for the Development of Unicode Based Digital
+  Sindhi Dictionaries"
+Dictionary-Based Concept Mining: An Application for Turkish
+"A survey of methods to ease the development of highly multilingual text
+  mining applications"
+"ONTS: ""Optima"" News Translation System"
+"Hrebs and Cohesion Chains as similar tools for semantic text properties
+  research"
+Generalized Biwords for Bitext Compression and Translation Spotting
+Sentence Compression as Tree Transduction
+Cross-lingual Annotation Projection for Semantic Roles
+Multilingual Part-of-Speech Tagging: Two Unsupervised Approaches
+"Unsupervised Methods for Determining Object and Relation Synonyms on the
+  Web"
+Wikipedia-based Semantic Interpretation for Natural Language Processing
+Identification of Pleonastic It Using the Web
+Text Relatedness Based on a Word Thesaurus
+"Inferring Shallow-Transfer Machine Translation Rules from Small Parallel
+  Corpora"
+"Integrative Semantic Dependency Parsing via Efficient Large-scale
+  Feature Selection"
+Identifying Bengali Multiword Expressions using Semantic Clustering
+A Statistical Parsing Framework for Sentiment Classification
+Automatic Aggregation by Joint Modeling of Aspects and Values
+Context-based Word Acquisition for Situated Dialogue in a Virtual World
+"Improving Statistical Machine Translation for a Resource-Poor Language
+  Using Related Resource-Rich Languages"
+Quantifying literature quality using complexity criteria
+Bootstrapping Deep Lexical Resources: Resources for Courses
+Effects of High-Order Co-occurrences on Word Semantic Similarities
+Feature Unification in TAG Derivation Trees
+Graph Algorithms for Improving Type-Logical Proof Search
+A toolkit for a generative lexicon
+"Computational Representation of Linguistic Structures using
+  Domain-Specific Languages"
+"Exploring a type-theoretic approach to accessibility constraint
+  modelling"
+A semantic space for modeling children's semantic memory
+Textual Entailment Recognizing by Theorem Proving Approach
+A chain dictionary method for Word Sense Disambiguation and applications
+"Computational Approaches to Measuring the Similarity of Short Contexts :
+  A Review of Applications and Methods"
+"Acquisition of morphological families and derivational series from a
+  machine readable dictionary"
+Encoding models for scholarly literature
+"Without a 'doubt'? Unsupervised discovery of downward-entailing
+  operators"
+Non-Parametric Bayesian Areal Linguistics
+Multiple Retrieval Models and Regression Models for Prior Art Search
+An OLAC Extension for Dravidian Languages
+Symmetric categorial grammar: residuation and Galois connections
+"For the sake of simplicity: Unsupervised extraction of lexical
+  simplifications from Wikipedia"
+"Don't 'have a clue'? Unsupervised co-learning of downward-entailing
+  operators"
+"Stabilizing knowledge through standards - A perspective for the
+  humanities"
+A PDTB-Styled End-to-End Discourse Parser
+Emoticonsciousness
+Motifs de graphe pour le calcul de dépendances syntaxiques complètes
+Opinion Polarity Identification through Adjectives
+La réduction de termes complexes dans les langues de spécialité
+"Rule-weighted and terminal-weighted context-free grammars have identical
+  expressivity"
+Parsing of Myanmar sentences with function tagging
+A Model-Driven Probabilistic Parser Generator
+"Arabic Language Learning Assisted by Computer, based on Automatic Speech
+  Recognition"
+Task-specific Word-Clustering for Part-of-Speech Tagging
+Precision-biased Parsing and High-Quality Parse Selection
+"FASTSUBS: An Efficient and Exact Procedure for Finding the Most Likely
+  Lexical Substitutes Based on an N-gram Language Model"
+"Système d'aide à l'accès lexical : trouver le mot qu'on a sur le
+  bout de la langue"
+"Improving the Quality of MT Output using Novel Name Entity Translation
+  Scheme"
+Development of Marathi Part of Speech Tagger Using Statistical Approach
+"Subjective and Objective Evaluation of English to Urdu Machine
+  Translation"
+Rule Based Stemmer in Urdu
+Stemmers for Tamil Language: Performance Analysis
+"Semantic Measures for the Comparison of Units of Language, Concepts or
+  Instances from Text and Knowledge Base Analysis"
+"A State of the Art of Word Sense Induction: A Way Towards Word Sense
+  Disambiguation for Under-Resourced Languages"
+"Local Feature or Mel Frequency Cepstral Coefficients - Which One is
+  Better for MLN-Based Bangla Speech Recognition?"
+Evolution of the Modern Phase of Written Bangla: A Statistical Study
+"Named entity recognition using conditional random fields with non-local
+  relational constraints"
+ARKref: a rule-based coreference resolution system
+Description and Evaluation of Semantic Similarity Measures Approaches
+"Evaluation and Ranking of Machine Translated Output in Hindi Language
+  using Precision and Recall Oriented Metrics"
+"Intégration des données d'un lexique syntaxique dans un analyseur
+  syntaxique probabiliste"
+Extracting a bilingual semantic grammar from FrameNet-annotated corpora
+A Convolutional Neural Network for Modelling Sentences
+Overview of Stemming Algorithms for Indian and Non-Indian Languages
+"A Generalized Language Model as the Combination of Skipped n-grams and
+  Modified Kneser-Ney Smoothing"
+Meta-evaluation of comparability metrics using parallel corpora
+Assessing the Quality of MT Systems for Hindi to English Translation
+An Empirical Comparison of Parsing Methods for Stanford Dependencies
+"The First Parallel Multilingual Corpus of Persian: Toward a Persian
+  BLARK"
+Multilingual Models for Compositional Distributed Semantics
+Radical-Enhanced Chinese Character Embedding
+Challenges in Persian Electronic Text Analysis
+"The Frobenius anatomy of word meanings I: subject and object relative
+  pronouns"
+"Morphological Analysis of the Bishnupriya Manipuri Language using Finite
+  State Transducers"
+Lexicon Infused Phrase Embeddings for Named Entity Resolution
+Reconstructing Native Language Typology from Foreign Language Usage
+A Deep Architecture for Semantic Parsing
+Empirical Evaluation of Tree distances for Parser Evaluation
+An NLP Assistant for Clide
+"A Study of Association Measures and their Combination for Arabic MWT
+  Extraction"
+Word Sense Disambiguation using WSD specific Wordnet of Polysemy Words
+"Incorporating Semi-supervised Features into Discontinuous Easy-First
+  Constituent Parsing"
+"An Algorithm Based on Empirical Methods, for Text-to-Tuneful-Speech
+  Synthesis of Sanskrit Verse"
+"A Binary Schema and Computational Algorithms to Process Vowel-based
+  Euphonic Conjunctions for Word Searches"
+"Computational Algorithms Based on the Paninian System to Process
+  Euphonic Conjunctions for Word Searches"
+Lexical Normalisation of Twitter Data
+"Using crowdsourcing system for creating site-specific statistical
+  machine translation engine"
+Performance of Stanford and Minipar Parser on Biomedical Texts
+Generating Conceptual Metaphors from Proposition Stores
+CRF-based Named Entity Recognition @ICON 2013
+"Improving the Performance of English-Tamil Statistical Machine
+  Translation System using Source-Side Pre-Processing"
+Framework and Resources for Natural Language Parser Evaluation
+Investigation of the Zipf-plot of the extinct Meroitic language
+What It Feels Like To Hear Voices: Fond Memories of Julian Jaynes
+Constructing word similarities in Meroitic as an aid to decipherment
+Open architecture for multilingual parallel texts
+"Mathematical Model for Transformation of Sentences from Active Voice to
+  Passive Voice"
+A Bayesian Model for Discovering Typological Implications
+"Induction of Word and Phrase Alignments for Automatic Document
+  Summarization"
+A Noisy-Channel Model for Document Compression
+"A Large-Scale Exploration of Effective Global Features for a Joint
+  Entity Detection and Tracking Model"
+Pattern Based Term Extraction Using ACABIT System
+"Un système modulaire d'acquisition automatique de traductions à
+  partir du Web"
+A Note On Higher Order Grammar
+Ludics and its Applications to natural Language Semantics
+Evaluation of Hindi to Punjabi Machine Translation System
+"Speech Recognition by Machine, A Review"
+Sentence Simplification Aids Protein-Protein Interaction Extraction
+"Towards Effective Sentence Simplification for Automatic Processing of
+  Biomedical Text"
+Displacement Calculus
+Annotated English
+Recognizing Uncertainty in Speech
+"Fitting Ranked English and Spanish Letter Frequency Distribution in U.S.
+  and Mexican Presidential Speeches"
+"Codeco: A Grammar Notation for Controlled Natural Language in Predictive
+  Editors"
+"English-Lithuanian-English Machine Translation lexicon and engine:
+  current state and future work"
+Multilingual lexicon design tool and database management system for MT
+A statistical learning algorithm for word segmentation
+On the origin of ambiguity in efficient communication
+Notes on Electronic Lexicography
+"Fence - An Efficient Parser with Ambiguity Support for Model-Driven
+  Language Specification"
+"A Semantic Relatedness Measure Based on Combined Encyclopedic,
+  Ontological and Collocational Knowledge"
+Design of Arabic Diacritical Marks
+"Use Pronunciation by Analogy for text to speech system in Persian
+  language"
+"NEMO: Extraction and normalization of organization names from PubMed
+  affiliation strings"
+"BioSimplify: an open source sentence simplification engine to improve
+  recall in automatic biomedical information extraction"
+"An Effective Approach to Biomedical Information Extraction with Limited
+  Training Data"
+Individual and Domain Adaptation in Sentence Planning for Dialogue
+ESLO: from transcription to speakers' personal information annotation
+"Évaluation de lexiques syntaxiques par leur intégartion dans
+  l'analyseur syntaxiques FRMG"
+"Construction du lexique LGLex à partir des tables du Lexique-Grammaire
+  des verbes du grec moderne"
+Extending the adverbial coverage of a NLP oriented resource for French
+"Question Answering in a Natural Language Understanding System Based on
+  Object-Oriented Semantics"
+Rule based Part of speech Tagger for Homoeopathy Clinical realm
+Exploring Twitter Hashtags
+"Inference and Plausible Reasoning in a Natural Language Understanding
+  System Based on Object-Oriented Semantics"
+Considering a resource-light approach to learning verb valencies
+Beyond Sentiment: The Manifold of Human Emotions
+"Realisation d'un systeme de reconnaissance automatique de la parole
+  arabe base sur CMU Sphinx"
+Adversarial Evaluation for Models of Natural Language
+"Learning to Map Sentences to Logical Form: Structured Classification
+  with Probabilistic Categorial Grammars"
+Clustering based approach extracting collocations
+Automatic Segmentation of Manipuri (Meiteilon) Word into Syllabic Units
+Appropriate Nouns with Obligatory Modifiers
+A prototype for projecting HPSG syntactic lexica towards LMF
+Input Scheme for Hindi Using Phonetic Mapping
+Evaluation of Computational Grammar Formalisms for Indian Languages
+"Identification of Fertile Translations in Medical Comparable Corpora: a
+  Morpho-Compositional Approach"
+Natural Language Processing - A Survey
+Gender identity and lexical variation in social media
+A Lightweight Stemmer for Gujarati
+Design of English-Hindi Translation Memory for Efficient Translation
+"Extraction of domain-specific bilingual lexicon from comparable corpora:
+  compositional translation and ranking"
+"Classification Analysis Of Authorship Fiction Texts in The Space Of
+  Semantic Fields"
+The Hangulphabet: A Descriptive Alphabet
+Large Scale Language Modeling in Automatic Speech Recognition
+"Using external sources of bilingual information for on-the-fly word
+  alignment"
+"Identifying Metaphor Hierarchies in a Corpus Analysis of Finance
+  Articles"
+Identifying Metaphoric Antonyms in a Corpus Analysis of Finance Articles
+Diachronic Variation in Grammatical Relations
+Assessing Sentiment Strength in Words Prior Polarities
+"Natural Language Understanding Based on Semantic Relations between
+  Sentences"
+TEI and LMF crosswalks
+SpeedRead: A Fast Named Entity Recognition Pipeline
+The Manifold of Human Emotions
+"Joint Space Neural Probabilistic Language Model for Statistical Machine
+  Translation"
+Efficient Estimation of Word Representations in Vector Space
+"Language learning from positive evidence, reconsidered: A
+  simplicity-based approach"
+Large Scale Distributed Acoustic Modeling With Back-off N-grams
+Towards the Rapid Development of a Natural Language Understanding Module
+Sémantique des déterminants dans un cadre richement typé
+"Lexical Access for Speech Understanding using Minimum Message Length
+  Encoding"
+Building a reordering system using tree-to-string hierarchical model
+"Termhood-based Comparability Metrics of Comparable Corpus in Special
+  Domain"
+Bilingual Terminology Extraction Using Multi-level Termhood
+"Towards a Semantic-based Approach for Modeling Regulatory Documents in
+  Building Industry"
+Probabilistic Frame Induction
+NLP and CALL: integration is working
+Role of temporal inference in the recognition of textual inference
+Ending-based Strategies for Part-of-speech Tagging
+Statistical sentiment analysis performance in Opinum
+Towards the Fully Automatic Merging of Lexical Resources: A Step Forward
+Automatic lexical semantic classification of nouns
+A Classification of Adjectives for Polarity Lexicons Enhancement
+Mining and Exploiting Domain-Specific Corpora in the PANACEA Platform
+"Automatic Detection of Non-deverbal Event Nouns for Quick Lexicon
+  Production"
+"Using qualia information to identify lexical semantic classes in an
+  unsupervised clustering task"
+Probabilistic Topic and Syntax Modeling with Part-of-Speech LDA
+SYNTAGMA. A Linguistic Approach to Parsing
+"Extension of hidden markov model for recognizing large vocabulary of
+  sign language"
+Sentiment Analysis : A Literature Survey
+Dealing with natural language interfaces in a geolocation context
+An Improved Approach for Word Ambiguity Removal
+TimeML-strict: clarifying temporal annotation
+"ManTIME: Temporal expression identification and normalization in the
+  TempEval-3 challenge"
+New Alignment Methods for Discriminative Book Summarization
+"Rule-Based Semantic Tagging. An Application Undergoing Dictionary
+  Glosses"
+Binary Tree based Chinese Word Segmentation
+"A probabilistic framework for analysing the compositionality of
+  conceptual combinations"
+An Inventory of Preposition Relations
+"Reduce Meaningless Words for Joint Chinese Word Segmentation and
+  Part-of-speech Tagging"
+Development of a Hindi Lemmatizer
+"A framework for (under)specifying dependency syntax without overloading
+  annotators"
+"""Not not bad"" is not ""bad"": A distributional account of negation"
+Recurrent Convolutional Neural Networks for Discourse Compositionality
+Dialogue System: A Brief Review
+Competency Tracking for English as a Second or Foreign Language Learners
+Boundary identification of events in clinical named entity recognition
+"Logical analysis of natural language semantics to solve the problem of
+  computer understanding"
+Hidden Structure and Function in the Lexicon
+B(eo)W(u)LF: Facilitating recurrence analysis on multi-level language
+Consensus Sequence Segmentation
+"An Investigation of the Sampling-Based Alignment Method and Its
+  Contributions"
+A Literature Review: Stemming Algorithms for Indian Languages
+"Linear models and linear mixed effects models in R with linguistic
+  applications"
+"NRC-Canada: Building the State-of-the-Art in Sentiment Analysis of
+  Tweets"
+Crowdsourcing a Word-Emotion Association Lexicon
+Computing Lexical Contrast
+"A Comparative Study on Linguistic Feature Selection in Sentiment
+  Polarity Classification"
+"Using Robust PCA to estimate regional characteristics of language use
+  from geo-tagged Twitter messages"
+Identifying Purpose Behind Electoral Tweets
+Authorship Attribution Using Word Network Features
+Cornell SPF: Cornell Semantic Parsing Framework
+HEVAL: Yet Another Human Evaluation Metric
+Automatic Ranking of MT Outputs using Approximations
+Build Electronic Arabic Lexicon
+A Short Introduction to NILE
+Learning Semantic Representations for the Phrase Translation Model
+"Towards Structural Natural Language Formalization: Mapping Discourse to
+  Controlled Natural Language"
+"One Billion Word Benchmark for Measuring Progress in Statistical
+  Language Modeling"
+"Semantic Types, Lexical Sorts and Classifiers"
+Towards The Development of a Bishnupriya Manipuri Corpus
+"Implicit Sensitive Text Summarization based on Data Conveyed by
+  Connectives"
+Deep Learning Embeddings for Discontinuous Linguistic Units
+"Distributional Models and Deep Learning Embeddings: Combining the Best
+  of Both Worlds"
+Multilingual Distributed Representations without Word Alignment
+Quality Estimation of English-Hindi Outputs using Naive Bayes Classifier
+"Evaluating Indirect Strategies for Chinese-Spanish Statistical Machine
+  Translation"
+"Natural Language Inference for Arabic Using Extended Tree Edit Distance
+  with Subtrees"
+Topic Segmentation and Labeling in Asynchronous Conversations
+"The CQC Algorithm: Cycling in Graphs to Semantically Enrich and Enhance
+  a Bilingual Dictionary"
+"PR2: A Language Independent Unsupervised Tool for Personality
+  Recognition from Text"
+Event Structure of Transitive Verb: A MARVS perspective
+An evaluative baseline for geo-semantic relatedness and similarity
+"Machine Learning of Phonologically Conditioned Noun Declensions For
+  Tamil Morphological Generators"
+"A Comparative Study of Machine Learning Methods for Verbal Autopsy Text
+  Classification"
+"When Learners Surpass their Sources: Mathematical Modeling of Learning
+  from an Inconsistent Source"
+Modelling the Lexicon in Unsupervised Part of Speech Induction
+"It's distributions all the way down!: Second order changes in
+  statistical distributions also occur"
+"Semantics, Modelling, and the Problem of Representation of Meaning -- a
+  Brief Survey of Recent Literature"
+"TBX goes TEI -- Implementing a TBX basic extension for the Text Encoding
+  Initiative guidelines"
+"We Tweet Like We Talk and Other Interesting Observations: An Analysis of
+  English Communication Modalities"
+"Is getting the right answer just about choosing the right words? The
+  role of syntactically-informed features in short answer scoring"
+Natural Language Feature Selection via Cooccurrence
+Generating Music from Literature
+HPS: a hierarchical Persian stemming method
+Semantic Unification A sheaf theoretic approach to natural language
+"Language Heedless of Logic - Philosophy Mindful of What? Failures of
+  Distributive and Absorption Laws"
+Measuring Global Similarity between Texts
+A hybrid formalism to parse Sign Languages
+Sign Language Gibberish for syntactic parsing evaluation
+Spelling Error Trends and Patterns in Sindhi
+Using Entropy Estimates for DAG-Based Ontologies
+Clinical TempEval
+An efficiency dependency parser using hybrid approach for tamil language
+"Implementation of an Automatic Sign Language Lexical Annotation
+  Framework based on Propositional Dynamic Logic"
+Sign Language Lexical Recognition With Propositional Dynamic Logic
+Hybrid Approach to English-Hindi Name Entity Transliteration
+Contextual Semantic Parsing using Crowdsourced Spatial Descriptions
+Extracting Family Relationship Networks from Novels
+"""Translation can't change a name"": Using Multilingual Data for Named
+  Entity Recognition"
+Learning Bilingual Word Representations by Marginalizing Alignments
+"Automatic Method Of Domain Ontology Construction based on
+  Characteristics of Corpora POS-Analysis"
+"Latent semantics of action verbs reflect phonetic parameters of
+  intensity and emotional content"
+"D-Bees: A Novel Method Inspired by Bee Colony Optimization for Solving
+  Word Sense Disambiguation"
+"A Corpus of Sentence-level Revisions in Academic Writing: A Step towards
+  Understanding Statement Strength in Communication"
+"An Expert System for Automatic Reading of A Text Written in Standard
+  Arabic"
+"Coordinate System Selection for Minimum Error Rate Training in
+  Statistical Machine Translation"
+"Phonetic based SoundEx & ShapeEx algorithm for Sindhi Spell Checker
+  System"
+Temporal Analysis of Language through Neural Language Models
+"INAUT, a Controlled Language for the French Coast Pilot Books
+  Instructions nautiques"
+"Méthodes pour la représentation informatisée de données
+  lexicales / Methoden der Speicherung lexikalischer Daten"
+A preliminary study of Croatian Language Syllable Networks
+Les mathématiques de la langue : l'approche formelle de Montague
+Compositional Morphology for Word Representations and Language Modelling
+Thematically Reinforced Explicit Semantic Analysis
+"Narrowing the Modeling Gap: A Cluster-Ranking Approach to Coreference
+  Resolution"
+"New Perspectives in Sinographic Language Processing Through the Use of
+  Character Structure"
+"Machine Translation Model based on Non-parallel Corpus and
+  Semi-supervised Transductive Learning"
+"MotàMot project: conversion of a French-Khmer published dictionary for
+  building a multilingual lexical system"
+Computerization of African languages-French dictionaries
+"Building of Networks of Natural Hierarchies of Terms Based on Analysis
+  of Texts Corpora"
+"Evaluating the fully automatic multi-language translation of the Swiss
+  avalanche bulletin"
+Cross-Language Personal Name Mapping
+Optimality Theory as a Framework for Lexical Acquisition
+"An HMM Based Named Entity Recognition System for Indian Languages: The
+  JU System at ICON 2013"
+"Training a Multilingual Sportscaster: Using Perceptual Context to Learn
+  Language"
+Comparing and Combining Sentiment Analysis Methods
+A Semantic Approach to Summarization
+The Best Templates Match Technique For Example Based Machine Translation
+"Basis Identification for Automatic Creation of Pronunciation Lexicon for
+  Proper Names"
+Toward verbalizing ontologies in isiZulu
+"How Easy is it to Learn a Controlled Natural Language for Building a
+  Knowledge Base?"
+"Controlled Natural Language Generation from a Multilingual
+  FrameNet-based Grammar"
+A Brief State of the Art for Ontology Authoring
+Are Style Guides Controlled Languages? The Case of Koenig & Bauer AG
+Question Answering with Subgraph Embeddings
+"Translation Of Telugu-Marathi and Vice-Versa using Rule Based Machine
+  Translation"
+Handling non-compositionality in multilingual CNLs
+"Towards an Error Correction Memory to Enhance Technical Texts Authoring
+  in LELIE"
+Embedded Controlled Languages
+Mapping the Economic Crisis: Some Preliminary Investigations
+A survey on phrase structure learning methods for text classification
+FrameNet Resource Grammar Library for GF
+"Jabalin: a Comprehensive Computational Model of Modern Standard Arabic
+  Verbal Morphology Based on Traditional Arabic Prosody"
+Les noms propres se traduisent-ils ? Étude d'un corpus multilingue
+Inter-Rater Agreement Study on Readability Assessment in Bengali
+Assamese-English Bilingual Machine Translation
+Quality Estimation Of Machine Translation Outputs Through Stemming
+"A Survey of Named Entity Recognition in Assamese and other Indian
+  Languages"
+Hidden Markov Model Based Part of Speech Tagger for Sinhala Language
+Substitute Based SCODE Word Embeddings in Supervised NLP Tasks
+Two-pass Discourse Segmentation with Pairing and Global Features
+Targetable Named Entity Recognition in Social Media
+"Microtask crowdsourcing for disease mention annotation in PubMed
+  abstracts"
+"Gap-weighted subsequences for automatic cognate identification and
+  phylogenetic inference"
+Detection is the central problem in real-word spelling correction
+"SimLex-999: Evaluating Semantic Models with (Genuine) Similarity
+  Estimation"
+Unsupervised Keyword Extraction from Polish Legal Texts
+"Be Careful When Assuming the Obvious: Commentary on ""The placement of
+  the head that minimizes online memory: a complex systems approach"""
+"Evaluating Neural Word Representations in Tensor-Based Compositional
+  Settings"
+Resolving Lexical Ambiguity in Tensor Regression Models of Meaning
+Strongly Incremental Repair Detection
+"LAF-Fabric: a data analysis tool for Linguistic Annotation Framework
+  with an application to the Hebrew Bible"
+"A Morphological Analyzer for Japanese Nouns, Verbs and Adjectives"
+Not All Neural Embeddings are Born Equal
+"Corpora Preparation and Stopword List Generation for Arabic data in
+  Social Network"
+Contrastive Unsupervised Word Alignment with Non-Local Features
+Language-based Examples in the Statistics Classroom
+Hybrid approaches for automatic vowelization of Arabic texts
+"An Ontology for Comprehensive Tutoring of Euphonic Conjunctions of
+  Sanskrit Grammar"
+Learning Distributed Word Representations for Natural Logic Reasoning
+Dependent Types for Pragmatics
+"Arabic Language Text Classification Using Dependency Syntax-Based
+  Feature Selection"
+A Modality Lexicon and its use in Automatic Tagging
+"The Visualization of Change in Word Meaning over Time using Temporal
+  Word Embeddings"
+Analysis of Named Entity Recognition and Linking for Tweets
+"Correcting Errors in Digital Lexicographic Resources Using a Dictionary
+  Manipulation Language"
+Experiments to Improve Named Entity Recognition on Turkish Tweets
+"On Detecting Noun-Adjective Agreement Errors in Bulgarian Language Using
+  GATE"
+"Detecting Suicidal Ideation in Chinese Microblogs with Psychological
+  Lexicons"
+word2vec Parameter Learning Explained
+Distributed Representations for Compositional Semantics
+A Text to Speech (TTS) System with English to Punjabi Conversion
+Retrofitting Word Vectors to Semantic Lexicons
+Opinion mining of text documents written in Macedonian language
+"Using graph transformation algorithms to generate natural language
+  equivalents of icons expressing medical concepts"
+Network Motifs Analysis of Croatian Literature
+Type-Driven Incremental Semantic Parsing with Polymorphism
+Pre-processing of Domain Ontology Graph Generation System in Punjabi
+"Coarse-grained Cross-lingual Alignment of Comparable Texts with Topic
+  Models and Encyclopedic Knowledge"
+Using Sentence Plausibility to Learn the Semantics of Transitive Verbs
+Tiered Clustering to Improve Lexical Entailment
+"Mary Astell's words in A Serious Proposal to the Ladies (part I), a
+  lexicographic inquiry with NooJ"
+"A perspective on the advancement of natural language processing tasks
+  via topological analysis of complex networks"
+Deep Learning for Answer Sentence Selection
+Context-Dependent Fine-Grained Entity Type Tagging
+On Using Very Large Target Vocabulary for Neural Machine Translation
+Practice in Synonym Extraction at Large Scale
+Learning Word Representations from Relational Graphs
+Rediscovering the Alphabet - On the Innate Universal Grammar
+Statistical Patterns in Written Language
+"A Robust Transformation-Based Learning Approach Using Ripple Down Rules
+  for Part-of-Speech Tagging"
+"Incorporating Both Distributional and Relational Semantics in Word
+  Representations"
+"Rule-based Emotion Detection on Social Media: Putting Tweets on
+  Plutchik's Wheel"
+Rehabilitation of Count-based Models for Word Vector Representations
+Application of Topic Models to Judgments from Public Procurement Domain
+"Computational Model to Generate Case-Inflected Forms of Masculine Nouns
+  for Word Search in Sanskrit E-Text"
+"Incorporating Both Distributional and Relational Semantics in Word
+  Representations"
+A Simple and Efficient Method To Generate Word Sense Representations
+"Supertagging: Introduction, learning, and application"
+N-gram-Based Low-Dimensional Representation for Document Classification
+"Leveraging Monolingual Data for Crosslingual Compositional Word
+  Representations"
+Embedding Word Similarity with Neural Machine Translation
+"Embedding Entities and Relations for Learning and Inference in Knowledge
+  Bases"
+Pragmatic Neural Language Modelling in Machine Translation
+A prototype Malayalam to Sign Language Automatic Translator
+Construction of Vietnamese SentiWordNet by using Vietnamese Dictionary
+"Chasing the Ghosts of Ibsen: A computational stylistic analysis of drama
+  in translation"
+"Un résumeur à base de graphes, indépéndant de la langue"
+Unknown Words Analysis in POS tagging of Sinhala Language
+"Quantifying Scripts: Defining metrics of characters for quantitative and
+  descriptive analysis"
+Navigating the Semantic Horizon using Relative Neighborhood Graphs
+Annotating Cognates and Etymological Origin in Turkic Languages
+Phrase Based Language Model For Statistical Machine Translation
+"Phrase Based Language Model for Statistical Machine Translation:
+  Empirical Study"
+Survey:Natural Language Parsing For Indian Languages
+"Authorship recognition via fluctuation analysis of network topology and
+  word intermittency"
+INRIASAC: Simple Hypernym Extraction Methods
+Beyond Word-based Language Model in Statistical Machine Translation
+"An investigation into language complexity of World-of-Warcraft
+  game-external texts"
+Phrase-based Image Captioning
+A new hybrid metric for verifying parallel corpora of Arabic-English
+Probabilistic Models for High-Order Projective Dependency Parsing
+"A Survey of Word Reordering in Statistical Machine Translation:
+  Computational Models and Language Phenomena"
+Web-scale Surface and Syntactic n-gram Features for Dependency Parsing
+Breaking Sticks and Ambiguities with Adaptive Skip-gram
+Rational Kernels for Arabic Stemming and Text Classification
+Local Translation Prediction with Global Sentence Representation
+Parsing as Reduction
+"Task-Oriented Learning of Word Embeddings for Semantic Relation
+  Classification"
+The NLP Engine: A Universal Turing Machine for NLP
+"Studying the Wikipedia Hyperlink Graph for Relatedness and
+  Disambiguation"
+An Unsupervised Method for Uncovering Morphological Chains
+On Using Monolingual Corpora in Neural Machine Translation
+An implementation of Apertium based Assamese morphological analyzer
+$gen$CNN: A Convolutional Architecture for Word Sequence Prediction
+Prediction Using Note Text: Synthetic Feature Creation with word2vec
+"Phrase database Approach to structural and semantic disambiguation in
+  English-Korean Machine Translation"
+Syntagma Lexical Database
+On measuring linguistic intelligence
+Multilingual Open Relation Extraction Using Cross-lingual Projection
+Yara Parser: A Fast and Accurate Dependency Parser
+Unsupervised POS Induction with Word Embeddings
+Morphological Analyzer and Generator for Russian and Ukrainian Languages
+Unsupervised authorship attribution
+Normalization of Non-Standard Words in Croatian Texts
+"Towards Using Machine Translation Techniques to Induce Multilingual
+  Lexica of Discourse Markers"
+Learning to Understand Phrases by Embedding the Dictionary
+"Bengali to Assamese Statistical Machine Translation using Moses (Corpus
+  Based)"
+A Metric to Classify Style of Spoken Speech
+Voice based self help System: User Experience Vs Accuracy
+Jointly Embedding Relations and Mentions for Knowledge Population
+"Concentric network symmetry grasps authors' styles in word adjacency
+  networks"
+"Leveraging Twitter for Low-Resource Conversational Speech Language
+  Modeling"
+A Knowledge-poor Pronoun Resolution System for Turkish
+"Big Data Small Data, In Domain Out-of Domain, Known Word Unknown Word:
+  The Impact of Word Representation on Sequence Labelling Tasks"
+"On the Stability of Online Language Features: How Much Text do you Need
+  to know a Person?"
+"Leveraging Deep Neural Networks and Knowledge Graphs for Entity
+  Disambiguation"
+Detecting and ordering adjectival scalemates
+"Texts in, meaning out: neural language models in semantic similarity
+  task for Russian"
+Embedding Semantic Relations into Word Representations
+Fast Rhetorical Structure Theory Discourse Parsing
+"Turn Segmentation into Utterances for Arabic Spontaneous Dialogues and
+  Instance Messages"
+"A Survey of Arabic Dialogues Understanding for Spontaneous Dialogues and
+  Instant Message"
+Indonesian Social Media Sentiment Analysis With Sarcasm Detection
+Sentiment Analysis For Modern Standard Arabic And Colloquial
+"Feature selection using Fisher's ratio technique for automatic speech
+  recognition"
+"Rank diversity of languages: Generic behavior in computational
+  linguistics"
+Arabic Inquiry-Answer Dialogue Acts Annotation Schema
+"Sifting Robotic from Organic Text: A Natural Language Approach for
+  Detecting Automation on Twitter"
+CCG Parsing and Multiword Expressions
+"Learning Better Word Embedding by Asymmetric Low-Rank Projection of
+  Knowledge Graph"
+Boosting Named Entity Recognition with Neural Character Embeddings
+Knowlege Graph Embedding by Flexible Translation
+Translation Memory Retrieval Methods
+The IBM 2015 English Conversational Telephone Speech Recognition System
+Keyphrase Based Evaluation of Automatic Text Summarization
+"Representing Meaning with a Combination of Logical and Distributional
+  Models"
+Unsupervised Cross-Domain Word Representation Learning
+"Overview of the NLPCC 2015 Shared Task: Chinese Word Segmentation and
+  POS Tagging for Micro-blog Texts"
+Supervised Fine Tuning for Word Embedding with Integrated Knowledge
+"Modeling meaning: computational interpreting and understanding of
+  natural language fragments"
+Using Syntactic Features for Phishing Detection
+"Sequence-to-Sequence Neural Net Models for Grapheme-to-Phoneme
+  Conversion"
+Diversity in Spectral Learning for Natural Language Parsing
+Modeling Relation Paths for Representation Learning of Knowledge Bases

@@ -1,0 +1,1425 @@
+title
+A Linear Shift Invariant Multiscale Transform
+General Theory of Image Normalization
+A Differential Invariant for Zooming
+A Parallel Algorithm for Dilated Contour Extraction from Bilevel Images
+"Image Compression with Iterated Function Systems, Finite Automata and
+  Zerotrees: Grand Unification"
+Differential Invariants under Gamma Correction
+"Assisted Video Sequences Indexing : Motion Analysis Based on Interest
+  Points"
+Robustness of Regional Matching Scheme over Global Matching Scheme
+Boosting the Differences: A fast Bayesian classifier neural network
+"Distorted English Alphabet Identification : An application of Difference
+  Boosting Algorithm"
+Geometric Morphology of Granular Materials
+Probabilistic Search for Object Segmentation and Recognition
+Least squares fitting of circles and lines
+Statistical efficiency of curve fitting algorithms
+"Flexible Camera Calibration Using a New Analytical Radial Undistortion
+  Formula with Application to Mobile Robot Localization"
+A New Analytical Radial Distortion Model for Camera Calibration
+Rational Radial Distortion Models with Analytical Undistortion Formulae
+"An Analytical Piecewise Radial Distortion Model for Precision Camera
+  Calibration"
+Camera Calibration: a USU Implementation
+"A Family of Simplified Geometric Distortion Models for Camera
+  Calibration"
+Fingerprint based bio-starter and bio-access
+IS (Iris Security)
+Better Foreground Segmentation Through Graph Cuts
+"Factor Temporal Prognosis of Tick-Borne Encephalitis Foci Functioning on
+  the South of Russian Far East"
+Geometrical Complexity of Classification Problems
+Computerized Face Detection and Recognition
+Blind Detection and Compensation of Camera Lens Geometric Distortions
+Image compression by rectangular wavelet transform
+Gradient Vector Flow Models for Boundary Extraction in 2D Images
+"Searching for image information content, its discovery, extraction, and
+  representation"
+"Paving the Way for Image Understanding: A New Kind of Image
+  Decomposition is Desired"
+Automatic Face Recognition System Based on Local Fourier-Bessel Features
+Face Recognition Based on Polar Frequency Features
+"Face Verification in Polar Frequency Domain: a Biologically Motivated
+  Approach"
+"Retinal Vessel Segmentation Using the 2-D Morlet Wavelet and Supervised
+  Classification"
+"A decision support system for ship identification based on the curvature
+  scale space representation"
+Understanding physics from interconnected data
+"The Perceptron Algorithm: Image and Signal Decomposition, Compression,
+  and Analysis by Iterative Gaussian Blurring"
+"The `Face on Mars': a photographic approach for the search of signs of
+  past civilizations from a macroscopic point of view, factoring long-term
+  erosion in image reconstruction"
+"Multilevel Thresholding for Image Segmentation through a Fast
+  Statistical Recursive Algorithm"
+Locally Adaptive Block Thresholding Method with Continuity Constraint
+Matching Edges in Images ; Application to Face Recognition
+Fourier Analysis and Holographic Representations of 1D and 2D Signals
+"Biologically Inspired Hierarchical Model for Feature Extraction and
+  Localization"
+"Face Recognition using Principal Component Analysis and Log-Gabor
+  Filters"
+"Recognition of expression variant faces using masked log-Gabor features
+  and Principal Component Analysis"
+"Notes on Geometric Measure Theory Applications to Image Processing;
+  De-noising, Segmentation, Pattern, Texture, Lines, Gestalt and Occlusion"
+"An effective edge--directed frequency filter for removal of aliasing in
+  upsampled images"
+"Total Variation Minimization and Graph Cuts for Moving Objects
+  Segmentation"
+Conditional Expressions for Blind Deconvolution: Multi-point form
+Simple method to eliminate blur based on Lane and Bates algorithm
+Conditional Expressions for Blind Deconvolution: Derivative form
+Camera motion estimation through planar deformation determination
+"A higher-order active contour model of a `gas of circles' and its
+  application to tree crown extraction"
+Contains and Inside relationships within combinatorial Pyramids
+"Extraction of cartographic objects in high resolution satellite images
+  for object model generation"
+Text Line Segmentation of Historical Documents: a Survey
+Riemannian level-set methods for tensor-valued data
+Multiresolution Approximation of Polygonal Curves in Linear Complexity
+Medical Image Segmentation and Localization using Deformable Templates
+"Enhancement of Noisy Planar Nuclear Medicine Images using Mean Field
+  Annealing"
+An Independent Evaluation of Subspace Face Recognition Algorithms
+MI image registration using prior knowledge
+"Automatic Detection of Pulmonary Embolism using Computational
+  Intelligence"
+"Graph rigidity, Cyclic Belief Propagation and Point Pattern Matching"
+High-Order Nonparametric Belief-Propagation for Fast Image Inpainting
+"An Affinity Propagation Based method for Vector Quantization Codebook
+  Design"
+"Comparison and Combination of State-of-the-art Techniques for
+  Handwritten Character Recognition: Topping the MNIST Benchmark"
+Automatic Text Area Segmentation in Natural Images
+"Wavelet and Curvelet Moments for Image Classification: Application to
+  Aggregate Mixture Grading"
+Spatio-activity based object detection
+"Using Spatially Varying Pixels Exposures and Bayer-covered Photosensors
+  for High Dynamic Range Imaging"
+"The Five Points Pose Problem : A New and Accurate Solution Adapted to
+  any Geometric Configuration"
+An image processing analysis of skin textures
+"Automatic Identification and Data Extraction from 2-Dimensional Plots in
+  Digital Documents"
+Supervised Dictionary Learning
+Modeling and Control with Local Linearizing Nadaraya Watson Regression
+Hierarchical Bag of Paths for Kernel Based Shape Classification
+"Camera distortion self-calibration using the plumb-line constraint and
+  minimal Hough entropy"
+Graph-based classification of multiple observation sets
+3D Face Recognition with Sparse Spherical Representations
+Mapping Images with the Coherence Length Diagrams
+A Keygraph Classification Framework for Real-Time Object Detection
+Using SLP Neural Network to Persian Handwritten Digits Recognition
+Dipole and Quadrupole Moments in Image Processing
+Dipole Vectors in Images Processing
+"Scale-Based Gaussian Coverings: Combining Intra and Inter Mixture Models
+  in Image Segmentation"
+Kernel Spectral Curvature Clustering (KSCC)
+Motion Segmentation by SCC on the Hopkins 155 Database
+"A Method for Extraction and Recognition of Isolated License Plate
+  Characters"
+"Information tracking approach to segmentation of ultrasound imagery of
+  prostate"
+Iterative Shrinkage Approach to Restoration of Optical Imagery
+"An Optimal Method For Wake Detection In SAR Images Using Radon
+  Transformation Combined With Wavelet Filters"
+Breast Cancer Detection Using Multilevel Thresholding
+Non-photorealistic image processing: an Impressionist rendering
+Pigment Melanin: Pattern for Iris Recognition
+"Sequential Clustering based Facial Feature Extraction Method for
+  Automatic Creation of Facial Models from Orthogonal Views"
+Automatic creation of urban velocity fields from aerial video
+"Matching 2-D Ellipses to 3-D Circles with Application to Vehicle Pose
+  Estimation"
+A Novel Feature Extraction for Robust EMG Pattern Recognition
+Writer Identification Using Inexpensive Signal Processing Techniques
+A Comparative Study of Removal Noise from Remote Sensing Image
+The Influence of Intensity Standardization on Medical Image Registration
+"Ball-Scale Based Hierarchical Multi-Object Recognition in 3D Medical
+  Images"
+"Detection of Microcalcification in Mammograms Using Wavelet Transform
+  and Fuzzy Shell Clustering"
+Automatic diagnosis of retinal diseases from color retinal images
+"Medical Image Compression using Wavelet Decomposition for Prediction
+  Method"
+"Supervised Learning of Digital image restoration based on Quantization
+  Nearest Neighbor algorithm"
+Scalable Large-Margin Mahalanobis Distance Metric Learning
+Text Region Extraction from Business Card Images for Mobile Devices
+Binarizing Business Card Images for Mobile Devices
+Properties of the Discrete Pulse Transform for Multi-Dimensional Arrays
+"An Offline Technique for Localization of License Plates for Indian
+  Commercial Vehicles"
+Clinical gait data analysis based on Spatio-Temporal features
+Nonlinear Filter Based Image Denoising Using AMF Approach
+Facial Gesture Recognition Using Correlation And Mahalanobis Distance
+"A GA based Window Selection Methodology to Enhance Window based Multi
+  wavelet transformation and thresholding aided CT image denoising technique"
+Investigation and Assessment of Disorder of Ultrasound B-mode Images
+Handwritten Arabic Numeral Recognition using a Multi Layer Perceptron
+"A comparative study of different feature sets for recognition of
+  handwritten Arabic numerals using a Multi Layer Perceptron"
+Pattern recognition using inverse resonance filtration
+"Sliding window approach based Text Binarisation from Complex Textual
+  images"
+System-theoretic approach to image interest point detection
+A Comprehensive Review of Image Enhancement Techniques
+Land-cover Classification and Mapping for Eastern Himalayan State Sikkim
+Active Testing for Face Detection and Localization
+The Video Genome
+Tuning CLD Maps
+Robust multi-camera view face recognition
+"Development of a multi-user handwriting recognition system using
+  Tesseract open source OCR engine"
+"Recognition of Handwritten Roman Script Using Tesseract Open source OCR
+  Engine"
+"Recognition of Handwritten Textual Annotations using Tesseract Open
+  Source OCR Engine for information Just In Time (iJIT)"
+"Development of a Multi-User Recognition Engine for Handwritten Bangla
+  Basic Characters and Digits"
+"Recognition of handwritten Roman Numerals using Tesseract open source
+  OCR engine"
+"Development of an automated Red Light Violation Detection System (RLVDS)
+  for Indian vehicles"
+"A novel scheme for binarization of vehicle images using hierarchical
+  histogram equalization technique"
+Randomized hybrid linear modeling by local best-fit flats
+Multistage Hybrid Arabic/Indian Numeral OCR System
+An Efficient Vein Pattern-based Recognition System
+Classification via Incoherent Subspaces
+On the Subspace of Image Gradient Orientations
+Image Segmentation by Using Threshold Techniques
+"Face Synthesis (FASY) System for Generation of a Face Image from Human
+  Description"
+"Classification of Polar-Thermal Eigenfaces using Multilayer Perceptron
+  for Human Face Recognition"
+"Reduction of Feature Vectors Using Rough Set Theory for Human Face
+  Recognition"
+LACBoost and FisherBoost: Optimally Building Cascade Classifiers
+"Incremental Training of a Detector Using Online Sparse
+  Eigen-decomposition"
+"Classification of LULC Change Detection using Remotely Sensed Data for
+  Coimbatore City, Tamilnadu, India"
+Application Of Fuzzy System In Segmentation Of MRI Brain Tumor
+"Compression Rate Method for Empirical Science and Application to
+  Computer Vision"
+"Content Based Image Retrieval Using Exact Legendre Moments and Support
+  Vector Machine"
+"Detection of Bleeding in Wireless Capsule Endoscopy Images Using Range
+  Ratio Color"
+Biometric Authentication using Nonparametric Methods
+Image Segmentation Using Weak Shape Priors
+Penalized K-Nearest-Neighbor-Graph Based Metrics for Clustering
+An Effective Fingerprint Verification Technique
+"Solving Inverse Problems with Piecewise Linear Estimators: From Gaussian
+  Mixture Models to Structured Sparsity"
+Action Recognition in Videos: from Motion Capture Labs to the Web
+Optimization of Weighted Curvature for Image Segmentation
+Efficient Region-Based Image Querying
+3D Visual Tracking with Particle and Kalman Filters
+"Performance Comparison of SVM and ANN for Handwritten Devnagari
+  Character Recognition"
+"Recognition of Non-Compound Handwritten Devnagari Characters using a
+  Combination of MLP and Minimum Edit Distance"
+"Application of Statistical Features in Handwritten Devnagari Character
+  Recognition"
+"Multiple Classifier Combination for Off-line Handwritten Devnagari
+  Character Recognition"
+"A Two Stage Classification Approach for Handwritten Devanagari
+  Characters"
+A novel approach for handwritten Devnagari character recognition
+"Classification Of Gradient Change Features Using MLP For Handwritten
+  Character Recognition"
+FPGA Based Assembling of Facial Components for Human Face Construction
+Fuzzy Classification of Facial Component Parameters
+Weighted Attribute Fusion Model for Face Recognition
+Fast Color Space Transformations Using Minimax Approximations
+"Effective Pedestrian Detection Using Center-symmetric Local
+  Binary/Trinary Patterns"
+Distance Measures for Reduced Ordering Based Vector Filters
+Real-Time Implementation of Order-Statistics Based Directional Filters
+"Cost-Effective Implementation of Order-Statistics Based Vector Filters
+  Using Minimax Approximations"
+A Fast Switching Filter for Impulsive Noise Removal from Color Images
+Nonlinear Vector Filtering for Impulsive Noise Removal from Color Images
+"Automatic Detection of Blue-White Veil and Related Structures in
+  Dermoscopy Images"
+"An Improved Objective Evaluation Measure for Border Detection in
+  Dermoscopy Images"
+Approximate Lesion Localization in Dermoscopy Images
+"Evolutionary Computational Method of Facial Expression Analysis for
+  Content-based Video Retrieval using 2-Dimensional Cellular Automata"
+Invariant Spectral Hashing of Image Saliency Graph
+Asymmetric Totally-corrective Boosting for Real-time Object Detection
+3D-Mesh denoising using an improved vertex based anisotropic diffusion
+"Balancing clusters to reduce response time variability in large scale
+  image search"
+Modeling Instantaneous Changes In Natural Scenes
+Image Segmentation by Discounted Cumulative Ranking on Maximal Cliques
+"Rotation Invariant Face Detection Using Wavelet, PCA and Radial Basis
+  Function Networks"
+Face Detection with Effective Feature Extraction
+Visual-hint Boundary to Segment Algorithm for Image Segmentation
+Convolutional Matching Pursuit and Dictionary Training
+"Joint interpretation of on-board vision and static GPS cartography for
+  determination of correct speed limit"
+3-D Rigid Models from Partial Views - Global Factorization
+Maximum Likelihood Mosaics
+"ANSIG - An Analytic Signature for Arbitrary 2D Shapes (or Bags of
+  Unlabeled Points)"
+"Revisiting Complex Moments For 2D Shape Representation and Image
+  Normalization"
+Statistical Compressive Sensing of Gaussian Mixture Models
+"Collaborative Sources Identification in Mixed Signals via Hierarchical
+  Sparse Modeling"
+Selective Image Super-Resolution
+"A Framework for Real-Time Face and Facial Feature Tracking using Optical
+  Flow Pre-estimation and Template Tracking"
+"Binary and nonbinary description of hypointensity in human brain MR
+  images"
+Combining Neural Networks for Skin Detection
+Segmentation of Camera Captured Business Card Images for Mobile Devices
+"Application of Freeman Chain Codes: An Alternative Recognition Technique
+  for Malaysian Car Plates"
+"Illustrating Color Evolution and Color Blindness by the Decoding Model
+  of Color Vision"
+Automatic segmentation of HeLa cell images
+A Review of Research on Devnagari Character Recognition
+"Diffusion framework for geometric and photometric data fusion in
+  non-rigid shape analysis"
+"A Panorama on Multiscale Geometric Representations, Intertwining
+  Spatial, Directional and Frequency Selectivity"
+Image Retrieval Method Using Top-surf Descriptor
+Visual Concept Detection and Real Time Object Detection
+"A Statistical Nonparametric Approach of Face Recognition: Combination of
+  Eigenface & Modified k-Means Clustering"
+Gaussian Affine Feature Detector
+Fuzzy Rules and Evidence Theory for Satellite Image Analysis
+Benchmarking the Quality of Diffusion-Weighted Images
+Off-Line Handwritten Signature Retrieval using Curvelet Transforms
+Template-based matching using weight maps
+GEOMIR2K9 - A Similar Scene Finder
+From a Modified Ambrosio-Tortorelli to a Randomized Part Hierarchy Tree
+"Extracting Parts of 2D Shapes Using Local and Global Interactions
+  Simultaneously"
+An Axis-Based Representation for Recognition
+Disconnected Skeleton: Shape at its Absolute Scale
+Hue Histograms to Spatiotemporal Local Features for Action Recognition
+A Meshless Method for Variational Nonrigid 2-D Shape Registration
+Curved Gabor Filters for Fingerprint Image Enhancement
+Positive Semidefinite Metric Learning Using Boosting-like Algorithms
+Preprocessing: A Step in Automating Early Detection of Cervical Cancer
+"A supervised clustering approach for fMRI-based inference of brain
+  states"
+"A Novel Image Segmentation Enhancement Technique based on Active Contour
+  and Topological Alignments"
+"An efficient circle detection scheme in digital images using ant system
+  algorithm"
+"Comparing Haar-Hilbert and Log-Gabor Based Iris Encoders on Bath Iris
+  Image Database"
+"Robust Mobile Object Tracking Based on Multiple Feature Similarity and
+  Trajectory Filtering"
+"Polar Fusion Technique Analysis for Evaluating the Performances of Image
+  Fusion of Thermal and Visual Images for Human Face Recognition"
+Next Level of Data Fusion for Human Face Recognition
+"High Performance Human Face Recognition using Independent High Intensity
+  Gabor Wavelet Responses: A Statistical Approach"
+DWT Based Fingerprint Recognition using Non Minutiae Features
+Face Identification from Manipulated Facial Images using SIFT
+Morphological Reconstruction for Word Level Script Identification
+"Learning Shape and Texture Characteristics of CT Tree-in-Bud Opacities
+  for CAD Systems"
+"Automated segmentation of the pulmonary arteries in low-dose CT by
+  vessel tracking"
+Augmented Reality Implementation Methods in Mainstream Applications
+Mobile Augmented Reality Applications
+"Fingerprint: DWT, SVD Based Enhancement and Significant Contrast for
+  Ridges and Valleys Using Fuzzy Measures"
+Image denoising assessment using anisotropic stack filtering
+"Leveraging Billions of Faces to Overcome Performance Barriers in
+  Unconstrained Face Recognition"
+Learning Representations by Maximizing Compression
+Real time face recognition using adaboost improved fast PCA algorithm
+"Compressive Imaging using Approximate Message Passing and a Markov-Tree
+  Prior"
+The Statistical methods of Pixel-Based Image Fusion Techniques
+"Advanced phase retrieval: maximum likelihood technique with sparse
+  regularization of phase and amplitude"
+Hierarchical Object Parsing from Structured Noisy Point Clouds
+Multisensor Images Fusion Based on Feature-Level
+Edge detection based on morphological amoebas
+Biometric Authorization System using Gait Biometry
+An Efficient Codebook Initialization Approach for LBG Algorithm
+"Automatic Application Level Set Approach in Detection Calcifications in
+  Mammographic Image"
+"Moving Object Detection by Detecting Contiguous Outliers in the Low-Rank
+  Representation"
+"Toward Designing Intelligent PDEs for Computer Vision: An Optimal
+  Control Approach"
+"Automatic Diagnosis of Abnormal Tumor Region from Brain Computed
+  Tomography Images Using Wavelet Based Statistical Texture Features"
+An Automatic Clustering Technique for Optimal Clusters
+Devnagari document segmentation using histogram approach
+Curvature Prior for MRF-based Segmentation and Shape Inpainting
+"Progressive versus Random Projections for Compressive Capture of Images,
+  Lightfields and Higher Dimensional Visual Signals"
+"Multi-Hypothesis CRF-Segmentation of Neural Tissue in Anisotropic EM
+  Volumes"
+"A Non-Iterative Solution to the Four-Point Three-Views Pose Problem in
+  Case of Collinear Cameras"
+"Design of an Optical Character Recognition System for Camera-based
+  Handheld Devices"
+"Connectivity-Enforcing Hough Transform for the Robust Extraction of Line
+  Segments"
+"Generalised Object Detection and Semantic Analysis: Casino Example using
+  Matlab"
+On the digital homology groups of digital images
+"Detachable Object Detection: Segmentation and Depth Ordering From
+  Short-Baseline Video"
+Probabilistic prototype models for attributed graphs
+"Sparse Online Low-Rank Projection and Outlier Rejection (SOLO) for 3-D
+  Rigid-Body Motion Registration"
+"Improvements on ""Fast space-variant elliptical filtering using box
+  splines"""
+"Posterior Mean Super-resolution with a Causal Gaussian Markov Random
+  Field Prior"
+ABHIVYAKTI: A Vision Based Intelligent System for Elder and Sick Persons
+"A Novel comprehensive method for real time Video Motion Detection
+  Surveillance"
+Face Recognition using Optimal Representation Ensemble
+Discriminately Decreasing Discriminability with Learned Image Filters
+Non-Gaussian Scale Space Filtering with 2 by 2 Matrix of Linear Filters
+A Face Recognition Scheme using Wavelet Based Dominant Features
+A Comparative Experiment of Several Shape Methods in Recognizing Plants
+"Foliage Plant Retrieval using Polar Fourier Transform, Color Moments and
+  Vein Features"
+"Steps Towards a Theory of Visual Information: Active Perception,
+  Signal-to-Symbol Conversion and the Interplay Between Sensing and Control"
+Closed-Loop Learning of Visual Control Policies
+Controlled Total Variation regularization for inverse problems
+Studying Satellite Image Quality Based on the Fusion Techniques
+Face Recognition Based on SVM and 2DPCA
+Hand Tracking based on Hierarchical Clustering of Range Data
+A New Similarity Measure for Non-Local Means Filtering of MRI Images
+Local Naive Bayes Nearest Neighbor for Image Classification
+"A Biomimetic Model of the Outer Plexiform Layer by Incorporating
+  Memristive Devices"
+Meaningful Matches in Stereovision
+"A multi-feature tracking algorithm enabling adaptation to context
+  variations"
+"POCS Based Super-Resolution Image Reconstruction Using an Adaptive
+  Regularization Parameter"
+Re-initialization Free Level Set Evolution via Reaction Diffusion
+"Improvement of BM3D Algorithm and Employment to Satellite and CFA Images
+  Denoising"
+Large Scale Correlation Clustering Optimization
+"Supervised Generative Reconstruction: An Efficient Way To Flexibly Store
+  and Recognize Patterns"
+Insights from Classifying Visual Concepts with Multiple Kernel Learning
+A real time vehicles detection algorithm for vision based sensors
+Vehicles Recognition Using Fuzzy Descriptors of Image Segments
+"A Reduced Reference Image Quality Measure Using Bessel K Forms Model for
+  Tetrolet Coefficients"
+A Geometric Approach For Fully Automatic Chromosome Segmentation
+"Zero-Temperature Limit of a Convergent Algorithm to Minimize the Bethe
+  Free Energy"
+Discretization of Parametrizable Signal Manifolds
+Learning Smooth Pattern Transformation Manifolds
+"Online Adaptive Statistical Compressed Sensing of Gaussian Mixture
+  Models"
+Multispectral Palmprint Recognition Using a Hybrid Feature
+Automated PolyU Palmprint sample Registration and Coarse Classification
+Learning joint intensity-depth sparse representations
+Picture Collage with Genetic Algorithm and Stereo vision
+"A United Image Force for Deformable Models and Direct Transforming
+  Geometric Active Contorus to Snakes by Level Sets"
+Adaptive Noise Reduction Scheme for Salt and Pepper
+Nonparametric Sparse Representation
+NegCut: Automatic Image Segmentation based on MRF-MAP
+G-Lets: Signal Processing Using Transformation Groups
+Automatic system for counting cells with elliptical shape
+"Fractal and Multi-Scale Fractal Dimension analysis: a comparative study
+  of Bouligand-Minkowski method"
+Variations of images to increase their visibility
+"Spatiotemporal Gabor filters: a new method for dynamic texture
+  recognition"
+"A Multimodal Biometric System Using Linear Discriminant Analysis For
+  Improved Performance"
+"Image Labeling and Segmentation using Hierarchical Conditional Random
+  Field Model"
+A PCA-Based Super-Resolution Algorithm for Short Image Sequences
+"A Novel Approach to Fast Image Filtering Algorithm of Infrared Images
+  based on Intro Sort Algorithm"
+"Image decomposition with anisotropic diffusion applied to leaf-texture
+  analysis"
+Compressive Acquisition of Dynamic Scenes
+A New Local Adaptive Thresholding Technique in Binarization
+"Task-Driven Adaptive Statistical Compressive Sensing of Gaussian Mixture
+  Models"
+"Comparing Methods for segmentation of Microcalcification Clusters in
+  Digitized Mammograms"
+"Using Barriers to Reduce the Sensitivity to Edge Miscalculations of
+  Casting-Based Object Projection Feature Estimation"
+Image Fusion and Re-Modified SPIHT for Fused Image
+"A Report on Multilinear PCA Plus Multilinear LDA to Deal with Tensorial
+  Data: Visual Classification as An Example"
+"Posterior Mean Super-Resolution with a Compound Gaussian Markov Random
+  Field Prior"
+"Online Discriminative Dictionary Learning for Image Classification Based
+  on Block-Coordinate Descent Method"
+"Autocalibration with the Minimum Number of Cameras with Known Pixel
+  Shape"
+Invariant Scattering Convolution Networks
+"A comparative evaluation of two algorithms of detection of masses on
+  mammograms"
+Substructure and Boundary Modeling for Continuous Action Recognition
+Video Object Tracking and Analysis for Computer Assisted Surgery
+Enhancement of Images using Morphological Transformation
+Square-Cut: A Segmentation Algorithm on the Basis of a Rectangle Shape
+Integrated three-dimensional reconstruction using reflectance fields
+"Single Reduct Generation Based on Relative Indiscernibility of Rough Set
+  Theory"
+Reconstruction error in a motion capture system
+Extraction of Facial Feature Points Using Cumulative Histogram
+Clustering Using Isoperimetric Number of Trees
+A Co-Prime Blur Scheme for Data Security in Video Surveillance
+"Kernel Density Feature Points Estimator for Content-Based Image
+  Retrieval"
+Analysis of Magnification in Depth from Defocus
+Face Expression Recognition and Analysis: The State of the Art
+"Efficient Fruit Defect Detection and Glare removal Algorithm by
+  anisotropic diffusion and 2D Gabor filter"
+"Principal Component Analysis-Linear Discriminant Analysis Feature
+  Extractor for Pattern Recognition"
+A Complete Workflow for Development of Bangla OCR
+Continuous Markov Random Fields for Robust Stereo Estimation
+Vision-based Human Gender Recognition: A Survey
+Image segmentation by adaptive distance based on EM algorithm
+Automatic liver segmentation method in CT images
+A New Approach for Arabic Handwritten Postal Addresses Recognition
+"Multi-Level Coding Efficiency with Improved Quality for Image
+  Compression based on AMBTC"
+SVD-EBP Algorithm for Iris Pattern Recognition
+"Automatic facial feature extraction and expression recognition based on
+  neural network"
+Image-based Vehicle Classification System
+The steepest watershed: from graphs to images
+"Ubiquitous WLAN/Camera Positioning using Inverse Intensity Chromaticity
+  Space-based Feature Detection and Matching: A Preliminary Result"
+Feature Extraction Methods for Color Image Similarity
+Collaborative Representation based Classification for Face Recognition
+"Non-sparse Linear Representations for Visual Tracking with Online
+  Reservoir Metric Learning"
+Speech Recognition: Increasing Efficiency of Support Vector Machines
+A New Approach of Improving CFA Image for Digital Camera's
+Robust Head Pose Estimation Using Contourlet Transform
+Background subtraction based on Local Shape
+Active Contour with A Tangential Component
+Parametric annealing: a stochastic search method for human pose tracking
+Elimination of Glass Artifacts and Object Segmentation
+Rapid Feature Extraction for Optical Character Recognition
+Optimizing Face Recognition Using PCA
+"Off-Line Arabic Handwriting Character Recognition Using Word
+  Segmentation"
+"Performance Analysis of Unsymmetrical trimmed median as detector on
+  image noises and its Fpga implementation"
+"A Novel Windowing Technique for Efficient Computation of MFCC for
+  Speaker Recognition"
+Image Similarity Using Sparse Representation and Compression Distance
+An efficient hierarchical graph based image segmentation
+Real time facial expression recognition using a novel method
+Blind PSF estimation and methods of deconvolution optimization
+Portraits of Julius Caesar: a proposal for 3D analysis
+"A generic framework for video understanding applied to group behavior
+  recognition"
+Efficient Selection of Disambiguating Actions for Stereo Vision
+Human Activity Learning using Object Affordances from RGB-D Videos
+"Performance Measurement and Method Analysis (PMMA) for Fingerprint
+  Reconstruction"
+"An Efficient Automatic Attendance System Using Fingerprint
+  Reconstruction Technique"
+Stable Segmentation of Digital Image
+Color Image Compression Algorithm Based on the DCT Blocks
+Contour Completion Around a Fixation Point
+An Evaluation of Popular Copy-Move Forgery Detection Approaches
+A Survey of Recent View-based 3D Model Retrieval Methods
+"Improved Total Variation based Image Compressive Sensing Recovery by
+  Nonlocal Regularization"
+"Image Super-Resolution via Dual-Dictionary Learning And Sparse
+  Representation"
+Trace transform based method for color image domain identification
+"An Online Character Recognition System to Convert Grantha Script to
+  Malayalam"
+The Segmentation Fusion Method On10 Multi-Sensors
+WESD - Weighted Spectral Distance for Measuring Shape Dissimilarity
+"Are You Imitating Me? Unsupervised Sparse Modeling for Group Activity
+  Analysis from a Single Video"
+Benchmarking recognition results on word image datasets
+"Dimensionality Reduction and Classification Feature Using Mutual
+  Information Applied to Hyperspectral Images: A Wrapper Strategy Algorithm
+  Based on Minimizing the Error Probability Using the Inequality of Fano"
+"Performance Evaluation of Random Set Based Pedestrian Tracking
+  Algorithms"
+"Segmentation of ultrasound images of thyroid nodule for assisting fine
+  needle aspiration cytology"
+"Application of Symmetric Uncertainty and Mutual Information to
+  Dimensionality Reduction and Classification of Hyperspectral Images"
+"Implementation of Radon Transformation for Electrical Impedance
+  Tomography (EIT)"
+"Gender Recognition in Walk Gait through 3D Motion by Quadratic Bezier
+  Curve and Statistical Techniques"
+"Different Operating Systems Compatible for Image Prepress Process in
+  Color Management: Analysis and Performance Testing"
+"James-Stein Type Center Pixel Weights for Non-Local Means Image
+  Denoising"
+3D Scene Grammar for Parsing RGB-D Pointclouds
+A Comparative study of Arabic handwritten characters invariant feature
+Fourier-Bessel rotational invariant eigenimages
+"Multi-input Multi-output Beta Wavelet Network: Modeling of Acoustic
+  Units for Speech Recognition"
+"Time Complexity Analysis of Binary Space Partitioning Scheme for Image
+  Compression"
+3D Surface Reconstruction of Underwater Objects
+Localisation of Numerical Date Field in an Indian Handwritten Document
+NF-SAVO: Neuro-Fuzzy system for Arabic Video OCR
+A New Algorithm Based Entropic Threshold for Edge Detection in Images
+"New Edge Detection Technique based on the Shannon Entropy in Gray Level
+  Images"
+Multi-Sensor Fusion via Reduction of Dimensionality
+Visual Recognition of Isolated Swedish Sign Language Signs
+Non-Local Patch Regression: Robust Image Denoising in Patch Space
+Efficient Superimposition Recovering Algorithm
+Rate-Distortion Analysis of Multiview Coding in a DIBR Framework
+Matching Through Features and Features Through Matching
+Cobb Angle Measurement of Scoliosis with Reduced Variability
+Detection of elliptical shapes via cross-entropy clustering
+Hyperspectral Data Unmixing Using GNMF Method and Sparseness Constraint
+"Multilevel Threshold Based Gray Scale Image Segmentation using Cuckoo
+  Search"
+"Regularized Spherical Polar Fourier Diffusion MRI with Optimal
+  Dictionary Learning"
+Extending UML for Conceptual Modeling of Annotation of Medical Images
+"A Unified Framework of Elementary Geometric Transformation
+  Representation"
+Submodularity of a Set Label Disagreement Function
+Toward Guaranteed Illumination Models for Non-Convex Objects
+Major Limitations of Satellite images
+Image Fusion Technologies In Commercial Remote Sensing Packages
+"Semantic Context Forests for Learning-Based Knee Cartilage Segmentation
+  in 3D MR Images"
+"Conversion of Braille to Text in English, Hindi and Tamil Languages"
+"A two-layer Conditional Random Field for the classification of partially
+  occluded objects"
+"Contrast Enhancement And Brightness Preservation Using Multi-
+  Decomposition Histogram Equalization"
+Fuzzy Fibers: Uncertainty in dMRI Tractography
+Speedy Object Detection based on Shape
+A Minimal Six-Point Auto-Calibration Algorithm
+Mammogram Edge Detection Using Hybrid Soft Computing Methods
+"Content Based Image Retrieval System using Feature Classification with
+  Modified KNN Algorithm"
+Video Text Localization using Wavelet and Shearlet Transforms
+"Automated Defect Localization via Low Rank Plus Outlier Modeling of
+  Propagating Wavefield Data"
+A Novel Equation based Classifier for Detecting Human in Images
+Online Tracking Parameter Adaptation based on Evaluation
+A study of parameters affecting visual saliency assessment
+"Visual saliency estimation by integrating features using multiple kernel
+  learning"
+Is Bottom-Up Attention Useful for Scene Recognition?
+"Saliency-Guided Perceptual Grouping Using Motion Cues in Region-Based
+  Artificial Visual Attention"
+"Appearance Descriptors for Person Re-identification: a Comprehensive
+  Review"
+"An Adaptive GMM Approach to Background Subtraction for Application in
+  Real Time Surveillance"
+6th International Symposium on Attention in Cognitive Systems 2013
+Matching-Constrained Active Contours
+"Selection Mammogram Texture Descriptors Based on Statistics Properties
+  Backpropagation Structure"
+"Veni Vidi Vici, A Three-Phase Scenario For Parameter Space Analysis in
+  Image Analysis and Visualization"
+"Automatic Mammogram image Breast Region Extraction and Removal of
+  Pectoral Muscle"
+Efficient Energy Minimization for Enforcing Statistics
+"An Integrated System for 3D Gaze Recovery and Semantic Analysis of Human
+  Attention"
+Hybrid Affinity Propagation
+A Prototyping Environment for Integrated Artificial Attention Systems
+Who and Where: People and Location Co-Clustering
+"A Robust Alternating Direction Method for Constrained Hybrid Variational
+  Deblurring Model"
+Learning to Rank for Blind Image Quality Assessment
+"Multi-Column Deep Neural Networks for Offline Handwritten Chinese
+  Character Classification"
+"A Study on Unsupervised Dictionary Learning and Feature Encoding for
+  Action Classification"
+Minutiae Based Thermal Face Recognition using Blood Perfusion Data
+Automated Thermal Face recognition based on Minutiae Extraction
+"A Comparative Study of Human thermal face recognition based on Haar
+  wavelet transform (HWT) and Local Binary Pattern (LBP)"
+Boosting in Location Space
+"Minutiae Based Thermal Human Face Recognition using Label Connected
+  Component Algorithm"
+"Thermal Human face recognition based on Haar wavelet transform and
+  series matching technique"
+"Practical Matrix Completion and Corruption Recovery using Proximal
+  Alternating Robust Subspace Minimization"
+Topology preserving thinning for cell complexes
+Radar shadow detection in SAR images using DEM and projections
+Single image super resolution in spatial and wavelet domain
+"A multi-stream hmm approach to offline handwritten arabic word
+  recognition"
+"Robust Periocular Recognition By Fusing Sparse Representations of Color
+  and Geometry Information"
+"The Classification Accuracy of Multiple-Metric Learning Algorithm on
+  Multi-Sensor Fusion"
+"A Novel Approach in detecting pose orientation of a 3D face required for
+  face"
+"A method for nose-tip based 3D face registration using maximum intensity
+  algorithm"
+SEEDS: Superpixels Extracted via Energy-Driven Sampling
+"GRED: Graph-Regularized 3D Shape Reconstruction from Highly Anisotropic
+  and Noisy Images"
+"A novel approach for nose tip detection using smoothing by weighted
+  median filtering applied to 3D face images in variant poses"
+"Detection of pose orientation across single and multiple axes in case of
+  3D face images"
+"A novel approach to nose-tip and eye corners detection using H-K
+  Curvature Analysis in case of 3D images"
+Blind Deconvolution via Maximum Kurtosis Adaptive Filtering
+"Development of Comprehensive Devnagari Numeral and Character Database
+  for Offline Handwritten Character Recognition"
+Generic Image Classification Approaches Excel on Face Recognition
+"Scan-based Compressed Terahertz Imaging and Real-Time Reconstruction via
+  the Complex-valued Fast Block Sparse Bayesian Learning Algorithm"
+"Diffeomorphic Metric Mapping and Probabilistic Atlas Generation of
+  Hybrid Diffusion Imaging based on BFOR Signal Basis"
+"Contextually learnt detection of unusual motion-based behaviour in
+  crowded public spaces"
+Multiple-object tracking in cluttered and crowded public spaces
+Characterness: An Indicator of Text in the Wild
+Online Algorithms for Factorization-Based Structure from Motion
+Adopting level set theory based algorithms to segment human ear
+Face Verification Using Boosted Cross-Image Features
+CSIFT Based Locality-constrained Linear Coding for Image Classification
+"Identificación y Registro Catastral de Cuerpos de Agua mediante
+  Técnicas de Procesamiento Digital de Imagenes"
+"Correcting Multi-focus Images via Simple Standard Deviation for Image
+  Fusion"
+An Image-Based Fluid Surface Pattern Model
+A Novel Approach For Generating Face Template Using Bda
+"Hybrid Approach to Face Recognition System using Principle component and
+  Independent component with score based fusion process"
+"A Hybrid NN/HMM Modeling Technique for Online Arabic Handwriting
+  Recognition"
+Adaptive-Rate Compressive Sensing Using Side Information
+"Machine Assisted Authentication of Paper Currency: an Experiment on
+  Indian Banknotes"
+"What is usual in unusual videos? Trajectory snippet histograms for
+  discovering unusualness"
+ConceptVision: A Flexible Scene Classification Framework
+Bangla Text Recognition from Video Sequence: A New Focus
+Large Scale Visual Recommendations From Street Fashion Images
+"Brazilian License Plate Detection Using Histogram of Oriented Gradients
+  and Sliding Windows"
+Gesture recognition based mouse events
+"Satellite image classification and segmentation using non-additive
+  entropy"
+A Study of Image Analysis with Tangent Distance
+"A parameterless scale-space approach to find meaningful modes in
+  histograms - Application to image and spectrum segmentation"
+"Insights into analysis operator learning: From patch-based sparse models
+  to higher-order MRFs"
+"Tensor Representation and Manifold Learning Methods for Remote Sensing
+  Images"
+"Application of the Modified Fractal Signature Method for Terrain
+  Classification from Synthetic Aperture Radar Images"
+Experiments of Distance Measurements in a Foliage Plant Retrieval System
+Convex Relaxations of SE(2) and SE(3) for Visual Pose Estimation
+"Learning $\ell_1$-based analysis and synthesis sparsity priors using
+  bi-level optimization"
+"Revisiting loss-specific training of filter-based MRFs for image
+  restoration"
+A bi-level view of inpainting - based image compression
+Distortion-driven Turbulence Effect Removal using Variational Model
+Visual Tracking using Particle Swarm Optimization
+"Study of Efficient Technique Based On 2D Tsallis Entropy For Image
+  Thresholding"
+"An Identification System Using Eye Detection Based On Wavelets And
+  Neural Networks"
+Edge detection of binary images using the method of masks
+"Multi-Directional Multi-Level Dual-Cross Patterns for Robust Face
+  Recognition"
+"License Plate Recognition (LPR): A Review with Experiments for Malaysia
+  Case Study"
+"Enhancing Template Security of Face Biometrics by Using Edge Detection
+  and Hashing"
+Hierarchical pixel clustering for image segmentation
+"Efficient Background Modeling Based on Sparse Representation and Outlier
+  Iterative Removal"
+Face Verification Using Kernel Principle Component Analysis
+"Face Verification System based on Integral Normalized Gradient
+  Image(INGI)"
+"Delegating Custom Object Detection Tasks to a Universal Classification
+  System"
+Brain Tumor Detection Based On Symmetry Information
+"Image enhancement using fusion by wavelet transform and laplacian
+  pyramid"
+"Spatially regularized reconstruction of fibre orientation distributions
+  in the presence of isotropic diffusion"
+Automatic Detection of Calibration Grids in Time-of-Flight Images
+"Continuous Localization and Mapping of a Pan Tilt Zoom Camera for Wide
+  Area Tracking"
+Use HMM and KNN for classifying corneal data
+A Generalized Probabilistic Framework for Compact Codebook Creation
+"Effective Features of Remote Sensing Image Classification Using
+  Interactive Adaptive Thresholding Method"
+Hallucinating optimal high-dimensional subspaces
+"Infrared face recognition: a comprehensive review of methodologies and
+  databases"
+Variational local structure estimation for image super-resolution
+"Bandwidth selection for kernel estimation in mixed multi-dimensional
+  spaces"
+"Supervised learning on graphs of spatio-temporal similarity in satellite
+  image sequences"
+Linear Time Recognition Algorithms for Topological Invariants in 3D
+A New Algorithm for Interactive Structural Image Segmentation
+A multilateral filtering method applied to airplane runway image
+"Increasing Linear Dynamic Range of Commercial Digital Photocamera Used
+  in Imaging Systems with Optical Coding"
+"Statistical region-based active contours with exponential family
+  observations"
+Region-based active contour with noise and shape priors
+"DimReduction - Interactive Graphic Environment for Dimensionality
+  Reduction"
+"Directional Cross Diamond Search Algorithm for Fast Block Motion
+  Estimation"
+Fast Wavelet-Based Visual Classification
+Classification of curves in 2D and 3D via affine integral signatures
+"Conceptualization of seeded region growing by pixels aggregation. Part
+  1: the framework"
+"Conceptualization of seeded region growing by pixels aggregation. Part
+  2: how to localize a final partition invariant about the seeded region
+  initialisation order"
+"Conceptualization of seeded region growing by pixels aggregation. Part
+  3: a wide range of algorithms"
+"Conceptualization of seeded region growing by pixels aggregation. Part
+  4: Simple, generic and robust extraction of grains in granular materials
+  obtained by X-ray tomography"
+Color Dipole Moments for Edge Detection
+"On the closed-form solution of the rotation matrix arising in computer
+  vision problems"
+Point-Set Registration: Coherent Point Drift
+Colorization of Natural Images via L1 Optimization
+A statistical learning approach to color demosaicing
+"A New Solution to the Relative Orientation Problem using only 3 Points
+  and the Vertical Direction"
+"Segmentation of Facial Expressions Using Semi-Definite Programming and
+  Generalized Principal Component Analysis"
+"Combinatorial pyramids and discrete geometry for energy-minimizing
+  segmentation"
+Deformable Model with a Complexity Independent from Image Resolution
+"Adaptive Regularization of Ill-Posed Problems: Application to Non-rigid
+  Image Registration"
+"Automatic Defect Detection and Classification Technique from Image: A
+  Special Case Using Ceramic Tiles"
+"Automatic Spatially-Adaptive Balancing of Energy Terms for Image
+  Segmentation"
+"Efficient IRIS Recognition through Improvement of Feature Extraction and
+  subset Selection"
+A new approach for digit recognition based on hand gesture analysis
+Segmentation for radar images based on active contour
+A dyadic solution of relative pose problems
+Handwritten Farsi Character Recognition using Artificial Neural Network
+Survey of Nearest Neighbor Techniques
+Repairing People Trajectories Based on Point Clustering
+"A Fast Decision Technique for Hierarchical Hough Transform for Line
+  Detection"
+"Face Synthesis (FASY) System for Determining the Characteristics of a
+  Face Image"
+"Quotient Based Multiresolution Image Fusion of Thermal and Visual Images
+  Using Daubechies Wavelet Transform for Human Face Recognition"
+Fusion of Daubechies Wavelet Coefficients for Human Face Recognition
+"Fusion of Wavelet Coefficients from Visual and Thermal Face Images for
+  Human Face Recognition - A Comparative Study"
+"A Parallel Framework for Multilayer Perceptron for Human Face
+  Recognition"
+Image Pixel Fusion for Human Face Recognition
+"Classification of Fused Images using Radial Basis Function Neural
+  Network for Human Face Recognition"
+"Classification of fused face images using multilayer perceptron neural
+  network"
+"Classification of Log-Polar-Visual Eigenfaces using Multilayer
+  Perceptron"
+Human Face Recognition using Line Features
+Bilateral filters: what they can and cannot do
+Registration of Brain Images using Fast Walsh Hadamard Transform
+"Multi-environment model estimation for motility analysis of
+  Caenorhabditis Elegans"
+"Improved RANSAC performance using simple, iterative minimal-set solvers"
+"A Study on the Effectiveness of Different Patch Size and Shape for Eyes
+  and Mouth Detection"
+Neural Network Based Reconstruction of a 3D Object from a 2D Wireframe
+Video Event Recognition for Surveillance Applications (VERSA)
+"Ear Identification by Fusion of Segmented Slice Regions using Invariant
+  Features: An Experimental Manifold with Dual Fusion Approach"
+"An Efficient Automatic Mass Classification Method In Digitized
+  Mammograms Using Artificial Neural Network"
+Biometric Authentication using Nonparametric Methods
+A Miniature-Based Image Retrieval System
+Optimally Training a Cascade Classifier
+"Proliferating cell nuclear antigen (PCNA) allows the automatic
+  identification of follicles in microscopic images of human ovarian tissue"
+"Comparative Study of Statistical Skin Detection Algorithms for
+  Sub-Continental Human Images"
+"Multiple View Reconstruction of Calibrated Images using Singular Value
+  Decomposition"
+Lesion Border Detection in Dermoscopy Images
+"Featureless 2D-3D Pose Estimation by Minimising an
+  Illumination-Invariant Loss"
+Single Frame Image super Resolution using Learned Directionlets
+Bounded Multivariate Surfaces On Monovariate Internal Functions
+Classification with Scattering Operators
+The Data Replication Method for the Classification with Reject Option
+A Fuzzy Clustering Model for Fuzzy Data with Outliers
+Generalized Tree-Based Wavelet Transform
+Edge Preserving Image Denoising in Reproducing Kernel Hilbert Spaces
+Learning sparse representations of depth
+Modeling Dynamic Swarms
+"Feature selection via simultaneous sparse approximation for person
+  specific face verification"
+SHREC 2011: robust feature detection and description benchmark
+"A novel super resolution reconstruction of low reoslution images
+  progressively using dct and zonal filter based denoising"
+DBC based Face Recognition using DWT
+M-FISH Karyotyping - A New Approach Based on Watershed Transform
+"Discrimination of English to other Indian languages (Kannada and Hindi)
+  for OCR system"
+Are visual dictionaries generalizable?
+Efficient Topology-Controlled Sampling of Implicit Shapes
+"Optimal Weights Mixed Filter for Removing Mixture of Gaussian and
+  Impulse Noises"
+"Fuzzy - Rough Feature Selection With Π- Membership Function For
+  Mammogram Classification"
+Spectral Graph Cut from a Filtering Point of View
+Gray Level Co-Occurrence Matrices: Generalisation and Some New Features
+Neural Network Approach for Eye Detection
+"Linearized Alternating Direction Method with Adaptive Penalty and Warm
+  Starts for Fast Solving Transform Invariant Low-Rank Textures"
+Locally Orderless Registration
+Generalized sequential tree-reweighted message passing
+A Brief Summary of Dictionary Learning Based Approach for Classification
+"An Unsupervised Dynamic Image Segmentation using Fuzzy Hopfield Neural
+  Network based Genetic Algorithm"
+Template-Cut: A Pattern-Based Segmentation Paradigm
+"Fingerprint Gender Classification using Wavelet Transform and Singular
+  Value Decomposition"
+"Personal Identification from Lip-Print Features using a Statistical
+  Model"
+Analysis of Amoeba Active Contours
+Object Detection Using Keygraphs
+Surface Registration Using Genetic Algorithm in Reduced Search Space
+"Filtering for More Accurate Dense Tissue Segmentation in Digitized
+  Mammograms"
+Flexible Visual Quality Inspection in Discrete Manufacturing
+"Using the Random Sprays Retinex Algorithm for Global Illumination
+  Estimation"
+"Combining Spatio-Temporal Appearance Descriptors and Optical Flow for
+  Human Action Recognition in Video Data"
+A Novel Georeferenced Dataset for Stereo Visual Odometry
+Multiclass Road Sign Detection using Multiplicative Kernel
+Global Localization Based on 3D Planar Surface Segments
+Computer Vision Systems in Road Vehicles: A Review
+Classifying Traffic Scenes Using The GIST Image Descriptor
+"An Overview and Evaluation of Various Face and Eyes Detection Algorithms
+  for Driver Fatigue Monitoring Systems"
+Second Croatian Computer Vision Workshop (CCVW 2013)
+The complex-valued encoding for dicision-making based on aliasing data
+"Second order scattering descriptors predict fMRI activity due to visual
+  textures"
+"DeCAF: A Deep Convolutional Activation Feature for Generic Visual
+  Recognition"
+Online Unsupervised Feature Learning for Visual Tracking
+"Potts model, parametric maxflow and k-submodular functions"
+End-to-End Text Recognition with Hybrid HMM Maxout Models
+A State Of the Art Report on Research in Multiple RGB-D sensor Setups
+The role of RGB-D benchmark datasets: an overview
+A Robust Variational Model for Positive Image Deconvolution
+Linear Algorithm for Digital Euclidean Connected Skeleton
+From Shading to Local Shape
+"Bayesian Estimation of White Matter Atlas from High Angular Resolution
+  Diffusion Imaging"
+PCG-Cut: Graph Driven Segmentation of the Prostate Central Gland
+"An Improved K-means Clustering Based Approach to Detect a DNA Structure
+  in H&E Image of Mouse Tissue Reacted with CD4-Green Antigen"
+Dense Scattering Layer Removal
+Misfire Detection in IC Engine using Kstar Algorithm
+Optimal Sensor Placement and Enhanced Sparsity for Classification
+"Fine-grained Categorization -- Short Summary of our Entry for the
+  ImageNet Challenge 2012"
+"Principal motion components for gesture recognition using a
+  single-example"
+"Dictionary Learning and Sparse Coding on Grassmann Manifolds: An
+  Extrinsic Solution"
+"Advances in Hyperspectral Image Classification: Earth monitoring with
+  statistical learning methods"
+Ship Detection and Segmentation using Image Correlation
+"Devnagari Handwritten Numeral Recognition using Geometric Features and
+  Statistical Combination Classifier"
+Contextual Hypergraph Modelling for Salient Object Detection
+"Fusion of Hyperspectral and Panchromatic Images using Spectral Uumixing
+  Results"
+"Improvement of Automatic Hemorrhages Detection Methods Using Shapes
+  Recognition"
+"Word Spotting in Cursive Handwritten Documents using Modified Character
+  Shape Codes"
+"Skin Segmentation based Elastic Bunch Graph Matching for efficient
+  multiple Face Recognition"
+"A Ray-based Approach for Boundary Estimation of Fiber Bundles Derived
+  from Diffusion Tensor Imaging"
+Can Facial Uniqueness be Inferred from Impostor Scores?
+"Pseudo vs. True Defect Classification in Printed Circuits Boards using
+  Wavelet Features"
+Fast 3D Salient Region Detection in Medical Images using GPUs
+Gender Classification Using Gradient Direction Pattern
+Efficient Information Theoretic Clustering on Discrete Lattices
+"Object Recognition System Design in Computer Vision: a Universal
+  Approach"
+"Neural perceptual model to global-local vision for recognition of the
+  logical structure of administrative documents"
+Impulse Noise Removal In Speech Using Wavelets
+"An iterative algorithm for computed tomography image reconstruction from
+  limited-angle projections"
+Traffic Monitoring Using M2M Communication
+"A Continuous Max-Flow Approach to General Hierarchical Multi-Labeling
+  Problems"
+"A Comparative Study of Modern Inference Techniques for Structured
+  Discrete Energy Minimization Problems"
+Weyl group orbit functions in image processing
+MBIS: Multivariate Bayesian Image Segmentation Tool
+"Extraction of Projection Profile, Run-Histogram and Entropy Features
+  Straight from Run-Length Compressed Text-Documents"
+An Efficient Two-Stage Sparse Representation Method
+Recognition of Handwritten MODI Numerals using Hu and Zernike features
+"Pseudo-Zernike Based Multi-Pass Automatic Target Recognition From
+  Multi-Channel SAR"
+Neural Codes for Image Retrieval
+"Improving Bilayer Product Quantization for Billion-Scale Approximate
+  Nearest Neighbors in High Dimensions"
+DenseNet: Implementing Efficient ConvNet Descriptor Pyramids
+Automatic Tracker Selection w.r.t Object Detection Performance
+Entropy Computation of Document Images in Run-Length Compressed Domain
+Cascades of Regression Tree Fields for Image Restoration
+A Compact Linear Programming Relaxation for Binary Sub-modular MRF
+"RANCOR: Non-Linear Image Registration with Total Variation
+  Regularization"
+A Reverse Hierarchy Model for Predicting Eye Fixations
+"Shrinkage Optimized Directed Information using Pictorial Structures for
+  Action Recognition"
+"Learning Deep Convolutional Features for MRI Based Alzheimer's Disease
+  Classification"
+"Proceedings of The 38th Annual Workshop of the Austrian Association for
+  Pattern Recognition (ÖAGM), 2014"
+Recover Canonical-View Faces in the Wild with Deep Neural Networks
+Face Detection with a 3D Model
+Scalable Matting: A Sub-linear Approach
+Spiralet Sparse Representation
+Generic Object Detection With Dense Neural Patterns and Regionlets
+"Cube-Cut: Vertebral Body Segmentation in MRI-Data through Cubic-Shaped
+  Divergences"
+Learning Fine-grained Image Similarity with Deep Ranking
+Online Group Feature Selection
+Robust Face Recognition via Adaptive Sparse Representation
+Automatic Annotation of Axoplasmic Reticula in Pursuit of Connectomes
+"Unified Structured Learning for Simultaneous Human Pose Estimation and
+  Garment Attribute Classification"
+Geometric Abstraction from Noisy Image-Based 3D Reconstructions
+"A higher-order MRF based variational model for multiplicative noise
+  reduction"
+"Fast Approximate Matching of Cell-Phone Videos for Robust Background
+  Subtraction"
+Large Margin Image Set Representation and Classification
+Maximum Margin Vector Correlation Filter
+"A General Homogeneous Matrix Formulation to 3D Rotation Geometric
+  Transformations"
+Improving weather radar by fusion and classification
+Indoor Activity Detection and Recognition for Sport Games Analysis
+Robust and Efficient Subspace Segmentation via Least Squares Regression
+Stereo on a budget
+"Computer vision-based recognition of liquid surfaces and phase
+  boundaries in transparent vessels, with emphasis on chemistry applications"
+"Spatially Directional Predictive Coding for Block-based Compressive
+  Sensing of Natural Images"
+"Structural Group Sparse Representation for Image Compressive Sensing
+  Recovery"
+"Image Compressive Sensing Recovery Using Adaptively Learned Sparsifying
+  Basis via L0 Minimization"
+High-Speed Tracking with Kernelized Correlation Filters
+"Dynamic Mode Decomposition for Real-Time Background/Foreground
+  Separation in Video"
+Selecting a Small Set of Optimal Gestures from an Extensive Lexicon
+A graph-based mathematical morphology reader
+"Sparse Coding on Symmetric Positive Definite Manifolds using Bregman
+  Divergences"
+Kernel Coding: General Formulation and Special Cases
+Multi-tensor Completion for Estimating Missing Values in Video Data
+ImageNet Large Scale Visual Recognition Challenge
+Transferring Landmark Annotations for Cross-Dataset Face Alignment
+"Effective Spectral Unmixing via Robust Representation and Learning-based
+  Sparsity"
+Action Recognition in the Frequency Domain
+Visual Speech Recognition
+The Evolution of First Person Vision Methods: A Survey
+Very Deep Convolutional Networks for Large-Scale Image Recognition
+Identifying Synapses Using Deep and Wide Multiscale Recursive Networks
+"Depth image hand tracking from an overhead perspective using partially
+  labeled, unbalanced data: Development and real-world testing"
+A Computational Model of the Short-Cut Rule for 2D Shape Decomposition
+Image processing
+"Comparing Feature Detectors: A bias in the repeatability criteria, and
+  how to correct it"
+"F-formation Detection: Individuating Free-standing Conversational Groups
+  in Images"
+Enforcing Label and Intensity Consistency for IR Target Detection
+Quantum Edge Detection for Image Segmentation in Optical Environments
+One-Dimensional Vector based Pattern Matching
+"DeepID-Net: multi-stage and deformable deep convolutional neural
+  networks for object detection"
+Structure Preserving Large Imagery Reconstruction
+Concurrent Tracking of Inliers and Outliers
+Self-taught Object Localization with Deep Networks
+"Mining Mid-level Features for Action Recognition Based on Effective
+  Skeleton Representation"
+"A New Framework for Retinex based Color Image Enhancement using Particle
+  Swarm Optimization"
+Cavlectometry: Towards Holistic Reconstruction of Large Mirror Objects
+"Speeding-up Graphical Model Optimization via a Coarse-to-fine Cascade of
+  Pruning Classifiers"
+"On the optimality of shape and data representation in the spectral
+  domain"
+"Real-time Crowd Tracking using Parameter Optimized Mixture of Motion
+  Models"
+"A Combined Method Of Fractal And GLCM Features For MRI And CT Scan
+  Images Classification"
+Going Deeper with Convolutions
+Adaptive Tag Selection for Image Annotation
+"A Survey on Heterogeneous Face Recognition: Sketch, Infra-red, 3D and
+  Low-resolution"
+Fingerprint Classification Based on Depth Neural Network
+Deep Regression for Face Alignment
+Subspace Alignment For Domain Adaptation
+"Visual Landmark Recognition from Internet Photo Collections: A
+  Large-Scale Evaluation"
+Deformable Part Models are Convolutional Neural Networks
+"Hyperspectral and Multispectral Image Fusion based on a Sparse
+  Representation"
+Active Dictionary Learning in Sparse Representation Based Classification
+"Fast Low-rank Representation based Spatial Pyramid Matching for Image
+  Classification"
+A Global Approach for Solving Edge-Matching Puzzles
+"Temporally Coherent Bayesian Models for Entity Discovery in Videos by
+  Tracklet Clustering"
+1-HKUST: Object Detection in ILSVRC 2014
+Detecting People in Cubist Art
+Visual Words for Automatic Lip-Reading
+A Concept Learning Approach to Multisensory Object Perception
+"Histogram of Oriented Principal Components for Cross-View Action
+  Recognition"
+Recent Progress in Image Deblurring
+Do More Dropouts in Pool5 Feature Maps for Better Object Detection
+Deep Learning Representation using Autoencoder for 3D Shape Retrieval
+"Image Classification with A Deep Network Model based on Compressive
+  Sensing"
+A Deep Graph Embedding Network Model for Face Recognition
+"Extracting man-made objects from remote sensing images via fast level
+  set evolutions"
+Location Recognition Over Large Time Lags
+Multiple Object Tracking: A Literature Review
+"On The Power of Joint Wavelet-DCT Features for Multispectral Palmprint
+  Recognition"
+RENOIR - A Dataset for Real Low-Light Image Noise Reduction
+Evaluation of Output Embeddings for Fine-Grained Image Classification
+Learning Similarity for Character Recognition and 3D Object Recognition
+Learning View Generalization Functions
+View Based Methods can achieve Bayes-Optimal 3D Recognition
+Hierarchy construction schemes within the Scale set framework
+A Class of LULU Operators on Multi-Dimensional Arrays
+"A Fast Hierarchical Multilevel Image Segmentation Method using Unbiased
+  Estimators"
+"Higher Order Moments Generation by Mellin Transform for Compound Models
+  of Clutter"
+"Obtaining Depth Maps From Color Images By Region Based Stereo Matching
+  Algorithms"
+"Sparse Component Analysis (SCA) in Random-valued and Salt and Pepper
+  Noise Removal"
+Recognition of Regular Shapes in Satelite Images
+Real-time Texture Error Detection
+Digital Restoration of Ancient Papyri
+Multi-Label MRF Optimization via Least Squares s-t Cuts
+"An Iterative Fingerprint Enhancement Algorithm Based on Accurate
+  Determination of Orientation Flow"
+Bounding the Probability of Error for High Precision Recognition
+Augmenting Light Field to model Wave Optics effects
+"Multiresolution Elastic Medical Image Registration in Standard Intensity
+  Scale"
+Registration of Standardized Histological Images in Feature Space
+Fully Automatic 3D Reconstruction of Histological Images
+"Parallel AdaBoost Algorithm for Gabor Wavelet Selection in Face
+  Recognition"
+"Learning Object Location Predictors with Boosting and Grammar-Guided
+  Feature Extraction"
+Automatic local Gabor Features extraction for face recognition
+Multiple pattern classification by sparse subspace decomposition
+"Modular Traffic Sign Recognition applied to on-vehicle real-time visual
+  detection of American and European speed limit signs"
+"3D/2D Registration of Mapping Catheter Images for Arrhythmia
+  Interventional Assistance"
+Color Image Clustering using Block Truncation Algorithm
+Fractional differentiation based image processing
+Behavior Subtraction
+A $p$-adic RanSaC algorithm for stereo vision using Hensel lifting
+An Iterative Shrinkage Approach to Total-Variation Image Restoration
+Accelerating Competitive Learning Graph Quantization
+Boosting k-NN for categorization of natural scenes
+"A Topological derivative based image segmentation for sign language
+  recognition system using isotropic filter"
+Features Based Text Similarity Detection
+3D Skull Recognition Using 3D Matching Technique
+"Hybrid Medical Image Classification Using Association Rule Mining with
+  Decision Tree Algorithm"
+"Gradient Based Seeded Region Grow method for CT Angiographic Image
+  Segmentation"
+"Detection and Demarcation of Tumor using Vector Quantization in MRI
+  images"
+Multi-camera Realtime 3D Tracking of Multiple Flying Animals
+Kannada Character Recognition System A Review
+"Threshold Based Indexing of Commercial Shoe Print to Create Reference
+  and Recovery Images"
+"Analysis, Interpretation, and Recognition of Facial Action Units and
+  Expressions Using Neuro-Fuzzy Modeling"
+"Regularized Richardson-Lucy Algorithm for Sparse Reconstruction of
+  Poissonian Images"
+"Signature Recognition using Multi Scale Fourier Descriptor And Wavelet
+  Transform"
+"A Robust Fuzzy Clustering Technique with Spatial Neighborhood
+  Information for Effective Medical Image Segmentation"
+"A New Approach to Lung Image Segmentation using Fuzzy Possibilistic
+  C-Means Algorithm"
+"Feature Level Fusion of Face and Palmprint Biometrics by Isomorphic
+  Graph-based Improved K-Medoids Partitioning"
+"Maximized Posteriori Attributes Selection from Facial Salient Landmarks
+  for Face Recognition"
+Offline Handwriting Recognition using Genetic Algorithm
+Color Image Compression Based On Wavelet Packet Best Tree
+Signature Region of Interest using Auto cropping
+"Simultaneous Bayesian inference of motion velocity fields and
+  probabilistic models in successive video-frames described by spatio-temporal
+  MRFs"
+Hashing Image Patches for Zooming
+"Spatially-Adaptive Reconstruction in Computed Tomography Based on
+  Statistical Learning"
+Deblured Gaussian Blurred Images
+"An Efficient Watermarking Algorithm to Improve Payload and Robustness
+  without Affecting Image Perceptual Quality"
+"Logical methods of object recognition on satellite images using spatial
+  constraints"
+Sparse motion segmentation using multiple six-point consistencies
+"Affine Invariant, Model-Based Object Recognition Using Robust Metrics
+  and Bayesian Statistics"
+Real-time Visual Tracking Using Sparse Representation
+TILT: Transform Invariant Low-rank Textures
+Detecting Image Forgeries using Geometric Cues
+"Diffusion-geometric maximally stable component detection in deformable
+  shapes"
+"Affine-invariant diffusion geometry for the analysis of deformable 3D
+  shapes"
+Affine-invariant geodesic geometry of deformable 3D shapes
+Automatic Detection of Ringworm using Local Binary Pattern (LBP)
+"A Semi-Automatic Graph-Based Approach for Determining the Boundary of
+  Eloquent Fiber Bundles in the Human Brain"
+All Roads Lead To Rome
+Ray-Based and Graph-Based Methods for Fiber Bundle Boundary Estimation
+"Off-Line Handwritten Signature Identification Using Rotated Complex
+  Wavelet Filters"
+"Automatic Extraction of Open Space Area from High Resolution Urban
+  Satellite Imagery"
+"Automatic Open Space Area Extraction and Change Detection from High
+  Resolution Urban Satellite Images"
+"Application of Threshold Techniques for Readability Improvement of Jawi
+  Historical Manuscript Images"
+Improved Edge Awareness in Discontinuity Preserving Smoothing
+Internal Constraints of the Trifocal Tensor
+"An Automated Size Recognition Technique for Acetabular Implant in Total
+  Hip Replacement"
+"Considerations and Results in Multimedia and DVB Application Development
+  on Philips Nexperia Platform"
+A Multiple Component Matching Framework for Person Re-Identification
+"Face Recognition using 3D Facial Shape and Color Map Information:
+  Comparison and Combination"
+"Invariant Representative Cocycles of Cohomology Generators using
+  Irregular Graph Pyramids"
+"An Algorithmic Solution to the Five-Point Pose Problem Based on the
+  Cayley Representation of Rotations"
+A Multiple-Choice Test Recognition System based on the Gamera Framework
+Cubical Cohomology Ring of 3D Photographs
+Preprocessing for Automating Early Detection of Cervical Cancer
+On the Cohomology of 3D Digital Images
+A Tool for Integer Homology Computation: Lambda-At Model
+Image Splicing Detection Using Inherent Lens Radial Distortion
+Neural Networks for Emotion Classification
+Alignment of Microtubule Imagery
+"Incremental Top-k List Comparison Approach to Robust Multi-Structure
+  Model Fitting"
+"Automatic Road Lighting System (ARLS) Model Based on Image Processing of
+  Moving Object"
+Online Vehicle Detection For Estimating Traffic Status
+"Spatial Features for Multi-Font/Multi-Size Kannada Numerals and Vowels
+  Recognition"
+"Analysis and Improvement of Low Rank Representation for Subspace
+  segmentation"
+Kunchenko's Polynomials for Template Matching
+A Variation of the Box-Counting Algorithm Applied to Colour Images
+Learning Hypergraph Labeling for Feature Matching
+"A Fuzzy View on k-Means Based Signal Quantization with Application in
+  Iris Segmentation"
+Exploring New Directions in Iris Recognition
+Topographic Feature Extraction for Bengali and Hindi Character Images
+Face Recognition using Curvelet Transform
+Fingerprint recognition using standardized fingerprint model
+"Facial Expression Classification Based on Multi Artificial Neural
+  Network and Two Dimensional Principal Component Analysis"
+"Arithmetic and Frequency Filtering Methods of Pixel-Based Image Fusion
+  Techniques"
+The IHS Transformations Based Image Fusion
+Correlation Estimation from Compressed Images
+"Diffeomorphic Metric Mapping of High Angular Resolution Diffusion
+  Imaging based on Riemannian Structure of Orientation Distribution Functions"
+Efficient and Accurate Gaussian Image Filtering Using Running Sums
+Confidence-Based Dynamic Classifier Combination For Mean-Shift Tracking
+"Graph Regularized Nonnegative Matrix Factorization for Hyperspectral
+  Data Unmixing"
+Sparsity and Robustness in Face Recognition
+"Covariant fractional extension of the modified Laplace-operator used in
+  3D-shape recovery"
+Multimodal diff-hash
+Iris Recognition Based on LBP and Combined LVQ Classifier
+"Efficient Hierarchical Markov Random Fields for Object Detection on a
+  Mobile Robot"
+New Method for 3D Shape Retrieval
+Discriminative Local Sparse Representations for Robust Face Recognition
+A Novel Approach to Texture classification using statistical feature
+Good Pairs of Adjacency Relations in Arbitrary Dimensions
+"A Facial Expression Classification System Integrating Canny, Principal
+  Component Analysis and Artificial Neural Network"
+"A Single Euler Number Feature for Multi-font Multi-size Kannada Numeral
+  Recognition"
+"Multi-font Multi-size Kannada Numeral Recognition Based on Structural
+  Features"
+Redundant Wavelets on Graphs and High Dimensional Data Clouds
+A self-portrait of young Leonardo
+Facial Asymmetry and Emotional Expression
+A Theory for Optical flow-based Transport on Image Manifolds
+An image processing of a Raphael's portrait of Leonardo
+Invariant texture analysis through Local Binary Patterns
+The watershed concept and its use in segmentation : a brief history
+Resolving Implementation Ambiguity and Improving SURF
+Comparing Background Subtraction Algorithms and Method of Car Counting
+"Wavelet-based deconvolution of ultrasonic signals in nondestructive
+  evaluation"
+Automatic Clustering with Single Optimal Solution
+Combined Haar-Hilbert and Log-Gabor Based Iris Encoders
+3D Model Assisted Image Segmentation
+"Non-parametric convolution based image-segmentation of ill-posed objects
+  applying context window approach"
+"Using Covariance Matrices as Feature Descriptors for Vehicle Detection
+  from a Fixed Camera"
+No-reference image quality assessment through the von Mises distribution
+Generalized Boundaries from Multiple Image Interpretations
+"A feature extraction technique based on character geometry for character
+  recognition"
+"Unsupervised Threshold for Automatic Extraction of Dolphin Dorsal Fin
+  Outlines from Digital Photographs in DARWIN (Digital Analysis and Recognition
+  of Whale Images on a Network)"
+Regularized Robust Coding for Face Recognition
+A Simple Unsupervised Color Image Segmentation Method based on MRF-MAP
+Stochastic-Based Pattern Recognition Analysis
+"Fast approximations to structured sparse coding and applications to
+  object classification"
+Filling-Based Techniques Applied to Object Projection Feature Estimation
+Anatomical Structure Segmentation in Liver MRI Images
+A Fast Projected Fixed-Point Algorithm for Large Graph Matching
+"An Innovative Skin Detection Approach Using Color Based Image Retrieval
+  Technique"
+Analysis of Multi-Scale Fractal Dimension to Classify Human Motion
+"Spatial And Spectral Quality Evaluation Based On Edges Regions Of
+  Satellite Image Fusion"
+Cups Products in Z2-Cohomology of 3D Polyhedral Complexes
+"A Multi-Agents Architecture to Learn Vision Operators and their
+  Parameters"
+Face Recognition Algorithms based on Transformed Shape Features
+"A Novel Approach Coloured Object Tracker with Adaptive Model and
+  Bandwidth using Mean Shift Algorithm"
+"Camera identification by grouping images from database, based on shared
+  noise patterns"
+Tracking Tetrahymena Pyriformis Cells using Decision Trees
+Color Constancy based on Image Similarity via Bilayer Sparse Coding
+"Deconvolution of vibroacoustic images using a simulation model based on
+  a three dimensional point spread function"
+"HMRF-EM-image: Implementation of the Hidden Markov Random Field Model
+  and its Expectation-Maximization Algorithm"
+"Kernel Principal Component Analysis and its Applications in Face
+  Recognition and Active Shape Models"
+Hierarchical Approach for Total Variation Digital Image Inpainting
+Recovering Articulated Object Models from 3D Range Data
+Probabilistic index maps for modeling natural signals
+Assessment of SAR Image Filtering using Adaptive Stack Filters
+"Multisegmentation through wavelets: Comparing the efficacy of Daubechies
+  vs Coiflets"
+"A Novel Metric Approach Evaluation For The Spatial Enhancement Of
+  Pan-Sharpened Images"
+"Piecewise Linear Patch Reconstruction for Segmentation and Description
+  of Non-smooth Image Structures"
+"A Survey Of Activity Recognition And Understanding The Behavior In Video
+  Survelliance"
+"Visual Vocabulary Learning and Its Application to 3D and Mobile Visual
+  Search"
+FCM Based Blood Vessel Segmentation Method for Retinal Images
+"Wavelet Based Normal and Abnormal Heart Sound Identification using
+  Spectrogram Analysis"
+"A Comparative Study between Moravec and Harris Corner Detection of Noisy
+  Images Using Adaptive Wavelet Thresholding Technique"
+Wavelet Based QRS Complex Detection of ECG Signal
+"Difference of Normals as a Multi-Scale Operator in Unorganized Point
+  Clouds"
+On the Use of Lee's Protocol for Speckle-Reducing Techniques
+Blind Image Deblurring by Spectral Properties of Convolution Operators
+Wavelet Based Image Coding Schemes : A Recent Survey
+Hirarchical Digital Image Inpainting Using Wavelets
+"A Novel Approach of Harris Corner Detection of Noisy Images using
+  Adaptive Wavelet Thresholding Technique"
+"Detection and Classification of Viewer Age Range Smart Signs at TV
+  Broadcast"
+Image Super-Resolution via Sparse Bayesian Modeling of Natural Images
+Head Frontal-View Identification Using Extended LLE
+"An Efficient Color Face Verification Based on 2-Directional
+  2-Dimensional Feature Extraction"
+Creation of Digital Test Form for Prepress Department
+Image Classification and Optimized Image Reproduction
+"An Implementation of Computer Graphics as Prepress Image Enhancement
+  Process"
+Model based neuro-fuzzy ASR on Texas processor
+Segmentation of Breast Regions in Mammogram Based on Density: A Review
+"Environmental Sounds Spectrogram Classification using Log-Gabor Filters
+  and Multiclass Support Vector Machines"
+"Reproduction of Images by Gamut Mapping and Creation of New Test Charts
+  in Prepress Process"
+Face Alignment Using Active Shape Model And Support Vector Machine
+The Biometric Menagerie - A Fuzzy and Inconsistent Concept
+Noise Influence on the Fuzzy-Linguistic Partitioning of Iris Code Space

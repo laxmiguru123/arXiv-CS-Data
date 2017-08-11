@@ -1,0 +1,1335 @@
+title
+"Security amplification by composition: The case of doubly-iterated,
+  ideal ciphers"
+Security Policy Specification Using a Graphical Approach
+"Multiparty computation unconditionally secure against Q^2 adversary
+  structures"
+Introduction to the RSA algorithm and modular arithmetic
+Transport Level Security: a proof using the Gong-Needham-Yahalom Logic
+Certificate Revocation Paradigms
+Quantum Bit Commitment Expansion
+"Specifying and Implementing Security Policies Using LaSCO, the Language
+  for Security Constraints on Objects"
+"The Random Oracle Methodology, Revisited"
+Anonymous Oblivious Transfer
+More Robust Multiparty Protocols with Oblivious Transfer
+Chaos for Stream Cipher
+"Secure Counting: counting members of a subset without revealing their
+  identities"
+Lower Bounds for Zero-knowledge on the Internet
+On Concurrent and Resettable Zero-Knowledge Proofs for NP
+Security Considerations for Remote Electronic Voting over the Internet
+"Algorithmic Self-Assembly of DNA Tiles and its Application to
+  Cryptanalysis"
+New approach for network monitoring and intrusion detection
+Pretty-Simple Password-Authenticated Key-Exchange Protocol
+Trust enhancement by multiple random beacons
+Multidimensional Network Monitoring for Intrusion Detection
+On non-abelian homomorphic public-key cryptosystems
+Public-key cryptography and invariant theory
+Theoretical limit of the compression for the information
+MV2-algorithm's clones
+Differential Fault Analysis on A.E.S
+Homomorphic public-key cryptosystems and encrypting boolean circuits
+"Length-Based Attacks for Certain Group Based Encryption Rewriting
+  Systems"
+On the Relationship between Strand Spaces and Multi-Agent Systems
+"The ray attack, an inefficient trial to break RSA cryptosystems"
+Group Authentication Using The Naccache-Stern Public-Key Cryptosystem
+Homomorphic public-key cryptosystems over groups and rings
+New Lattice Based Cryptographic Constructions
+On secret sharing for graphs
+"Secret Sharing for n-Colorable Graphs with Application to Public Key
+  Cryptography"
+Sharing secret color images using cellular automata with memory
+Pseudorandom number generation by $p$-adic ergodic transformations
+Spam filter analysis
+"Digital Signal Transmission with Chaotic Encryption: Design and
+  Evaluation of a FPGA Realization"
+"Pseudorandom number generation by p-adic ergodic transformations: an
+  addendum"
+Secure Transmission of Sensitive data using multiple channels
+Stream cipher based on quasigroup string transformations in $Z_p^*$
+Encryption Schemes using Finite Frames and Hadamard Arrays
+Soft Computing Models for Network Intrusion Detection Systems
+Jigsaw-based Security in Data Transfer in Computer Networks
+Advanced exploitation of buffer overflow
+Attrition Defenses for a Peer-to-Peer Digital Preservation System
+Ermittlung von Verwundbarkeiten mit elektronischen Koedern
+The Password Change Phase is Still Insecure
+"Sharing Computer Network Logs for Security and Privacy: A Motivation for
+  New Methodologies of Anonymization"
+A Digital Signature with Threshold Generation and Verification
+PKI Scalability Issues
+A Directed Signature Scheme and its Applications
+A Directed -Threshold Multi-Signature Scheme
+Some Applications of Directed Signature Scheme
+Comment on A dynamic ID-based Remote User Authentication Scheme
+"The Key Authority - Secure Key Management in Hierarchical Public Key
+  Infrastructures"
+Outflanking and securely using the PIN/TAN-System
+A Directed Threshold - Signature Scheme
+A Trace Logic for Local Security Properties
+Security of public key cryptosystems based on Chebyshev Polynomials
+Content Based Image Retrieval with Mobile Agents and Steganography
+"An Evaluated Certification Services System for the German National Root
+  CA - Legally Binding and Trustworthy Transactions in E-Business and
+  E-Government"
+Using LDAP Directories for Management of PKI Processes
+Towards a Flexible Intra-Trustcenter Management Protocol
+Planning for Directory Services in Public Key Infrastructures
+TulaFale: A Security Tool for Web Services
+Validating a Web Service Security Abstraction by Typing
+An unbreakable cryptosystem
+A Survey of Distributed Intrusion Detection Approaches
+A Cryptographic Study of Some Digital Signature Schemes
+"Data Tastes Better Seasoned: Introducing the ASH Family of Hashing
+  Algorithms"
+"Faults and Improvements of an Enhanced Remote User Authentication Scheme
+  Using Smart Cards"
+Directed Threshold Multi &#8211; Signature Scheme without SDC
+Quantum mechanics can provide unbiased result
+Timed Analysis of Security Protocols
+"Is entanglement necessary to have unconditional security in quantum bit
+  commitment ?"
+Multi-Dimensional Hash Chains and Application to Micropayment Schemes
+"Enforcing Semantic Integrity on Untrusted Clients in Networked Virtual
+  Environments"
+Improving Spam Detection Based on Structural Similarity
+Efficient Authenticated Encryption Schemes with Public Verifiability
+Analyzing Worms and Network Traffic using Compression
+An Improved Remote User Authentication Scheme Using Smart Cards
+The Modified Scheme is still vulnerable to the parallel Session Attack
+On the Unicity Distance of Stego Key
+A Multi-proxy Signature Scheme for Partial delegation with Warrant
+"A New Remote User Authentication Scheme Using Smart Cards with Check
+  Digits"
+"An Efficient Scheme for Sensitive Message Transmission using Blind
+  Signcryption"
+"ID-based Ring Signature and Proxy Ring Signature Schemes from Bilinear
+  Pairings"
+"Gossip Codes for Fingerprinting: Construction, Erasure Analysis and
+  Pirate Tracing"
+Steganographic Codes -- a New Problem of Coding Theory
+Cryptanalysis of Key Issuing Protocols in ID-based Cryptosystems
+Security of mobile agents: a new concept of the integrity protection
+A protected password change protocol
+"Security for Distributed Web-Applications via Aspect-Oriented
+  Programming"
+A Secure Traitor Tracing Scheme against Key Exposure
+Honesty can be the best policy within quantum mechanics
+Re-visiting the One-Time Pad
+A 3D RGB Axis-based Color-oriented Cryptography
+ZEUS - A Domain-Oriented Fact Comparison Based Authentication Protocol
+"Relations between semantic security and indistinguishability against
+  cpa, non-adaptive cca and adaptive cca in comparison based framework"
+Multi-Proxy Multi-Signcryption Scheme from Pairings
+Pairing-based identification schemes
+On an authentication scheme based on the Root Problem in the braid group
+"On Vulnerabilities, Constraints and Assumptions"
+Cryptographic Authentication of Navigation Protocols
+Secure and {\sl Practical} Identity-Based Encryption
+Poseidon: a 2-tier Anomaly-based Intrusion Detection System
+Pathwords: a user-friendly schema for common passwords management
+"Symmetric Boolean Function with Maximum Algebraic Immunity on Odd Number
+  of Variables"
+"An algorithm for the k-error linear complexity of a sequence with period
+  2pn over GF(q)"
+"A fast algorithm for determining the linear complexity of periodic
+  sequences"
+Generalized partially bent functions
+Multi-Map Orbit Hopping Chaotic Stream Cipher
+Further Results on the Distinctness of Decimations of l-sequences
+Undeniable Signature Schemes Using Braid Groups
+Learning by Test-infecting Symmetric Ciphers
+"SCRUB-PA: A Multi-Level Multi-Dimensional Anonymization Tool for Process
+  Accounting"
+Watermarking Using Decimal Sequences
+Wreath Products in Stream Cipher Design
+Cryptanalysis of the CFVZ cryptosystem
+Group Signature Schemes Using Braid Groups
+The Cubic Public-Key Transformation
+Intrinsically Legal-For-Trade Objects by Digital Signatures
+A d-Sequence based Recursive Random Number Generator
+A Service-Centric Approach to a Parameterized RBAC Service
+Trusted Certificates in Quantum Cryptography
+Transitive trust in mobile scenarios
+Improved Watermarking Scheme Using Decimal Sequences
+Implementing the Three-Stage Quantum Cryptography Protocol
+Access Control for Hierarchical Joint-Tenancy
+Towards an information-theoretically safe cryptographic protocol
+"A Business Goal Driven Approach for Understanding and Specifying
+  Information Security Requirements"
+The Aryabhata Algorithm Using Least Absolute Remainders
+APHRODITE: an Anomaly-based Architecture for False Positive Reduction
+"Will the Butterfly Cipher keep your Network Data secure? Developments in
+  Computer Encryption"
+"Protocols for Kak's Cubic Cipher and Diffie-Hellman Based Asymmetric
+  Oblivious Key Exchange"
+A Chaotic Cipher Mmohocc and Its Randomness Evaluation
+Classical Authentication Aided Three-Stage Quantum Protocol
+"A Generalized Two-Phase Analysis of Knowledge Flows in Security
+  Protocols"
+Oblivious Transfer using Elliptic Curves
+Attaque algebrique de NTRU a l'aide des vecteurs de Witt
+"Construction and Count of Boolean Functions of an Odd Number of
+  Variables with Maximum Algebraic Immunity"
+A Chaotic Cipher Mmohocc and Its Security Analysis
+"Explicit Randomness is not Necessary when Modeling Probabilistic
+  Encryption"
+A secure archive for Voice-over-IP conversations
+Trusted Computing in Mobile Action
+"FLAIM: A Multi-level Anonymization Framework for Computer and Network
+  Logs"
+Security and Non-Repudiation for Voice-Over-IP Conversations
+Provably Secure Universal Steganographic Systems
+"Resettable Zero Knowledge in the Bare Public-Key Model under Standard
+  Assumption"
+"UCLog+ : A Security Data Management System for Correlating Alerts,
+  Incidents, and Raw Data From Remote Logs"
+Tardos fingerprinting is better than we thought
+"Employing Trusted Computing for the forward pricing of pseudonyms in
+  reputation systems"
+Expressing Security Properties Using Selective Interleaving Functions
+Secure Positioning of Mobile Terminals with Simplex Radio Communication
+Security Assessment of E-Tax Filing Websites
+MDS Ideal Secret Sharing Scheme from AG-codes on Elliptic Curves
+Oblivious-Transfer Amplification
+Lower Bounds on the Algebraic Immunity of Boolean Functions
+Improved Content Based Image Watermarking
+"Concurrently Non-Malleable Zero Knowledge in the Authenticated
+  Public-Key Model"
+Using shifted conjugacy in braid-based cryptography
+Binomial multichannel algorithm
+Private Approximate Heavy Hitters
+Implementing a Unification Algorithm for Protocol Analysis with XOR
+A Quasigroup Based Cryptographic System
+Reversible Logic to Cryptographic Hardware: A New Paradigm
+An unbreakable cryptosystem for common people
+"On the Analysis and Generalization of Extended Visual Cryptography
+  Schemes"
+Efficient and Dynamic Group Key Agreement in Ad hoc Networks
+Cryptanalyse de Achterbahn-128/80
+HowTo Authenticate and Encrypt
+A framework for compositional verification of security protocols
+"On the security of new key exchange protocols based on the triple
+  decomposition problem"
+A modular eballot system - V0.6
+Implementing the modular eballot system V0.6
+Extending the Trusted Path in Client-Server Interaction
+A Symbolic Intruder Model for Hash-Collision Attacks
+Trustworthy content push
+Algorithms and Approaches of Proxy Signature: A Survey
+New ID Based Multi-Proxy Multi-Signcryption Scheme from Pairings
+Finding low-weight polynomial multiples using discrete logarithm
+Trusted Ticket Systems and Applications
+Non-Repudiation in Internet Telephony
+Protection of DVB Systems by Trusted Computing
+"A Note on the Periodicity and the Output Rate of Bit Search Type
+  Generators"
+"Reconstructing the Nonlinear Filter Function of LILI-128 Stream Cipher
+  Based on Complexity"
+"Comparing BB84 and Authentication-Aided Kak's Three-Stage Quantum
+  Protocol"
+"Practical Identity-Based Encryption (IBE) in Multiple PKG Environments
+  and Its Applications"
+How to Guarantee Secrecy for Cryptographic Protocols
+Refuting the Pseudo Attack on the REESSE1+ Cryptosystem
+Lessons Learned from the deployment of a high-interaction honeypot
+Using Image Attributes for Human Identification Protocols
+Oblivious Transfer based on Key Exchange
+Predicting the Presence of Internet Worms using Novelty Detection
+"Cryptanalysis of group-based key agreement protocols using subgroup
+  distance functions"
+Optimal Iris Fuzzy Sketches
+Secure Two-party Protocols for Point Inclusion Problem
+Probabilistic Anonymity and Admissible Schedulers
+"FreeBSD Mandatory Access Control Usage for Implementing Enterprise
+  Security Policies"
+Information-theoretic security without an honest majority
+Variations on Kak's Three Stage Quantum Cryptography Protocol
+"Key Agreement and Authentication Schemes Using Non-Commutative
+  Semigroups"
+On the AAGL Protocol
+"On the Security of the Cha-Ko-Lee-Han-Cheon Braid Group Public Key
+  Cryptosystem"
+An Experimental Investigation of Secure Communication With Chaos Masking
+Efficient FPGA-based multipliers for F_{3^97} and F_{3^{6*97}}
+A generic attack to ciphers
+Testing D-Sequences for their Randomness
+"Design Method for Constant Power Consumption of Differential Logic
+  Circuits"
+"An Improved FPGA Implementation of the Modified Hybrid Hiding Encryption
+  Algorithm (MHHEA) for Data Communication Security"
+Hardware Engines for Bus Encryption: A Survey of Existing Techniques
+"Area Efficient Hardware Implementation of Elliptic Curve Cryptography by
+  Iteratively Applying Karatsuba's Method"
+Performance Considerations for an Embedded Implementation of OMA DRM 2
+Bounds for Visual Cryptography Schemes
+Fuzzy Private Matching (Extended Abstract)
+"Key Substitution in the Symbolic Analysis of Cryptographic Protocols
+  (extended version)"
+"Security Analysis of a Remote User Authentication Scheme with Smart
+  Cards"
+On the defence notion
+"Testing Kak's Conjecture on Binary Reciprocal of Primes and
+  Cryptographic Applications"
+The one-way function based on computational uncertainty principle
+"A Flexible and Secure Remote Systems Authentication Scheme Using Smart
+  Cards"
+A new key exchange cryptosystem
+A One-Way Function Based On The Extended Euclidean Algorithm
+Analysis of Prime Reciprocal Sequences in Base 10
+"An equivalence preserving transformation from the Fibonacci to the
+  Galois NLFSRs"
+A Molecular Model for Communication through a Secrecy System
+"Trusted-HB: a low-cost version of HB+ secure against Man-in-The-Middle
+  attacks"
+Distributed Double Spending Prevention
+The Ephemeral Pairing Problem
+"New Extensions of Pairing-based Signatures into Universal (Multi)
+  Designated Verifier Signatures"
+Multi-Use Unidirectional Proxy Re-Signatures
+"Zero-knowledge authentication schemes from actions on graphs, groups, or
+  rings"
+"On the Security of ``an efficient and complete remote user
+  authentication scheme''"
+An Algebraic Characterization of Security of Cryptographic Protocols
+The Discrete Hilbert Transform for Non-Periodic Signals
+A Survey on Deep Packet Inspection for Intrusion Detection Systems
+"Hierarchical Grid-Based Pairwise Key Pre-distribution in Wireless Sensor
+  Networks"
+22-Step Collisions for SHA-2
+"Groups from Cyclic Infrastructures and Pohlig-Hellman in Certain
+  Infrastructures"
+A Practical Attack on the MIFARE Classic
+An Improved Robust Fuzzy Extractor
+"Towards Black-Box Accountable Authority IBE with Short Ciphertexts and
+  Private Keys"
+"Analyse des suites aléatoires engendrées par des automates
+  cellulaires et applications à la cryptographie"
+Another Co*cryption Method
+Recover plaintext attack to block ciphers
+"Array Based Java Source Code Obfuscation Using Classes with Restructured
+  Arrays"
+Colliding Message Pairs for 23 and 24-step SHA-512
+Binary Random Sequences Obtained From Decimal Sequences
+A Fuzzy Commitment Scheme
+A Tiered Security System for Mobile Devices
+Protocol Channels
+"JDATATRANS for Array Obfuscation in Java Source Code to Defeat Reverse
+  Engineering from Decompiled Codes"
+Checking Security Policy Compliance
+SOSEMANUK: a fast software-oriented stream cipher
+Enhancements to A Lightweight RFID Authentication Protocol
+A topological chaos framework for hash functions
+A watermarking algorithm satisfying topological chaos properties
+An Activity-Based Model for Separation of Duty
+A variant of Wiener's attack on RSA
+"A Basic Framework for the Cryptanalysis of Digital Chaos-Based
+  Cryptography"
+"Cryptanalysis of the SASI Ultralightweight RFID Authentication Protocol
+  with Modular Rotations"
+"Fault Attacks on RSA Public Keys: Left-To-Right Implementations are also
+  Vulnerable"
+Identification with Encrypted Biometric Data
+"FAIR: Fuzzy-based Aggregation providing In-network Resilience for
+  real-time Wireless Sensor Networks"
+Code injection attacks on harvard-architecture devices
+Ethemba Trusted Host EnvironmentMainly Based on Attestation
+A Quantum Key Distribution Network Through Single Mode Optical Fiber
+Space Efficient Secret Sharing
+Space Efficient Secret Sharing: A Recursive Approach
+"Malware Detection using Attribute-Automata to parse Abstract Behavioral
+  Descriptions"
+Formalization of malware through process calculi
+"NNRU, a noncommutative analogue of NTRU"
+A Recursive Threshold Visual Cryptography Scheme
+"State Space Reduction with Message Inspection in Security Protocol Model
+  Checking"
+Normal Elliptic Bases and Torus-Based Cryptography
+"Minimizing Cache Timing Attack Using Dynamic Cache Flushing (DCF)
+  Algorithm"
+"A Survey of Attacks, Security Mechanisms and Challenges in Wireless
+  Sensor Networks"
+"Computational Complexities and Breaches in Authentication Frameworks of
+  Broadband Wireless Access"
+Electronic Authority Variation
+Practical Schemes For Privacy & Security Enhanced RFID
+"On the Relations Between Diffie-Hellman and ID-Based Key Agreement from
+  Pairings"
+An Efficient and Publicly Verifiable Id-Based Multi-Signcryption Scheme
+Global Heuristic Search on Encrypted Data (GHSED)
+Philosophical Survey of Passwords
+Web Single Sign-On Authentication using SAML
+"Self-Partial and Dynamic Reconfiguration Implementation for AES using
+  FPGA"
+Comprehensive Security Framework for Global Threads Analysis
+A new efficient k-out-of-n Oblivious Transfer protocol
+Securing Remote Procedure Calls over HTTPS
+Rossler Nonlinear Dynamical Machine for Cryptography Applications
+A New Generic Taxonomy on Hybrid Malware Detection Technique
+A Cost Effective RFID Based Customized DVD-ROM to Thwart Software Piracy
+"Biologically Inspired Execution Framework for Vulnerable Workflow
+  Systems"
+"Energy Efficient Security Architecture for Wireless BioMedical Sensor
+  Networks"
+A Context-based Trust Management Model for Pervasive Computing Systems
+Proposed platform for improving grid security by trust management system
+"Exception Agent Detection System for IP Spoofing Over Online
+  Environments"
+A Trust Based Cross Layer Security Protocol for Mobile Ad hoc Networks
+GSM Security Using Identity-based Cryptography
+Firewall Configuration Errors Revisited
+A note on conjugacy search and racks
+A Robust Control Framework for Malware Filtering
+"Final Architecture Specification of security, privacy, and incentive
+  mechanisms"
+Making Palm Print Matching Mobile
+"A New Efficient Key Management Protocol for Wireless Sensor and Actor
+  Networks"
+A Survey on Recognition Based Graphical User Authentication Algorithms
+"A novel approach for implementing Steganography with computing power
+  obtained by combining Cuda and Matlab"
+Shoulder Surfing attack in graphical password authentication
+"An approach to secure highly confidential documents of any size in the
+  corporate or institutes having unsecured networks"
+Privacy Preserving k Secure Sum Protocol
+"Optimal quantitative cryptanalysis of permutation-only multimedia
+  ciphers against plaintext attacks"
+"An L(1/3) algorithm for ideal class group and regulator computation in
+  certain number fields"
+"PKI Implementation Issues: A Comparative Study of Pakistan with some
+  Asian Countries"
+Steganography An Art of Hiding Data
+Specification and Verification of Side Channel Declassification
+Design of an Automated Intrusion Detection System incorporating an Alarm
+"Fair Exchange of Digital Signatures using RSA-based CEMBS and Offline
+  STTP"
+"Frame Selected Approach for Hiding Data within MPEG Video Using Bit
+  Plane Complexity Segmentation"
+"Windtalking Computers: Frequency Normalization, Binary Coding Systems
+  and Encryption"
+Discovery of Elliptic Curve Cryptographic Private Key in O(n)
+Google Android: A State-of-the-Art Review of Security Mechanisms
+"""On the Road"" - Reflections on the Security of Vehicular Communication
+  Systems"
+"Intrusion-aware Alert Validation Algorithm for Cooperative Distributed
+  Intrusion Detection Schemes of Wireless Sensor Networks"
+"Towards Public Key Infrastructure less authentication in Session
+  Initiation Protocol"
+Efficient Password-Typed Key Agreement Scheme
+M-Banking Security - a futuristic improved security approach
+Scenario Based Worm Trace Pattern Identification Technique
+"Avoiding Black Hole and Cooperative Black Hole Attacks in Wireless Ad
+  hoc Networks"
+Convergence of Corporate and Information Security
+Fighting Online Click-Fraud Using Bluff Ads
+"Changing Neighbors k Secure Sum Protocol for Secure Multi Party
+  Computation"
+"Secured Cryptographic Key Generation From Multimodal Biometrics Feature
+  Level Fusion Of Fingerprint And Iris"
+GPRS Video Streaming Surveillance System GVSS
+"LPKI - A Lightweight Public Key Infrastructure for the Mobile
+  Environments"
+"Cryptanalysis of an Efficient Signcryption Scheme with Forward Secrecy
+  Based on Elliptic Curve"
+"A Directly Public Verifiable Signcryption Scheme based on Elliptic
+  Curves"
+Enhancing Privacy for Biometric Identification Cards
+A Secure Variant of the Hill Cipher
+A Modified ck-Secure Sum Protocol for Multi-Party Computation
+Intrusion Detection System: Overview
+A Novel Scheme for Secured Data Transfer Over Computer Networks
+Atomicity Improvement for Elliptic Curve Scalar Multiplication
+"Hardware Implementation of TDES Crypto System with On Chip Verification
+  in FPGA"
+"Hybrid approach for Image Encryption Using SCAN Patterns and Carrier
+  Images"
+Public-key cryptography in functional programming context
+"Securing Iris Templates using Combined User and Soft Biometric based
+  Password Hardened Fuzzy Vault"
+"Implementing New-age Authentication Techniques using OpenID for Security
+  Automation"
+State Of The Art In Digital Steganography Focusing ASCII Text Documents
+A Secure Hash Function MD-192 With Modified Message Expansion
+"Design and Performance Analysis of Unified Reconfigurable Data Integrity
+  Unit for Mobile Terminals"
+Soft Computing - A step towards building Secure Cognitive WLAN
+"Content based Zero-Watermarking Algorithm for Authentication of Text
+  Documents"
+Secure Multicast Key Distribution for Mobile Ad Hoc Networks
+"Securing Our Bluetooth Mobiles From Intruder Attack Using Enhanced
+  Authentication Scheme And Plausible Exchange Algorithm"
+Quantifying Shannon's Work Function for Cryptanalytic Attacks
+Forming the COUNCIL Based Clusters in Securing Wireless Ad Hoc Networks
+Vcache: Caching Dynamic Documents
+"Private Information Disclosure from Web Searches. (The case of Google
+  Web History)"
+Hiding Inside HTML and Other Source Codes
+Data Hiding Techniques Using Prime and Natural Numbers
+Unwinding Conditional Noninterference
+An LSB Data Hiding Technique Using Natural Numbers
+A Distributed k-Secure Sum Protocol for Secure Multi-Party Computations
+"New Comparative Study Between DES, 3DES and AES within Nine Factors"
+Review of Lattice-based Public key Cryptography(Russian)
+"How to prevent type-flaw attacks on security protocols under algebraic
+  properties"
+An LSB Data Hiding Technique Using Prime Numbers
+A secured Cryptographic Hashing Algorithm
+A Framework For Fully-Simulatable $h$-Out-Of-$n$ Oblivious Transfer
+Global Linear Complexity Analysis of Filter Keystream Generators
+Secret Sharing Based on a Hard-on-Average Problem
+On the Design of Cryptographic Primitives
+Linear solutions for cryptographic nonlinear sequence generators
+A Rational Approach to Cryptographic Protocols
+"Linear Cellular Automata as Discrete Models for Generating Cryptographic
+  Sequences"
+New Attack Strategy for the Shrinking Generator
+A Simple Attack on Some Clock-Controlled Generators
+Self-Organized Authentication in Mobile Ad-hoc Networks
+"Using Linear Difference Equations to Model Nonlinear Cryptographic
+  Sequences"
+Security Scheme for Distributed DoS in Mobile Ad Hoc Networks
+"ACRR: Ad Hoc On-Demand Distance Vector Routing with Controlled Route
+  Requests"
+A chaos-based approach for information hiding security
+Chaotic iterations versus Spread-spectrum: chaos and stego security
+"Key Generation in Wireless Sensor Networks Based on Frequency-selective
+  Channels - Design, Implementation, and Analysis"
+"Attribute Weighting with Adaptive NBTree for Reducing False Positives in
+  Intrusion Detection"
+"Semi-Trusted Mixer Based Privacy Preserving Distributed Data Mining for
+  Resource Constrained Devices"
+"Detecting Security threats in the Router using Computational
+  Intelligence"
+Negative Databases for Biometric Data
+RAmM Algorithm(Simplex)
+"Encoding points on hyperelliptic curves over finite fields in
+  deterministic polynomial time"
+"A Lightweight and Attack Resistant Authenticated Routing Protocol for
+  Mobile Adhoc Networks"
+An Elliptic Curve-based Signcryption Scheme with Forward Secrecy
+Information Hiding Using Improper Frame Padding
+"A Note On the Bounds for the Generalized Fibonacci-p-Sequence and its
+  Application in Data-Hiding"
+Stimulating Cooperation in Self-Organized Vehicular Networks
+Flexible Authentication in Vehicular Ad hoc Networks
+Self-Organized Authentication Architecture for Mobile Ad-hoc Networks
+Criticism of Knapsack Encryption Scheme
+"A Novel Method for Intrusion Detection System to Enhance Security in Ad
+  hoc Network"
+Bio-Authentication based Secure Transmission System using Steganography
+"The Algorithm Analysis of E-Commerce Security Issues for Online Payment
+  Transaction System in Banking Technology"
+Lightweight Mutual Authentication Protocol for Low Cost RFID Tags
+"Fuzzy Aided Application Layer Semantic Intrusion Detection System -
+  FASIDS"
+Analysis of the Security of BB84 by Model Checking
+"(Unconditional) Secure Multiparty Computation with Man-in-the-middle
+  Attacks"
+Little Dragon Two: An efficient Multivariate Public Key Cryptosystem
+Modern Quantum Technologies of Information Security
+Stream Control Transmission Protocol Steganography
+Hiding Data in OFDM Symbols of IEEE 802.11 Networks
+Secure Neighbor Position Discovery in VANETs
+Secret Sharing and Proactive Renewal of Shares in Hierarchical Groups
+"Interoperability, Trust Based Information Sharing Protocol and Security:
+  Digital Government Key Issues"
+Simulating Cyber-Attacks for Fun and Profit
+"Augmented Rotation-Based Transformation for Privacy-Preserving Data
+  Clustering"
+Advanced Software Protection Now
+Simulation of Computer Network Attacks
+An attack on MySQL's login protocol
+"A Parallel Encryption Algorithm for Block Ciphers Based on Reversible
+  Programmable Cellular Automata"
+Case Study On Social Engineering Techniques for Persuasion
+Effectiveness of Intrusion Prevention Systems (IPS) in Fast Networks
+Stronger Enforcement of Security Using AOP and Spring AOP
+Law-Aware Access Control and its Information Model
+Advanced Trace Pattern For Computer Intrusion Discovery
+"Using Repeating Decimals As An Alternative To Prime Numbers In
+  Encryption"
+"Cresterea securitatii sistemelor informatice si de comunicatii prin
+  criptografia cuantica"
+"Mirage: Mitigating Illicit Inventorying in a RFID Enabled Retail
+  Environment"
+"Using Repeating Decimals As An Alternative To Prime Numbers In
+  Encryption"
+"The E-net model for the Risk Analysis and Assessment System for the
+  Information Security of Communication and Information Systems (""Defining""
+  Subsystem)"
+JIT Spraying and Mitigations
+Adaptation of the neural network-based IDS to new attacks detection
+"A Protection Approach for Video Information transmitted in TCP/IP based
+  networks"
+One software tool for testing square s-boxes
+INDECT Advanced Security Requirements
+"Proposed System for data hiding using Cryptography and Steganography
+  Proposed System for data hiding using Cryptography and Steganography"
+Sharing Graphs
+A Survey on Low-cost RFID Authentication Protocols
+"Malicious cryptography techniques for unreversable (malicious or not)
+  binaries"
+"Van Wijngaarden grammars, metamorphism and K-ary malwares"
+A secure email login system using virtual password
+Synthesis of Binary k-Stage Machines
+"A Novel and Highly Efficient AES Implementation Robust against
+  Differential Power Analysis"
+Review on the Advancements of DNA Cryptography
+A Fault Analytic Method against HB+
+New Frontiers of Network Security: The Threat Within
+Lattice Problems and Their Reductions(Russian)
+Collaborative Trust: A Novel Paradigm of Trusted Mobile Computing
+An Asymmetric Fingerprinting Scheme based on Tardos Codes
+Privacy-Compatibility For General Utility Metrics
+The Digital Signature Scheme MQQ-SIG
+"A New Non Linear, Time Stamped & Feed Back Model Based Encryption
+  Mechanism with Acknowledgement Support"
+Cluster based Key Management in Wireless Sensor Networks
+"Suggested Rules for Designing Secure Communication Systems Utilizing
+  Chaotic Lasers: A Survey"
+Authentication from matrix conjugation
+"Dynamic Multi Layer Signature based Intrusion Detection system Using
+  Mobile Agents"
+"A Distributed Trust Management Framework for Detecting Malicious Packet
+  Dropping Nodes in a Mobile Ad Hoc Network"
+Safer in the Clouds (Extended Abstract)
+E-Net Models of a Software System for E-Mail Security
+PERSEUS Technology: New Trends in Information and Communication Security
+Design of Transport Layer Based Hybrid Covert Channel Detection Engine
+Maximizing Strength of Digital Watermarks using Fuzzy Logic
+"A Robust and Efficient Node Authentication Protocol for Mobile Ad Hoc
+  Networks"
+A Robust and Fault-Tolerant Distributed Intrusion Detection System
+"The Identity Crisis. Security, Privacy and Usability Issues in Identity
+  Management"
+Eavesdropping on GSM: state-of-affairs
+"Reversible Region of Non-Interest (RONI) Watermarking for Authentication
+  of DICOM Images"
+"A Logic Programming Approach for Formal Verification of NetBill Security
+  and Transactions Protocol"
+Approaches to Formal Verification of Security Protocols
+Analysis of Biometric Authentication Protocols in the Blackbox Model
+"On Sampling, Anonymization, and Differential Privacy: Or,
+  k-Anonymization Meets Differential Privacy"
+"An Efficient and User Privacy-Preserving Routing Protocol for Wireless
+  Mesh Networks"
+Formal Verification of Differential Privacy for Interactive Systems
+"Indexing Properties of Primitive Pythagorean Triples for Cryptography
+  Applications"
+"A Secure Web-Based File Exchange Server: Software Requirements
+  Specification Document"
+"Design and Implementation of a Secure Web-Based File Exchange Server:
+  Specification Design Document"
+"Strict Authentication Watermarking with JPEG Compression (SAW-JPEG) for
+  Medical Images"
+Failure of A Mix Network
+How Unique and Traceable are Usernames?
+"Adaptive Audio Watermarking via the Optimization Point of View on the
+  Wavelet-Based Entropy"
+PadSteg: Introducing Inter-Protocol Steganography
+Recursive double-size fixed precision arithmetic
+"Modeling Internet Security Investments: The Case of Dealing with
+  Information Uncertainty"
+Video Encryption: A Survey
+Network attack detection at flow level
+"Evolution of Computer Virus Concealment and Anti-Virus Techniques: A
+  Short Survey"
+Two Dimensional Random Patterns
+Key Management in Mobile Sensor Networks
+"Metamorphic Virus Variants Classification Using Opcode Frequency
+  Histogram"
+"Metamorphic Virus Detection in Portable Executables Using Opcodes
+  Statistical Feature"
+Hiding Information in a Stream Control Transmission Protocol
+Investigating the Distribution of Password Choices
+Aperiodic logarithmic signatures
+"Performance Analysis of AODV under Black Hole Attack through Use of
+  OPNET Simulator"
+"Security Through Amnesia: A Software-Based Solution to the Cold Boot
+  Attack on Disk Encryption"
+Studying and Classification of the Most Significant Malicious Software
+Secure Deletion on Log-structured File Systems
+Security Notions for Information Theoretically Secure Encryptions
+"On the Eavesdropper's Correct Decision in Gaussian and Fading Wiretap
+  Channels Using Lattice Codes"
+Cryptographic Hardening of d-Sequences
+Towards Practical Oblivious RAM
+SSA-Caterpillar in Group Anonymity
+"Attack Interference in Non-Collaborative Scenarios for Security Protocol
+  Analysis [Extended Version]"
+"An efficient certificateless authenticated key agreement protocol
+  without bilinear pairings"
+A Novel Attack against Android Phones
+"Development of mechanism for enhancing data security in quantum
+  cryptography"
+Key Predistribution Schemes for Distributed Sensor Networks
+Enhanced User Authentication through Trajectory Clustering
+"Development of a Window Based Security System for Electronic Data
+  Interchange"
+"A Key Establishment Scheme for Mobile Wireless Sensor Networks Using
+  Post-Deployment Knowledge"
+Architecture Of A Identity Based Firewall System
+A Novel Header Matching Algorithm for Intrusion Detection Systems
+Collision-resistant hash function based on composition of functions
+Multilayer Approach to Defend Phishing Attacks
+User Awareness Measurement Through Social Engineering
+Governing Information Security in Conjunction with COBIT and ISO 27001
+Digital Forensics Analysis of Spectral Estimation Methods
+"Spectral Estimation Methods Comparison and Performance Analysis on a
+  Steganalysis Application"
+Analysis and Implementation of Distinct Steganographic Methods
+Cryptovirology: Virus Approach
+"Novel hybrid intrusion detection system for clustered wireless sensor
+  network"
+Attacks on Local Searching Tools
+The BitTorrent Anonymity Marketplace
+"Weakness in a Mutual Authentication Scheme for Session Initiation
+  Protocol using Elliptic Curve Cryptography"
+"A New Trusted and Collaborative Agent Based Approach for Ensuring Cloud
+  Security"
+A New Enforcement on Declassification with Reachability Analysis
+Information Flow Safety in Multiparty Sessions
+"The $k$-error linear complexity distribution for $2^n$-periodic binary
+  sequences"
+Show Me Your Cookie And I Will Tell You Who You Are
+"A State-of-the-art Survey on IDS for Mobile Ad-Hoc Networks and Wireless
+  Mesh Networks"
+Dynamic MDS Matrices for Substantial Cryptographic Strength
+Website Detection Using Remote Traffic Analysis
+Anonymity and verifiability in multi-attribute reverse auction
+Problem Reduction in Online Payment System Using Hybrid Model
+X-Vine: Secure and Pseudonymous Routing Using Social Networks
+"Attack Prevention for Collaborative Spectrum Sensing in Cognitive Radio
+  Networks"
+"Efficient Implementation of Elliptic Curve Cryptography Using Low-power
+  Digital Signal Processor"
+Formal Analysis of UMTS Privacy
+"Efficiency of Biometric integration with Salt Value at an Enterprise
+  Level and Data Centres"
+Mitigation of Random Query String DoS via Gossip
+Periodic sequences with stable $k$-error linear complexity
+"An Algorithm for Computing $m$-Tight Error Linear Complexity of
+  Sequences over $GF(p^{m})$ with Period $p^{m}$"
+"An Adaptive Technique using Advanced Encryption Standard to Implement
+  Hard Disk Security"
+TrackMeNot: Enhancing the privacy of Web Search
+"An Approach for Message Hiding using Substitution Techniques and Audio
+  Hiding in Steganography"
+A Survey on Security Issues in Cloud Computing
+A Semantic Hierarchy for Erasure Policies
+Implementing a Web Browser with Phishing Detection Techniques
+Handwritten Text Image Authentication using Back Propagation
+Hilbert Matrix Based Cryptosystem using a Session Key
+"Error Detection and Correction for Distributed Group Key Agreement
+  Protocol"
+Enhanced Secure Algorithm for Message Communion
+"CNoA: Challenging Number Approach for uncovering TCP SYN flooding using
+  SYN spoofing attack"
+Oblivious Storage with Low I/O Overhead
+Prevention of Wormhole Attack in Wireless Sensor Network
+DDNFS: a Distributed Digital Notary File System
+Security of a biometric identity-based encryption scheme
+Applying statistical methods to text steganography
+ARBAC Policy for a Large Multi-National Bank
+Effective Steganography Detection Based On Data Compression
+A Graphical Password Based System for Small Mobile Devices
+"Constructing and Counting Even-Variable Symmetric Boolean Functions with
+  Algebraic Immunity not Less Than $d$"
+"A Note on ""On the Construction of Boolean Functions with Optimal
+  Algebraic Immunity"""
+Cryptanalysis of a lattice-based proxy signature scheme
+Analysis of Differential Phase Shift Quantum Key Distribution
+STor: Social Network based Anonymous Communication in Tor
+"Analysis of Kak's Quantum Cryptography Protocol from the Perspective of
+  Source Strength"
+"Analysis and improvement of a strongly secure certificateless key
+  exchange protocol without pairing"
+Performance Study on Image Encryption Schemes
+"Randomness Quality of CI Chaotic Generators: Applications to Internet
+  Security"
+Class of Trustworthy Pseudo-Random Number Generators
+On the design of a family of CI pseudo-random number generators
+Using Quasigroups for Generating Pseudorandom Numbers
+"Evaluating Quality of Chaotic Pseudo-Random Generators: Application to
+  Information Hiding"
+Steganography: a class of secure and robust algorithms
+"Performance Analysis of a Keyed Hash Function based on Discrete and
+  Chaotic Proven Iterations"
+ECAKP: Encrypt Collect Authenticate Kill Play
+"A Novel Multipath Approach to Security in Mobile Ad Hoc Networks
+  (MANETs)"
+Faked states attack and quantum cryptography protocols
+Enhancing Data Security by Making Data Disappear in a P2P Systems
+"Decryptable to Your Eyes: Visualization of Security Protocols at the
+  User Interface"
+Efficient Detection of Sybil Attack Based on Cryptography in Vanet
+X-pire! - A digital expiration date for images in social networks
+"Extended Combinatorial Constructions for Peer-to-peer User-Private
+  Information Retrieval"
+Mobile IP and protocol authentication extension
+On Bounding Problems of Quantitative Information Flow
+"Cryptanalyzing a chaos-based image encryption algorithm using alternate
+  structure"
+"Efficient and Cryptographically Secure Generation of Chaotic
+  Pseudorandom Numbers on GPU"
+Detecting Threat E-mails using Bayesian Approach
+SPAM -- Technological and Legal Aspects
+Phishing - A Growing Threat to E-Commerce
+Security Survey of Internet Browsers Data Managers
+"Characterization of $2^n$-periodic binary sequences with fixed 3-error
+  or 4-error linear complexity"
+Hiding Malicious Content in PDF Documents
+AES Encryption and Decryption Using Direct3D 10 API
+Securing IEEE 802.11G WLAN Using OpenVPN and Its Impact Analysis
+"Weaknesses of a dynamic identity based authentication protocol for
+  multi-server architecture"
+Symbian `vulnerability' and Mobile Threats
+"Some Recommended Protection Technologies for Cyber Crime Based on Social
+  Engineering Techniques -- Phishing"
+"Formal security analysis of registration protocols for interactive
+  systems: a methodology and a case of study"
+Autenticazione biometrica: Realtà e fantasia
+A Novel Chaotic Encryption Scheme based on Pseudorandom Bit Padding
+"Information Hiding in CSS : A Secure Scheme Text-Steganography using
+  Public Key Cryptosystem"
+Distributed Denial of Service (DDoS) Attacks Detection Mechanism
+An Active Defense Mechanism for TCP SYN flooding attacks
+On the security of an enhanced short signature scheme
+DREAM: DiffeRentially privatE smArt Metering
+Time Stamp Attack in Smart Grid: Physical Mechanism and Damage Analysis
+"Improving Security Levels of IEEE 802.16e Authentication By
+  Diffie-Hellman Method"
+Solving the LPN problem in cube-root time
+Dynamic Session Key Exchange Method using Two S-Boxes
+"A formal methodology for integral security design and verification of
+  network protocols"
+Debunking some myths about biometric authentication
+Introduction of a Triple Prime Symmetric Key Block Cipher
+"Self Managed Security Cell, a security model for the Internet of Things
+  and Services"
+SOA-based security governance middleware
+"Multi-Flow Attacks Against Network Flow Watermarks: Analysis and
+  Countermeasures"
+BotMosaic: Collaborative Network Watermark for Botnet Detection
+"CensorSpoofer: Asymmetric Communication with IP Spoofing for
+  Censorship-Resistant Web Browsing"
+Data Confidentiality in Mobile Ad hoc Networks
+Non-blind watermarking of network flows
+Estimating strength of DDoS attack using various regression models
+"An ISP Level Solution to Combat DDoS Attacks using Combined Statistical
+  Based Approach"
+Octopus: A Secure and Anonymous DHT Lookup
+"Identifying Tipping Points in a Decision-Theoretic Model of Network
+  Security"
+Plugging Side-Channel Leaks with Timing Information Flow Control
+"A Model for Remote Access and Protection of Smartphones using Short
+  Message Service"
+"Integrated Key based Strict Friendliness Verification of Neighbors in
+  MANET"
+"A Novel Approach for Verifiable Secret Sharing by using a One Way Hash
+  Function"
+A Sensitive Attribute based Clustering Method for kanonymization
+"A Survey on Security Issues in Ad Hoc Routing Protocols and their
+  Mitigation Techniques"
+Constrained Role Mining
+"Computational Security Analysis of the UMTS and LTE Authentication and
+  Key Agreement Protocols"
+Personal data disclosure and data breaches: the customer's viewpoint
+A Digital Signature Scheme for Long-Term Security
+Correlated Node Behavior Model based on Semi Markov Process for MANETS
+"On the Boundaries of Trust and Security in Computing and Communications
+  Systems"
+"A Novel Bluetooth Man-In-The-Middle Attack Based On SSP using OOB
+  Association model"
+"Optimizing the Replay Protection at the Link Layer Security Framework in
+  Wireless Sensor Networks"
+"FlexiSec: A Configurable Link Layer Security Architecture for Wireless
+  Sensor Networks"
+A Novel Approach for Secure Data Aggregation in Wireless Sensor Networks
+Public-Key Cryptography Based on Modular Lattices
+Breaking a novel colour image encryption algorithm based on chaos
+An Independent Validation of Vulnerability Discovery Models
+TSET: Token based Secure Electronic Transaction
+"Proposal of a New Block Cipher reasonably Non-Vulnerable against
+  Cryptanalytic Attacks"
+"Integrated Solution Modeling Software: A New Paradigm on Information
+  Security Review and Assessment"
+"A Distinguisher-Based Attack of a Homomorphic Encryption Scheme Relying
+  on Reed-Solomon Codes"
+Enhancement of Secrecy of Block Ciphered Systems by Deliberate Noise
+Time Synchronization Attack in Smart Grid-Part I: Impact and Analysis
+"Time Synchronization Attack in Smart Grid-Part II: Cross Layer Detection
+  Mechanism"
+"Survey on Security Issues in Cloud Computing and Associated Mitigation
+  Techniques"
+"A formal definition and a new security mechanism of physical unclonable
+  functions"
+"Scanning of Rich Web Applications for Parameter Tampering
+  Vulnerabilities"
+"Towards a Security Engineering Process Model for Electronic Business
+  Processes"
+Refinement of Strategy and Technology Domains STOPE View on ISO 27001
+Handsets Malware Threats and Facing Techniques
+Design and Analysis of a Novel Digital Image Encryption Scheme
+Optimizing One Fair Document Exchange Protocol
+Simple and Efficient Contract Signing Protocol
+"Object Oriented Modelling of Idea using GA based efficient key
+  generation for e-governance security (OOMIG)"
+Web 2.0 Technologies and Social Networking Security Fears in Enterprises
+Physical Unclonable Function (PUF) Based Random Number Generator
+"An Empirical Study of Spam and Prevention Mechanisms in Online Video
+  Chat Services"
+An Efficient Cryptographic Hash Algorithm (BSA)
+Secure Comparison Without Explicit XOR
+Monografia
+"Functional Magnetic Resonance Imaging and the Challenge of Balancing
+  Human Security with State Security"
+"A lightweight dynamic pseudonym identity based authentication and key
+  agreement protocol without verification tables for multi-server architecture"
+A New Guess-and-Determine Attack on the A5/1 Stream Cipher
+Verifying Search Results Over Web Collections
+An Efficient Analytical Solution to Thwart DDoS Attacks in Public Domain
+"Dynamic and Auto Responsive Solution for Distributed Denial-of-Service
+  Attacks Detection in ISP Network"
+FuGeIDS: Fuzzy Genetic paradigms in Intrusion Detection Systems
+"A Distinguisher-Based Attack on a Variant of McEliece's Cryptosystem
+  Based on Reed-Solomon Codes"
+Off-Path Attacking the Web
+Secure FSM- based arithmetic codes
+Refining a Quantitative Information Flow Metric
+"Privacy Preserving and Ownership Authentication in Ubiquitous Computing
+  Devices using Secure Three Way Authentication"
+"Zwei Anwendungen des Paillier-Kryptosystems: Blinde Signatur und
+  Three-Pass-Protocol"
+Security Analysis of Vehicular Ad Hoc Networks (VANET)
+A Novel Advanced Heap Corruption and Security Method
+Security Threats Analysis in Bluetooth-Enabled Mobile Devices
+"A Survey on Various Data Hiding Techniques and their Comparative
+  Analysis"
+A PAXOS based State Machine Replication System for Anomaly Detection
+Pixastic: Steganography based Anti-Phihsing Browser Plug-in
+Dynamic Pattern Based Image Steganography
+Stego-Image Generator (SIG) - Building Steganography Image Database
+"AnonyControl: Control Cloud Data Anonymously with Multi-Authority
+  Attribute-Based Encryption"
+"Data Aggregation without Secure Channel: How to Evaluate a Multivariate
+  Polynomial Securely"
+Steganalysis Using Color Model Conversion
+Multiparty Cloud Computation
+"Classification of Various Security Techniques in Databases and their
+  Comparative Analysis"
+Image based Cryptography from a distance
+Data Hiding Techniques using number decompositions
+A Precise Information Flow Measure from Imprecise Probabilities
+Towards Metamorphic Virus Recognition Using Eigenviruses
+Dynamic Traitor Tracing for Arbitrary Alphabets: Divide and Conquer
+Confidentiality without Encryption For Cloud Computational Privacy
+"Botnet-based Distributed Denial of Service (DDoS) Attacks on Web
+  Servers: Classification and Art"
+"Efficient and Secure Key Extraction using CSI without Chasing down
+  Errors"
+"Image encryption schemes for JPEG and GIF formats based on 3D baker with
+  compound chaotic sequence generator"
+An Enciphering Scheme Based on a Card Shuffle
+"An efficient classification in IBE Provide with an improvement of BB2 to
+  an efficient Commutative Blinding scheme"
+"Securing Instrumented Environments over Content-Centric Networking: the
+  Case of Lighting Control"
+"Algorithm for searching bridges of specified types in the protection
+  graph for Take-Grant protection model"
+"Ownership Authentication Transfer Protocol for Ubiquitous Computing
+  Devices"
+Message Embedded cipher using 2-D chaotic map
+"A Survey on Authentication and Key Agreement Protocols in Heterogeneous
+  Networks"
+Goldbach Ellipse Sequences for Cryptographic Applications
+"Securing Speech in GSM Networks using DES with Random Permutation and
+  Inversion Algorithm"
+LOTKIP: Low Overhead TKIP Optimization for Ad Hoc Wireless Network
+"Multilayer Perceptron Guided Key Generation Through Mutation with
+  Recursive Replacement in Wireless Communication (MLPKG)"
+TCP Injections for Fun and Clogging
+Towards Steganography Detection Through Network Traffic Visualisation
+Torinj : Automated Exploitation Malware Targeting Tor Users
+Efficient Quasigroup Block Cipher for Sensor Networks
+AES-CBC Software Execution Optimization
+Bio Inspired Approach to Secure Routing in MANETs
+Distributed Denial of Service Prevention Techniques
+AES CCMP Algorithm with N-Way Interleaved Cipher Block Chaining
+On the Use of Latency Graphs for the Construction of Tor Circuits
+A Novel Overlay IDS For Wireless Sensor Networks
+"Hierarchical Design Based Intrusion Detection System For Wireless Ad hoc
+  Network"
+A novel approach for e-payment using virtual password system
+The Chief Security Officer Problem
+On Multisequences and their extensions
+Implementing Access Control Markov Decision Processes with GLPK/GMPL
+An Optimized Signature Verification System for Vehicle Ad hoc NETwork
+On Bringer-Chabanne EPIR Protocol for Polynomial Evaluation
+"CRAW: Combination of Re-Keying and Authentication in Wireless Networks
+  for Secure Multicast Increasing Efficiency of Member Join/Leave and Movement"
+"An Efficient Group Key Management Using Code for Key Calculation for
+  Simultaneous Join/Leave: CKCS"
+"Modified Temporal Key Integrity Protocol For Efficient Wireless Network
+  Security"
+Noninterference with Local Policies
+"A Review Study of NIST Statistical Test Suite: Development of an
+  indigenous Computer Package"
+"Sequence Randomization Using Convolutional Codes and Probability
+  Functions"
+Updating attribute in CP-ABE: A New Approach
+Constant Ciphertext Length in CP-ABE
+Phases vs. Levels using Decision Trees for Intrusion Detection Systems
+A Chaos-based Image Encryption Scheme using Chaotic Coupled Map Lattices
+"Non-Malleable Condensers for Arbitrary Min-Entropy, and Almost Optimal
+  Protocols for Privacy Amplification"
+Data Mining Based Technique for IDS Alerts Classification
+"STAR-Vote: A Secure, Transparent, Auditable, and Reliable Voting System"
+"An Efficient Encryption Algorithm for P2P Networks Robust Against
+  Man-in-the-Middle Adversary"
+Random Sequences from Primitive Pythagorean Triples
+"Secure Computation of Top-K Eigenvectors for Shared Matrices in the
+  Cloud"
+SWEET: Serving the Web by Exploiting Email Tunnels
+"Breaking a novel image encryption scheme based on improved hyperchaotic
+  sequences"
+"Fuzzy Keyword Search over Encrypted Data using Symbol-Based
+  Trie-traverse Search Scheme in Cloud Computing"
+"An experimental evaluation of de-identification tools for electronic
+  health records"
+"Towards a Layered Architectural View for Security Analysis in SCADA
+  Systems"
+IPv6 Prefix Alteration: An Opportunity to Improve Online Privacy
+"Key Generation and Certification using Multilayer Perceptron in Wireless
+  communication(KGCMLP)"
+XSS-FP: Browser Fingerprinting using HTML Parser Quirks
+"Study And Performance Evaluation Of Security-Throughput Tradeoff With
+  Link Adaptive Encryption Scheme"
+A Revised Classification of Anonymity
+Digital Data Security and Copyright Protection Using Cellular Automata
+"Dynamic Traitor Tracing Schemes, Revisited"
+A General Framework for Privacy-Preserving Distributed Greedy Algorithm
+"A Secure Distributed Authentication scheme based on CRT-VSS and Trusted
+  Computing in MANET"
+Chaotic Variations of AES Algorithm
+Classical Encryption and Authentication under Quantum Attacks
+Model of solutions for data security in Cloud Computing
+"PeerShare: A System Secure Distribution of Sensitive Data Among Social
+  Contacts"
+"Alternating Product Ciphers: A Case for Provable Security Comparisons
+  (extended abstract)"
+"Cryptanalyzing a RGB image encryption algorithm based on DNA encoding
+  and chaos map"
+"Secure k-Nearest Neighbor Query over Encrypted Data in Outsourced
+  Environments"
+ANANAS - A Framework For Analyzing Android Applications
+How do Viruses Attack Anti-Virus Programs
+Silence is Golden: exploiting jamming and radio silence to communicate
+"A Case of Collusion: A Study of the Interface Between Ad Libraries and
+  their Apps"
+Protecting Anti-virus Programs From Viral Attacks
+A cryptographic image encryption technique for facial-blurring of images
+"On the $k$-error linear complexity of binary sequences derived from
+  polynomial quotients"
+Machine-Readable Privacy Certificates for Services
+Through Wall People Localization Exploiting Radio Windows
+PotLLL: A Polynomial Time Version of LLL With Deep Insertions
+"A Hybrid Cryptosystem Based On Vigenere Cipher and Columnar
+  Transposition Cipher"
+A Visual Cryptographic Encryption Technique for Securing Medical Images
+An Oblivious Password Cracking Server
+A New PVSS Scheme with a Simple Encryption Function
+Delegation Management Modeling in a Security Policy based Environment
+Generating Keys in Elliptic Curve Cryptosystems
+Conscript Your Friends into Larger Anonymity Sets with JavaScript
+Automated Password Extraction Attack on Modern Password Managers
+A New Method to Compute the 2-adic Complexity of Binary Sequences
+Puzzle Encryption Algorithm
+Haze: Privacy-Preserving Real-Time Traffic Statistics
+A Review of Privacy Essentials for Confidential Mobile Data Transactions
+"Utilizing Noise Addition for Data Privacy, an Overview"
+"Security Enhancement of Biometric Authentication Scheme for Telecare
+  Medicine Information Systems with Nonce"
+"Cryptanalysis and Improvement of Yan et al.'s Biometric-based
+  authentication scheme for Telecare Medicine Information Systems"
+"Cryptanalysis of Wu and Xu's authentication scheme for Telecare Medicine
+  Information Systems"
+How to Implement Access Rights in an MIS Project
+Mutation Analysis for Security
+Hardware Implementation of the GPS authentication
+"SIED, a Data Privacy Engineering Framework"
+Ensuring High-Quality Randomness in Cryptographic Key Generation
+Elastic Pathing: Your Speed is Enough to Track You
+"The impossibility of obfuscation with auxiliary input or a universal
+  simulator"
+"The effect of constraints on information loss and risk for clustering
+  and modification based graph anonymization methods"
+A Cryptographic Scheme Of Mellin Transform
+A Robust Biometric-Based Three-factor Remote User Authentication Scheme
+Minimizing the Time of Detection of Large (Probably) Prime Numbers
+Hidden Attacks on Power Grid: Optimal Attack Strategies and Mitigation
+"On the Design of LIL Tests for (Pseudo) Random Generators and Some
+  Experimental Results"
+"Lightweight and Secure Two-Party Range Queries over Outsourced Encrypted
+  Databases"
+Cyber Security of Smart Grid Infrastructure
+A Peered Bulletin Board for Robust Use in Verifiable Voting Systems
+A Model for Privacy-enhanced Federated Identity Management
+"Cryptanalysis of Multi-Server Authenticated Key Agreement Scheme Based
+  on Trust Computing Using Smart Cards and Biometrics"
+Spoiled Onions: Exposing Malicious Tor Exit Relays
+Orthogonal Matrix in Cryptography
+Timed-Release Secret Sharing Scheme with Information Theoretic Security
+New Approaches to Website Fingerprinting Defenses
+Analysis and Diversion of Duqu's Driver
+A Robust Password-Based Multi-Server Authentication Scheme
+"DDoS Attack and Defense: Review of Some Traditional and Current
+  Techniques"
+"Post-Westgate SWAT : C4ISTAR Architectural Framework for Autonomous
+  Network Integrated Multifaceted Warfighting Solutions Version 1.0 : A
+  Peer-Reviewed Monograph"
+Android Anti-forensics: Modifying CyanogenMod
+"Constructing Boolean Functions With Potential Optimal Algebraic Immunity
+  Based on Additive Decompositions of Finite Fields"
+Criptografia com Curvas Elípticas
+Securing Smartphones: A Micro-TCB Approach
+Secure SAML validation to prevent XML signature wrapping attacks
+"Priority-Aware Private Matching Schemes for Proximity-Based Mobile
+  Social Networks"
+"A Formal Proof of Countermeasures against Fault Injection Attacks on
+  CRT-RSA"
+"Formal Analysis of CRT-RSA Vigilant's Countermeasure Against the
+  BellCoRe Attack: A Pledge for Formal Methods in the Field of Implementation
+  Security"
+"Quantitative Analysis of Active Cyber Defenses Based on Temporal
+  Platform Diversity"
+Mistake Analyses on Proof about Perfect Secrecy of One-time-pad
+Security Analyses of One-time System
+Confirmation of Shannon's Mistake about Perfect Secrecy of One-time-pad
+Private Handshakes
+Steganography from weak cryptography
+Securing U-Healthcare Sensor Networks using Public Key Based Scheme
+"Cryptanalysis of Yang-Wang-Chang's Password Authentication Scheme with
+  Smart Cards"
+Prediciendo el generador cuadratico (in Spanish)
+A Security Protocol for Multi-User Authentication
+Secure Remote Voting Using Paper Ballots
+Comment - Practical Data Protection
+A New Stream Cipher: Dicing
+Platform-Independent Firewall Policy Representation
+A New Type of Cipher: DICING_csb
+On White-box Cryptography and Obfuscation
+On the Security of Liaw et al.'s Scheme
+"Analysis of a procedure for inserting steganographic data into VoIP
+  calls"
+"An Identity Based Strong Bi-Designated Verifier (t, n) Threshold Proxy
+  Signature Scheme"
+"A probabilistic key agreement scheme for sensor networks without key
+  predistribution"
+Information-Theoretically Secure Voting Without an Honest Majority
+A New Key-Agreement-Protocol
+Mathematical and Statistical Opportunities in Cyber Security
+A new Protocol for 1-2 Oblivious Transfer
+"Identity Based Strong Designated Verifier Parallel Multi-Proxy Signature
+  Scheme"
+"Some Proxy Signature and Designated verifier Signature Schemes over
+  Braid Groups"
+JConstHide: A Framework for Java Source Code Constant Hiding
+Security impact ratings considered harmful
+Computing the biases of parity-check relations
+Hiding Information in Retransmissions
+An Efficient Dynamic and Distributed RSA Accumulator
+"Making Hand Geometry Verification System More Accurate Using Time Series
+  Representation with R-K Band Learning"
+Privacy-Preserving Querying in Sensor Networks
+"Generic Unpacking of Self-modifying, Aggressive, Packed Binary Programs"
+A Survey on Cross-Site Scripting Attacks
+"Mitigating the ICA Attack against Rotation Based Transformation for
+  Privacy Preserving Clustering"
+Multi-Linear cryptanalysis in Power Analysis Attacks MLPA
+"Dynamic Data Flow Analysis via Virtual Code Integration (aka The
+  SpiderPig case)"
+Pipelined Algorithms to Detect Cheating in Long-Term Grid Computations
+"A Full Image of the Wormhole Attacks - Towards Introducing Complex
+  Wormhole Attacks in wireless Ad Hoc Networks"
+Evading network-level emulation
+Attacking an OT-Based Blind Signature Scheme
+Defense Strategies Against Modern Botnets
+Using Agent to Coordinate Web Services
+"Analysis of the various key management algorithms and new proposal in
+  the secure multicast communications"
+"Coarse-grained Dynamic Taint Analysis for Defeating Control and
+  Non-control Data Attacks"
+"Shedding Light on RFID Distance Bounding Protocols and Terrorist Fraud
+  Attacks"
+Client-Server Password Recovery (Extended Abstract)
+"Design and Implementation of a High Quality and High Throughput TRNG in
+  FPGA"
+Intrusion Detection System Using Advanced Honeypots
+Incidence Handling and Response System
+Cryptanalysis of SDES via evolutionary computation techniques
+"A Novel Generic Session Based Bit Level Encryption Technique to Enhance
+  Information Security"
+Complete Security Framework for Wireless Sensor Networks
+"Novel Framework for Hidden Data in the Image Page within Executable File
+  Using Computation between Advanced Encryption Standard and Distortion
+  Techniques"
+"REESSE1+ . Reward . Proof by Experiment . A New Approach to Proof of P
+  != NP"
+"Efficient methodology for implementation of Encrypted File System in
+  User Space"
+Authentication Without Identification using Anonymous Credential System
+"A Differential Cryptanalysis of Yen-Chen-Wu Multimedia Cryptography
+  System (MCS)"
+"A Secure and Efficient Protocol for Group Key agreement in Heterogeneous
+  Environment"
+Secure Linear Programming Using Privacy-Preserving Simplex
+Tracing Technique for Blaster Attack
+A DHT Based Measure of Randomness
+Comments on Five Smart Card Based Password Authentication Protocols
+Cryptanalysis on Four Two-Party Authentication Protocols
+"A Novel Approach towards Cost Effective Region-Based Group Key Agreement
+  Protocol for Secure Group Communication"
+"Anti-Collusion Digital Fingerprinting Codes via Partially Cover-Free
+  Families"
+Tree-formed Verification Data for Trusted Platforms
+Retransmission Steganography Applied
+Quantifying Information Leak Vulnerabilities
+Darknet-Based Inference of Internet Worm Temporal Characteristics
+"Strongly Resilient Non-Interactive Key Predistribution For Hierarchical
+  Networks"
+Breaking an image encryption algorithm based on chaos
+On the Security of Non-Linear HB (NLHB) Protocol Against Passive Attack
+Gbits/s physical-layer stream ciphers based on chaotic light
+"Towards Improving the NIST Fingerprint Image Quality (NFIQ) Algorithm
+  (Extended Version)"
+"Performance of the Fuzzy Vault for Multiple Fingerprints (Extended
+  Version)"
+"An Information-Theoretic Analysis of the Security of Communication
+  Systems Employing the Encoding-Encryption Paradigm"
+"Security Weakness of Flexible Group Key Exchange with On-Demand
+  Computation of Subgroup Keys"
+"Interoperability, Trust Based Information Sharing Protocol and Security:
+  Digital Government Key Issues"
+Benchmarking the True Random Number Generator of TPM Chips
+A Survey of RFID Authentication Protocols Based on Hash-Chain Method
+Benaloh's Dense Probabilistic Encryption Revisited
+Secure Operations on Tree-Formed Verification Data
+Vulnerability Analysis of PAP for RFID Tags
+Security Mitigations for Return-Oriented Programming Attacks
+Malware Classification based on Call Graph Clustering
+"Efficient Privacy-Preserving Authentication Protocol for Vehicular
+  Communications with Trustworthy"
+"Passive Cryptanalysis of Unconditionally Secure Authentication Protocol
+  for RFID Systems"
+"A Novel Approach Towards Cost Effective Region-Based Group Key Agreement
+  Protocol for Peer - to - Peer Information Sharing in Mobile Ad Hoc Networks"
+"Ciphertext Policy Attribute based Encryption with anonymous access
+  policy"
+E-Net Models of a Software System for Web Pages Security SECURITY
+Group Anonymity
+Providing Group Anonymity Using Wavelet Transform
+Group Anonymity: Problems and Solutions
+Providing Data Group Anonymity Using Concentration Differences
+Data Group Anonymity: General Approach
+Processor-Dependent Malware... and codes
+An Algorithm for Detection of Selfish Nodes in Wireless Mesh Networks
+A Survey of System Security in Contactless Electronic Passports
+"A Clustering-based Location Privacy Protection Scheme for Pervasive
+  Computing"
+A New Fuzzy MCDM Framework to Evaluate E-Government Security Strategy
+"E-net models for distribution, access and use of resources in security
+  information systems"
+Bayesian Based Comment Spam Defending Tool
+Commutative-like Encryption: A New Characterization of ElGamal
+"Exact, Efficient and Information-Theoretically Secure Voting with an
+  Arbitrary Number of Cheaters"
+GDB: Group Distance Bounding Protocols
+Secure Multiparty Computation with Partial Fairness
+Hidden-Markov Program Algebra with iteration
+Asymptotic fingerprinting capacity for non-binary alphabets
+"Asymptotically false-positive-maximizing attack on non-binary Tardos
+  codes"
+Design of an Efficient Neural Key Distribution Centre
+"Practical Attacks on a RFID Authentication Protocol Conforming to EPC
+  C-1 G-2 Standard"
+Cryptanalysis of two mutual authentication protocols for low-cost RFID
+Time Stamp Attack on Wide Area Monitoring System in Smart Grid
+Reversible Data Hiding Based on Two-level HDWT Coefficient Histograms
+Redesigning the Open Mobile Alliance License Choice Algorithm
+"A new protocol implementing authentication transformations for
+  multi-located parties"
+Quire: Lightweight Provenance for Smart Phone Operating Systems
+Coding for Cryptographic Security Enhancement using Stopping Sets
+Physical-Layer Security over Correlated Erasure Channels
+A New Bound on the Performance of the Bandwidth Puzzle
+On the Semantics of Purpose Requirements in Privacy Policies
+New Results on Scrambling Using the Mesh Array
+EPS Confidentiality and Integrity mechanisms Algorithmic Approach
+Context-aware Authorization in Highly Dynamic Environments
+Code Attestation with Compressed Instruction Code
+Using parallel processing for file carving
+"Interleaving Commands: a Threat to the Interoperability of Smartcard
+  Based Security Applications"
+A Multi-Dimensional approach towards Intrusion Detection System
+Securing Mobile Ad hoc Networks:Key Management and Routing
+Analysis of Different Privacy Preserving Cloud Storage Frameworks
+The Hush Cryptosystem
+Fragmentation Considered Poisonous
+"SD-AREE: A New Modified Caesar Cipher Cryptographic Method Along with
+  Bit-Manipulation to Exclude Repetition from a Message to be Encrypted"
+"A Hybrid Approach Towards Intrusion Detection Based on Artificial Immune
+  System and Soft Computing"
+Self-Healing Algorithms of Byzantine Faults
+SD-EQR: A New Technique To Use QR CodesTM in Cryptography
+SD-REE: A Cryptographic Method to Exclude Repetition from a Message
+"Detection techniques of selective forwarding attacks in wireless sensor
+  networks: a survey"
+Security of Patched DNS
+A CCA2 Secure Variant of the McEliece Cryptosystem
+"Enforcing Access Control in Virtual Organizations Using Hierarchical
+  Attribute-Based Encryption"
+"An Approach of Digital Image Copyright Protection by Using Watermarking
+  Technology"
+Optimizing ZigBee Security using Stochastic Model Checking
+Analysing ZigBee Key Establishment Protocols
+"Steganography Using Adaptive Pixel Value Differencing(APVD) of Gray
+  Images Through Exclusion of Overflow/Underflow"
+"Countering Wrapping Attack on XML Signature in SOAP Message for Cloud
+  Computing"
+Design of Generic Framework for Botnet Detection in Network Forensics
+Algebraic Message Authentication Codes
+Fully Homomorphic Encryption Scheme with Symmetric Keys
+"Hybrid Mutual Authentication Protocol for 802.16j against Rogue Station
+  and DoS Attack"
+The 10-point and 12-point Number Theoretic Hilbert Transform
+"A Secure Method for Signing in Using Quick Response Codes with Mobile
+  Authentication"
+Fingerprinting Internet DNS Amplification DDoS Activities
+"Gruppen secret sharing, or, how to share several secrets if you must?"
+Practical Provably Secure Multi-node Communication
+Privacy in RFID and mobile objects
+A simple authentication by common strings
+"The Cryptanalysis of Lee's Chaotic Maps-Based Authentication and Key
+  Agreement Scheme using Smart card for Telecare Medicine Information Systems"
+On The Limits Of Perfect Security For Steganographic System
+"Cryptanalysis of Sun and Cao's Remote Authentication Scheme with User
+  Anonymity"
+New Results on the Number Theoretic Hilbert Transform
+Data Framing Attack on State Estimation
+Some Efficient Solutions to Yao's Millionaire Problem
+Towards Human Computable Passwords
+"Resistance of Statistical Attacks of Parastrophic Quasigroup
+  Transformation"
+"Android Security Framework: Enabling Generic and Extensible Access
+  Control on Android"
+"Proceedings First International Workshop on Graphical Models for
+  Security"
+Memory-only selection of dictionary PINs
+Securing vehicle communication systems by the KLJN key exchange protocol
+"Towards Automating the Construction & Maintenance of Attack Trees: a
+  Feasibility Study"
+Possibilistic Information Flow Control for Workflow Management Systems

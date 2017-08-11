@@ -1,0 +1,1252 @@
+title
+Context-free multilanguages
+Shellsort with three increments
+Linear probing and graphs
+"A Fully Polynomial Randomized Approximation Scheme for the All Terminal
+  Network Reliability Problem"
+Minimum Cuts in Near-Linear Time
+Approximate Graph Coloring by Semidefinite Programming
+"A class of problems of NP to be worth to search an efficient solving
+  algorithm"
+Reconstructing hv-Convex Polyominoes from Orthogonal Projections
+Subgraph Isomorphism in Planar Graphs and Related Problems
+"Fast Hierarchical Clustering and Other Applications of Dynamic Closest
+  Pairs"
+Additive models in high dimensions
+About the finding of independent vertices of a graph
+3-Coloring in Time O(1.3289^n)
+"Dimension-Dependent behavior in the satisfability of random k-Horn
+  formulae"
+Min-Max Fine Heaps
+"All Pairs Shortest Paths using Bridging Sets and Rectangular Matrix
+  Multiplication"
+"Improved Algorithms for 3-Coloring, 3-Edge-Coloring, and Constraint
+  Satisfaction"
+Dancing links
+Random Shuffling to Reduce Disorder in Adaptive Sorting Scheme
+"Smoothed Analysis of Algorithms: Why the Simplex Algorithm Usually Takes
+  Polynomial Time"
+Faster Algorithm of String Comparison
+Improving Table Compression with Combinatorial Optimization
+Randomized selection revisited
+A Codebook Generation Algorithm for Document Image Compression
+Sequential and Parallel Algorithms for Mixed Packing and Covering
+Huffman Coding with Letter Costs: A Linear-Time Approximation Scheme
+"Prefix Codes: Equiprobable Words, Unequal Letter Costs"
+Algorithms for Media
+"Linear-Time Pointer-Machine Algorithms for Path-Evaluation Problems on
+  Trees and Graphs"
+Polynomial Time Data Reduction for Dominating Set
+Dynamic Generators of Topologically Embedded Graphs
+"Preemptive Scheduling of Equal-Length Jobs to Maximize Weighted
+  Throughput"
+Dynamic Ordered Sets with Exponential Search Trees
+On the Sum-of-Squares Algorithm for Bin Packing
+Fast and Simple Computation of All Longest Common Subsequences
+"Improved Phylogeny Comparisons: Non-Shared Edges Nearest Neighbor
+  Interchanges, and Subtree Transfers"
+Efficient Tree Layout in a Multilevel Memory Hierarchy
+Indexing schemes for similarity search: an illustrated paradigm
+"Solving a ""Hard"" Problem to Approximate an ""Easy"" One: Heuristics for
+  Maximum Matchings and Maximum Traveling Salesman Problems"
+Smoothed Analysis of Interior-Point Algorithms: Termination
+PHORMA: Perfectly Hashable Order Restricted Multidimensional Arrays
+The traveling salesman problem for cubic graphs
+Quantum Computation and Lattice Problems
+"Compact Approximation of Lattice Functions with Applications to
+  Large-Alphabet Text Search"
+Efficient pebbling for list traversal synopses
+"Heuristic to reduce the complexity of complete bipartite graphs to
+  accelerate the search for maximum weighted matchings with small error"
+Range Mode and Range Median Queries on Lists and Trees
+"An Extension of the Lovasz Local Lemma, and its Applications to Integer
+  Programming"
+"Static Data Structure for Discrete Advance Bandwidth Reservations on the
+  Internet"
+Finding approximate palindromes in strings
+Maintaining Information in Fully-Dynamic Trees with Top Trees
+"Set K-Cover Algorithms for Energy Efficient Monitoring in Wireless
+  Sensor Networks"
+Partitioning schemes for quicksort and quickselect
+Randomized selection with quintary partitions
+Randomized selection with tripartitioning
+Improved randomized selection
+The Freeze-Tag Problem: How to Wake Up a Swarm of Robots
+Fast Multipoint-Evaluation of Bivariate Polynomials
+"The Random Buffer Tree : A Randomized Technique for I/O-efficient
+  Algorithms"
+Efficient coroutine generation of constrained Gray sequences
+"The Complexity of Maximum Matroid-Greedoid Intersection and Weighted
+  Greedoid Maximization"
+"Ramsey-type theorems for metric spaces with applications to online
+  problems"
+Randomized k-server algorithms for growth-rate bounded graphs
+Better algorithms for unfair metrical task systems and applications
+Online Companion Caching
+Online Searching with Turn Cost
+Insertion Sort is O(n log n)
+Efficient Hashing with Lookups in two Memory Accesses
+All Maximal Independent Sets and Dynamic Dominance for Sparse Graphs
+Multi-Embedding of Metric Spaces
+Hash sort: A linear time complexity multiple-dimensional sort algorithm
+A Note on Scheduling Equal-Length Jobs to Maximize Throughput
+Worst-Case Optimal Tree Layout in External Memory
+Finding Approximate Palindromes in Strings Quickly and Simply
+The Accelerated Euclidean Algorithm
+"Evolving Categories: Consistent Framework for Representation of Data and
+  Algorithms"
+"Preemptive Multi-Machine Scheduling of Equal-Length Jobs to Minimize the
+  Average Flow Time"
+Formal Test Purposes and The Validity of Test Cases
+Enhancing Histograms by Tree-Like Bucket Indices
+On Dynamic Range Reporting in One Dimension
+Improved Tag Set Design and Multiplexing Algorithms for Universal Arrays
+Highly Scalable Algorithms for Robust String Barcoding
+A note on the Burrows-Wheeler transformation
+Exact and Approximation Algorithms for DNA Tag Set Design
+Correlation Clustering with a Fixed Number of Clusters
+Oblivious Medians via Online Bidding
+The reverse greedy algorithm for the metric k-median problem
+Adaptive Codes: A New Class of Non-standard Variable-length Codes
+Human being is a living random number generator
+"The Generic Multiple-Precision Floating-Point Addition With Exact
+  Rounding (as in the MPFR Library)"
+"Improved Combinatorial Group Testing Algorithms for Real-World Problem
+  Sizes"
+EAH: A New Encoder based on Adaptive Variable-length Codes
+Decision Sort and its Parallel Implementation
+Efficient Approximation of Convex Recolorings
+Sorting a Low-Entropy Sequence
+Isomorphism of graphs-a polynomial test
+Multicommodity Flow Algorithms for Buffered Global Routing
+High-performance BWT-based Encoders
+Modelling the Eulerian Path Problem using a String Matching Framework
+Modelling the EAH Data Compression Algorithm using Graph Theory
+Translating the EAH Data Compression Algorithm into Automata Theory
+A Sorting Algorithm Based on Calculation
+Sampling to estimate arbitrary subset sums
+"On the Worst-case Performance of the Sum-of-Squares Algorithm for Bin
+  Packing"
+Algorithms for Max Hamming Exact Satisfiability
+Fast and Compact Regular Expression Matching
+Entropy based Nearest Neighbor Search in High Dimensions
+Balanced Allocation on Graphs
+Pbit and other list sorting algorithms
+Approximating Clustering of Fingerprint Vectors with Missing Values
+A polynomial algorithm for the k-cluster problem on interval graphs
+Matching Subsequences in Trees
+De Dictionariis Dynamicis Pauco Spatio Utentibus
+Randomized Fast Design of Short DNA Words
+Finding Cliques of a Graph using Prime Numbers
+Truly Online Paging with Locality of Reference
+"Simulating Network Influence Algorithms Using Particle-Swarms: PageRank
+  and PageRank-Priors"
+Plane Decompositions as Tools for Approximation
+An O(n^{2.75}) algorithm for online topological ordering
+"Homogeneity vs. Adjacency: generalising some graph decomposition
+  algorithms"
+Multiple serial episode matching
+Complexity of Monadic inf-datalog. Application to temporal logic
+An O(n^3)-Time Algorithm for Tree Edit Distance
+An exact algorithm for higher-dimensional orthogonal packing
+Unifying two Graph Decompositions with Modular Decomposition
+Approximation algorithms for wavelet transform coding of data streams
+The Complexity of Mean Flow Time Scheduling Problems with Release Times
+Power-aware scheduling for makespan and flow
+"Enabling user-driven Checkpointing strategies in Reverse-mode Automatic
+  Differentiation"
+Scheduling Algorithms for Procrastinators
+Maximum gradient embeddings and monotone clustering
+New Algorithms for Regular Expression Matching
+Weighted hierarchical alignment of directed acyclic graph
+Improved online hypercube packing
+Strip Packing vs. Bin Packing
+New Upper Bounds on The Approximability of 3D Strip Packing
+"Algorithmic linear dimension reduction in the l_1 norm for sparse
+  vectors"
+The Tree Inclusion Problem: In Linear Space and Faster
+CR-precis: A deterministic summary structure for update data streams
+"Improved Approximate String Matching and Regular Expression Matching on
+  Ziv-Lempel Compressed Texts"
+Practical Entropy-Compressed Rank/Select Dictionary
+"Streaming Maximum-Minimum Filter Using No More than Three Comparisons
+  per Element"
+Approximate Convex Optimization by Online Game Playing
+"A near-optimal fully dynamic distributed algorithm for maintaining
+  sparse spanners"
+Algorithmic Aspects of a General Modular Decomposition Theory
+Faster Streaming algorithms for graph spanners
+Least Significant Digit First Presburger Automata
+Improved results for a memory allocation problem
+"A nearly optimal and deterministic summary structure for update data
+  streams"
+Knowledge State Algorithms: Randomization with Limited Information
+On the variance of subset sum estimation
+Finding large and small dense subgraphs
+Deciding k-colourability of $P_5$-free graphs in polynomial time
+A probabilistic analysis of a leader election algorithm
+"An Efficient Algorithm to Recognize Locally Equivalent Graphs in
+  Non-Binary Case"
+Succinct Sampling on Streams
+XORSAT: An Efficient Algorithm for the DIMACS 32-bit Parity Problem
+"An optimal bifactor approximation algorithm for the metric uncapacitated
+  facility location problem"
+NLC-2 graph recognition and isomorphism
+Tag-Cloud Drawing: Algorithms for Cloud Visualization
+On-line Viterbi Algorithm and Its Relationship to Random Walks
+P-adic arithmetic coding
+"Straggler Identification in Round-Trip Data Streams via Newton's
+  Identities and Invertible Bloom Filters"
+Avoiding Rotated Bitboards with Direct Lookup
+Using Images to create a Hierarchical Grid Spatial Index
+Recognizing Partial Cubes in Quadratic Time
+A note on module-composed graphs
+A Tighter Analysis of Setcover Greedy Algorithm for Test Set
+"A Closed-Form Method for LRU Replacement under Generalized Power-Law
+  Demand"
+On the Hopcroft's minimization algorithm
+Grover search algorithm
+Symmetry Partition Sort
+Sublinear Algorithms for Approximating String Compressibility
+Experimental Algorithm for the Maximum Independent Set Problem
+Radix Sorting With No Extra Space
+Weighted Popular Matchings
+Dial a Ride from k-forest
+Noisy Sorting Without Resampling
+Sampling Algorithms and Coresets for Lp Regression
+"Splay Trees, Davenport-Schinzel Sequences, and the Deque Conjecture"
+Complementary algorithms for graphs and percolation
+Priority Queue Based on Multilevel Prefix Tree
+"Linear Time Algorithms Based on Multilevel Prefix Tree for Finding
+  Shortest Path with Positive Weights and Minimum Spanning Tree in a Networks"
+Relative-Error CUR Matrix Decompositions
+Pattern Matching in Trees and Strings
+Sorting and Selection with Random Costs
+Faster Least Squares Approximation
+Sleeping on the Job: Energy-Efficient Broadcast for Radio Networks
+A Multi-level Blocking Distinct Degree Factorization Algorithm
+Faster Algorithms for Online Topological Ordering
+Data Structures for Mergeable Trees
+On Approximating Multi-Criteria TSP
+"Minimum-weight double-tree shortcutting for Metric TSP: Bounding the
+  approximation ratio"
+Finding a Feasible Flow in a Strongly Connected Network
+Improved Fully Dynamic Reachability Algorithm for Directed Graph
+Approximation Algorithms for Restless Bandit Problems
+A Note On Computing Set Overlap Classes
+Approximation Algorithms for Orienteering with Time Windows
+"A Nearly Linear-Time PTAS for Explicit Fractional Packing and Covering
+  Linear Programs"
+"Algorithms for Temperature-Aware Task Scheduling in Microprocessor
+  Systems"
+Improved Deterministic Length Reduction
+Average-Case Analysis of Online Topological Ordering
+Approximating General Metric Distances Between a Pattern and a Text
+Error-Correcting Data Structures
+Generalized Whac-a-Mole
+Parameterized Algorithms for Partial Cover Problems
+Set Covering Problems with General Objective Functions
+Min-Cost 2-Connected Subgraphs With k Terminals
+"Design by Measure and Conquer, A Faster Exact Algorithm for Dominating
+  Set"
+"Rent, Lease or Buy: Randomized Algorithms for Multislope Ski Rental"
+On Dynamic Breadth-First Search in External-Memory
+"An Improved Randomized Truthful Mechanism for Scheduling Unrelated
+  Machines"
+Tight Bounds for Blind Search on the Integers
+Computing Minimum Spanning Trees with Uncertainty
+On Geometric Spanners of Euclidean and Unit Disk Graphs
+"Fixed Parameter Polynomial Time Algorithms for Maximum Agreement and
+  Compatible Supertrees"
+Networks become navigable as nodes move and forget
+Stream sampling for variance-optimal estimation of subset sums
+Incremental Topological Ordering and Strong Component Maintenance
+Graph Sparsification by Effective Resistances
+Treewidth computation and extremal combinatorics
+Rapport de recherche sur le problème du plus court chemin contraint
+"Admission Control to Minimize Rejections and Online Set Cover with
+  Repetitions"
+Bloomier Filters: A second look
+Algorithms for Secretary Problems on Graphs and Hypergraphs
+Online Scheduling to Minimize the Maximum Delay Factor
+"Algorithms for Scheduling Weighted Packets with Deadlines in a Bounded
+  Queue"
+Improved Algorithms for Approximate String Matching (Extended Abstract)
+"Finding Dense Subgraphs in G(n,1/2)"
+Stochastic Combinatorial Optimization under Probabilistic Constraints
+Improved Smoothed Analysis of the k-Means Method
+Thinking Twice about Second-Price Ad Auctions
+Fast C-K-R Partitions of Sparse Graphs
+Betweenness Centrality : Algorithms and Lower Bounds
+Algorithms for Locating Constrained Optimal Intervals
+Simpler Analyses of Local Search Algorithms for Facility Location
+Single source shortest paths in $H$-minor free graphs
+Inferring Company Structure from Limited Available Information
+Locating Restricted Facilities on Binary Maps
+Acerca del Algoritmo de Dijkstra
+A Fast Generic Sequence Matching Algorithm
+"The Ratio Index for Budgeted Learning, with Applications"
+Packing multiway cuts in capacitated graphs
+"A linear time algorithm for L(2,1)-labeling of trees"
+"Efficient Algorithms and Routing Protocols for Handling Transient Single
+  Node Failures"
+A constructive proof of the Lovasz Local Lemma
+Exponential-Time Approximation of Hard Problems
+Lower bounds for distributed markov chain problems
+Worst-case time decremental connectivity and k-edge witness
+An Efficient Algorithm for Partial Order Production
+Dynamic External Hashing: The Limit of Buffering
+Binar Sort: A Linear Generalized Sorting Algorithm
+Binar Shuffle Algorithm: Shuffling Bit by Bit
+Faster Approximate String Matching for Short Patterns
+Low-Memory Adaptive Prefix Coding
+Finding Sparse Cuts Locally Using Evolving Sets
+On Allocating Goods to Maximize Fairness
+"Interprocedural Dataflow Analysis over Weight Domains with Infinite
+  Descending Chains"
+"An Ω(n log n) lower bound for computing the sum of even-ranked
+  elements"
+Towards Optimal Range Medians
+On some simplicial elimination schemes for chordal graphs
+Online validation of the pi and pi' failure functions
+An O(log(n)) Fully Dynamic Algorithm for Maximum matching in a tree
+Max Edge Coloring of Trees
+Peer to Peer Optimistic Collaborative Editing on XML-like trees
+Graph Sparsification in the Semi-streaming Model
+"Compressed Representations of Permutations, and Applications"
+Nonclairvoyant Speed Scaling for Flow and Energy
+On the Additive Constant of the k-server Work Function Algorithm
+A Comparison of Techniques for Sampling Web Pages
+Lower Bounds for Multi-Pass Processing of Multiple Data Streams
+Fast Evaluation of Interlace Polynomials on Graphs of Bounded Treewidth
+Correlation Robust Stochastic Optimization
+Online Scheduling of Bounded Length Jobs to Maximize Throughput
+"More Haste, Less Waste: Lowering the Redundancy in Fully Indexable
+  Dictionaries"
+A Graph Reduction Step Preserving Element-Connectivity and Applications
+Parallel machine scheduling with precedence constraints and setup times
+Online Algorithms for Self-Organizing Sequential Search - A Survey
+"A Randomized Rounding Algorithm for the Asymmetric Traveling Salesman
+  Problem"
+The Euler Path to Static Level-Ancestors
+Randomized Shellsort: A Simple Oblivious Sorting Algorithm
+Paired approximation problems and incompatible inapproximabilities
+Simple implementation of deletion from open-address hash table
+Memory Consistency Conditions for Self-Assembly Programming
+FPT Algorithms for Connected Feedback Vertex Set
+Packet Scheduling in a Size-Bounded Buffer
+"Efficient and Error-Correcting Data Structures for Membership and
+  Polynomial Evaluation"
+"Breaking the 2^n-Barrier for Irredundance: A Parameterized Route to
+  Solving Exact Puzzles"
+Lightweight Data Indexing and Compression in External Memory
+Exploration of Periodically Varying Graphs
+Range Non-Overlapping Indexing
+MACH: Fast Randomized Tensor Decompositions
+Fast Set Intersection and Two Patterns Matching
+Finding Induced Subgraphs via Minimal Triangulations
+"A O(E) Time Shortest Path Algorithm For Non Negative Weighted Undirected
+  Graphs"
+Algorithm as Defining Dynamic Systems
+Fast Arc-Annotated Subsequence Matching in Linear Space
+Fast Approximation in Subspaces by Doubling Metric Decomposition
+GEDI: Scalable Algorithms for Genotype Error Detection and Imputation
+Synthesizing Minimal Tile Sets for Patterned DNA Self-Assembly
+A Minimal Periods Algorithm with Applications
+Ptolemaic Indexing
+Improved Algorithm for Degree Bounded Survivable Network Design Problem
+Efficient Fully-Compressed Sequence Representations
+An $O(n^2)$ Algorithm for Computing Longest Common Cyclic Subsequence
+Faster FAST(Feedback Arc Set in Tournaments)
+"Approximation Schemes for Steiner Forest on Planar Graphs and Graphs of
+  Bounded Treewidth"
+Tight Thresholds for Cuckoo Hashing via XORSAT
+"Submodular Functions: Extensions, Distributions, and Algorithms. A
+  Survey"
+"A Local Spectral Method for Graphs: with Applications to Improving Graph
+  Partitions and Exploring Data Graphs Locally"
+Grammar-Based Compression in a Streaming Model
+"An expected-case sub-cubic solution to the all-pairs shortest path
+  problem in R"
+Thresholded Covering Algorithms for Robust and Max-Min Optimization
+Euclidean Prize-collecting Steiner Forest
+Computing a Discrete Logarithm in O(n^3)
+Combining Partial Order Alignment and Progressive Near-Optimal Alignment
+Robust Fault Tolerant uncapacitated facility location
+Fast Fraction-Integer Method for Computing Multiplicative Inverse
+"Continuous Monitoring of Distributed Data Streams over a Time-based
+  Sliding Window"
+"Demand-Supply Optimization with Risk Management for a Multi-Connection
+  Water Reservoir Network"
+"Backyard Cuckoo Hashing: Constant Worst-Case Operations with a Succinct
+  Representation"
+"A Variable Depth Sequential Search Heuristic for the Quadratic
+  Assignment Problem"
+Multi-dimensional Boltzmann Sampling of Languages
+MADMX: A Novel Strategy for Maximal Dense Motif Extraction
+Heuristic Contraction Hierarchies with Approximation Guarantee
+Mod/Resc Parsimony Inference
+Optimization with More than One Budget
+Improved NSGA-II Based on a Novel Ranking Scheme
+"On constant factor approximation for earth mover distance over doubling
+  metrics"
+Defining and Computing Alternative Routes in Road Networks
+Threshold rules for online sample selection
+"An O(loglog n)-Competitive Binary Search Tree with Optimal Worst-Case
+  Access Times"
+"Approximation Algorithms for Optimal Decision Trees and Adaptive TSP
+  Problems"
+Cleaning Interval Graphs
+On Column-restricted and Priority Covering Integer Programs
+Approaching optimality for solving SDD systems
+On Generalizations of Network Design Problems with Degree Bounds
+Exponential Lower Bounds For Policy Iteration
+"A New Approach to Population Sizing for Memetic Algorithms: A Case Study
+  for the Multidimensional Assignment Problem"
+Graph Iterators: Decoupling Graph Structures from Algorithms
+"Lin-Kernighan Heuristic Adaptations for the Generalized Traveling
+  Salesman Problem"
+"Angle Tree: Nearest Neighbor Search in High Dimensions with Low
+  Intrinsic Dimensionality"
+"Faster Approximation Schemes for Fractional Multicommodity Flow Problems
+  via Dynamic Graph Algorithms"
+On Finding Frequent Patterns in Directed Acyclic Graphs
+The Deletable Bloom filter: A new member of the Bloom family
+"Maximum flow is approximable by deterministic constant-time algorithm in
+  sparse networks"
+A Linear-time Algorithm for Sparsification of Unweighted Graphs
+On Estimating the First Frequency Moment of Data Streams
+Round-Trip Voronoi Diagrams and Doubling Density in Geographic Networks
+"Estimating small frequency moments of data stream: a characteristic
+  function approach"
+"Arboricity, h-Index, and Dynamic Algorithms"
+Chains-into-Bins Processes
+Efficient Algorithms and Data Structures for Massive Data Sets
+"A Better Memoryless Online Algorithm for FIFO Buffering Packets with Two
+  Values"
+"Polylogarithmic Approximation for Edit Distance and the Asymmetric Query
+  Complexity"
+Scheduling Packets with Values and Deadlines in Size-bounded Buffers
+Succinct Representations of Dynamic Strings
+Almost Optimal Unrestricted Fast Johnson-Lindenstrauss Transform
+"Efficient Local Search Algorithms for Known and New Neighborhoods for
+  the Generalized Traveling Salesman Problem"
+"A Note on Element-wise Matrix Sparsification via a Matrix-valued
+  Bernstein Inequality"
+Tight and simple Web graph compression
+Systolic Array Technique for Determining Common Approximate Substrings
+On the hardness of distance oracle for sparse graph
+On the Insertion Time of Cuckoo Hashing
+Algebraic characterisation of one-way patterns
+Minimizing a sum of submodular functions
+Constructions from Dots and Lines
+"Optimal Constant-Time Approximation Algorithms and (Unconditional)
+  Inapproximability Results for Every Bounded-Degree CSP"
+Complexity dichotomy on partial grid recognition
+Should Static Search Trees Ever Be Unbalanced?
+"Practical Range Aggregation, Selection and Set Maintenance Techniques"
+Approximating Sparsest Cut in Graphs of Bounded Treewidth
+"An Algorithm to List All the Fixed-Point Free Involutions on a Finite
+  Set"
+Dynamic Range Reporting in External Memory
+"Competitive Boolean Function Evaluation: Beyond Monotonicity, and the
+  Symmetric Case"
+Prize-Collecting Steiner Tree and Forest in Planar Graphs
+Vertex Sparsifiers and Abstract Rounding Algorithms
+Vertex Sparsifiers: New Results from Old Techniques
+"Metric Extension Operators, Vertex Sparsifiers and Lipschitz
+  Extendability"
+"An Efficient Algorithm For Chinese Postman Walk on Bi-directed de Bruijn
+  Graphs"
+Mining Top-K Frequent Itemsets Through Progressive Sampling
+Grammar-Based Geodesics in Semantic Networks
+"Extended h-Index Parameterized Data Structures for Computing Dynamic
+  Subgraph Statistics"
+A Quartic Kernel for Pathwidth-One Vertex Deletion
+Comparing Pedigree Graphs
+"A Branch-and-Reduce Algorithm for Finding a Minimum Independent
+  Dominating Set"
+One method of storing information
+Maximizing the Total Resolution of Graphs
+"Deterministic Online Call Control in Cellular Networks and Triangle-Free
+  Cellular Networks"
+"Facility Location with Client Latencies: Linear-Programming based
+  Techniques for Minimum-Latency Problems"
+Popularity at Minimum Cost
+Simultaneous Interval Graphs
+Center-based Clustering under Perturbation Stability
+"One, Two, Three and N Dimensional String Search Algorithms"
+A Versatile Algorithm to Generate Various Combinatorial Structures
+The Sorting Buffer Problem is NP-hard
+Testing Simultaneous Planarity when the Common Graph is 2-Connected
+A PTAS for Scheduling with Tree Assignment Restrictions
+Improving PPSZ for 3-SAT using Critical Variables
+"An Efficient Implementation of the Robust Tabu Search Heuristic for
+  Sparse Quadratic Assignment Problems"
+FAST: Kernelization based on Graph Modular Decomposition
+Efficient Clustering with Limited Distance Information
+The Straight-Line RAC Drawing Problem is NP-Hard
+Priority Queues with Multiple Time Fingers
+List Factoring and Relative Worst Order Analysis
+Fast Pseudo-Random Fingerprints
+"LRM-Trees: Compressed Indices, Adaptive Sorting, and Compressed
+  Permutations"
+L1 Projections with Box Constraints
+"Comparative Performance of Tabu Search and Simulated Annealing
+  Heuristics for the Quadratic Assignment Problem"
+Oblivious Buy-at-Bulk in Planar Graphs
+Oblivious Algorithms for the Maximum Directed Cut Problem
+Engineering Time-dependent One-To-All Computation
+Cut-Matching Games on Directed Graphs
+Improved Complexity Bound of Vertex Cover for Low degree Graph
+Improved approximations for robust mincut and shortest path
+"Fixed-parameter tractability of multicut parameterized by the size of
+  the cutset"
+The set of realizations of a max-plus linear sequence is semi-polyhedral
+"Towards an SDP-based Approach to Spectral Methods: A Nearly-Linear-Time
+  Algorithm for Graph Partitioning and Decomposition"
+Energy-Efficient Multiprocessor Scheduling for Flow Time and Makespan
+Property Testing via Set-Theoretic Operations
+Multicut is FPT
+"PPZ For More Than Two Truth Values - An Algorithm for Constraint
+  Satisfaction Problems"
+Python for education: the exact cover problem
+Upward Point-Set Embeddability
+Feedback Vertex Set in Mixed Graphs
+Popular b-matchings
+"An Algorithm to Reduce the Time Complexity of Earliest Deadline First
+  Scheduling Algorithm in Real-Time System"
+A Searchable Compressed Edit-Sensitive Parsing
+Non-clairvoyant Scheduling Games
+On Parsimonious Explanations for 2-D Tree- and Linearly-Ordered Data
+"Maximizing Non-monotone Submodular Set Functions Subject to Different
+  Constraints: Combined Algorithms"
+Multi-Stage Improved Route Planning Approach: theoretical foundations
+"Multi-objective Optimization For The Dynamic Multi-Pickup and Delivery
+  Problem with Time Windows"
+Inducing the LCP-Array
+Two Multivehicle Routing Problems with Unit-Time Windows
+Speedup in the Traveling Repairman Problem with Constrained Time Windows
+Self-Index Based on LZ77
+Linear-Space Data Structures for Range Mode Query in Arrays
+High-Confidence Predictions under Adversarial Uncertainty
+"Conflict Packing: an unifying technique to obtain polynomial kernels for
+  editing problems on dense instances"
+Maintaining Arrays of Contiguous Objects
+Compressed String Dictionaries
+The complexity of Free-Flood-It on 2xn boards
+A 4/3-approximation for TSP on cubic 3-edge-connected graphs
+The complexity of flood-filling games on graphs
+Random Walk on Directed Dynamic Graphs
+"A Note on: `Algorithms for Connected Set Cover Problem and
+  Fault-Tolerant Connected Set Cover Problem'"
+"Potent Tree Codes and their applications: Coding for Interactive
+  Communication, revisited"
+Locating regions in a sequence under density constraints
+Fixed Parameter Tractable Algorithm for Firefighting Problem
+Multi-Hop Routing and Scheduling in Wireless Networks in the SINR model
+Fast Local Computation Algorithms
+On-line construction of position heaps
+Dimensionality Decrease Heuristics for NP Complete Problems
+Randomized $Δ$-Edge-Coloring via Quaternion of Complex Colors
+A Note On Estimating the Spectral Norm of A Matrix Efficiently
+Subexponential Parameterized Algorithm for Minimum Fill-in
+Approximate Tree Decompositions of Planar Graphs in Linear Time
+"Linear Programming in the Semi-streaming Model with Application to the
+  Maximum Matching Problem"
+Using Hashing to Solve the Dictionary Problem (In External Memory)
+Minimum Weight Cycles and Triangles: Equivalences and Algorithms
+Confluent Persistence Revisited
+Approximating Graphic TSP by Matchings
+On Stabilization in Herman's Algorithm
+Parallel Recursive State Compression for Free
+Efficient Seeds Computation Revisited
+Contracting Graphs to Paths and Trees
+"An improved approximation algorithm for the minimum-cost subset
+  k-connected subgraph problem"
+"Laminar Families and Metric Embeddings: Non-bipartite Maximum Matching
+  Problem in the Semi-Streaming Model"
+"Pattern matching in Lempel-Ziv compressed strings: fast, simple, and
+  deterministic"
+Satisfiability of Acyclic and Almost Acyclic CNF Formulas
+Random input helps searching predecessors
+Towards a Data Reduction for the Minimum Flip Supertree Problem
+Polynomial Estimators for High Frequency Moments
+Finding Light Spanners in Bounded Pathwidth Graphs
+Min-cuts and Shortest Cycles in Planar Graphs in O(n log log n) Time
+Computing the Girth of a Planar Graph in Linear Time
+Cuckoo Hashing with Pages
+"A cuckoo hashing variant with improved memory utilization and insertion
+  time"
+External-Memory Multimaps
+Randomized algorithms for matrices and data
+Unconstrained and Constrained Fault-Tolerant Resource Allocation
+"A simple algorithm for the evaluation of the hypergeometric series using
+  quasi-linear time and linear space"
+On vertex covers and matching number of trapezoid graphs
+Geometric Simultaneous RAC Drawings of Graphs
+Testing List H-Homomorphisms
+Space Lower Bounds for Online Pattern Matching
+An Efficient Partitioning Oracle for Bounded-Treewidth Graphs
+Optimal Bi-Valued Auctions
+Minimum Certificate Dispersal with Tree Structures
+Black Hole Search with Finite Automata Scattered in a Synchronous Torus
+A Comparison of Performance Measures via Online Search
+External Memory Orthogonal Range Reporting with Fast Updates
+External-Memory Network Analysis Algorithms for Naturally Sparse Graphs
+Quadratic-time Algorithm for the String Constrained LCS Problem
+Adaptive Drift Analysis
+A Comprehensive Study of an Online Packet Scheduling Algorithm
+"Towards an Optimal Space-and-Query-Time Index for Top-k Document
+  Retrieval"
+Scheduling partially ordered jobs faster than 2^n
+Towards Optimal Sorting of 16 Elements
+Conauto-2.0: Fast Isomorphism Testing and Automorphism Group Computation
+13/9-approximation for Graphic TSP
+Combinatorial Algorithms for Capacitated Network Design
+Fast k-means algorithm clustering
+Efficient Sum-Based Hierarchical Smoothing Under \ell_1-Norm
+Succinct Representations of Permutations and Functions
+Optimal Indexes for Sparse Bit Vectors
+"Fast Approximation Algorithms for Near-optimal Large-scale Network
+  Monitoring"
+Upward Point Set Embeddability for Convex Point Sets is in $P$
+"Randomized Algorithms for Tracking Distributed Count, Frequencies, and
+  Ranks"
+"Model for networks of spatial objects and simulation of geographical
+  phenomena propagation"
+Substring Range Reporting
+Prismatic Algorithm for Discrete D.C. Programming Problems
+On Compressing Permutations and Adaptive Sorting
+Capacitated Domination: Constant Factor Approximation for Planar Graphs
+"A $(k + 3)/2$-approximation algorithm for monotone submodular
+  maximization over a $k$-exchange system"
+New Results on the Fault-Tolerant Facility Placement Problem
+The update complexity of selection and related problems
+"A tight bound on the length of odd cycles in the incompatibility graph
+  of a non-C1P matrix"
+The Open Graph Archive: A Community-Driven Effort
+Pattern Matching under Polynomial Transformation
+"Characterization of Request Sequences for List Accessing Problem and New
+  Theoretical Results for MTF Algorithm"
+A New Proposed Cost Model for List Accessing Problem using Buffering
+Lossless data compression on GPGPU architectures
+"A O(1/eps^2)^n Time Sieving Algorithm for Approximate Integer
+  Programming"
+More Compact Oracles for Approximate Distances in Planar Graphs
+Encoding 2-D Range Maximum Queries
+Faster Approximate Pattern Matching in Compressed Repetitive Texts
+Improved Distance Oracles and Spanners for Vertex-Labeled Graphs
+Packing-Based Approximation Algorithm for the k-Set Cover Problem
+Approximation Algorithms for Variable-Sized and Generalized Bin Covering
+A linear-time algorithm for the strong chromatic index of Halin graphs
+A Faster Grammar-Based Self-Index
+Tying up the loose ends in fully LZW-compressed pattern matching
+"A Simple Linear-Space Data Structure for Constant-Time Range Minimum
+  Query"
+Parameterized Matching in the Streaming Model
+Online Sum-Radii Clustering
+Approximating Edit Distance in Near-Linear Time
+"Online Primal-Dual For Non-linear Optimization with Applications to
+  Speed Scaling"
+Space-efficient Local Computation Algorithms
+Optimal Eviction Policies for Stochastic Address Traces
+An efficient algorithm to find a set of nearest elements in a mesh
+"Algorithms for the strong chromatic index of Halin graphs,
+  distance-hereditary graphs and maximal outerplanar graphs"
+"A 2.75-Approximation Algorithm for the Unconstrained Traveling
+  Tournament Problem"
+The Query-commit Problem
+"Approximating CSPs with Global Cardinality Constraints Using SDP
+  Hierarchies"
+"A Near-Optimal Sublinear-Time Algorithm for Approximating the Minimum
+  Vertex Cover Size"
+Optimal Deadline Scheduling with Commitment
+Efficient Encoding of Watermark Numbers as Reducible Permutation Graphs
+"An efficient polynomial-time approximation scheme for Steiner forest in
+  planar graphs"
+A Polylogarithmic-Competitive Algorithm for the k-Server Problem
+"On the strong chromatic index and maximum induced matching of
+  tree-cographs and permutation graphs"
+Minimum Latency Submodular Cover
+String Matching with Variable Length Gaps
+Telling Two Distributions Apart: a Tight Characterization
+"Partial Data Compression and Text Indexing via Optimal Suffix
+  Multi-Selection"
+On the Power of Adaptivity in Sparse Recovery
+Traffic-Redundancy Aware Network Design
+Min-Max Graph Partitioning and Small Set Expansion
+Taking Roots over High Extensions of Finite Fields
+Improved Upper Bounds for Pairing Heaps
+Improved Grammar-Based Compressed Indexes
+Improving Christofides' Algorithm for the s-t Path TSP
+Symmetry and approximability of submodular maximization problems
+String Indexing for Patterns with Wildcards
+"The generalized work function algorithm is competitive for the
+  generalized 2-server problem"
+Maximum Matching in Semi-Streaming with Few Passes
+Computing on Binary Strings
+The interval ordering problem
+A New Approach to Incremental Cycle Detection and Related Problems
+Scaling algorithms for approximate and exact maximum weight matching
+Worst-Case Optimal Priority Queues via Extended Regular Counters
+Approximating the Diameter of Planar Graphs in Near Linear Time
+Secretary Problems with Convex Costs
+"On the complexity of strongly connected components in directed
+  hypergraphs"
+Approximation Algorithms for Edge Partitioned Vertex Cover Problems
+Experiments on Density-Constrained Graph Clustering
+Steiner Forest Orientation Problems
+Multiple Traveling Salesmen in Asymmetric Metrics
+Independence of Tabulation-Based Hash Classes
+Approximating Non-Uniform Sparsest Cut via Generalized Spectra
+Self-Index based on LZ77 (thesis)
+Tight Bounds for Distributed Functional Monitoring
+AdCell: Ad Allocation in Cellular Networks
+"Cache-Oblivious Implicit Predecessor Dictionaries with the Working Set
+  Property"
+Tight lower bounds for online labeling problem
+On group feedback vertex set parameterized by the size of the cutset
+(1+epsilon)-Distance Oracle for Planar Labeled Graph
+"There is no 16-Clue Sudoku: Solving the Sudoku Minimum Number of Clues
+  Problem"
+"Method of the Multidimensional Sieve in the Practical Realization of
+  some Combinatorial Algorithms"
+Abstract unordered and ordered trees CRDT
+Dynamic Scope-Based Dijkstra's Algorithm
+Nearly Optimal Sparse Fourier Transform
+"Dynamic 3-sided Planar Range Queries with Expected Doubly Logarithmic
+  Time"
+A Bijective String Sorting Transform
+Compact Binary Relation Representations with Rich Functionality
+"A simple D^2-sampling based PTAS for k-means and other Clustering
+  Problems"
+An efficient parallel algorithm for the longest path problem in meshes
+Finding Endogenously Formed Communities
+Online Multi-Commodity Flow with High Demands
+Faster and Simpler Minimal Conflicting Set Identification
+"Implementation of exponential and parametrized algorithms in the AGAPE
+  project"
+k-Probe DH-graphs
+The black-and-white coloring problem on permutation graphs
+"How does the Shift-insertion sort behave when the sorting elements
+  follow a Normal distribution?"
+A rearrangement step with potential uses in priority queues
+Secure Multi-Party Computation in Large Networks
+"An Exploratory Study of Critical Factors Affecting the Efficiency of
+  Sorting Techniques (Shell, Heap and Treap)"
+"Partition Sort Revisited: Reconfirming the Robustness in Average Case
+  and much more!"
+An Optimal Algorithm for Conflict-Free Coloring for Tree of Rings
+Spanning trees and the complexity of flood-filling games
+"Biclique-colouring verification complexity and biclique-colouring power
+  graphs"
+acc-Motif Detection Tool
+"Iterative rounding approximation algorithms for degree-bounded
+  node-connectivity network design"
+Ad Serving Using a Compact Allocation Plan
+"SHALE: An Efficient Algorithm for Allocation of Guaranteed Display
+  Advertising"
+A note on the fast power series' exponential
+"A More Reliable Greedy Heuristic for Maximum Matchings in Sparse Random
+  Graphs"
+Online Load Balancing on Unrelated Machines with Startup Costs
+On a New Method of Storing a Variable Size Array
+Single pass sparsification in the streaming model with edge deletions
+"Work function algorithm can forget history without losing
+  competitiveness"
+"A linear time algorithm for the next-to-shortest path problem on
+  undirected graphs with nonnegative edge lengths"
+Small $\ell$-edge-covers in $k$-connected graphs
+Online Mixed Packing and Covering
+Improved Approximation for Orienting Mixed Graphs
+Sequential & Parallel Algorithms for Big-Integer Numbers Subtraction
+"Sequential and Parallel Algorithms for the Addition of Big-Integer
+  Numbers"
+"A New Approach to Online Scheduling: Approximating the Optimal
+  Competitive Ratio"
+Online submodular welfare maximization: Greedy is optimal
+Set It and Forget It: Approximating the Set Once Strip Cover Problem
+"Faster Walks in Graphs: A $\tilde O(n^2)$ Time-Space Trade-off for
+  Undirected s-t Connectivity"
+On the Value of Multiple Read/Write Streams for Data Compression
+"Algorithmic Applications of Baur-Strassen's Theorem: Shortest Cycles,
+  Diameter and Matchings"
+Succinct Posets
+"Parallel and sequential in-place permuting and perfect shuffling using
+  involutions"
+"Approximating the Expansion Profile and Almost Optimal Local Graph
+  Clustering"
+On Thresholds for the Appearance of 2-cores in Mixed Hypergraphs
+"The Johnson-Lindenstrauss Transform Itself Preserves Differential
+  Privacy"
+On Vertex Sparsifiers with Steiner Nodes
+Improved Randomized Online Scheduling of Intervals and Jobs
+Label-Guided Graph Exploration with Adjustable Ratio of Labels
+Algorithms for Junctions in Directed Acyclic Graphs
+"Efficient sub-5 approximations for minimum dominating sets in unit disk
+  graphs"
+"Access Graphs Results for LRU versus FIFO under Relative Worst Order
+  Analysis"
+Connectivity Oracles for Planar Graphs
+"Explicit and Efficient Hash Families Suffice for Cuckoo Hashing with a
+  Stash"
+"A Tight Combinatorial Algorithm for Submodular Maximization Subject to a
+  Matroid Constraint"
+Finding Small Sparse Cuts Locally by Random Walk
+Markov chain methods for small-set expansion
+String Trees
+"Succinct Indices for Range Queries with applications to Orthogonal Range
+  Maxima"
+A Polynomial kernel for Proper Interval Vertex Deletion
+"The Parameterized Complexity Analysis of Partition Sort for Negative
+  Binomial Distribution Inputs"
+"Smart Sort: Design and Analysis of a Fast, Efficient and Robust
+  Comparison Based Internal Sort Algorithm"
+"Selection in the Presence of Memory Faults, with Applications to
+  In-place Resilient Sorting"
+Faster Treasure Hunt and Better Strongly Universal Exploration Sequences
+On the Complexity of the Monte Carlo Method for Incremental PageRank
+"Time and Space Efficient Lempel-Ziv Factorization based on Run Length
+  Encoding"
+Rerouting shortest paths in planar graphs
+Optimal Prefix Free Code in Linear Time
+A Bicriteria Approximation for the Reordering Buffer Problem
+"Efficient Generation ε-close to G(n,p) and Generalizations"
+MSOL Restricted Contractibility to Planar Graphs
+"O(1) Delta Component Computation Technique for the Quadratic Assignment
+  Problem"
+Simple and Deterministic Matrix Sketching
+Better bounds for matchings in the streaming model
+Constrained multilinear detection for faster functional motif discovery
+Comparison of Bucket Sort and RADIX Sort
+Approximation Algorithm for Non-Boolean MAX k-CSP
+Near-Optimal Online Multiselection in Internal and External Memory
+Metrical Service Systems with Multiple Servers
+The Online Replacement Path Problem
+"Performance Evaluation of A Proposed Variant of Frequency Count (VFC)
+  List Accessing Algorithm"
+"Some Novel Results From Analysis of Move To Front (MTF) List Accessing
+  Algorithm"
+Data Structures on Event Graphs
+Optimal Dynamic Sequence Representations
+A Model for Minimizing Active Processor Time
+Solving Cyclic Longest Common Subsequence in Quadratic Time
+A Constructive Algorithm to Prove P=NP
+Fast Monotone Summation over Disjoint Sets
+Biff (Bloom Filter) Codes : Fast Error Correction for Large Data Sets
+On fixed-parameter algorithms for Split Vertex Deletion
+"A Polylogarithimic Approximation Algorithm for Edge-Disjoint Paths with
+  Congestion 2"
+Don't Be Strict in Local Search!
+"A Novel Feature-Based Approach to Characterize Algorithm Performance for
+  the Traveling Salesman Problem"
+Caching with rental cost and zapping
+"Time- and space-efficient evaluation of the complex exponential function
+  using series expansion"
+"Adapt or Die: Polynomial Lower Bounds for Non-Adaptive Dynamic Data
+  Structures"
+Local reconstructors and tolerant testers for connectivity and diameter
+LP Rounding for k-Centers with Non-uniform Hard Capacities
+On Money as a Means of Coordination between Network Packets
+"On-line Indexing for General Alphabets via Predecessor Queries on
+  Subsets of an Ordered List"
+Constrained Fault-Tolerant Resource Allocation
+Upper bounds for the formula size of the majority function
+Reducing a Target Interval to a Few Exact Queries
+"Fast and sensitive read mapping with approximate seeds and multiple
+  backtracking"
+Finding a maximum induced degenerate subgraph faster than 2^n
+"Optimal Planar Range Skyline Reporting with Linear Space in External
+  Memory"
+"A Dynamic I/O-Efficient Structure for One-Dimensional Top-k Range
+  Reporting"
+"The simplex method is strongly polynomial for deterministic Markov
+  decision processes"
+Approximating $k$-Median via Pseudo-Approximation
+Time-Space Trade-Offs for Longest Common Extensions
+Below All Subsets for Some Permutational Counting Problems
+Beyond Worst-Case Analysis in Private Singular Vector Computation
+A Linear Kernel for Planar Total Dominating Set
+How Robust are Linear Sketches to Adaptive Inputs?
+Stochastic Combinatorial Optimization via Poisson Approximation
+"Derivation of fast DCT algorithms using algebraic technique based on
+  Galois theory"
+"A One-Vertex Decomposition Algorithm for Generating Algebraic
+  Expressions of Square Rhomboids"
+Simple I/O-efficient flow accumulation on grid terrains
+I/O-optimal algorithms on grid graphs
+Graph isomorphism and automorphism problems are polynomial
+"A memory versus compression ratio trade-off in PPM via compressed
+  context modeling"
+A Mazing 2+eps Approximation for Unsplittable Flow on a Path
+Iterative Row Sampling
+"Smoothed Analysis of Belief Propagation for Minimum-Cost Flow and
+  Matching"
+Simpler and Faster Lempel Ziv Factorization
+"Note on the Greedy Parsing Optimality for Dictionary-Based Text
+  Compression"
+Approximate pattern matching with k-mismatches in packed text
+Dual techniques for scheduling on a machine with varying speed
+"An Experimental Comparison of Speed Scaling Algorithms with Deadline
+  Feasibility Constraints"
+On string matching with k mismatches
+An Elegant Algorithm for the Construction of Suffix Arrays
+Lempel-Ziv Parsing in External Memory
+"Linear Time Computation of the Maximal Linear and Circular Sums of
+  Multiple Independent Insertions into a Sequence"
+"Dynamic Decremental Approximate Distance Oracles with $(1+ε, 2)$
+  stretch"
+Compressed Pattern-Matching with Ranked Variables in Zimin Words
+"Linear-time generation of specifiable combinatorial structures: general
+  theory and first examples"
+Simpler Sequential and Parallel Biconnectivity Augmentation
+"Navigating Central Path with Electrical Flows: from Flows to Matchings,
+  and Back"
+Approximate the k-Set Packing Problem by Local Improvements
+Improved Submatrix Maximum Queries in Monge Matrices
+Finding the Minimum-Weight k-Path
+Point Line Cover: The Easy Kernel is Essentially Tight
+Better Approximation Bounds for the Joint Replenishment Problem
+Greedy Online Bipartite Matching on Random Graphs
+"Ranking on Arbitrary Graphs: Rematch via Continuous LP with Monotone and
+  Boundary Condition Constraints"
+The technique of in-place associative sorting
+Packing a Knapsack of Unknown Capacity
+A Constant Factor Approximation Algorithm for Fault-Tolerant k-Median
+Dynamic Data Structure for Tree-Depth Decomposition
+"QuickXsort: Efficient Sorting with n log n - 1.399n +o(n) Comparisons on
+  Average"
+"Online Independent Set Beyond the Worst-Case: Secretaries, Prophets, and
+  Periods"
+"A Polynomial-time Approximation Scheme for Fault-tolerant Distributed
+  Storage"
+Parallel Graph Decompositions Using Random Shifts
+"The Power of Deferral: Maintaining a Constant-Competitive Steiner Tree
+  Online"
+A simple approximation algorithm for the internal Steiner minimum tree
+Idempotent permutations
+"Polynomial time approximation schemes for the traveling repairman and
+  other minimum latency problems"
+"Near Linear Time Approximation Schemes for Uncapacitated and Capacitated
+  b--Matching Problems in Nonbipartite Graphs"
+"Access to Data and Number of Iterations: Dual Primal Algorithms for
+  Maximum Matching under Resource Constraints"
+Approximating the minimum cycle mean
+"Bottleneck combinatorial optimization problems with uncertain costs and
+  the OWA criterion"
+Complete Solutions for a Combinatorial Puzzle in Linear Time
+Linear-Time FPT Algorithms via Network Flow
+Linear-Time Recognition of Probe Interval Graphs
+Random Rates for 0-Extension and Low-Diameter Decompositions
+Optimal Hierarchical Layouts for Cache-Oblivious Search Trees
+"On the variable common due date, minimal tardy jobs bicriteria
+  two-machine flow shop problem with ordered machines"
+An approximation algorithm for the Bandpass-2 problem
+A Combination of Flow Shop Scheduling and the Shortest Path Problem
+"Combinations of Some Shop Scheduling Problems and the Shortest Path
+  Problem: Complexity and Approximation Algorithms"
+Colored Packets with Deadlines and Metric Space Transition Cost
+Large induced subgraphs via triangulations and CMSO
+Fast ranking algorithm for very large data
+Throughput Maximization in the Speed-Scaling Setting
+"Approximation Algorithms for a Balanced Capacity and Distance
+  Constrained Vehicle Routing Problem"
+The Swap Matching Problem Revisited
+"Submodular Maximization Meets Streaming: Matchings, Matroids, and More"
+"TRANS outperforms MTF for two special types of request sequences without
+  locality of reference"
+Max-Flows on Sparse and Dense Networks
+"Multiway Cut, Pairwise Realizable Distributions, and Descending
+  Thresholds"
+O-notation in algorithm analysis
+Improved Parallel Algorithms for Spanners and Hopsets
+"Optimizing Maximum Flow Time and Maximum Throughput in Broadcast
+  Scheduling"
+Efficient Graph Algorithms for Network Analysis
+Exploring Subexponential Parameterized Complexity of Completion Problems
+Approximating the MaxCover Problem with Bounded Frequencies in FPT Time
+New Approximability Results for the Robust k-Median Problem
+"Better Bounds for Online $k$-Frame Throughput Maximization in Network
+  Switches"
+A Near Optimal Approximation Algorithm for Vertex-Cover Problem
+Distance Oracles for Time-Dependent Networks
+Augmenting graphs to minimize the diameter
+Substring Suffix Selection
+"Combining All Pairs Shortest Paths and All Pairs Bottleneck Paths
+  Problems"
+"Competitive Design and Analysis for Machine-Minimizing Job Scheduling
+  Problem"
+PROBI: A Heuristic for the probabilistic k-median problem
+"Discordant Compact Logic-Arithmetic Structures in Discrete Optimization
+  Problems"
+A Simple FPTAS for Counting Edge Covers
+Order-preserving pattern matching with k mismatches
+Online Bin Covering: Expectations vs. Guarantees
+On the Connectivity Preserving Minimum Cut Problem
+A general method for common intervals
+"On Self-Avoiding Walks across n-Dimensional Dice and Combinatorial
+  Optimization: An Introduction"
+The Dynamic Longest Increasing Subsequence Problem
+Probabilistic Spectral Sparsification In Sublinear Time
+"Expected time complexity of the auction algorithm and the push relabel
+  algorithm for maximal bipartite matching on random graphs"
+Fast Algorithm for Partial Covers in Words
+On Minimum Average Stretch Spanning Trees in Polygonal 2-trees
+Space-Efficient String Indexing for Wildcard Pattern Matching
+Nonuniform Graph Partitioning with Unrelated Weights
+"A Parallel Space Saving Algorithm For Frequent Items and the Hurwitz
+  zeta distribution"
+Maintaining partial sums in logarithmic time
+Linear time construction of compressed text indices in compact space
+"Efficient random sampling of binary and unary-binary trees via holonomic
+  equations"
+"A Recursive Algorithmic Approach to the Finding of Permutations for the
+  Combination of Any Two Sets"
+Approximating Large Frequency Moments with $O(n^{1-2/k})$ Bits
+Binary Jumbled Pattern Matching via All-Pairs Shortest Paths
+A Second Look at Counting Triangles in Graph Streams (revised)
+A lower bound for metric 1-median selection
+Approximation Algorithm Project
+Stretching Stretch
+"Linear-Time Compression of Bounded-Genus Graphs into
+  Information-Theoretically Optimal Number of Bits"
+Constant Factor Approximation for Capacitated k-Center with Outliers
+A tight lower bound instance for k-means++ in constant dimension
+"An iterative merging placement algorithm for the fixed-outline
+  floorplanning"
+"Improved analysis of D2-sampling based PTAS for k-means and other
+  Clustering problems"
+An Experimental Evaluation of List Coloring Algorithms
+"Large neighborhoods with implicit customer selection for vehicle routing
+  problems with profits"
+Preserving the Basic Property of Stable Matching by Deleting a pair
+Finding minimum Tucker submatrices
+Fully Online Grammar Compression in Constant Space
+On computing the $2$-vertex-connected components of directed graphs
+"An exact algorithm for the weighed mutually exclusive maximum set cover
+  problem"
+A Algorithm for the Hamilton Circuit Problem
+"Branch-and-price-and-cut for the Split-collection Vehicle Routing
+  Problem with Time Windows and Linear Weight-related Cost"
+An N-Body Solution to the Problem of Fock Exchange
+Scalable Online Betweenness Centrality in Evolving Graphs
+"A Fast String Matching Algorithm Based on Lowlight Characters in the
+  Pattern"
+Superconcentration on a Pair of Butterflies
+Minimizing Flow-Time on Unrelated Machines
+How Best to Handle a Dicey Situation
+Experimental Evaluation of Algorithms for the Food-Selection Problem
+"Linear-Time Algorithms for the Paired-Domination Problem in Interval
+  Graphs and Circular-Arc Graphs"
+A New Approach to Analyzing Robin Hood Hashing
+"ReducedCBT and SuperCBT, Two New and Improved Complete Binary Tree
+  Structures"
+On Faster Integer Calculations using Non-Arithmetic Primitives
+From Random Graph to Small World by Wandering
+Mapping Semantic Networks to Undirected Networks
+A Memetic Algorithm for the Generalized Traveling Salesman Problem
+Generalized Traveling Salesman Problem Reduction Algorithms
+Cache-Oblivious Selection in Sorted X+Y Matrices
+Optimum Binary Search Trees on the Hierarchical Memory Model
+"Approximating L1-distances between mixture distributions using random
+  projections"
+"Minimum-energy broadcast in random-grid ad-hoc networks: approximation
+  and distributed algorithms"
+Time Dependent Contraction Hierarchies -- Basic Algorithmic Ideas
+Sketching and Streaming Entropy via Approximation Theory
+The Minimum Backlog Problem
+Submodular approximation: sampling-based algorithms and lower bounds
+A Simple In-Place Algorithm for In-Shuffle
+NAPX: A Polynomial Time Approximation Scheme for the Noah's Ark Problem
+Sequential Design of Experiments via Linear Programming
+"Small Approximate Pareto Sets for Bi-objective Shortest Paths and Other
+  Problems"
+A Comparison of Performance Measures for Online Algorithms
+Fast Arithmetics Using Chinese Remaindering
+Tight Bounds for Hashing Block Sources
+Max Cut and the Smallest Eigenvalue
+Local Search Heuristics For The Multidimensional Assignment Problem
+Approximating Multi-Criteria Max-TSP
+AMS Without 4-Wise Independence on Product Domains
+Sublinear Time Algorithms for Earth Mover's Distance
+"Incremental Deployment of Network Monitors Based on Group Betweenness
+  Centrality"
+"A Program to Determine the Exact Competitive Ratio of List s-Batching
+  with Unit Jobs"
+Bounded Max-Colorings of Graphs
+A Near-Optimal Algorithm for L1-Difference
+Crossing-Optimal Acyclic HP-Completion for Outerplanar st-Digraphs
+"PTAS for k-tour cover problem on the plane for moderately large values
+  of k"
+"Fast Computation of Empirically Tight Bounds for the Diameter of Massive
+  Graphs"
+Approximate counting with a floating-point counter
+"The h-Index of a Graph and its Application to Dynamic Subgraph
+  Statistics"
+"On the Approximability of Geometric and Geographic Generalization and
+  the Min-Max Bin Covering Problem"
+On Smoothed Analysis of Quicksort and Hoare's Find
+Approximation Algorithms for Key Management in Secure Multicast
+Optimal Embedding Into Star Metrics
+Fully-Functional Static and Dynamic Succinct Trees
+"Quantum Algorithms of Bio-molecular Solutions for the Clique Problem on
+  a Quantum Computer"
+"Curse of Dimensionality in the Application of Pivot-based Indexes to the
+  Similarity Search Problem"
+Outlining an elegant solver for 3-SAT
+Fast and Compact Prefix Codes
+"A 4/3-competitive randomized algorithm for online scheduling of packets
+  with agreeable deadlines"
+"Approximation Algorithms for the Traveling Repairman and Speeding
+  Deliveryman Problems"
+"Improved Approximation Algorithms for Segment Minimization in Intensity
+  Modulated Radiation Therapy"
+Rivisiting Token/Bucket Algorithms in New Applications
+Curse of Dimensionality in Pivot-based Indexes
+A Memetic Algorithm for the Multidimensional Assignment Problem
+"Efficient Algorithms for Several Constrained Activity Scheduling
+  Problems in the Time and Space Domains"
+Scheduling with Outliers
+"Minimizing Maximum Response Time and Delay Factor in Broadcast
+  Scheduling"
+Longest Wait First for Broadcast Scheduling
+"The Limit of Convexity Based Isoperimetry: Sampling Harmonic-Concave
+  Functions"
+Oscillations and Random Perturbations of a FitzHugh-Nagumo System
+"Empirical evaluation of construction heuristics for the multidimensional
+  assignment problem"
+Approximating Scheduling Machines with Capacity Constraints
+"AFPTAS results for common variants of bin packing: A new method to
+  handle the small items"
+Bin packing with general cost structures
+"Geometrical Interpretation of the Master Theorem for Divide-and-conquer
+  Recurrences"
+"Integrating Genetic Algorithm, Tabu Search Approach for Job Shop
+  Scheduling"
+On Bijective Variants of the Burrows-Wheeler Transform
+Region growing for multi-route cuts
+Deterministic Algorithms for the Lovasz Local Lemma
+"Breaking the Multicommodity Flow Barrier for sqrt(log(n))-Approximations
+  to Sparsest Cut"
+Contraction of Timetable Networks with Realistic Transfers
+On k-Column Sparse Packing Programs
+On Revenue Maximization in Second-Price Ad Auctions
+"Data structure for representing a graph: combination of linked list and
+  hash table"
+Polynomial Time Algorithms for Minimum Energy Scheduling
+"A Bound on the Sum of Weighted Pairwise Distances of Points Constrained
+  to Balls"
+"Randomized Rounding for Routing and Covering Problems: Experiments and
+  Improvements"
+An Improved Neighbourhood for the Traveling Tournament Problem
+Narrow sieves for parameterized paths and packings
+Using CSP To Improve Deterministic 3-SAT
+"Online Vertex-Weighted Bipartite Matching and Single-bid Budgeted
+  Allocations"
+Flows in One-Crossing-Minor-Free Graphs
+An Optimal Lower Bound for Buffer Management in Multi-Queue Switches
+Submodular Maximization by Simulated Annealing
+Online Stochastic Matching: Online Actions Based on Offline Statistics
+"Symmetric Submodular Function Minimization Under Hereditary Family
+  Constraints"
+Matroid Secretary Problem in the Random Assignment Model
+Faster Replacement Paths
+Heapable Sequences and Subsequences
+Ranking with Submodular Valuations
+Sublinear Time Motif Discovery from Multiple Sequences
+"XML Reconstruction View Selection in XML Databases: Complexity Analysis
+  and Approximation Scheme"
+Greedy algorithm for stochastic matching is a 2-approximation
+Enhanced Random Walk with Choice: An Empirical Study
+Lower Bounds on Query Complexity for Testing Bounded-Degree CSPs
+Searching in Dynamic Catalogs on a Tree
+LP-rounding algorithms for facility-location problems
+Scheduling to Minimize Energy and Flow Time in Broadcast Scheduling
+"On the (non-)existence of polynomial kernels for Pl-free edge
+  modification problems"
+Fast Moment Estimation in Data Streams in Optimal Space
+Intrinsic Dimensionality
+Tree structure compression with RePair
+Balanced Combinations of Solutions in Multi-Objective Optimization
+Quasi-Random Rumor Spreading: Reducing Randomness Can Be Costly
+Determinant Sums for Undirected Hamiltonicity
+Row Sampling for Matrix Algorithms via a Non-Commutative Bernstein Bound
+"Fast, precise and dynamic distance queries"
+"A Deterministic Polynomial-time Approximation Scheme for Counting
+  Knapsack Solutions"
+"Fast Approximation Algorithms for Cut-based Problems in Undirected
+  Graphs"
+2-FREE-FLOOD-IT is polynomial
+An approximation algorithm for the total cover problem
+Maximum Betweenness Centrality: Approximability and Tractable Cases
+Prediction strategies without loss
+Cluster Editing: Kernelization based on Edge Cuts
+The Geometry of Scheduling
+"When LP is the Cure for Your Matching Woes: Improved Bounds for
+  Stochastic Matchings"
+"An Active Learning Algorithm for Ranking from Pairwise Preferences with
+  an Almost Optimal Query Complexity"
+A better tester for bipartiteness?
+Santa Claus Schedules Jobs on Unrelated Machines
+"Hardness and Approximation of The Asynchronous Border Minimization
+  Problem"
+Optimal Binary Search Trees with Near Minimal Height
+CRAM: Compressed Random Access Memory
+Finding topological subgraphs is fixed-parameter tractable
+Online Scheduling on Identical Machines using SRPT
+Pareto Optimal Solutions for Smoothed Analysts
+"Spin-the-bottle Sort and Annealing Sort: Oblivious Sorting via
+  Round-robin Random Comparisons"
+Recursive Sketching For Frequency Moments
+"Rademacher Chaos, Random Eulerian Graphs and The Sparse
+  Johnson-Lindenstrauss Transform"
+Improved Minimum Cuts and Maximum Flows in Undirected Planar Graphs
+"Worst case efficient single and multiple string matching in the Word-RAM
+  model"
+Counting Colours in Compressed Strings
+Pattern Kits
+Directed Spanners via Flow-Based Linear Programs
+"Optimal Lower Bounds for Universal and Differentially Private Steiner
+  Tree and TSP"
+Non-Orthodox Combinatorial Models Based on Discordant Structures
+Compressed Transmission of Route Descriptions
+The Power of Simple Tabulation Hashing
+Computing the diameter polynomially faster than APSP
+"Consecutive Ones Property and PQ-Trees for Multisets: Hardness of
+  Counting Their Orderings"
+Combined Data Structure for Previous- and Next-Smaller-Values
+Matrix method for the multi salesmen problem (TSP) with several vehicles
+"Adaptive Population Models for Offspring Populations and Parallel
+  Evolutionary Algorithms"
+"A Polynomial Time Algorithm for a Special Case of Linear Integer
+  Programming"
+"One to Rule Them All: a General Randomized Algorithm for Buffer
+  Management with Bounded Delay"
+Algorithms for Implicit Hitting Set Problems
+Algorithms for Jumbled Pattern Matching in Strings
+Better Bounds for Incremental Frequency Allocation in Bipartite Graphs
+"A simple PTAS for Weighted Matroid Matching on Strongly Base Orderable
+  Matroids"
+Even Better Framework for min-wise Based Algorithms
+A Constant Factor Approximation Algorithm for Unsplittable Flow on Paths
+"Approximation Algorithms for Correlated Knapsacks and Non-Martingale
+  Bandits"
+Efficient Algorithms for Dualizing Large-Scale Hypergraphs
+LGM: Mining Frequent Subgraphs from Linear Graphs
+On Dynamic Optimality for Binary Search Trees
+A nearly-mlogn time solver for SDD linear systems
+Upper Bounds for Maximally Greedy Binary Search Trees
+Approximation Algorithms for Union and Intersection Covering Problems
+Structure-Aware Sampling: Flexible and Accurate Summarization
+Obtaining a Bipartite Graph by Contracting Few Edges
+Minimum Makespan Multi-vehicle Dial-a-Ride
+Hierarchical Heavy Hitters with the Space Saving Algorithm
+Everywhere-Sparse Spanners via Dense Subgraphs
+Approximating Sparse Covering Integer Programs Online
+Better Balance by Being Biased: A 0.8776-Approximation for Max Bisection
+"Order-preserving Renaming in Synchronous Message Passing Systems with
+  Byzantine Faults"
+Scalable Mechanisms for Rational Secret Sharing
+Scheduling Unrelated Machines of Few Different Types
+A Durable Flash Memory Search Tree

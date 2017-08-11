@@ -1,0 +1,1392 @@
+title
+"Distributed Computation, the Twisted Isomorphism, and Auto-Poiesis"
+Gryphon: An Information Flow Based Approach to Message Brokering
+"Self-stabilizing mutual exclusion on a ring, even if K=N"
+A decision-theoretic approach to reliable message delivery
+On Automata with Boundary
+"A Problem-Specific Fault-Tolerance Mechanism for Asynchronous,
+  Distributed Systems"
+Sorting Integers on the AP1000
+"A Note on ""Optimal Static Load Balancing in Distributed Computer
+  Systems"""
+Performing work efficiently in the presence of faults
+Phase Clocks for Transient Fault Repair
+"Nimrod/G: An Architecture of a Resource Management and Scheduling System
+  in a Global Computational Grid"
+Byzantine Agreement with Faulty Majority using Bounded Broadcast
+A Scientific Data Management System for Irregular Applications
+"Components and Interfaces of a Process Management System for Parallel
+  Programs"
+Replica Selection in the Globus Data Grid
+Dijkstra's Self-Stabilizing Algorithm in Unsupportive Environments
+On the Area of Hypercube Layouts
+Economic Models for Management of Resources in Grid Computing
+Simple and Effective Distributed Computing with a Scheduling Service
+Randomized Two-Process Wait-Free Test-and-Set
+NEOS Server 4.0 Administrative Guide
+"The Cactus Worm: Experiments with Dynamic Resource Discovery and
+  Allocation in a Grid Environment"
+Bounded Concurrent Timestamp Systems Using Vector Clocks
+"Scalable Unix Commands for Parallel Processors: A High-Performance
+  Implementation"
+Learning from the Success of MPI
+"Teaching Parallel Programming Using Both High-Level and Low-Level
+  Languages"
+The ESRF TANGO control system status
+Large-Scale Corba-Distributed Software Framework for Nif Controls
+Modernising the ESRF control system with GNU/Linux
+"Virtual Laboratory: Enabling On-Demand Drug Design with the World Wide
+  Grid"
+"A Computational Economy for Grid Computing and its Implementation in the
+  Nimrod-G Resource Brok"
+Simple Optimal Wait-free Multireader Registers
+"GridSim: A Toolkit for the Modeling and Simulation of Distributed
+  Resource Management and Scheduling for Grid Computing"
+"A Deadline and Budget Constrained Cost-Time Optimisation Algorithm for
+  Scheduling Task Farming Applications on Global Grids"
+"Economic-based Distributed Resource Management and Scheduling for Grid
+  Computing"
+An Overview of a Grid Architecture for Scientific Computing
+Performance evaluation of the GridFTP within the NorduGrid project
+"A Multilevel Approach to Topology-Aware Collective Operations in
+  Computational Grids"
+MPICH-G2: A Grid-Enabled Implementation of the Message Passing Interface
+"System Description for a Scalable, Fault-Tolerant, Distributed Garbage
+  Collector"
+Noncontiguous I/O through PVFS
+Implicit Simulations using Messaging Protocols
+A Unified Theory of Shared Memory Consistency
+"GridBank: A Grid Accounting Services Architecture (GASA) for Distributed
+  Systems Sharing and Integration"
+Computational Grids in Action: The Natinal Fusion Collaboratory
+On the Complexity of Buffer Allocation in Message Passing Systems
+"Grid Market Directory: A Web Services based Grid Service Publication
+  Directory"
+"G-Monitor: Gridbus web portal for monitoring and steering application
+  execution on global grids"
+"Visual Environment for Rapid Composition of Parameter-Sweep Applications
+  for Distributed Processing on Global Grids"
+"Guided Google: A Meta Search Engine and its Implementation using the
+  Google Distributed Web Services"
+Economic and On Demand Brain Activity Analysis on Global Grids
+Fair Solution to the Reader-Writer-Problem with Semaphores only
+Using Regression Techniques to Predict Large Data Transfers
+"Towards automation of computing fabrics using tools from the fabric
+  management workpackage of the EU DataGrid project"
+ATLAS and CMS applications on the WorldGrid testbed
+EU DataGRID testbed management and support at CERN
+A Secure Infrastructure For System Console and Reset Access
+DIAMOnDS - DIstributed Agents for MObile & Dynamic Services
+"McRunjob: A High Energy Physics Workflow Planner for Grid Production
+  Processing"
+A Generic Multi-node State Monitoring Subsystem
+The CMS Integration Grid Testbed
+Clarens Client and Server Applications
+The Clarens web services architecture
+R-GMA: First results after deployment
+Managing Dynamic User Communities in a Grid of Autonomous Resources
+"The first deployment of workload management services on the EU DataGrid
+  Testbed: feedback on design and implementation"
+The new BaBar Data Reconstruction Control System
+"Grid Data Management in Action: Experience in Running and Supporting
+  Data Management Services in the EU DataGrid Project"
+A monitoring tool for a GRID operation center
+HEP Applications Evaluation of the EDG Testbed and Middleware
+A Software Data Transport Framework for Trigger Applications on Clusters
+"Grid-based access control for Unix environments, Filesystems and Web
+  Sites"
+"The WorldGrid transatlantic testbed: a successful example of Grid
+  interoperability across EU and U.S. domains"
+Parallel netCDF: A Scientific High-Performance I/O Interface
+A data Grid testbed environment in Gigabit WAN with HPSS
+ATLAS Data Challenge 1
+BlueOx: A Java Framework for Distributed Data Analysis
+"Installing, Running and Maintaining Large Linux Clusters at CERN"
+DIRAC - Distributed Infrastructure with Remote Agent Control
+A Model for Grid User Management
+Exploiting peer group concept for adaptive and highly available services
+"The AliEn system, status and perspectives"
+AliEn Resource Brokers
+Distributed Offline Data Reconstruction in BaBar
+AliEnFS - a Linux File System for the AliEn Grid Services
+"The EU DataGrid Workload Management System: towards the second major
+  release"
+"Understanding and Coping with Hardware and Software Failures in a Very
+  Large Trigger Farm"
+"Data Management for Physics Analysis in Phenix (BNL, RHIC)"
+BaBar Web job submission with Globus authentication and AFS access
+"Building A High Performance Parallel File System Using Grid Datafarm and
+  ROOT I/O"
+Grid-Brick Event Processing Framework in GEPS
+MonALISA : A Distributed Monitoring Service Architecture
+Site Authorization Service (SAZ)
+Run Control and Monitor System for the CMS Experiment
+Sharing a conceptual model of grid resources and services
+Adapting SAM for CDF
+D0 Regional Analysis Center Concepts
+GRAPPA: Grid Access Portal for Physics Applications
+Management of Grid Jobs and Information within SAMGrid
+Lattice QCD Production on Commodity Clusters at Fermilab
+"Tools and Techniques for Managing Clusters for SciDAC Lattice QCD at
+  Fermilab"
+"Gridscape: A Tool for the Creation of Interactive and Dynamic Grid
+  Testbed Web Portals"
+"Augernome & XtremWeb: Monte Carlos computation on a global computing
+  platform"
+Relational Grid Monitoring Architecture (R-GMA)
+"A thought experiment on Quantum Mechanics and Distributed Failure
+  Detection"
+A distributed algorithm to find k-dominating sets
+On reducing the complexity of matrix clocks
+Control and Debugging of Distributed Programs Using Fiddle
+Optimizing Noncontiguous Accesses in MPI-IO
+A Particular Bug Trap: Execution Replay Using Virtual Machines
+OGSA/Globus Evaluation for Data Intensive Applications
+Problem of Application Job Monitoring in GRID Systems
+LCG-1 Deployment and usage experience
+"GridEmail: A Case for Economically Regulated Internet-based
+  Interpersonal Communications"
+Using virtual processors for SPMD parallel programs
+ClassdescMP: Easy MPI programming in C++
+"A Knowledge-Theoretic Analysis of Uniform Distributed Coordination and
+  Failure Detectors"
+"Alchemi: A .NET-based Grid Computing Framework and its Integration into
+  Global Grids"
+P2P Networks for Content Sharing
+Belle Computing System
+A Modular and Fault-Tolerant Data Transport Framework
+"The study of distributed computing algorithms by multithread
+  applications"
+"The Gridbus Toolkit for Service Oriented Grid and Utility Computing: An
+  Overview and Status Report"
+"A Grid Service Broker for Scheduling Distributed Data-Oriented
+  Applications on Global Grids"
+"A New Dynamical Domain Decomposition Method for Parallel Molecular
+  Dynamics Simulation on Grid"
+"Global Grids and Software Toolkits: A Study of Four Grid Middleware
+  Technologies"
+"A Taxonomy and Survey of Grid Resource Planning and Reservation Systems
+  for Grid Enabled Analysis Environment"
+"Distributed Analysis and Load Balancing System for Grid Enabled Analysis
+  on Hand-held devices using Multi-Agents Systems"
+"A Grid-enabled Interface to Condor for Interactive Analysis on Handheld
+  and Resource-limited Devices"
+"A Low Cost Distributed Computing Approach to Pulsar Searches at a Small
+  College"
+Performance Characterisation of Intra-Cluster Collective Communications
+"Identifying Logical Homogeneous Clusters for Efficient Wide-area
+  Communications"
+Fast Tuning of Intra-Cluster Collective Communications
+"Diffusive Load Balancing of Loosely-Synchronous Parallel Programs over
+  Peer-to-Peer Networks"
+HEP@Home - A distributed computing system based on BOINC
+ReCord: A Distributed Hash Table with Recursive Structure
+Usage Policy-based CPU Sharing in VOs
+"Balanced Overlay Networks (BON): Decentralized Load Balancing via
+  Self-Organized Random Networks"
+"Reductions in Distributed Computing Part I: Consensus and Atomic
+  Commitment Tasks"
+Reductions in Distributed Computing Part II: k-Threshold Agreement Tasks
+A Distributed Economics-based Infrastructure for Utility Computing
+"A Survey of Fault-Tolerance and Fault-Recovery Techniques in Parallel
+  Systems"
+When Database Systems Meet the Grid
+A Semantic Grid-based E-Learning Framework (SELF)
+"Koordinatenfreies Lokationsbewusstsein (Localization without
+  Coordinates)"
+Online Permutation Routing in Partitioned Optical Passive Star Networks
+Prédiction de Performances pour les Communications Collectives
+A Taxonomy of Workflow Management Systems for Grid Computing
+Contextual Constraint Modeling in Grid Application Workflows
+Resource Management Services for a Grid Analysis Environment
+"Heterogeneous Relational Databases for a Grid-enabled Analysis
+  Environment"
+"JClarens: A Java Framework for Developing and Deploying Web Services for
+  Grid Computing"
+"SafeMPI - Extending MPI for Byzantine Error Detection on Parallel
+  Clusters"
+A batch scheduler with high level components
+A Flexible Thread Scheduler for Hierarchical Multiprocessor Machines
+Energy Optimal Data Propagation in Wireless Sensor Networks
+Virtual Environments for multiphysics code validation on Computing Grids
+Gradient Based Routing in Wireless Sensor Networks: a Mixed Strategy
+"On Ants, Bacteria and Dynamic Environments"
+Exploring high performance distributed file storage using LDPC codes
+Localization in Wireless Sensor Grids
+An Optimal Distributed Edge-Biconnectivity Algorithm
+Bulk Scheduling with DIANA Scheduler
+Final Results from and Exploitation Plans for MammoGrid
+"Health-e-Child : An Integrated Biomedical Platform for Grid-Based
+  Paediatric Applications"
+"A General Framework for Scalability and Performance Analysis of DHT
+  Routing Systems"
+CMS Software Distribution on the LCG and OSG Grids
+"Gridscape II: A Customisable and Pluggable Grid Monitoring Portal and
+  its Integration with Google Maps"
+Utility Computing and Global Grids
+"SLA-Based Coordinated Superscheduling Scheme and Performance for
+  Computational Grids"
+"A Case for Cooperative and Incentive-Based Coupling of Distributed
+  Clusters"
+General Compact Labeling Schemes for Dynamic Trees
+"Affine Transformations of Loop Nests for Parallel Execution and
+  Distribution of Data over Processors"
+"Asynchronous iterative computations with Web information retrieval
+  structures: The PageRank case"
+A verification algorithm for Declarative Concurrent Programming
+From Grid Middleware to a Grid Operating System
+Lessons Learned from MammoGrid for Integrated Biomedical Solutions
+Bulk Scheduling with the DIANA Scheduler
+Self-Stabilizing Byzantine Pulse Synchronization
+Linear-time Self-stabilizing Byzantine Clock Synchronization
+Entity Based Peer-to-Peer in a Data Grid Environment
+A Java Based Architecture of P2P-Grid Middleware
+Reliable multicast fault tolerant MPI in the Grid environment
+"Transparent Migration of Multi-Threaded Applications on a Java Based
+  Grid"
+TreeP: A Tree-Based P2P Network Architecture
+A Case for Peering of Content Delivery Networks
+Labeling Schemes with Queries
+Scheduling and data redistribution strategies on star platforms
+Strategies for Replica Placement in Tree Networks
+"Static Safety for an Actor Dedicated Process Calculus by Abstract
+  Interpretation"
+"Partially ordered distributed computations on asynchronous
+  point-to-point networks"
+Economy-based Content Replication for Peering Content Delivery Networks
+Registers
+Distributed Slicing in Dynamic Systems
+Heterogeneous Strong Computation Migration
+"Asynchronous Implementation of Failure Detectors with partial
+  connectivity and unknown participants"
+"Causing Communication Closure: Safe Program Composition with Reliable
+  Non-FIFO Channels"
+Byzantine Fault Tolerance for Nondeterministic Applications
+Scatter of Weak Robots
+"Comments on ""Design and performance evaluation of load distribution
+  strategies for multiple loads on heterogeneous linear daisy chain networks''"
+A First Step Towards Automatically Building Network Representations
+Nearest Neighbor Network Traversal
+Geographic Routing Around Obstacles in Wireless Sensor Networks
+"User-level DSM System for Modern High-Performance Interconnection
+  Networks"
+"Self-adaptive Gossip Policies for Distributed Population-based
+  Algorithms"
+Rapid Almost-Complete Broadcasting in Faulty Networks
+"ReSHAPE: A Framework for Dynamic Resizing and Scheduling of Homogeneous
+  Applications in a Parallel Environment"
+Transaction-Oriented Simulation In Ad Hoc Grids
+Parallel computing for the finite element method
+A Nice Labelling for Tree-Like Event Structures of Degree 3
+"An algorithm for clock synchronization with the gradient property in
+  sensor networks"
+"Building Portable Thread Schedulers for Hierarchical Multiprocessors:
+  the BubbleSched Framework"
+"Efficient Multidimensional Data Redistribution for Resizable Parallel
+  Computations"
+"A Generic Deployment Framework for Grid Computing and Distributed
+  Applications"
+"Optimal Replica Placement in Tree Networks with QoS and Bandwidth
+  Constraints and the Closest Allocation Policy"
+stdchk: A Checkpoint Storage System for Desktop Grid Computing
+Multi-criteria scheduling of pipeline workflows
+Self-Stabilizing Wavelets and r-Hops Coordination
+Scheduling multiple divisible loads on a linear processor network
+"Unison as a Self-Stabilizing Wave Stream Algorithm in Asynchronous
+  Anonymous Networks"
+Performance Analysis of Publish/Subscribe Systems
+A Multi Interface Grid Discovery System
+Mobile Computing in Physics Analysis - An Indicator for eScience
+DIANA Scheduling Hierarchies for Optimizing Bulk Job Scheduling
+Experiences of Engineering Grid-Based Medical Software
+PhantomOS: A Next Generation Grid Operating System
+Scheduling in Data Intensive and Network Aware (DIANA) Grid Environments
+Cactus Framework: Black Holes to Gamma Ray Bursts
+"Resource Allocation in Public Cluster with Extended Optimization
+  Algorithm"
+Multi and Independent Block Approach in Public Cluster
+Searching for a dangerous host: randomized vs. deterministic
+Approximating max-min linear programs with local algorithms
+Designing a commutative replicated data type
+"Towards Grid Monitoring and deployment in Jade, using ProActive"
+Resource and Application Models for Advanced Grid Schedulers
+Measuring and Monitoring Grid Resource Utilisation
+A Study of Grid Applications: Scheduling Perspective
+Self-Organising management of Grid environments
+Enabling Adaptive Grid Scheduling and Resource Management
+Managing Uncertainty: A Case for Probabilistic Grid Scheduling
+Optimizing Latency and Reliability of Pipeline Workflow Applications
+A Mobile Computing Architecture for Numerical Simulation
+Autoregressive Time Series Forecasting of Computational Demand
+"An Adaptive Checkpointing Scheme for Peer-to-Peer Based Volunteer
+  Computing Work Flows"
+Increasing GP Computing Power via Volunteer Computing
+Core Persistence in Peer-to-Peer Systems: Relating Size to Lifetime
+Bi-criteria Pipeline Mappings for Parallel Image Processing
+e-Science perspectives in Venezuela
+"Energy Aware Self-Organizing Density Management in Wireless Sensor
+  Networks"
+"A Bit-Compatible Shared Memory Parallelization for ILU(k)
+  Preconditioning and a Bit-Compatible Generalization to Distributed Memory"
+"Self-Stabilizing Pulse Synchronization Inspired by Biological Pacemaker
+  Networks"
+"Integrity-Enhancing Replica Coordination for Byzantine Fault Tolerant
+  Systems"
+"Proactive Service Migration for Long-Running Byzantine Fault Tolerant
+  Systems"
+Lighweight Target Tracking Using Passive Traces in Sensor Networks
+Distributed Averaging in the presence of a Sparse Cut
+Resource Allocation Strategies for In-Network Stream Processing
+"Analisis Kinerja Sistem Cluster Terhadapa Aplikasi Simulasi Dinamika
+  Molekular NAMD Memanfaatkan Pustaka CHARM++"
+"Sector and Sphere: Towards Simplified Storage and Processing of Large
+  Scale Distributed Data"
+An optimal local approximation algorithm for max-min linear programs
+"Modelling interdependencies between the electricity and information
+  infrastructures"
+A simple local 3-approximation algorithm for vertex cover
+"Enabling Lock-Free Concurrent Fine-Grain Access to Massive Distributed
+  Data: Application to Supernovae Detection"
+"Distributed Management of Massive Data: an Efficient Fine-Grain Data
+  Access Scheme"
+Distributed Estimation over Wireless Sensor Networks with Packet Losses
+Best-effort Group Service in Dynamic Networks
+Randomization Adaptive Self-Stabilization
+The Multi-Core Era - Trends and Challenges
+Programming languages with algorithmically parallelizing problem
+Practical language based on systems of definitions
+Non procedural language for parallel programs
+Parallel execution of portfolio optimization
+Self-stabilizing Numerical Iterative Computation
+Cloud Computing and Grid Computing 360-Degree Compared
+"Design and Evaluation of a Collective IO Model for Loosely Coupled
+  Petascale Programming"
+Using Graphics Processors for Parallelizing Hash-based Data Carving
+A Boundary Approximation Algorithm for Distributed Sensor Networks
+"Ganga: a tool for computational-task management and easy access to Grid
+  resources"
+Minimal Economic Distributed Computing
+"Energy-Efficient Scheduling of HPC Applications in Cloud Computing
+  Environments"
+"Autonomic management of multiple non-functional concerns in behavioural
+  skeletons"
+Building on Quicksand
+Transform-based Distributed Data Gathering
+Domain Decomposition Based High Performance Parallel Computing
+A Semantic Grid Oriented to E-Tourism
+"Building and Installing a Hadoop/MapReduce Cluster from Commodity
+  Components"
+Checkpointing vs. Migration for Post-Petascale Machines
+"High Availability Cluster System for Local Disaster Recovery with Markov
+  Modeling Approach"
+Local algorithms in (weakly) coloured graphs
+"Cloud Migration: A Case Study of Migrating an Enterprise IT System to
+  IaaS"
+Mobile Wireless Localization through Cooperation
+"Generalized Adaptive Network Coded Cooperation (GANCC): A Unified
+  Framework for Network Coding and Channel Coding"
+Fast Flooding over Manhattan
+"A Cluster-based Approach for Outlier Detection in Dynamic Data Streams
+  (KORM: k-median OutlieR Miner)"
+"Breaking the O(n^2) Bit Barrier: Scalable Byzantine agreement with an
+  Adaptive Adversary"
+An Approach to Ad hoc Cloud Computing
+"LogMaster: Mining Event Correlations in Logs of Large scale Cluster
+  Systems"
+"Parallel structurally-symmetric sparse matrix-vector products on
+  multi-core processors"
+Algorithms For Extracting Timeliness Graphs
+"The Grid[Way] Job Template Manager, a tool for parameter sweeping"
+Start-phase control of distributed systems written in Erlang/OTP
+Using Coloured Petri Nets for design of parallel raytracing environment
+Deterministic Distributed Vertex Coloring in Polylogarithmic Time
+Towards trusted volunteer grid environments
+Parallel Generation of Massive Scale-Free Graphs
+"The Cloud Adoption Toolkit: Addressing the Challenges of Cloud Adoption
+  in Enterprise"
+"InterCloud: Utility-Oriented Federation of Cloud Computing Environments
+  for Scaling of Application Services"
+"Improving Waiting Time of Tasks Scheduled Under Preemptive Round Robin
+  Using Changeable Time Quantum"
+Scalable Group Management in Large-Scale Virtualized Clusters
+"Improving Overhead Computation and pre-processing Time for Grid
+  Scheduling System"
+The Impact of Topology on Byzantine Containment in Stabilization
+"A Real Time Optimistic Strategy to achieve Concurrency Control in Mobile
+  Environments Using On-demand Multicasting"
+An Efficient and Secure Routing Protocol for Mobile Ad-Hoc Networks
+Cloud Computing: Exploring the scope
+"A Multi-agent Framework for Performance Tuning in Distributed
+  Environment"
+"An Integrated Framework for Performance Analysis and Tuning in Grid
+  Environment"
+Deploying Wireless Networks with Beeps
+"Improvement Cache Efficiency of Explicit Finite Element Procedure and
+  its Application to Parallel Casting Solidification Simulation"
+Bounding the Impact of Unbounded Attacks in Stabilization
+On Byzantine Containment Properties of the $min+1$ Protocol
+"Dynamic management of transactions in distributed real-time processing
+  system"
+"A Low Overhead Minimum Process Global Snapshop Collection Algorithm for
+  Mobile Distributed System"
+"Implementation of a Cloud Data Server (CDS) for Providing Secure Service
+  in E-Business"
+Reliable Self-Stabilizing Communication for Quasi Rendezvous
+"Energy-Efficient Management of Data Center Resources for Cloud
+  Computing: A Vision, Architectural Elements, and Open Challenges"
+"Youpi, a Web-based Astronomical Image Processing Pipeline"
+Efficient Resource Matching in Heterogeneous Grid Using Resource Vector
+Survey on the Event Orderings Semantics Used for Distributed System
+"PhoenixCloud: Provisioning Resources for Heterogeneous Workloads in
+  Cloud Computing"
+Roomy: A System for Space Limited Computations
+"A Study on Performance Analysis Tools for Applications Running on Large
+  Distributed Systems"
+Snap-Stabilizing Linear Message Forwarding
+"Generating a Family of Byzantine Tolerant Protocol Implementations Using
+  a Meta-Model Architecture"
+Hosting Byzantine Fault Tolerant Services on a Chord Ring
+A Peer-to-Peer Middleware Framework for Resilient Persistent Programming
+"RAFDA: A Policy-Aware Middleware Supporting the Flexible Separation of
+  Application Logic from Distribution"
+Towards Adaptable and Adaptive Policy-Free Middleware
+"Promoting Component Reuse by Separating Transmission Policy from
+  Implementation"
+"RAFDA: Middleware Supporting the Separation of Application Logic from
+  Distribution Policy"
+"Constructing Two Edge-Disjoint Hamiltonian Cycles and Two Equal
+  Node-Disjoint Cycles in Twisted Cubes"
+"Convergence-Optimal Quantizer Design of Distributed Contraction-based
+  Iterative Algorithms with Quantized Message Passing"
+Exposing Application Components as Web Services
+A Flexible and Secure Deployment Framework for Distributed Applications
+"A Framework for Constraint-Based Deployment and Autonomic Management of
+  Distributed Applications"
+A Survey on Peer-to-Peer and DHT
+"A Framework for Constraint-Based Deployment and Autonomic Management of
+  Distributed Applications (Extended Abstract)"
+"A Middleware Framework for Constraint-Based Deployment and Autonomic
+  Management of Distributed Applications"
+Active Architecture for Pervasive Contextual Services
+Architectural Support for Global Smart Spaces
+Optimal Degree Distributions for Uniform Small World Rings
+Data Partitioning for Parallel Entity Matching
+Resource Allocation using Virtual Clusters
+A Multi-Core Processor Platform for Open Embedded Systems
+"A Reflective Approach to Providing Flexibility in Application
+  Distribution"
+Working Document on Gloss Ontology
+An Information Flow Architecture for Global Smart Spaces
+Second Set of Spaces
+A Competitive Analysis for Balanced Transactional Memory Workloads
+Mapping Cloud Computing onto Useful e-Governance
+A Middleware road towards Web (Grid) Services
+"Hallway Monitoring: Distributed Data Processing with Wireless Sensor
+  Networks"
+"The Impact of Data Replicatino on Job Scheduling Performance in
+  Hierarchical data Grid"
+"Reconstruction of Aggregation Tree in spite of Faulty Nodes in Wireless
+  Sensor Networks"
+Astronomy in the Cloud: Using MapReduce for Image Coaddition
+Deterministic and Energy-Optimal Wireless Synchronization
+Modified Bully Algorithm using Election Commission
+"A Critical Path Approach to Analyzing Parallelism of Algorithmic
+  Variants. Application to Cholesky Inversion"
+"Distributed Deterministic Edge Coloring using Bounded Neighborhood
+  Independence"
+Behavioural Models for Group Communications
+"A Reusable Component for Communication and Data Synchronization in
+  Mobile Distributed Interactive Applications"
+Service Level Agreement (SLA) in Utility Computing Systems
+Parallel Sorted Neighborhood Blocking with MapReduce
+A Survey of Virtualization Technologies With Performance Testing
+"A Paradigm for Channel Assignment and Data Migration in Distributed
+  Systems"
+"Parallel Sparse Matrix Solver on the GPU Applied to Simulation of
+  Electrical Machines"
+"Towards Constraint-based High Performance Cloud System in the Process of
+  Cloud Computing Adoption in an Organization"
+On the Mesh Array for Matrix Multiplication
+"Optimizing ccNUMA locality for task-parallel execution under OpenMP and
+  TBB on multicore-based systems"
+Data Intensive High Energy Physics Analysis in a Distributed Cloud
+Computer Simulation Center in Internet
+Safe Register Token Transfer in a Ring
+Using graphics processing units to generate random numbers
+"Sorting, Searching, and Simulation in the MapReduce Framework"
+Efficient tilings of de Bruijn and Kautz graphs
+An Overview of Portable Distributed Techniques
+"GridCertLib: a Single Sign-on Solution for Grid Web Applications and
+  Portals"
+A Model for Coherent Distributed Memory For Race Condition Detection
+"Thermal Analysis of Climate Regions using Remote Sensing and Grid
+  Computing"
+"Why The Results of Parallel and Serial Monte Carlo Simulations May
+  Differ"
+"Load-Balancing Spatially Located Computations using Rectangular
+  Partitions"
+"Extending and Implementing the Self-adaptive Virtual Processor for
+  Distributed Memory Architectures"
+"Communication Optimalement Stabilisante sur Canaux non Fiables et non
+  FIFO"
+"Auto-Stabilisation et Confinement de Fautes Malicieuses : Optimalité
+  du Protocole min+1"
+Platforms for Building and Deploying Applications for Cloud Computing
+Tiled QR factorization algorithms
+Maximum Metric Spanning Tree made Byzantine Tolerant
+On the algebraic numbers computable by some generalized Ehrenfest urns
+"Asynchronous mobile robot gathering from symmetric configurations
+  without global multiplicity detection"
+"Distributed Stochastic Power Control in Ad-hoc Networks: A Nonconvex
+  Case"
+Hadoop Performance Models
+Traffic Performance Analysis of Manet Routing Protocol
+Byzantine Broadcast in Point-to-Point Networks using Local Linear Coding
+New Efficient Error-Free Multi-Valued Consensus with Byzantine Failures
+Oblivious Collaboration
+MIS on the fly
+"Consensus vs Broadcast in Communication Networks with Arbitrary Mobile
+  Omission Faults"
+"A New and Efficient Algorithm-Based Fault Tolerance Scheme for A Million
+  Way Parallelism"
+Dynamic Fractional Resource Scheduling vs. Batch Scheduling
+MONARC Simulation Framework
+LISA (Localhost Information Service Agent)
+"The Contest Between Simplicity and Efficiency in Asynchronous Byzantine
+  Agreement"
+"A Distributed Agent Based System to Control and Coordinate Large Scale
+  Data Transfers"
+DistHash: A robust P2P DHT-based system for replicated objects
+Towards an IO intensive Grid application instrumentation in MedioGRID
+"Intelligent strategies for DAG scheduling optimization in Grid
+  environments"
+"Resource CoAllocation for Scheduling Tasks with Dependencies, in Grid"
+Advance Reservation of Resources for Task Execution in Grid Environments
+"Hybrid complex network topologies are preferred for
+  component-subscription in large-scale data-centres"
+Modelling Resilience in Cloud-Scale Data Centres
+"SPECI-2: An open-source framework for predictive simulation of
+  cloud-scale data-centres"
+A distributed service for on demand end to end optical circuits
+"Models and Techniques for Ensuring Reliability, Safety, Availability and
+  Security of Large Scale Distributed Systems"
+"An Architectural Model for a Grid based Workflow Management Platform in
+  Scientific Applications"
+"Hybrid-parallel sparse matrix-vector multiplication with explicit
+  communication overlap on current multicore-based systems"
+Simulation Framework for Modeling Large-Scale Distributed Systems
+A Dynamic Elimination-Combining Stack Algorithm
+Predicting global usages of resources endowed with local policies
+"Proposal for improvement in the transfer and execution of multiple
+  instances of a virtual image"
+Network Localization on Unit Disk Graphs
+"Accurate location estimation of moving object with energy constraint &
+  adaptive update algorithms to save data"
+"On a New Multicomputer Interconnection Topology for Massively Parallel
+  Systems"
+Load Balancing for MapReduce-based Entity Resolution
+"HybridNN: Supporting Network Location Service on Generalized Delay
+  Metrics"
+On the Performance of MPI-OpenMP on a 12 nodes Multi-core Cluster
+Synchrony vs. Causality in Asynchronous Petri Nets
+Auction-Based Resource Allocation in Digital Ecosystems
+Problems in Modern High Performance Parallel I/O Systems
+"An Empirical Study and Analysis of the Dynamic Load Balancing Techniques
+  Used in Parallel Computing Systems"
+"On the Fault Tolerance and Hamiltonicity of the Optical Transpose
+  Interconnection System of Non-Hamiltonian Base Graphs"
+"Design and implementation of self-adaptable parallel algorithms for
+  scientific computing on highly heterogeneous HPC platforms"
+"Universal adaptive self-stabilizing traversal scheme: random walk and
+  reloading wave"
+"Lowest-ID with Adaptive ID Reassignment: A Novel Mobile Ad-Hoc Networks
+  Clustering Algorithm"
+Couillard: Parallel Programming via Coarse-Grained Data-Flow Compilation
+Nerio: Leader Election and Edict Ordering
+"A Complexity Separation Between the Cache-Coherent and Distributed
+  Shared Memory Models"
+"Improving the scalability of parallel N-body applications with an event
+  driven constraint based execution model"
+An Application Driven Analysis of the ParalleX Execution Model
+"Cooperative and Distributed Localization for Wireless Sensor Networks in
+  Multipath Environments"
+Adaptive Mesh Refinement for Astrophysics Applications with ParalleX
+Hierarchical QR factorization algorithms for multi-core cluster systems
+Cluster-Based Load Balancing Algorithms for Grids
+"Rigorous Calculation of the Partition Function for the Finite Number of
+  Ising Spins"
+"Hybrid static/dynamic scheduling for already optimized dense matrix
+  factorization"
+On the Practicality of `Practical' Byzantine Fault Tolerance
+"Reliable Provisioning of Spot Instances for Compute-intensive
+  Applications"
+"Provisioning Spot Market Cloud Resources to Create Cost-effective
+  Virtual Clusters"
+Parallel implematation of flow and matching algorithms
+Reliability of Computational Experiments on Virtualised Hardware
+Information Spreading in Dynamic Networks
+"Consensus over Random Graph Processes: Network Borel-Cantelli Lemmas for
+  Almost Sure Convergence"
+"(MC2)2: A Generic Decision-Making Framework and its Application to Cloud
+  Computing"
+PC-Cluster based Storage System Architecture for Cloud Storage
+"Distributed Particle Filter Implementation with Intermittent/Irregular
+  Consensus Convergence"
+Web Services Non-Functional Classification to Enhance Discovery Speed
+"CloudGenius: Automated Decision Support for Migrating Multi-Component
+  Enterprise Applications to Clouds"
+Analysis of Bitcoin Pooled Mining Reward Systems
+Scheduling Light-trails in WDM Rings
+On the Performance of Exhaustive Search with Cooperating agents
+"A Massive Data Parallel Computational Framework for Petascale/Exascale
+  Hybrid Computer Systems"
+Purging of untrustworthy recommendations from a grid
+Adaptive Redundancy Management for Durable P2P Backup
+"Managing Communication Latency-Hiding at Runtime for Parallel
+  Programming Languages and Libraries"
+Iterative Approximate Byzantine Consensus in Arbitrary Directed Graphs
+"""Tri, Tri again"": Finding Triangles and Small Subgraphs in a Distributed
+  Setting"
+Securing business operations in an SOA
+Toward Governance of Cross-Cloud Application Deployment
+A common interface for multi-rule-engine distributed systems
+Secure & Rapid Composition of Infrastructure Services in the Cloud
+"On Modeling Dependency between MapReduce Configuration Parameters and
+  Total Execution Time"
+"Resource Availability-Aware Advance Reservation for Parallel Jobs with
+  Deadlines"
+Batch-oriented software appliances
+"Matrix Representation of Iterative Approximate Byzantine Consensus in
+  Directed Graphs"
+BSP vs MapReduce
+"Technical support for Life Sciences communities on a production grid
+  infrastructure"
+A Protocol for the Atomic Capture of Multiple Molecules at Large Scale
+Generalized Asynchronous Systems
+The Byzantine Brides Problem
+Decentralized Probabilistic Auto-Scaling for Heterogeneous Systems
+"DiscopFlow: A new Tool for Discovering Organizational Structures and
+  Interaction Protocols in WorkFlow"
+Thesis Report: Resource Utilization Provisioning in MapReduce
+Optimism for Boosting Concurrency
+"Advanced Programming Platform for efficient use of Data Parallel
+  Hardware"
+CUDA implementation of Wagener's 2D convex hull PRAM algorithm
+"Multiple Frequency Selection in DVFS-Enabled Processors to Minimize
+  Energy Consumption"
+Market-Oriented Cloud Computing and the Cloudbus Toolkit
+Asynchrony from Synchrony
+Trace Spaces: an Efficient New Technique for State-Space Reduction
+Agreement in Directed Dynamic Networks
+Reliable Resource Selection in Grid Environment
+"Programming Cloud Resource Orchestration Framework: Operations and
+  Research Challenges"
+Building Fastest Broadcast Trees in Periodically-Varying Graphs
+Asynchrony and Collusion in the N-party BAR Transfer Problem
+Hybrid MPI/StarSs - a case study
+Mariages et Trahisons
+FastFlow tutorial
+A distributed resource allocation algorithm for many processes
+The Anatomy of a Grid portal
+A new job migration algorithm to improve data center efficiency
+"Energy Efficient Service Delivery in Clouds in Compliance with the Kyoto
+  Protocol"
+"Reaching Approximate Byzantine Consensus in Partially-Connected Mobile
+  Networks"
+Pipelining the Fast Multipole Method over a Runtime System
+"Pre-allocation Strategies of Computational Resources in Cloud Computing
+  using Adaptive Resonance Theory-2"
+"Virtualization Implementation Model for Cost Effective & Efficient Data
+  Centers"
+Finite-time Convergent Gossiping
+"Research On Mobile Cloud Computing: Review, Trend, And Perspectives"
+"Causality, Influence, and Computation in Possibly Disconnected Dynamic
+  Networks"
+"PriSM: A Private Social Mesh for Leveraging Social Networking at
+  Workplace"
+"TTMA: Traffic-adaptive Time-division Multiple Access Protocol Wireless
+  Sensor Networks"
+Energy-Aware Scheduling using Dynamic Voltage-Frequency Scaling
+"An Empirical Study of the Repair Performance of Novel Coding Schemes for
+  Networked Distributed Storage Systems"
+Time Warp on the Go (Updated Version)
+Parallel Discrete Event Simulation with Erlang
+Clustered Network Coding for Maintenance in Practical Storage Systems
+"Performance Evaluation of Ant-Based Routing Protocols for Wireless
+  Sensor Networks"
+Cloud Infrastructure Service Management - A Review
+"An Optimal Fully Distributed Algorithm to Minimize the Resource
+  Consumption of Cloud Applications"
+"Virtual Machine Migration: A Resource Intensive Outsourcing Mechanism
+  for Mobile Cloud Computing"
+Naming and Counting in Anonymous Unknown Dynamic Networks
+Enumerating Subgraph Instances Using Map-Reduce
+Description of the Chord Protocol using ASMs Formalism
+"Real-time Data Collection Scheduling in Multi-hop Wireless Sensor
+  Networks"
+"Heuristic based task scheduling in multiprocessor systems with genetic
+  algorithm by choosing the eligible processor"
+"Scheduling Data Intensive Workloads through Virtualization on MapReduce
+  based Clouds"
+"Block-Relaxation Methods for 3D Constant-Coefficient Stencils on GPUs
+  and Multicore CPUs"
+Survey and Analysis of Production Distributed Computing Infrastructures
+"A GPU implementation of the Simulated Annealing Heuristic for the
+  Quadratic Assignment Problem"
+Mapping Strategies for the PERCS Architecture
+"A GPU-accelerated Branch-and-Bound Algorithm for the Flow-Shop
+  Scheduling Problem"
+"Leader Election and Gathering for Asynchronous Transparent Fat Robots
+  without Chirality"
+Parameter-independent Iterative Approximate Byzantine Consensus
+Exact Byzantine Consensus in Directed Graphs
+"Self-Stabilizing Byzantine Resilient Topology Discovery and Message
+  Delivery"
+"Feedback from nature: an optimal distributed algorithm for maximal
+  independent set selection"
+Application-centric Resource Provisioning for Amazon EC2 Spot Instances
+"Advance Reservation based DAG Application Scheduling Simulator for Grid
+  Environment"
+Extending Task Parallelism for Frequent Pattern Mining
+Implementation of Security in Distributed Systems - A Comparative Study
+Comparison of OpenMP & OpenCL Parallel Processing Technologies
+Toward a Principled Framework for Benchmarking Consistency
+"Intégration des intergiciels de grilles de PC dans le nuage SlapOS :
+  le cas de BOINC"
+"Complexity Measures for Map-Reduce, and Comparison to Parallel Computing"
+Byzantine Convex Consensus: Preliminary Version
+"A heterogeneous many-core platform for experiments on scalable custom
+  interconnects and management of fault and critical events, applied to
+  many-process applications: Vol. II, 2012 technical report"
+Byzantine Convex Consensus: An Optimal Algorithm
+"Perform wordcount Map-Reduce Job in Single Node Apache Hadoop cluster
+  and compress data using Lempel-Ziv-Oberhumer (LZO) algorithm"
+"Revisiting Co-Processing for Hash Joins on the Coupled CPU-GPU
+  Architecture"
+"A Taxonomy of Performance Prediction Systems in the Parallel and
+  Distributed Computing Grids"
+Iterative Byzantine Vector Consensus in Incomplete Graphs
+Scalable Eventually Consistent Counters over Unreliable Networks
+Energy-aware Application Scaling on a Cloud
+Ameba-inspired Self-organizing Particle Systems
+"Benchmarking mixed-mode PETSc performance on high-performance
+  architectures"
+A Nested Partitioning Scheme for Parallel Heterogeneous Clusters
+"Distributed Computation of the Conditional PCRLB for Quantized
+  Decentralized Particle Filters"
+On the Mailbox Problem
+"CONE-DHT: A distributed self-stabilizing algorithm for a heterogeneous
+  storage system"
+"Take a break: cloud scheduling optimized for real-time electricity
+  pricing"
+Node-Initiated Byzantine Consensus Without a Common Clock
+Addressing Security Challenges in Cloud Computing
+Multi-Version Conflict Notion
+Optimizing the MapReduce Framework on Intel Xeon Phi Coprocessor
+xDGP: A Dynamic Graph Processing System with Adaptive Partitioning
+A GPU Implementation for Two-Dimensional Shallow Water Modeling
+"SimGrid: a Sustained Effort for the Versatile Simulation of Large Scale
+  Distributed Systems"
+Hardware Support for Address Mapping in PGAS Languages; a UPC Case Study
+A Practical Distributed Universal Construction with Unknown Participants
+"Distributed Estimation and Control of Algebraic Connectivity over Random
+  Graphs"
+Blazes: Coordination Analysis for Distributed Programs
+Energy-Aware Aggregation of Dynamic Temporal Workload in Data Centers
+"Report: GPU Based Massive Parallel Kawasaki Kinetics In Monte Carlo
+  Modelling of Lipid Microdomains"
+Faster Fair Solution for the Reader-Writer Problem
+iDataCool: HPC with Hot-Water Cooling and Energy Reuse
+Well-Structured Futures and Cache Locality
+Operating the Cloud from Inside Out
+Cable Fault Monitoring and Indication: A Review
+Fast $k$-NNG construction with GPU-based quick multi-select
+On the k-Atomicity-Verification Problem
+Vive la Différence: Paxos vs. Viewstamped Replication vs. Zab
+"Location, Location, Location: Data-Intensive Distributed Computing in
+  the Cloud"
+A Comparative Study of Replication Techniques in Grid Computing Systems
+"Simple and Efficient Local Codes for Distributed Stable Network
+  Construction"
+"ASURA: Scalable and Uniform Data Distribution Algorithm for Storage
+  Clusters"
+"Improving the Load Balance of MapReduce Operations based on the Key
+  Distribution of Pairs"
+"Distributed Cloud Computing Environment Enhanced with Capabilities for
+  Wide-Area Migration and Replication of Virtual Machines"
+New Approaches with Chord in Efficient P2P Grid Resource Discovery
+Energy-aware Load Balancing Policies for the Cloud Ecosystem
+"A Prediction Model for the Probability of SLA Matching in Consumer
+  Provider Contracting of Web Services"
+"The EFTOS Voting Farm: A Software Tool for Fault Masking in Message
+  Passing Parallel Environments"
+"A Hypermedia Distributed Application for Monitoring and Fault-Injection
+  in Embedded Fault-tolerant Parallel Programs"
+"Software Tool Combining Fault Masking with User-Defined Recovery
+  Strategies"
+Towards Autotuning of OpenMP Applications on Multicore Architectures
+"Avoiding Serialization Effects in Data-Dependency aware Task Parallel
+  Algorithms for Spatial Decomposition"
+"Compact Deterministic Self-Stabilizing Leader Election: The Exponential
+  Advantage of Being Talkative"
+"ShAppliT: A Novel Broker-mediated Solution to Generic Application
+  Sharing in a Cluster of Closed Operating Systems"
+"The Shape of the Search Tree for the Maximum Clique Problem, and the
+  Implications for Parallel Branch and Bound"
+Ring Paxos: High-Throughput Atomic Broadcast
+"Iterative Approximate Consensus in the presence of Byzantine Link
+  Failures"
+Non-Blocking Signature of very large SOAP Messages
+Static Deadlock Detection in MPI Synchronization Communication
+"Deadlock Detection in Basic Models of MPI Synchronization Communication
+  Programs"
+"Algorithm of Static Deadlock Detection in MPI Synchronization
+  Communication Sequential Model"
+Research Paper on Transaction-Oriented Simulation In Ad Hoc Grids
+"Distributed and Recursive Parameter Estimation in Parametrized Linear
+  State-Space Models"
+Étude de performance des systèmes de découverte de ressources
+Tight local approximation results for max-min linear programs
+Two-enqueuer queue in Common2
+Fork Sequential Consistency is Blocking
+Coupling Component Systems towards Systems of Systems
+"Local approximation algorithms for a class of 0/1 max-min linear
+  programs"
+Ad-hoc Limited Scale-Free Models for Unstructured Peer-to-Peer Networks
+"TRANS-Net: an Efficient Peer-to-Peer Overlay Network Based on a Full
+  Transposition Graph"
+MOHCS: Towards Mining Overlapping Highly Connected Subgraphs
+Localized Spanners for Wireless Networks
+"Java Technology : a Strategic Solution for Interactive Distributed
+  Applications"
+"BlobSeer: How to Enable Efficient Versioning for Large Object Storage
+  under Heavy Access Concurrency"
+Une CNS pour l'acheminement de messages instantanément stabilisant
+Distributed Discovery of Large Near-Cliques
+"Microcontroller based distributed and networked control system for
+  public cluster"
+Multidimensional Analysis of System Logs in Large-scale Cluster Systems
+"Phoenix Cloud: Consolidating Different Computing Loads on Shared Cluster
+  System for Large Organization"
+Ideal Stabilization
+"Dependable Distributed Computing for the International Telecommunication
+  Union Regional Radio Conference RRC06"
+"Efficient Multi-site Data Movement Using Constraint Programming for Data
+  Hungry Science"
+Decentralized Traffic Management Strategies for Sensor-Enabled Cars
+"A Peer to Peer Protocol for Online Dispute Resolution over Storage
+  Consumption"
+Reconfiguration of Distributed Information Fusion System ? A case study
+Self-stabilizing Byzantine Agreement
+Separation of Circulating Tokens
+Transaction-Oriented Simulation In Ad Hoc Grids: Design and Experience
+An Optimal Self-Stabilizing Firing Squad
+"Design and Implementation of a Distributed Middleware for Parallel
+  Execution of Legacy Enterprise Applications"
+Cloud Scheduler: a resource manager for distributed compute clouds
+"A Taxonomy and Survey of Energy-Efficient Data Centers and Cloud
+  Computing Systems"
+First Smart Spaces
+Autonomic Management in a Distributed Storage System
+Simple Gradecast Based Algorithms
+On the Power of Impersonation Attacks
+A Jamming-Resistant MAC Protocol for Multi-Hop Wireless Networks
+MalStone: Towards A Benchmark for Analytics on Large Data Clouds
+A Fault-Resistant Asynchronous Clock Function
+LANC: locality-aware network coding for better P2P traffic localization
+"Precise, Scalable and Online Request Tracing for Multi-tier Services of
+  Black Boxes"
+Threads and Or-Parallelism Unified
+Public Infrastructure for Monte Carlo Simulation: publicMC@BATAN
+"PowerTracer: Tracing requests in multi-tier services to save cluster
+  power consumption"
+Simplified Distributed Programming with Micro Objects
+Parallel and distributed Gröbner bases computation in JAS
+Self-repairing Homomorphic Codes for Distributed Storage Systems
+On Optimal Deadlock Detection Scheduling
+"The Cloud Adoption Toolkit: Supporting Cloud Adoption Decisions in the
+  Enterprise"
+A Light-Weight Communication Library for Distributed Computing
+Deterministic Consensus Algorithm with Linear Per-Bit Complexity
+Flexible Session Management in a Distributed Environment
+Rank k Cholesky Up/Down-dating on the GPU: gpucholmodV0.2
+"Multiscale Gossip for Efficient Decentralized Averaging in Wireless
+  Packet Networks"
+A framework for proving the self-organization of dynamic systems
+A Distributed Clustering Algorithm for Dynamic Networks
+A High-confidence Cyber-Physical Alarm System: Design and Implementation
+Slightly smaller splitter networks
+"Stabilizing data-link over non-FIFO channels with optimal
+  fault-resilience"
+"Progressive Decoding for Data Availability and Reliability in
+  Distributed Networked Storage"
+Optimal Placement Algorithms for Virtual Machines
+Local Computation: Lower and Upper Bounds
+Correlated Resource Models of Internet End Hosts
+Dotted Version Vectors: Logical Clocks for Optimistic Replication
+Dependability in Aggregation by Averaging
+QOS based user driven scheduler for grid environment
+Probability Based Adaptive Invoked Clustering Algorithm in MANETs
+"Analytical Study of Object Components for Distributed and Ubiquitous
+  Computing Environment"
+"Power Efficient Resource Allocation for Clouds Using Ant Colony
+  Framework"
+"An Improved Multiple Faults Reassignment based Recovery in Cluster
+  Computing"
+Establishing Applicability of SSDs to LHC Tier-2 Hardware Configuration
+"Parallel algorithms for SAT in application to inversion problems of some
+  discrete functions"
+Solving k-Set Agreement with Stable Skeleton Graphs
+"An Equivariance Theorem with Applications to Renaming (Preliminary
+  Version)"
+Fully Empirical Autotuned QR Factorization For Multicore Architectures
+Mobile Cloud Computing: A Review on Smartphone Augmentation Approaches
+"On Exploiting Hotspot and Entropy for Data Forwarding in Delay Tolerant
+  Networks"
+CloudMonitor: Profiling Power Usage
+"Tripod of Requirements in Horizontal Heterogeneous Mobile Cloud
+  Computing"
+Toward Sustainable Networking: Storage Area Networks with Network Coding
+"Graph Coloring Algorithms for Muti-core and Massively Multithreaded
+  Architectures"
+"Parallel implementation of fast randomized algorithms for the
+  decomposition of low rank matrices"
+"Memory Lower Bounds for Randomized Collaborative Search and Applications
+  to Biology"
+"Iterative Approximate Byzantine Consensus under a Generalized Fault
+  Model"
+Hybrid Parallel Bidirectional Sieve based on SMP Cluster
+"Neutron Star Evolutions using Tabulated Equations of State with a New
+  Execution Model"
+Leader Election for Anonymous Asynchronous Agents in Arbitrary Networks
+"A Workflow-Forecast Approach To The Task Scheduling Problem In
+  Distributed Computing Systems"
+"Simple CHT: A New Derivation of the Weakest Failure Detector for
+  Consensus"
+"Algorithmes auto-stabilisants pour la construction d'arbres couvrants et
+  la gestion d'entités autonomes"
+IMSuite: A Benchmark Suite for Simulating Distributed Algorithms
+Dynamic Resource Management using Operating System-Level Virtualization
+GPU-Framework for Teamwork Action Recognition
+Dynamic Load Balancing in GPU-Based Systems - Early Experiments
+A Greedy Algorithm for Optimally Pipelining a Reduction
+SVD Factorization for Tall-and-Fat Matrices on Map/Reduce Architectures
+Reliability Models for Highly Fault-tolerant Storage Systems
+Distributed Queuing in Dynamic Networks
+"Reducing Failure Probability of cloud storage services using
+  Multi-Clouds"
+Online Packet Scheduling under Adversarial Jamming
+"Efficient and Robust Allocation Algorithms in Clouds under Memory
+  Constraints"
+"GRE: A Graph Runtime Engine for Large-Scale Distributed Graph-Parallel
+  Applications"
+"AxPUE: Application Level Metrics for Power Usage Effectiveness in Data
+  Centers"
+Eccentricity of the nodes of OTIS-cube and Enhanced OTIS-cube
+Deconstructing Queue-Based Mutual Exclusion
+(Re)partitioning for stream-enabled computation
+"Improving Memory Hierarchy Utilisation for Stencil Computations on
+  Multicore Machines"
+Optimal Checkpointing Period: Time vs. Energy
+On the Combination of Silent Error Detection and Checkpointing
+"Pentago is a First Player Win: Strongly Solving a Game Using Parallel
+  In-Core Retrograde Analysis"
+"A Task Allocation Schema Based on Response Time Optimization in Cloud
+  Computing"
+"Efficient Task Replication for Fast Response Times in Parallel
+  Computation"
+"CernVM Online and Cloud Gateway: a uniform interface for CernVM
+  contextualization and deployment"
+"Efficient Optimal Algorithm of Task Scheduling in Cloud Computing
+  Environment"
+"Leveraging VMware vCloud Director Virtual Applications (vApps) for
+  Operational Expense (OpEx) Efficiency"
+Coherent Causal Memory
+Disaster Recovery Using Virtual Machines
+"Multiprocessor Scheduling of Dependent Tasks to Minimize Makespan and
+  Reliability Cost Using NSGA-II"
+Efficient Lock-free Binary Search Trees
+"Performance Analysis of Irregular Collective Communication with the
+  Crystal Router Algorithm"
+Spinner: Scalable Graph Partitioning in the Cloud
+"Analysis of Dynamic Scheduling Strategies for Matrix Multiplication on
+  Heterogeneous Platforms"
+SWAPHI: Smith-Waterman Protein Database Search on Xeon Phi Coprocessors
+Witness structures and immediate snapshot complexes
+"An Efficient and Balanced Platform for Data-Parallel Subsampling
+  Workloads"
+Enumerating Maximal Bicliques from a Large Graph using MapReduce
+Tolerating Silent Data Corruption in Opaque Preconditioners
+Topology of the immediate snapshot complexes
+The Impact Failure Detector
+Distributed Computing on Core-Periphery Networks: Axiom-based Design
+Power Management Techniques for Data Centers: A Survey
+Practical Experience Report: The Performance of Paxos in the Cloud
+Optimistic Parallel State-Machine Replication
+Why a Global Time is Needed in a Dependable SoS
+"Intelligent Resource Allocation Technique For Desktop-as-a-Service in
+  Cloud Environment"
+Faster Transaction Commit even when Nodes Crash
+"Determining Majority in Networks with Local Interactions and very Small
+  Local Memory"
+On User Availability Prediction and Network Applications
+Energy-Aware Cloud Management through Progressive SLA Specification
+HTML5 WebSocket protocol and its application to distributed computing
+An Advanced Approach On Load Balancing in Grid Computing
+Virtual Laboratories in Cloud Infrastructure of Educational Institutions
+Laboratory Test Bench for Research Network and Cloud Computing
+Doing-it-All with Bounded Work and Communication
+Sandboxing for Software Transactional Memory with Deferred Updates
+"Watchword-Oriented and Time-Stamped Algorithms for Tamper-Proof Cloud
+  Provenance Cognition"
+"Active-Threaded Algorithms for Provenance Cognition in the Cloud
+  preserving Low Overhead and Fault Tolerance"
+"Elastic Business Process Management: State of the Art and Open
+  Challenges for BPM in the Cloud"
+"Heterogeneous Multi core processors for improving the efficiency of
+  Market basket analysis algorithm in data mining"
+Workflow Partitioning and Deployment on the Cloud using Orchestra
+Cache Serializability: Reducing Inconsistency in Edge Transactions
+Distributed Slicing in Dynamic Systems
+"An Almost-Surely Terminating Polynomial Protocol for Asynchronous
+  Byzantine Agreement with Optimal Resilience"
+Compute and Storage Clouds Using Wide Area High Performance Networks
+"Data Mining Using High Performance Data Clouds: Experimental Studies
+  Using Sector and Sphere"
+"Data Diffusion: Dynamic Resource Provision and Data-Aware Scheduling for
+  Data Intensive Applications"
+"Enabling Loosely-Coupled Serial Job Execution on the IBM BlueGene/P
+  Supercomputer and the SiCortex SC5832"
+Towards Loosely-Coupled Programming on Petascale Systems
+Accelerating Large-scale Data Exploration through Data Diffusion
+"Market-Oriented Cloud Computing: Vision, Hype, and Reality for
+  Delivering IT Services as Computing Utilities"
+Providing Virtual Execution Environments: A Twofold Illustration
+Fully distributed and fault tolerant task management based on diffusions
+"Resource Allocation for Multiple Concurrent In-Network Stream-Processing
+  Applications"
+Grid Technologies
+Multi-Objective Problem Solving With Offspring on Enterprise Clouds
+"Jeeva: Enterprise Grid-enabled Web Portal for Protein Secondary
+  Structure Prediction"
+"A Nice Labelling for Tree-Like Event Structures of Degree 3 (Extended
+  Version)"
+"Global Clock, Physical Time Order and Pending Period Analysis in
+  Multiprocessor Systems"
+CRDTs: Consistency without concurrency control
+PT-Scotch: A tool for efficient parallel graph ordering
+"Distributed anonymous function computation in information fusion and
+  multiagent systems"
+"On the Convergence of Population Protocols When Population Goes to
+  Infinity"
+"The Open Cloud Testbed: A Wide Area Testbed for Cloud Computing
+  Utilizing High Performance Network Services"
+A New Fuzzy Approach for Dynamic Load Balancing Algorithm
+"DAMQ-Based Schemes for Efficiently Using the Buffer Spaces of a NoC
+  Router"
+Cloudbus Toolkit for Market-Oriented Cloud Computing
+High-Performance Cloud Computing: A View of Scientific Applications
+ScotGrid: Providing an Effective Distributed Tier-2 in the LHC Era
+Optimised access to user analysis data using the gLite DPM
+"SPECI, a simulation tool exploring cloud-scale data centres"
+MapReduce for Integer Factorization
+Termination Detection of Local Computations
+Research Agenda in Cloud Technologies
+"Severity Prediction of Drought in A Large Geographical Area Using
+  Distributed Wireless Sensor Networks"
+Performance and Fault Tolerance in the StoreTorrent Parallel Filesystem
+"Optimization of Multiple Vehicle Routing Problems using Approximation
+  Algorithms"
+"Effects of component-subscription network topology on large-scale data
+  centre performance scaling"
+"In Cloud, Can Scientific Communities Benefit from the Economies of
+  Scale?"
+Distributed Fault-Tolerant Avionic Systems - A Real-Time Perspective
+Internet ware cloud computing :Challenges
+The Low Latency Fault Tolerance System
+Addressing the P2P Bootstrap Problem for Small Networks
+Boosting Multi-Core Reachability Performance with Shared Hash Tables
+Passively Mobile Communicating Logarithmic Space Machines
+"An Economic-based Resource Management and Scheduling for Grid Computing
+  Applications"
+The Accuracy of Tree-based Counting in Dynamic Networks
+Relating L-Resilience and Wait-Freedom via Hitting Sets
+"Construction auto-stabilisante d'arbre couvrant en dépit d'actions
+  malicieuses"
+"A Log Auditing Approach for Trust Management in Peer-to-Peer
+  Collaboration"
+"New Row-grouped CSR format for storing the sparse matrices on GPU with
+  implementation in CUDA"
+"Performance Evaluation of Parallel Message Passing and Thread
+  Programming Model on Multicore Architectures"
+openPC : a toolkit for public cluster with full ownership
+Towards Refactoring the DMF to Support Jini and JMS DMS in GIPSY
+"An Architectural Design for Brokered Collaborative Content Delivery
+  System"
+Work-stealing for mixed-mode parallelism by deterministic team-building
+Maximum Lifetime for Data Regeneration in Wireless Sensor Networks
+Scheduler Vulnerabilities and Attacks in Cloud Computing
+Framework to Solve Load Balancing Problem in Heterogeneous Web Servers
+On the Cost of Concurrency in Transactional Memory
+Aneka Cloud Application Platform and Its Integration with Windows Azure
+"Self-Stabilization, Byzantine Containment, and Maximizable Metrics:
+  Necessary Conditions"
+Easy Impossibility Proofs for k-Set Agreement in Message Passing Systems
+"Linearizable Implementations Do Not Suffice for Randomized Distributed
+  Computation"
+Load Balancing in a Networked Environment through Homogenization
+"Triangular Dynamic Architecture for Distributed Computing in a LAN
+  Environment"
+Agent Based Processing of Global Evaluation Function
+"The Space Complexity of Long-lived and One-Shot Timestamp
+  Implementations"
+Automatic Performance Debugging of SPMD-style Parallel Programs
+The Impact of Memory Models on Software Reliability in Multiprocessors
+Decision Support Tools for Cloud Migration in the Enterprise
+A Formal Model of Anonymous Systems
+On the Degree Distribution of Faulty Peer-to-Peer Overlays
+"Secure Position Verification for Wireless Sensor Networks in Noisy
+  Channels"
+Progressive quantization in distributed average consensus
+"A Distributed Approximation Algorithm for the Metric Uncapacitated
+  Facility Location Problem in the Congest Model"
+Secure Data Processing in a Hybrid Cloud
+A Cloud-based Approach for Context Information Provisioning
+"Parallel and Distributed Simulation from Many Cores to the Public Cloud
+  (Extended Version)"
+"Workload Classification & Software Energy Measurement for Efficient
+  Scheduling on Private Cloud Platforms"
+A Modeling Approach based on UML/MARTE for GPU Architecture
+Robot Networks with Homonyms: The Case of Patterns Formation
+"Parallel Performance of MPI Sorting Algorithms on Dual-Core Processor
+  Windows-Based Systems"
+"Automatic Multi-GPU Code Generation applied to Simulation of Electrical
+  Machines"
+"Priority-based task reassignments in hierarchical 2D mesh-connected
+  systems using tableaux"
+Solving the At-Most-Once Problem with Nearly Optimal Effectiveness
+"Homomorphic Self-repairing Codes for Agile Maintenance of Distributed
+  Storage Systems"
+Decentralized List Scheduling
+Snap-Stabilizing Message Forwarding Algorithm on Tree Topologies
+"Game Theoretic Iterative Partitioning for Dynamic Load Balancing in
+  Distributed Network Simulation"
+"Domain decomposition and locality optimization for large-scale lattice
+  Boltzmann simulations"
+Record-replay debugging for the SCOOP concurrency model
+Choosing the best resource by method of mamdani
+"Secured Data Consistency and Storage Way in Untrusted Cloud using Server
+  Management Algorithm"
+Data Integrity and Dynamic Storage Way in Cloud Computing
+Design of a Sliding Window over Asynchronous Event Streams
+"Fixing Data Anomalies with Prediction Based Algorithm in Wireless Sensor
+  Networks"
+A Low-Energy Fast Cyber Foraging Mechanism for Mobile Devices
+Distributed Signal Processing via Chebyshev Polynomial Approximation
+"Hamiltonian Connectivity of Twisted Hypercube-Like Networks under the
+  Large Fault Model"
+Partial mutual exclusion for infinitely many processes
+Improving the Load Balancing Performance of Vlasiator
+"Case Tool: Fast Interconnections with New 3-Disjoint Paths MIN
+  Simulation Module"
+π-Control: A Personal Cloud Control Centre
+"On Stability Problems of Omega and 3-Disjoint Paths Omega Multi-stage
+  Interconnection Networks"
+Stone Age Distributed Computing
+The Locality of Distributed Symmetry Breaking
+DEPAS: A Decentralized Probabilistic Algorithm for Auto-Scaling
+A Simulation Model for Evaluating Distributed Systems Dependability
+"Theoretical Analysis and Tuning of Decentralized Probabilistic
+  Auto-Scaling"
+On Dynamic Distributed Computing
+GPUs as Storage System Accelerators
+Many-Task Computing and Blue Waters
+GPGPU Processing in CUDA Architecture
+"Processes, Roles and Their Interactions"
+"Belief Consensus Algorithms for Fast Distributed Target Tracking in
+  Wireless Sensor Networks"
+Risk-Driven Compliant Access Controls for Clouds
+"An Architecture for Integrated Intelligence in Urban Management using
+  Cloud Computing"
+"A Fault Tolerant, Dynamic and Low Latency BDII Architecture for Grids"
+Context-Aware Service Utilisation in the Clouds and Energy Conservation
+"Iterative Approximate Byzantine Consensus in Arbitrary Directed Graphs -
+  Part II: Synchronous and Asynchronous Systems"
+"High Volume Computing: Identifying and Characterizing Throughput
+  Oriented Workloads in Data Centers"
+A Resource-Competitive Jamming Defense
+"Internet of Things (IoT): A Vision, Architectural Elements, and Future
+  Directions"
+"Distributed backbone structure for deterministic algorithms in the SINR
+  model of wireless networks"
+Survey on Improved Scheduling in Hadoop MapReduce in Cloud Environments
+Performance Issues of Heterogeneous Hadoop Clusters in Cloud Computing
+"Optimization in a Self-Stabilizing Service Discovery Framework for Large
+  Scale Systems"
+Complete PISO and SIMPLE solvers on Graphics Processing Units
+Optimal Deterministic Routing and Sorting on the Congested Clique
+"Efficient Resource Allocation in Resource provisioning policies over
+  Resource Cloud Communication Paradigm"
+"Secure Cloud Communication for Effective Cost Management System through
+  MSBE"
+"Effective Cost Mechanism for Cloudlet Retransmission and Prioritized VM
+  Scheduling Mechanism over Broker Virtual Machine Communication Framework"
+A Novel Process Mapping Strategy in Clustered Environments
+"Implementation of Private Cloud using Eucalyptus and an open source
+  Operating System"
+Super-Fast 3-Ruling Sets
+On the Resilience of Routing Tables
+Survey and comparison for Open and closed sources in cloud computing
+The Impact of Communication Delays on Distributed Consensus Algorithms
+"Using Open Standards for Interoperability - Issues, Solutions, and
+  Challenges facing Cloud Computing"
+Analysis of cloud storage prices
+P*: A Model of Pilot-Abstractions
+Distributed Broadcasting in Wireless Networks under the SINR Model
+"RapidRAID: Pipelined Erasure Codes for Fast Data Archival in Distributed
+  Storage Systems"
+Optimizing MapReduce for Highly Distributed Environments
+A new scheduling algorithm for server farms load balancing
+"Communication/Computation Tradeoffs in Consensus-Based Distributed
+  Optimization"
+A threshold secure data sharing scheme for federated clouds
+Autonomic Cloud Computing: Open Challenges and Architectural Elements
+"A Distributed Algorithm for Gathering Many Fat Mobile Robots in the
+  Plane"
+A performance Analysis of the Game of Life based on parallel algorithm
+"Performance Evaluation of Hierarchical Publish-Subscribe Monitoring
+  Architecture for Service-Oriented Applications"
+"Broadcast Using Certified Propagation Algorithm in Presence of Byzantine
+  Faults"
+Multiprocessor Scheduling Using Parallel Genetic Algorithm
+"Performance Constraint and Power-Aware Allocation For User Requests In
+  Virtual Computing Lab"
+"Distributed Deterministic Broadcasting in Wireless Networks of Weak
+  Devices under the SINR Model"
+"A Declarative Recommender System for Cloud Infrastructure Services
+  Selection"
+"Distributed Formal Concept Analysis Algorithms Based on an Iterative
+  MapReduce Framework"
+Scheduling tree-shaped task graphs to minimize memory and makespan
+"An Introduction on Dependency Between Hardware Life Time Components and
+  Dynamic Voltage Scaling"
+"Investigating Decision Support Techniques for Automating Cloud Service
+  Selection"
+"Energy Efficient Decentralized Detection Based on Bit-optimal Multi-hop
+  Transmission in One-dimensional Wireless Sensor Networks"
+"Power-efficient Hierarchical Data Aggregation using Compressive Sensing
+  in WSN"
+"A Primarily Survey on Energy Efficiency in Cloud and Distributed
+  Computing Systems"
+Fast Routing Table Construction Using Small Messages
+"A Distributed Transportation Simplex Applied to a Content Distribution
+  Network Problem"
+Efficient Distributed Locality Sensitive Hashing
+HEP Analysis Facility An Approach to Grid Computing
+Hep Cluster First Step Towards Grid Computing
+"Energy Efficient Algorithms and Power Consumption Techniques in High
+  Performance Computing"
+VUPIC: Virtual Machine Usage Based Placement in IaaS Cloud
+An Ontology based System for Cloud Infrastructure Services Discovery
+"Network delay-aware load balancing in selfish and cooperative
+  distributed systems"
+Exploring heterogeneity of unreliable machines for p2p backup
+Integrated Green Cloud Computing Architecture
+Measures of Fault Tolerance in Distributed Simulated Annealing
+"An Interactive Graph-Based Automation Assistant: A Case Study to Manage
+  the GIPSY's Distributed Multi-tier Run-Time System"
+"Resource management on a VM based computer cluster for scientific
+  computing"
+"Map / Reduce Deisgn and Implementation of Apriori Alogirthm for handling
+  voluminous data-sets"
+Interoperability and Standardization of Intercloud Cloud Computing
+Local Thresholding on Distributed Hash Tables
+On the Complexity of Asynchronous Agreement Against Powerful Adversaries
+"Regional Consistency: Programmability and Performance for
+  Non-Cache-Coherent Systems"
+"Sophie, an FDTD code on the way to multicore, getting rid of the memory
+  bandwidth bottleneck better using cache"
+"A Scalable Distributed Architecture for Network- and QoS-aware Service
+  Composition"
+"The Case for Cross-Layer Optimizations in Storage: A Workflow-Optimized
+  Storage System"
+Pilot-Data: An Abstraction for Distributed Data
+Safety of Deferred Update in Transactional Memory
+HTC Scientific Computing in a Distributed Cloud Environment
+"A Factor Framework for Experimental Design for Performance Evaluation of
+  Commercial Cloud Services"
+"Introducing Speculation in Self-Stabilization - An Application to Mutual
+  Exclusion"
+Virtual Machine Consolidation for Datacenter Energy Improvement
+"VM-MAD: a cloud/cluster software for service-oriented academic
+  environments"
+Byzantine Vector Consensus in Complete Graphs
+Practical Size-based Scheduling for MapReduce Workloads
+"CORE: Augmenting Regenerating-Coding-Based Recovery for Single and
+  Concurrent Failures in Distributed Storage Systems"
+Checkpointing algorithms and fault prediction
+"Distributed Deterministic Broadcasting in Uniform-Power Ad Hoc Wireless
+  Networks"
+"Approximation Algorithms for Energy Minimization in Cloud Service
+  Allocation under Reliability Constraints"
+Checkpointing strategies with prediction windows
+Failure Data Analysis of HPC Systems
+"Verifying the Consistency of Remote Untrusted Services with Commutative
+  Operations"
+Verifying PRAM Consistency over Read/Write Traces of Data Replicas
+"The CORE Storage Primitive: Cross-Object Redundancy for Efficient Data
+  Repair & Access in Erasure Coded Storage"
+"Classification and Characterization of Core Grid Protocols for Global
+  Grid Computing"
+"Comments on ""Resource placement in Cartesian product of networks""
+  [Imani, Sarbazi-Azad and Zomaya, J. Parallel Distrib. Comput., 70 (2010)
+  481-495]"
+"Memory Aware Load Balance Strategy on a Parallel Branch-and-Bound
+  Application"
+Distributed Wear levelling of Flash Memories
+Distributed Computability in Byzantine Asynchronous Systems
+"GPU accelerated maximum cardinality matching algorithms for bipartite
+  graphs"
+Orientation and Connectivity Based Criteria for Asymptotic Consensus
+CPU and/or GPU: Revisiting the GPU Vs. CPU Myth
+Making Systems More Robust with Flexible RPC Lookup
+Non-blocking Patricia Tries with Replace Operations
+Parallel Search with Extended Fibonacci Primitive
+"Perfectly load-balanced, optimal, stable, parallel merge"
+"Kernelet: High-Throughput GPU Kernel Executions with Dynamic Slicing and
+  Scheduling"
+"Achieving Efficient Strong Scaling with PETSc using Hybrid MPI/OpenMP
+  Optimisation"
+"Multilevel communication optimal LU and QR factorizations for
+  hierarchical platforms"
+Fault Tolerance in Distributed Systems using Fused State Machines
+Parallelization in Scientific Workflow Management Systems
+Data-Intensive Workload Consolidation on Hadoop Distributed File System
+"Queuing Methodology Based Power Efficient Routing Protocol for Reliable
+  Data Communications in Manets"
+Using Memory-Protection to Simplify Zero-copy Operations
+"Improving Lower Bounds for the Quadratic Assignment Problem by applying
+  a Distributed Dual Ascent Algorithm"
+Resilience of Dynamic Overlays through Local Interactions
+"Cross-layer Application-aware Power/Energy Management for Extreme Scale
+  Science"
+Cloud Computing: a Prologue
+Cloud Computing Research Challenges
+"Validated Real Time Middle Ware For Distributed Cyber Physical Systems
+  Using HMM"
+Reallocation and Allocation of Virtual Machines in Cloud Computing
+Scheduling of Dependent Tasks Application using Random Search Technique
+Distributed Abstraction Algorithm for Online Predicate Detection
+Spéculation et auto-stabilisation
+"Optimised hybrid parallelisation of a CFD code on Many Core
+  architectures"
+Storage and Search in Dynamic Peer-to-Peer Networks
+Optimizing CUDA Code By Kernel Fusion---Application on BLAS
+An Architecture for Decentralised Orchestration of Web Service Workflows
+"Experiences of Using a Hybrid Cloud to Construct an Environmental
+  Virtual Observatory"
+"Clustering Algorithms for Scale-free Networks and Applications to Cloud
+  Resource Management"
+"Performance Analysis of Embarassingly Parallel Application on Cluster
+  Computer Environment: A Case Study of Virtual Screening with Autodock Vina
+  1.1 on Hastinapura Cluster"

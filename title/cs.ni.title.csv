@@ -1,0 +1,1503 @@
+title
+"Fast, Approximate Synthesis of Fractional Gaussian Noise for Generating
+  Self-Similar Network Traffic"
+ABR Flow Control for Multipoint Connections
+Overload Based Explicit Rate Switch Schemes with MCR Guarantees
+"Design and Analysis of Queue Control Functions for Explicit Rate Switch
+  Schemes"
+"A Definition of General Weighted Fairness and its Support in Explicit
+  Rate Switch Algorithms"
+Worst Case Buffer Requirements For Tcp Over ABR
+"Performance of TCP over ABR with Long-Range Dependent VBR Background
+  Traffic over Terrestrial and Satellite ATM networks"
+Fairness for ABR multipoint-to-point connections
+Modeling Traffic Management in ATM Networks with OPNET
+laboratories for Data Communications and Computer Networks
+"Analysis and Simulation of Delay and Buffer Requirements of
+  satellite-ATM Networks for TCP/IP Traffic"
+Improving the Performance of TCP over the ATM-UBR service
+"Design Issues for providing Minimum Rate Guarantees to the ATM
+  Unspecified Bit Rate Service"
+Providing Rate Guarantees to TCP over the ATM GFR Service
+Analysis and Modeling of Traffic in Modern Data Communication Networks
+"On Determining the Fair Bandwidth Share for ABR Connections in ATM
+  Networks"
+"The OSU Scheme for Congestion Avoidance in ATM Networks: Lessons Learnt
+  and Extensions"
+The ERICA Switch Algorithm for ABR Traffic Management in ATM Networks
+"Satellite ATM Network Architectural Considerations and TCP/IP
+  Performance"
+Performance of Bursty World Wide Web (WWW) Sources over ABR
+"Feedback Consolidation Algorithms for ABR Point-to-Multipoint
+  Connections in ATM Networks"
+"TCP Selective Acknowledgments and UBR Drop Policies to Improve ATM-UBR
+  Performance over Terrestrial and Satellite Networks"
+A Survey of Protocols and Open Issues in ATM Multipoint Communication
+Performance Testing Effort at the ATM Forum: An Overview
+"Design Considerations for the Virtual Source/Virtual Destination (VS/VD)
+  Feature in the ABR Service of ATM Networks"
+"Use-it or Lose-it Policies for the Available Bit Rate (ABR) Service in
+  ATM Networks"
+UBR+: Improving Performance of TCP over ATM-UBR service
+"Performance of TCP over ABR on ATM backbone and with various VBR traffic
+  patterns"
+"Performance and Buffering Requirements of Internet Protocols over ATM
+  ABR and UBR Services"
+"Performance of TCP/IP Using ATM ABR and UBR Services over Satellite
+  Networks"
+On Source Rules for ABR Service on ATM Networks with Satellite Links
+"A Survey of Congestion Control Techniques and Data Link Protocols in
+  Satellite Networks"
+Source Behavior for ATM ABR Traffic Management: An Explanation
+Buffer Requirements For TCP/IP Over ABR
+Potential Networking Applications of Global Positioning Systems (GPS)
+"The OSU Scheme for Congestion Avoidance in ATM networks Using Explicit
+  Rate Indication"
+Congestion Control with Explicit Rate Indication
+"A Brief Overview of ATM: Protocol Layers, LAN Emulation, and Traffic
+  Management"
+ATM Networks: Issues and Challenges Ahead
+"Congestion Control and Traffic Management in ATM Networks: Recent
+  Advances and A Survey"
+FDDI: Current Issues and Future Trends
+A Comparison of Hashing Schemes for Address Lookup in Computer Networks
+Myths about Congestion Management in High Speed Networks
+"Performance Analysis of FDDI Token Ring Networks: Effect of Parameters
+  and Guidelines for Setting TTRT"
+Error Characteristics of Fiber Distributed Data Interface (FDDI)
+Congestion Control in Computer Networks: Trends and Issues
+"Characteristics of Destination Address Locality in Computer Networks: A
+  Comparison of Caching Schemes"
+"A Delay Based Approach for Congestion Avoidance in Interconnected
+  Heterogeneous Computer Networks"
+"Congestion Avoidance in Computer Networks with a Connectionless Network
+  Layer"
+"Congestion Avoidance in Computer Networks with a Connectionless Network
+  Layer, Part I: Concepts, Goals and Methodology"
+"A Timeout Based Congestion Control Scheme for Window Flow- Controlled
+  Networks"
+Divergence of Timeout Algorithms for Packet Retransmissions
+On Caching out-of-order packets in window flow controlled networks
+"A Quantitative Measure Of Fairness And Discrimination For Resource
+  Allocation In Shared Computer Systems"
+Data Flies Standby with ABR Service
+Flood Routing Technique for Data Networks
+Analysis of Performance of Dynamic Multicast Routing Algorithms
+The Tiny Tera: A Packet Switch Core
+Push vs. Pull in Web-Based Network Management
+TCP Trunking
+A Brief History of the Internet
+"Proceedings from Critical Infrastructure: The Path Ahead (XIWT Symposium
+  on Cross-Industry Activities for Information Infrastructure Robustness)"
+Active Virtual Network Management Protocol
+Network Management of Predictive Mobile Networks
+A Control and Management Network for Wireless ATM Systems
+Mobile ATM Buffer Capacity Analysis
+"The Design and Analysis of Virtual Network Configuration for a Wireless
+  Mobile ATM Network"
+Decoupling Control from Data for TCP Congestion Control
+Effect of different packet sizes on RED performance
+RED behavior with different packet sizes
+An Internet Multicast System for the Stock Market
+"A Decision-Theoretic Approach to Resource Allocation in Wireless
+  Multimedia Networks"
+Algorithms for Analysing Firewall and Router Access Lists
+A Note on Power-Laws of Internet Topology
+State Analysis and Aggregation Study for Multicast-based Micro Mobility
+"Architectural Framework for Large-Scale Multicast in Mobile Ad Hoc
+  Networks"
+The Control of a Beamline Over Intranet
+"Upgrade of Spring-8 Beamline Network with Vlan Technology Over Gigabit
+  Ethernet"
+Analysis of Non-Gaussian Nature of Network Traffic
+CUP: Controlled Update Propagation in Peer-to-Peer Networks
+"Fair Stateless Aggregate Traffic Marking using Active Queue Management
+  Techniques"
+A Calculus for End-to-end Statistical Service Guarantees
+Content Distribution in Unicast Replica Meshes
+"Small Large-Scale Wireless Networks: Mobility-Assisted Resource
+  Discovery"
+"Contact-Based Architecture for Resource Discovery (CARD) in Large Scale
+  MANets"
+"Efficient Micro-Mobility using Intra-domain Multicast-based Mechanisms
+  (M&M)"
+"Analysis of Non-Gaussian Nature of Network Traffic and its Implication
+  on Network Performance"
+Fast optical layer mesh protection using pre-cross-connected trails
+Gossip Based Ad-Hoc Routing
+"Analysis of a Cone-Based Distributed Topology Control Algorithm for
+  Wireless Multi-hop Networks"
+Minimum-Energy Mobile Wireless Networks Revisited
+Open Network Handles Implemented in DNS
+A Proposal to Separate Handles from Names on the Internet
+"The measurements, parameters and construction of Web proxy cache"
+Theoretical study of cache syatems
+Complex Systems
+The missing links in the BGP-based AS connectivity maps
+Towards Modelling The Internet Topology - The Interactive Growth Model
+Analyzing and modelling the AS-level Internet topology
+The use of Ethernet in the DataFlow of the ATLAS Trigger & DAQ
+Flow-based analysis of Internet traffic
+Observation-based Cooperation Enforcement in Ad Hoc Networks
+"Architecture of monitoring elements for the network element modeling in
+  a Grid infrastructure"
+"Improving the Security and Performance of the BaBar Detector Controls
+  System"
+The Rich-Club Phenomenon In The Internet Topology
+"Active Internet Traffic Filtering: Real-time Response to Denial of
+  Service Attacks"
+Optimized Flooding Protocol for Ad hoc Networks
+On the Cost of Participating in a Peer-to-Peer Network
+Accurately modeling the Internet topology
+"Redundancy and Robustness of the AS-level Internet topology and its
+  models"
+"Protecting Public-Access Sites Against Distributed Denial-of-Service
+  Attacks"
+"Developing Intellectual Network Management Facilities by Means of
+  Pattern Recognition Theory"
+"Providing Service Guarantees in High-Speed Switching Systems with
+  Feedback Output Queuing"
+Diagnosabilities of regular networks
+Non-uniform Information Dissemination for Sensor Networks
+Dynamic Localization Protocols for Mobile Sensor Networks
+Two Models for the Study of Congested Internet Connections
+Efficient Algorithms for Large-Scale Topology Discovery
+"Analysis of 802.11b MAC: A QoS, Fairness, and Performance Perspective"
+"Using Wireless Sensor Networks to Narrow the Gap between Low-Level
+  Information and Context-Awareness"
+"Efficient Even Distribution of Power Consumption in Wireless Sensor
+  Networks"
+e3D: An Energy-Efficient Routing Algorithm for Wireless Sensor Networks
+Routing Algorithms for Wireless Sensor Networks
+Describing and Simulating Internet Routes
+"Vers un environnement multi personnalites pour la configuration et le
+  deploiement d'applications a base de composants logiciels"
+J2EE Deployment: The JOnAS Case Study
+"SDS : Une infrastructure d'installation de logiciels libres pour des
+  organisations multi-sites"
+Adaptation dynamique de services
+Runtime Reconfiguration of J2EE Applications
+Deployment in dynamic environments
+"OpenCCM : une infrastructure a composants pour le deploiement
+  d'applications a base de composants CORBA"
+Gestion du deploiement de composants sur reseau P2P
+"Un meta-modele pour l'automatisation du deploiement d'applications
+  logicielles"
+FROGi : Deploiement de composants Fractal sur OSGi
+Data Path Processing in Fast Programmable Routers
+"Supporting Bandwidth Guarantee and Mobility for Real-Time Applications
+  on Wireless LANs"
+"Reconfigurations dynamiques de services dans un intergiciel a composants
+  CORBA CCM"
+"Support pour la reconfiguration d'implantation dans les applications a
+  composants Java"
+"Contractualisation des ressources pour le deploiement des composants
+  logiciels"
+Gestion transactionnelle de la reprise sur erreurs dans le deploiement
+"Deploiement d'ordonnanceurs de processus specifiques dans un systeme
+  d'exploitation generaliste"
+"A Software Architecture for Automatic Deployment of CORBA Components
+  Using Grid Technologies"
+"Pandora : une plate-forme efficace pour la construction d'applications
+  autonomes"
+Des correctifs de securite a la mise a jour
+Gestion Dynamique des Services Techniques pour Modele a Composants
+"Local heuristics and the emergence of spanning subgraphs in complex
+  networks"
+Towards Reliable Network Wide Broadcast in Mobile Ad Hoc Networks
+Security in Carrier Class Server Applications for All-IP Networks
+Enforcing Bulk Mail Classification
+"Optimized network structure and routing metric in wireless multihop ad
+  hoc communication"
+"Construction of Small Worlds in the Physical Topology of Wireless
+  Networks"
+Effects of variations of load distribution on network performance
+On the Effect of Fading on Ad hoc Networking
+DTN Routing in a Mobility Pattern Space
+"Rendezvous Regions: A Scalable Architecture for Resource Discovery and
+  Service Location in Large-Scale Mobile Networks"
+Efficient and Robust Geocasting Protocols for Sensor Networks
+"Signal transmission on lossy lines as a dissipative quantum state
+  propagation"
+DIMES: Let the Internet Measure Itself
+"MAEC : A Movement-Assisted Energy Conserving Method in Event Driven
+  Wireless Sensor Networks"
+Finding routes in anonymous sensor networks
+Revisiting Internet AS-level Topology Discovery
+"IMPACT: Investigation of Mobile-user Patterns Across University Campuses
+  using WLAN Trace Analysis"
+ATTENTION: ATTackEr traceback using MAC layer abNormality detecTION
+Distributed Algorithms for Optimal Rate-Reliability Tradeoff in Networks
+Toward Compact Interdomain Routing
+Point Process Models of 1/f Noise and Internet Traffic
+"Using the Modified Allan Variance for Accurate Estimation of the Hurst
+  Parameter of Long-Range Dependent Traffic"
+"Geo-aggregation permits low stretch and routing tables of logarithmical
+  size"
+"Remarks on ""Toward Compact Interdomain Routing"""
+"Architectural Considerations for a Self-Configuring Routing Scheme for
+  Spontaneous Networks"
+Internet Protocol Black Holes: A E-Security Threat
+A Model Based Approach to Reachability Routing
+Virtual Coordinate Backtracking for Void Traversal in Geographic Routing
+"Analytic performance comparison of routing protocols in master-slave PLC
+  networks"
+A dissemination strategy for immunizing scale-free networks
+Chinese Internet AS-level Topology
+Evaluating Mobility Pattern Space Routing for DTNs
+Understanding the internet topology evolution dynamics
+"The Limits of Motion Prediction Support for Ad hoc Wireless Network
+  Performance"
+Low-Energy Sensor Network Time Synchronization as an Emergent Property
+"Perturbation Analysis of a Variable M/M/1 Queue: A Probabilistic
+  Approach"
+"Integration of streaming services and TCP data transmission in the
+  Internet"
+A topology visualisation tool for large-scale communications networks
+Effect of CSMA/CD on Self-Similarity of Network Traffic
+"Implementation and Deployment of a Distributed Network Topology
+  Discovery Algorithm"
+AS Relationships: Inference and Validation
+"Survivable Routing in IP-over-WDM Networks in the Presence of Multiple
+  Failures"
+Polynomial-time algorithms for coding across multiple unicasts
+"Jumps: Enhancing hop-count positioning in sensor networks using multiple
+  coordinates"
+Throughput Optimal Distributed Control of Stochastic Wireless Networks
+"Node-Based Optimal Power Control, Routing, and Congestion Control in
+  Wireless Networks"
+"An Internet Framework to Bring Coherence between WAP and HTTP Ensuring
+  Better Mobile Internet Security"
+QoSIP: A QoS Aware IP Routing Ptotocol for Multimedia Data
+A Locating-First Approach for Scalable Overlay Multicast
+Aligned Virtual Coordinates for Greedy Routing in WSNs
+Efficient Route Tracing from a Single Source
+DSR with Non-Optimal Route Suppression for MANETs
+Mining Behavioral Groups in Large Wireless LANs
+The KAA project: a trust policy point of view
+Threshold-Controlled Global Cascading in Wireless Sensor Networks
+"A Flexible Bandwidth Reservation Framework for Bulk Data Transfers in
+  Grid Networks"
+"Retouched Bloom Filters: Allowing Networked Applications to Flexibly
+  Trade Off False Positives Against False Negatives"
+"Dynamic Packet Aggregation to Solve Performance Anomaly in 802.11
+  Wireless Networks"
+Multicasting with selective delivery: A SafetyNet for vertical handoffs
+"Opti{c,m}al: Optical/Optimal Routing in Massively Dense Wireless
+  Networks"
+"User-Network Association in a WLAN-UMTS Hybrid Cell: Global & Individual
+  Optimality"
+"New Cross-Layer Channel Switching Policy for TCP Transmission on 3G UMTS
+  Downlink"
+The Dynamics of A Self-Forming Network
+Competition and Request Routing Policies in Content Delivery Networks
+"Realistic Boundary Conditions for Ad Hoc Network Node Mobility Models
+  and a New Approach to the Random Waypoint Model"
+Rarest First and Choke Algorithms Are Enough
+"The heterogeneity of inter-contact time distributions: its importance
+  for routing in delay tolerant networks"
+Coverage and Connectivity in Three-Dimensional Networks
+On Intentional Attacks and Protections in Complex Communication Networks
+About the Capacity of Flat and Self-Organized Ad Hoc and Hybrid Networks
+Reducing the Makespan in Hierarchical Reliable Multicast Tree
+Throughput Optimal Distributed Control of Stochastic Wireless Networks
+"Dynamic Spectrum Access: Signal Processing, Networking, and Regulatory
+  Policy"
+"Modelling and Simulation of Scheduling Policies Implemented in Ethernet
+  Switch by Using Coloured Petri Nets"
+"Control compensation based on upper bound delay in networked control
+  systems"
+"Use of upper bound delay estimate in stability analysis and robust
+  control compensation in networked control systems"
+Cooperative Processes for Scientific Workflows
+Network calculus based FDI approach for switched Ethernet architecture
+Pipelined Feed-Forward Cyclic Redundancy Check (CRC) Calculation
+Crosstalk-free Conjugate Networks for Optical Multicast Switching
+"Mécanismes de Transmission Multipoint pour Réseaux Locaux Sans
+  Fil IEEE 802.11"
+Rapid Prototyping over IEEE 802.11
+"An Application of the Mobile Transient Internet Architecture to IP
+  Mobility and Inter-Operability"
+Intrusion detection mechanisms for VoIP applications
+"Grooming of Dynamic Traffic in WDM Star and Tree Networks Using Genetic
+  Algorithm"
+"A Genetic Algorithm Approach to the Grooming of Dynamic Traffic in Tree
+  and Star Networks with Bifurcation"
+"Increasing Data Resilience of Mobile Devices with a Collaborative Backup
+  Service"
+"Using Existing Network Simulators for Power-Aware Self-Organizing
+  Wireless Sensor Network Protocols"
+Clustering and Sharing Incentives in BitTorrent Systems
+"Comparison between Networked Control System behaviour based on CAN and
+  Switched Ethernet networks"
+Bounding the Bias of Tree-Like Sampling in IP Topologies
+Predictable Disruption Tolerant Networks and Delivery Guarantees
+The Workshop on Internet Topology (WIT) Report
+SIMPS: Using Sociology for Personal Mobility
+Optimal Filtering for DDoS Attacks
+Stratification in P2P Networks - Application to BitTorrent
+"Accommodation of the Service Offered by the Network for Networked
+  Control Systems"
+Cooperation Between Stations in Wireless Networks
+"Maximizing the Probability of Delivery of Multipoint Relay Broadcast
+  Protocol in Wireless Ad Hoc Networks with a Realistic Physical Layer"
+The Case for Redundant Arrays of Internet Links (RAIL)
+Fitting the WHOIS Internet data
+Gnutella: Topology Dynamics On Phase Space
+"Security Implications of Converged Networks and Protecting Them, without
+  Compromising Efficiency"
+Bayesian Network Tomography and Inference
+"Joint Design and Separation Principle for Opportunistic Spectrum Access
+  in the Presence of Sensing Errors"
+"Asymptotic Capacity Bounds for Wireless Networks with Non-Uniform
+  Traffic"
+"Convergence and Optimal Buffer Sizing for Window Based AIMD Congestion
+  Control"
+Clustering and Sharing Incentives in BitTorrent Systems
+"Wireless Lan to Support Multimedia Communication Using Spread Spectrum
+  Technology"
+"TCP throughput guarantee in the DiffServ Assured Forwarding service:
+  what about the results?"
+Analysis of the 802.11e Enhanced Distributed Channel Access Function
+"Distributed Algorithms for Spectrum Allocation, Power Control, Routing,
+  and Congestion Control in Wireless Networks"
+Batch Processor Sharing with Hyper-Exponential Service Time
+Overview of the Netsukuku network
+Quantum Shortest Path Netsukuku
+The Netsukuku network topology
+ANDNA: the distributed hostname management system of Netsukuku
+"Wireless Networking to Support Data and Voice Communication Using Spread
+  Spectrum Technology in The Physical Layer"
+CDMA Technology for Intelligent Transportation Systems
+RADAR Imaging in the Open field At 300 MHz-3000 MHz Radio Band
+"Efficient Batch Update of Unique Identifiers in a Distributed Hash Table
+  for Resources in a Mobile Host"
+"Inquiring the Potential of Evoking Small-World Properties for
+  Self-Organizing Communication Networks"
+Opportunistic Network Coding for Video Streaming over Wireless
+Optimal Choice of Threshold in Two Level Processor Sharing
+"Analysis of Inter-Domain Traffic Correlations: Random Matrix Theory
+  Approach"
+"End-to-End Available Bandwidth Measurement Tools : A Comparative
+  Evaluation of Performances"
+Heuristics for Network Coding in Wireless Networks
+Understanding the Properties of the BitTorrent Overlay
+"GCP: Gossip-based Code Propagation for Large-scale Mobile Wireless
+  Sensor Networks"
+"Quasi-stationary distributions as centrality measures of reducible
+  graphs"
+Near Optimal Broadcast with Network Coding in Large Sensor Networks
+"Achievable Outage Rates with Improved Decoding of Bicm Multiband Ofdm
+  Under Channel Estimation Errors"
+"On Optimal Turbo Decoding of Wideband MIMO-OFDM Systems Under Imperfect
+  Channel State Information"
+Wavelet Based Semi-blind Channel Estimation For Multiband OFDM
+"MIMO-OFDM Optimal Decoding and Achievable Information Rates Under
+  Imperfect Channel Estimation"
+"Homogeneous temporal activity patterns in a large online communication
+  space"
+On Compact Routing for the Internet
+"Web Server Benchmark Application WiiBench using Erlang/OTP R11 and
+  Fedora-Core Linux 5.0"
+A Probability Model for Lifetime of Wireless Sensor Networks
+Cost and Effects of Pinning Control for Network Synchronization
+"L2 norm performance index of synchronization and optimal control
+  synthesis of complex networks"
+"Utility-Based Wireless Resource Allocation for Variable Rate
+  Transmission"
+"Heuristic Solution to Protect Communications in WDM Networks using
+  P-cycles"
+Dependable k-coverage algorithms for sensor networks
+"Energy Efficiency of the IEEE 802.15.4 Standard in Dense Wireless
+  Microsensor Networks: Modeling and Improvement Perspectives"
+Direct Conversion Pulsed UWB Transceiver Architecture
+Power Saving Techniques for Wireless LANs
+"Wireless LAN: Past, Present, and Future"
+"Unsaturated Throughput Analysis of IEEE 802.11 in Presence of Non Ideal
+  Transmission Channel and Capture Effects"
+"Saturation Throughput Analysis of IEEE 802.11 in Presence of Non Ideal
+  Transmission Channel and Capture Effects"
+"On The Linear Behaviour of the Throughput of IEEE 802.11 DCF in
+  Non-Saturated Conditions"
+"A Model of the IEEE 802.11 DCF in Presence of Non Ideal Transmission
+  Channel and Capture Effects"
+"Stability analysis of a max-min fair Rate Control Protocol (RCP) in a
+  small buffer regime"
+"Throughput Optimal On-Line Algorithms for Advanced Resource Reservation
+  in Ultra High-Speed Networks"
+"Routing in Outer Space: Improved Security and Energy-Efficiency in
+  Multi-Hop Wireless Networks"
+Fair Scheduling in OFDMA-based Wireless Systems with QoS Constraints
+"Practical Resource Allocation Algorithms for QoS in OFDMA-based Wireless
+  Systems"
+N3Logic: A Logical Framework For the World Wide Web
+Are networks with more edges easier to synchronize?
+"Epcast: Controlled Dissemination in Human-based Wireless Networks by
+  means of Epidemic Spreading Models"
+Augmented Tree-based Routing Protocol for Scalable Ad Hoc Networks
+A Distributed Dynamic Frequency Allocation Algorithm
+Near-Deterministic Inference of AS Relationships
+"Bounded Mean-Delay Throughput and Non-Starvation Conditions in Aloha
+  Network"
+"Improving Performance of Cluster Based Routing Protocol using
+  Cross-Layer Design"
+"Modelling and Analysis of the Distributed Coordination Function of IEEE
+  802.11 with Multirate Capability"
+"Développement et analyse multi outils d'un protocole MAC
+  déterministe pour un réseau de capteurs sans fil"
+Small Is Not Always Beautiful
+"Structure and Optimality of Myopic Policy in Opportunistic Access with
+  Noisy Observations"
+"An integrated model of traffic, geography and economy in the Internet"
+"Delay Analysis for Wireless Local Area Networks with Multipacket
+  Reception under Finite Load"
+"Local Information Based Algorithms for Packet Transport in Complex
+  Networks"
+"Une approche modulaire probabiliste pour le routage à Qualité de
+  Service intégrée"
+"Un Algorithme de Gestion des Adjacences basé sur la Puissance du
+  Signal"
+Femtocell Networks: A Survey
+A Queueing System for Modeling a File Sharing Principle
+"WiFly: experimenting with Wireless Sensor Networks and Virtual
+  coordinates"
+"On the Throughput Allocation for Proportional Fairness in Multirate IEEE
+  802.11 DCF under General Load Conditions"
+"Early Experiences in Traffic Engineering Exploiting Path Diversity: A
+  Practical Approach"
+Comparison of the Discriminatory Processor Sharing Policies
+"Combined Intra- and Inter-domain Traffic Engineering using Hot-Potato
+  Aware Link Weights Optimization"
+Locator/identifier split using the data link layer
+"Wireless Broadcast with Network Coding in Mobile Ad-Hoc Networks:
+  DRAGONCAST"
+On Cycles in AS Relationships
+"CSI: A Paradigm for Behavior-oriented Delivery Services in Mobile Human
+  Networks"
+"A VoIP Privacy Mechanism and its Application in VoIP Peering for Voice
+  Service Provider Topology and Identity Hiding"
+A Radar for the Internet
+Beyond Node Degree: Evaluating AS Topology Models
+"Congestion Reduction Using Ad hoc Message Dissemination in Vehicular
+  Networks"
+Phase Diagrams of Network Traffic
+"Energy-delay bounds analysis in wireless multi-hop networks with
+  unreliable radio links"
+"Power Control in Cognitive Radio Networks: How to Cross a Multi-Lane
+  Highway"
+The stable configuration in acyclic preference-based systems
+"A Novel Proportional Fairness Criterion for Throughput Allocation in
+  Multirate IEEE 802.11"
+An Energy-Aware On-Demand Routing Protocol for Ad-Hoc Wireless Networks
+Criteria on Utility Designing of Convex Optimization in FDMA Networks
+"Distributed Spiral Optimization in Wireless Sensor Networks without
+  Fusion Centers"
+A Heuristic Scheduling Scheme in Multiuser OFDMA Networks
+"Performance Comparison of Cooperative and Distributed Spectrum Sensing
+  in Cognitive Radio"
+"Load Balancing Strategies to Solve Flowshop Scheduling on Parallel
+  Computing"
+Ten weeks in the life of an eDonkey server
+Optimal Energy Management Policies for Energy Harvesting Sensor Nodes
+"Rate based call gapping with priorities and fairness between traffic
+  classes"
+Towards a More Accurate Carrier Sensing Model for CSMA Wireless Networks
+On-the-Fly Coding to Enable Full Reliability Without Retransmission
+Cross-Layer Adaptive Feedback Scheduling of Wireless Control Systems
+"On the Influence of Carrier Frequency Offset and Sampling Frequency
+  Offset in MIMO-OFDM Systems for Future Digital TV"
+"Efficient MIMO-OFDM Schemes for Future Terrestrial Digital TV with
+  Unequal Received Powers"
+"Efficient 3D Space Time Space Block Code for Future Terrestrial Digital
+  TV"
+Bit Error Rate Prediction of Coded MIMO-OFDM Systems
+"Robustness of MIMO-OFDM Schemes for Future Digital TV to Carrier
+  Frequency Offset"
+"3D MIMO Scheme for Broadcasting Future Digital TV in Single Frequency
+  Networks"
+"Analysis and Performance Comparison of DVB-T and DTMB Systems for
+  Terrestrial Digital TV"
+"A novel channel estimation based on spread pilots for terrestrial
+  digital video broadcasting"
+2D Linear Precoded OFDM for future mobile Digital Video Broadcasting
+"Maximally Radio-Disjoint Multipath Routing for Wireless Multimedia
+  Sensor Networks"
+"Load Repartition for Congestion Control in Multimedia Wireless Sensor
+  Networks with Multipath Routing"
+"Demonstration of Time-Reversal in Indoor Ultra-Wideband Communication:
+  Time Domain Measurement"
+"Performance Enhancement of Multiuser Time Reversal UWB Communication
+  System"
+A DCCP Congestion Control Mechanism for Wired- cum-Wireless Environments
+On the Utility of Anonymized Flow Traces for Anomaly Detection
+Fetching Strategy in the Startup Stage of p2p Live Streaming
+DSTC Layering Protocols in Wireless Cooperative Networks
+"Adaptive Hybrid Deflection and Retransmission Routing for Optical
+  Burst-Switched Networks"
+Power Control in Two-Tier Femtocell Networks
+"Modeling Spatial and Temporal Dependencies of User Mobility in Wireless
+  Mobile Networks"
+Number of wireless sensors needed to detect a wildfire
+"Efficient Energy Management Policies for Networks with Energy Harvesting
+  Sensor Nodes"
+"Allocation of control and data channels for Large-Scale Wireless Sensor
+  Networks"
+Optimal Filtering of Malicious IP Sources
+"Analytical Framework for Optimizing Weighted Average Download Time in
+  Peer-to-Peer Networks"
+Protecting infrastructure networks from cost-based attacks
+"Novel Architectures and Algorithms for Delay Reduction in Back-pressure
+  Scheduling and Routing"
+"Exploiting the Path Propagation Time Differences in Multipath
+  Transmission with FEC"
+"Adaptive threshold-based decision for efficient hybrid deflection and
+  retransmission scheme in OBS networks"
+Automatic Analog Beamforming Transceiver for 60 GHz Radios
+A Distributed Trust Diffusion Protocol for Ad Hoc Networks
+On Leveraging Partial Paths in Partially-Connected Networks
+"Safe Carrier Sensing Range in CSMA Network under Physical Interference
+  Model"
+"Fast Dual-Radio Cross-Layer Handoffs in Multi-Hop Infrastructure-mode
+  802.11 Wireless Networks for In-Vehicle Multimedia Infotainment"
+Adaptive algorithms for identifying large flows in IP traffic
+"Interference and Congestion Aware Gradient Broadcasting Routing for
+  Wireless Sensor Networks"
+Multiple time-delays system modeling and control for router management
+Design and performance evaluation of a state-space based AQM
+"On Designing Lyapunov-Krasovskii Based AQM for Routers Supporting TCP
+  Flows"
+Robust control tools for traffic monitoring in TCP/AQM networks
+"On the Statistical Characterization of Flows in Internet Traffic with
+  Application to Sampling"
+"Efficient Greedy Geographical Non-Planar Routing with Reactive
+  Deflection"
+Semantic Network Layering
+"A Multipath Energy-Aware On demand Source Routing Protocol for Mobile
+  Ad-Hoc Networks"
+"Simulation and Performance Analysis of MP-OLSR for Mobile Ad hoc
+  Networks"
+Implementation of Multipath and Multiple Description Coding in OLSR
+Energy Efficient Location Aided Routing Protocol for Wireless MANETs
+"QoS Provisioning Using Hybrid FSO RF Based Hierarchical Model for
+  Wireless Multimedia Sensor Networks"
+"The Asymptotic Behavior of Minimum Buffer Size Requirements in Large P2P
+  Streaming Networks"
+A Novel Model for Optimized GSM Network Design
+Optimal Timer Based Selection Schemes
+Size Does Matter (in P2P Live Streaming)
+On Resource Aware Algorithms in Epidemic Live Streaming
+Heterogeneity in Distributed Live Streaming: Blessing or Curse?
+"Performance of Opportunistic Epidemic Routing on Edge-Markovian Dynamic
+  Graphs"
+"Embedded Sensor System for Early Pathology Detection in Building
+  Construction"
+Geometric and Signal Strength Dilution of Precision (DoP)Wi-Fi
+"Measurement and Analysis of an Online Content Voting Network: A Case
+  Study of Digg"
+"ALOHA With Collision Resolution(ALOHA-CR): Theory and Software Defined
+  Radio Implementation"
+A Secure and Fault tolerant framework for Mobile IPv6 based networks
+"Practical Rate and Route Adaptation with Efficient Link Quality
+  Estimation for IEEE 802.11b/g Multi-Hop Networks"
+(RCFT) ReClustering Formation Technique in Hierarchical Sensor Network
+Impact of Obstacles on the Degree of Mobile Ad Hoc Connection Graphs
+A Simple Conceptual Generator for the Internet Graph
+"Management of Location Based Advertisement Services using Spatial
+  Triggers in Cellular Networks"
+Toward a Gigabit Wireless Communications System
+"Hybrid, Optical and Wireless Near-Gigabit Communications System"
+Système de Communications Sans Fil Très Haut Débit à 60 GHz
+On Improving the Representation of a Region Achieved by a Sensor Network
+"A Round-based Pricing Scheme for Maximizing Service Provider's Revenue
+  in P2PTV Networks"
+MAC Layer Hurdles in BSNs
+"Performance Analysis of Two-Hop Cooperative MIMO transmission with Relay
+  Selection in Rayleigh Fading Channel"
+On the Development of Low Power MAC Protocol for WBANs
+"A Near-Optimal Scheme for TCP ACK Pacing to Maintain Throughput in
+  Wireless Networks"
+"MIMO Cluster Cooperative Assignment Cross Layer Scheme for Hybrid
+  Wireless Sensor Networks"
+"A Novel Cross Layer Scheme for Multi-Channel Hybrid Cognitive Ad-hoc
+  Networks"
+"Towards Power Efficient MAC Protocol for In-Body and On-Body Sensor
+  Networks"
+A Study of Implanted and Wearable Body Sensor Networks
+Applications of UWB Technology
+People-Sensing Spatial Characteristics of RF Sensor Networks
+A scientific understanding of network designing
+Feeds as Query Result Serializations
+"Euclidean versus hyperbolic congestion in idealized versus experimental
+  networks"
+Active Flows in Diagnostic of Troubleshooting on Backbone Links
+"Flare: Architecture for rapid and easy development of Internet-based
+  Applications"
+"Estimating Network Link Characteristics using Packet-Pair Dispersion: A
+  Discrete Time Queueing Theoretic View"
+Network congestion control using NetFlow
+"The Importance, Design and Implementation of a Middleware for Networked
+  Control Systems"
+Scheduling Sensors for Guaranteed Sparse Coverage
+"Splitting Algorithms for Fast Relay Selection: Generalizations,
+  Analysis, and a Unified View"
+"Time-domain approach to energy efficiency in high-performance network
+  element design"
+Self-Reference Ultra-Wideband Systems
+A Reliable and Fault Tolerant Routing for Optical WDM Networks
+"Unraveling BitTorrent's File Unavailability: Measurements, Analysis and
+  Solution Exploration"
+"Flow Splitting with Fate Sharing in a Next Generation Transport Services
+  Architecture"
+"Modified Opportunistic Deficit Round Robin Scheduling for improved QOS
+  in IEEE 802.16 WBA networks"
+"Comparative Study of Different Guard Time Intervals to Improve the BER
+  Performance of Wimax Systems to Minimize the Effects of ISI and ICI under
+  Adaptive Modulation Techniques over SUI1 and AWGN Communication Channels"
+"Ant Based Adaptive Multicast Routing Protocol (AAMRP) for Mobile Ad Hoc
+  Networks"
+A New Approach to Cold Start in Peer to Peer File Sharing Networks
+"Comparative Study Of Congestion Control Techniques In High Speed
+  Networks"
+"An Efficient Admission Control Algorithm for Load Balancing In
+  Hierarchical Mobile IPv6 Networks"
+"Performance Evaluation of WiMAX (802.16) Using Different Encoding
+  Schemes"
+"iSSEE: IMS Sensors Search Engine Enabler for Sensors Mashups Convergent
+  Application"
+Effective Carrier Sensing in CSMA Networks under Cumulative Interference
+"Evaluation of Varrying Mobility Models & Network Loads on DSDV Protocol
+  of MANETs"
+"A QoS-Aware Intelligent Replica Management Architecture for Content
+  Distribution in Peer-to-Peer Overlay Networks"
+"Performance Metrics Analysis of Torus Embedded Hypercube Interconnection
+  Network"
+"Investment and Pricing with Spectrum Uncertainty: A Cognitive Operator's
+  Perspective"
+"Towards Expeditious and Unswerving Routing to Corroborate Nascent
+  Internet"
+Network Traffic Management
+New Model of Network- a Future Aspect of the Computer Networks
+"On the Connectivity and Multihop Delay of Ad Hoc Cognitive Radio
+  Networks"
+On Channel-Discontinuity-Constraint Routing in Wireless Networks
+Dynamic routing based on call quality
+"Modified Minimum Connected Dominating Set formation for Wireless Adhoc
+  Networks"
+Routing in Wireless Adhoc Networks: A New Horizon
+"Delay-Constrained Utility Maximization in Multihop Random Access
+  Networks"
+"Chain Routing: A new routing framework for the Internet based on
+  complete orders"
+"Cognitive MAC Protocols Using Memory for Distributed Spectrum Sharing
+  Under Limited Spectrum Sensing"
+The Internet's unexploited path diversity
+"Dynamic Task Fetching Over Time Varying Wireless Channels for Mobile
+  Computing Applications"
+"High-Speed Signature Matching in Network Interface Device using Bloom
+  Filters"
+"Point-to-point and Point-to-multipoint CDMA Access Network with Enhanced
+  Security"
+Wireless Sensor Networking for Rain-fed Farming Decision Support
+VANET Connectivity Analysis
+Miniaturized wireless sensor network
+"Software defined radio layer for IR-UWB systems in Wireless Sensor
+  Network Context"
+Study of Reconfigurable Mostly Digital Radio for Manet
+"SOPC Co-Design Platform for UWB Systems in Wireless Sensor Network
+  Context"
+"Simulation Platform for Wireless Sensor Networks Based on Impulse Radio
+  Ultra Wide Band"
+"Medium Access Control for Wireless Sensor Networks based on Impulse
+  Radio Ultra Wideband"
+"Channel Capacity Limitations versus Hardware Implementation for UWB
+  Impulse Radio Communications"
+"Performance Evaluation of Impluse Radio Ultra Wide Band Wireless Sensor
+  Networks"
+New methodology to design advanced MR-IRUWB communication system
+"Performance Analysis of m-retry BEB based DCF under Unsaturated Traffic
+  Condition"
+IR-UWB Channel Capacity for Analog and Mostly Digital Implementation
+"Interconnection between 802.15.4 Devices and IPv6: Implications and
+  Existing Approaches"
+"Realistic Approach towards Quantitative Analysis and Simulation of
+  EEHC-Based Routing for Wireless Sensor Networks"
+"Performance Investigation of Virtual Private Networks with Different
+  Bandwidth Allocations"
+"Node Disjoint Multipath Routing Considering Link and Node Stability
+  protocol: A characteristic Evaluation"
+"Adjacency Matrix based method to compute the node connectivity of a
+  Computer Communication Network"
+Adaptation of TURN protocol to SIP protocol
+RFID Applications: An Introductory and Exploratory Study
+"Efficient Packet Forwarding Approach in Vehicular Ad Hoc Networks Using
+  EBGR Algorithm"
+Max-min Fairness in 802.11 Mesh Networks
+Wireless Congestion Control Protocol For Multihop Ad Hoc Networks
+"Saturation Throughput Analysis of IEEE 802.11b Wireless Local Area
+  Networks under High Interference Considering Capture Effects"
+AROMA: Automatic Generation of Radio Maps for Localization Systems
+Mobility Impact on Performance of Mobile Grids
+"Adaptive Subcarrier PSK Intensity Modulation in Free Space Optical
+  Systems"
+"High Throughput of WiMAX MIMO OFDM Including Adaptive Modulation and
+  Coding"
+"Performance Modeling and Evaluation of Traffic management for Mobile
+  Networks by SINR Prediction"
+"A Survivability Strategy in Route Optimization Mobile Network by Memetic
+  Algorithm"
+"Analysis of Large Scale Propagation Models for Mobile Communications in
+  Urban Area"
+Performance Evaluation of TCP over Mobile Ad hoc Networks
+Genetic Algorithm Based Optimization of Clustering in Ad Hoc Networks
+"Upstream traffic capacity of a WDM EPON under online GATE-driven
+  scheduling"
+Traffic Capacity of Large WDM Passive Optical Networks
+"Impact of Random Loss on TCP Performance in Mobile Ad hoc Networks (IEEE
+  802.11), A Simulation-Based Analysis"
+"High Performance Hybrid Two Layer Router Architecture for FPGAs Using
+  Network On Chip"
+When Should I Use Network Emulation?
+"Channel Fragmentation in Dynamic Spectrum Access Systems - a Theoretical
+  Study"
+"A Greedy link scheduler for Wireless Networks having Gaussian Broadcast
+  and Multiple Access Channels"
+Optimization of MIMO detectors: Unleashing the multiplexing gain
+"Holistic Approach for Critical System Security: Flooding Prevention and
+  Malicious Packet Stopping"
+"Error Performance Analysis to Increase Capacity of A Cellular System
+  Using SDMA"
+Performance Comparisions of ICA Algorithms to DS-CDMA Detection
+"Performance analysis of Zone Routing Protocol in respect of Genetic
+  Algorithm and Estimation of Distribution Algorithm"
+"FPGA Implementation of LS Code Generator for CDM Based MIMO Channel
+  Sounder"
+"A Quantile-Based Sequential Feedback Scheme via Overhearing in
+  Multicarrier Access Networks"
+Load Balancing via Random Local Search in Closed and Open systems
+"Challenges of Next-Generation Wireless Sensor Networks and its impact on
+  Society"
+Performance Analysis of Uplink & Downlink Transmission in CDMA System
+Analytical Evaluation of Unfairness Problem in Wireless LANs
+Analyzing the Low Power Wireless Links for Wireless Sensor Networks
+"Network Coding-Aware Queue Management for TCP Flows over Coded Wireless
+  Networks"
+Energy Optimal Transmission Scheduling in Wireless Sensor Networks
+Generating Function For Network Delay
+On the Flow-level Dynamics of a Packet-switched Network
+"Use of Service Curve for Resource Reservation in Wired-cum-Wireless
+  Scenario"
+"Analysis, Modification, and Implementation (AMI) of Scheduling Algorithm
+  for the IEEE 802.116e (Mobile WiMAX)"
+Distributed Principal Component Analysis for Wireless Sensor Networks
+"Node Isolation Probability of Wireless Adhoc Networks in Nagakami Fading
+  Channel"
+Wireless Mesh Network Performance for Urban Search and Rescue Missions
+Hierarchical Location Service with Prediction in Mobile Ad-Hoc Networks
+H-MAC: A Hybrid MAC Protocol for Wireless Sensor Networks
+"A Novel Solution to the Dynamic Routing and Wavelength Assignment
+  Problem in Transparent Optical Networks"
+"A Powerful Optimization Approach for the Multi Channel Dissemination
+  Networks"
+"An Efficient Approach for Generalized Load Balancing in Multipath Packet
+  Switched Networks"
+"Delay-Constrained Multicast Routing Algorithm Based on Average Distance
+  Heuristic"
+"Mobile Codes Localization in Ad hoc Networks: a Comparative Study of
+  Centralized and Distributed Approaches"
+Innovative Rated-Resource Peer-to-Peer Network
+Stability and Capacity Regions or Discrete Time Queueing Networks
+Simulated Annealing for Location Area Planning in Cellular networks
+Simulation to track 3D location in GSM through NS2 and real life
+"Performance Analysis of Ultra Wideband Receivers for High Data Rate
+  Wireless Personal Area Network System"
+"Coverage and Connectivity Aware Neural Network Based Energy Efficient
+  Routing in Wireless Sensor Networks"
+"Secure Key Exchange and Encryption Mechanism for Group Communication in
+  Wireless Ad Hoc Networks"
+"An Overview of Mobile Ad Hoc Networks for the Existing Protocols and
+  Applications"
+An Algorithm for Odd Graceful Labeling of the Union of Paths and Cycles
+Key distribution in PKC through Quantas
+"Applications of Geometric Algorithms to Reduce Interference in Wireless
+  Mesh Network"
+Anakyzing the performance of Active Queue Management Algorithms
+DIP: Disruption-Tolerance for IP
+"Analysis of Supply Chain Network Using RFID Technique with Hybrid
+  Algorithm"
+"Comparative Study of Hidden Node Problem and Solution Using Different
+  Techniques and Protocols"
+Quality of Service with Bandwidth
+"A Group Vehicular Mobility Model for Routing Protocol Analysis in Mobile
+  Ad Hoc Network"
+A RFID-based Campus Context-Aware Notification System
+Resilient networking in wireless sensor networks
+"Towards increasing diversity for the relaying of LT Fountain Codes in
+  Wireless Sensor Networks"
+Modeling Multi-Point Transport Protocol in P2P Networks
+Securing Internet Protocol (IP) Storage: A Case Study
+Computer Network Topology Design in Limelight of Pascal Graph Property
+"Improved Packet Forwarding Approach in Vehicular Ad Hoc Networks Using
+  RDGR Algorithm"
+"A Performance Analysis for UMTS Packet Switched Network Based on
+  Multivariate KPIS"
+QoS Based Capacity Enhancement for WCDMA Network with Coding Scheme
+Competition with Dynamic Spectrum Leasing
+"Flexible Authentication Technique for Ubiquitous Wireless Communication
+  using Passport and Visa Tokens"
+"BitTorrent Experiments on Testbeds: A Study of the Impact of Network
+  Latencies"
+"The impact of cell site re-homing on the performance of umts core
+  networks"
+Why the Internet is so 'small'?
+Adaptive MAC Protocols Using Memory for Networks with Critical Traffic
+"Weighted Soft Decision for Cooperative Sensing in Cognitive Radio
+  Networks"
+"Buffer Management Algorithm Design and Implementation Based on Network
+  Processors"
+"Adaptive Slot Allocation And Bandwidth Sharing For Prioritized Handoff
+  Calls In Mobile Netwoks"
+Effective Bandwidth Utilization in IEEE802.11 for VOIP
+A Survey of Mobile WiMAX IEEE 802.16m Standard
+"Advanced Radio Resource Management for Multi Antenna Packet Radio
+  Systems"
+A Wireless Sensor Network Air Pollution Monitoring System
+"Energy and Link Quality Based Routing for Data Gathering Tree in
+  Wireless Sensor Networks Under TINYOS - 2.X"
+"Adaptive and Secure Routing Protocol for Emergency Mobile Ad Hoc
+  Networks"
+"Impact of Mobility on the Performance of Multicast Routing Protocols in
+  MANET"
+General Model for Infrastructure Multi-channel Wireless LANs
+"On the Minimization of Handover Decision Instability in Wireless Local
+  Area Networks"
+Bandwidth Modeling and Estimation in Peer to Peer Networks
+"Cross-Layer Resource Allocation Scheme Under Heterogeneous Constraints
+  for Next Generation High Rate WPAN"
+"Class Based Admission Control by Complete Partitioning -Video on Demand
+  Server"
+"An Envision of Low Cost Mobile Adhoc Network Test Bed in a Laboratory
+  Environment Emulating an Actual MANET"
+"MLET: A Power Efficient Approach for TCAM Based, IP Lookup Engines in
+  Internet Routers"
+"Probabilistic verification and evaluation of Backoff procedure of the
+  WSN ECo-MAC protocol"
+Mosaic: Policy Homomorphic Network Extension
+"A Trustworthy and well-organized data disseminating scheme for ad-hoc
+  wsns"
+"Constructing Path Efficient and Energy Aware Virtual Multicast Backbones
+  in Static Ad Hoc Wireless Networks"
+A Multiprocessor Communication Architecture For High Speed Networks
+"Hierarchical and Nonhierarchical Three-Dimensional Underwater Wireless
+  Sensor Networks"
+Verifiable Network-Performance Measurements
+Contention Based Routing in Mobile Ad Hoc Networks with Multiple Copies
+"Scalable Energy Efficient Location Aware Multicast Protocol for MANET
+  (SEELAMP)"
+"Sensors Lifetime Enhancement Techniques in Wireless Sensor Networks - A
+  Survey"
+"A Prioritized Access Point Algorithm for 802.11b Networks in a Lossy
+  Environment"
+"A Route Optimization technique for registered and unregistered CN's in
+  NEMO"
+"A grid environment consisting of heterogeneous compute resources for
+  high performance computation"
+"Energy Efficient Multi-Level Clustering To Prolong The Lifetime of
+  Wireless Sensor Networks"
+"Classification and Performance of AQM-Based Schemes for Congestion
+  Avoidance"
+"An Adaptive Power Efficient Packet Scheduling Algorithm for Wimax
+  Networks"
+"Security Issues in the Optimized Link State Routing Protocol Version 2
+  (OLSRV2)"
+"Backpressure-based Packet-by-Packet Adaptive Routing in Communication
+  Networks"
+"Time Segmentation Approach Allowing QoS and Energy Saving for Wireless
+  Sensor Networks"
+"Using AMC and HARQ to Optimize System Capacity and Application Delays in
+  WiMAX Networks"
+"Data-driven Co-clustering Model of Internet Usage in Large Mobile
+  Societies"
+Designing and Embedding Reliable Virtual Infrastructures
+"Construction et maintien d'une forêt couvrante dans un réseau
+  dynamique"
+"Distributed Creation and Adaptation of Random Scale-Free Overlay
+  Networks"
+A Study of Geolocation Databases
+Balancing congestion for unsplittable routing on a bidirected ring
+"Performance of a Concurrent Link SDMA MAC under Practical PHY Operating
+  Conditions"
+Performance of RCPC-Encoded V-BLAST MIMO In Nakagami-m Fading Channel
+"Image transmission over OFDM channel with rate allocation scheme and
+  minimum peak-toaverage power ratio"
+"Performance Evaluation of Two-Stage Shared FDL Optical Packet Switch
+  using Contention Resolution Scheme with Packet Releasing Priority"
+Capacity Optimized For Multicarrier OFDM-MIMO Antenna Systems
+"Imprvoing QoS of all-IP Generation of Pre-WiMax Networks Using
+  Delay-Jitter Model"
+Analysis of Beaulieu Pulse Shaping Family Based FIR Filter for WCDMA
+Simulink based VoIP Analysis
+Implementation of Handoff through wireless access point Techniques
+"An Enhanced Search Technique for Managing Partial Coverage and Free
+  Riding in P2P Networks"
+"`Q-Feed' - An Effective Solution for the Free-riding Problem in
+  Unstructured P2P Networks"
+Optimal Source-Based Filtering of Malicious Traffic
+Hybrid Scenario Based Performance Analysis of DSDV and DSR
+Bounds on Stability and Latency in Wireless Communication
+Autonomic Management of Maintenance Scheduling in Chord
+"Stochastic Approximation Algorithm for Optimal Throughput Performance of
+  Wireless LANs"
+Similarity Analysis and Modeling in Mobile Societies: The Missing Link
+A Markov Chain Model for the Analysis of Round-Robin Scheduling Scheme
+"Experimentation for Packet Loss on MSP430 and nRF24L01 Based Wireless
+  Sensor Network"
+"Enhancing the Authentication of Bank Cheque Signatures by Implementing
+  Automated System Using Recurrent Neural Network"
+Network Intrusion Detection Using FP Tree Rules
+"Real Time and Energy Efficient Transport Protocol for Wireless Sensor
+  Networks"
+The Study State Analysis of Tandem Queue with Blocking and Feedback
+Customized way of Resource Discovery in a Campus Grid
+Information Delivery System through Bluetooth in Ubiquitous Networks
+SPIM Architecture for MVC based Web Applications
+Performance Analysis of QoS in PMP Mode WiMax Networks
+"Motion Detection Notification System by Short Messaging Service Using
+  Network Camera and Global System for Mobile Modem"
+"Denial of Service Attack: Analysis of Network Traffic Anormaly using
+  Queuing Theory"
+A Decentralized Approach for Service Discovery & Availability in P-Grids
+"A hands-on Assessment of Transport Protocols with Lower than Best Effort
+  Priority"
+The quest for LEDBAT fairness
+"A Review of the Energy Efficient and Secure Multicast Routing Protocols
+  for Mobile Ad hoc Networks"
+"Fault Tolerant Wireless Sensor MAC Protocol for Efficient Collision
+  Avoidance"
+Enhancing QoS and QoE in IMS Enabled Next Generation Networks
+"Design and Implementation VOIP Service on Open IMS and Asterisk Servers
+  Interconnected through Enum Server"
+"Cross Layer Aware Adaptive MAC based on Knowledge Based Reasoning for
+  Cognitive Radio Computer Networks"
+"Channels Reallocation In Cognitive Radio Networks Based On DNA Sequence
+  Alignment"
+"Minimization of Handoff Failure Probability for Next-Generation Wireless
+  Systems"
+"HYMAD: Hybrid DTN-MANET Routing for Dense and Highly Dynamic Wireless
+  Networks"
+"I-Min: An Intelligent Fermat Point Based Energy Efficient Geographic
+  Packet Forwarding Technique for Wireless Sensor and Ad Hoc Networks"
+Breaking the Legend: Maxmin Fairness notion is no longer effective
+A Study of Non-Neutral Networks with Usage-based Prices
+"Optimal Spectrum Sharing in MIMO Cognitive Radio Networks via
+  Semidefinite Programming"
+Multi-Round Contention in Wireless LANs with Multipacket Reception
+"A New Model for Interference Analysis in Asynchronous Multi-Carrier
+  Transmission"
+"Stationary and Mobile Target Detection using Mobile Wireless Sensor
+  Networks"
+A note on the stability of multiclass Markovian queueing networks
+Slow Adaptive OFDMA Systems Through Chance Constrained Programming
+"How Does Multiple-Packet Reception Capability Scale the Performance of
+  Wireless Local Area Networks?"
+Can Realistic BitTorrent Experiments Be Performed on Clusters?
+Examining Web Application by Clumping and Orienting User Session Data
+"Computational Analysis of .NET Remoting and Mobile agent in Distributed
+  Environment"
+"Enhancing and Analyzing Search performance in Unstructured Peer to Peer
+  Networks Using Enhanced Guided search protocol (EGSP)"
+CORMEN: Coding-Aware Opportunistic Routing in Wireless Mess Network
+"A New Energy Efficient Routing Algorithm Based on a New Cost Function in
+  Wireless Ad hoc Networks"
+Distributed Greedy Scheduling for Multihop Wireless Networks
+"Cognitive radio ad hoc networks (CRAHNs): Cognitive radio ad hoc
+  networks (CRAHNs): Resource allocation techniques based on Bio-inspired
+  computing"
+"Design of Simple and Efficient Revocation List Distribution in Urban
+  areas for VANET's"
+From Encounters to Plausible Mobility
+Merging Two Arima Models for Energy Optimization in WSN
+NetFence: Preventing Internet Denial of Service from Inside Out
+"Delay Modelling for a Single-hop Wireless Mesh Network under Light
+  Aggregate Traffic"
+"Basic Performance Limits and Tradeoffs in Energy Harvesting Sensor Nodes
+  with Finite Data and Energy Storage"
+Secured Greedy Perimeter Stateless Routing for Wireless Sensor Networks
+"Field Reconstruction in Sensor Networks with Coverage Holes and Packet
+  Losses"
+Power-efficient Routing & Increased Yield Approach For WSNs
+"Aggregate AP Throughputs for Long File Transfers in a WLAN controlled by
+  Inhomogeneous TCP Connections"
+"Analyzing Web 2.0 Integration with Next Generation Networks for Services
+  Rendering"
+"Design & Deploy Web 2.0 enable services over Next Generation Network
+  Platform"
+"E2XLRADR (Energy Efficient Cross Layer Routing Algorithm with Dynamic
+  Retransmission for Wireless Sensor Networks)"
+"An Application-oriented Model for Wireless Sensor Networks integrated
+  with Telecom Infra"
+"DynaChanAl: Dynamic Channel Allocation with Minimal End-to-end Delay for
+  Wireless Sensor Networks"
+"Protocols for Bio-Inspired Resource Discovery and Erasure Coded
+  Replication in P2P Networks"
+"On the Impact of Caching and a Model for Storage-Capacity Measurements
+  for Energy Conservation in Asymmetrical Wireless Devices"
+"Predicting the Impact of Measures Against P2P Networks on the Transient
+  Behaviors"
+SNAP: SNowbAll multi-tree Pushing for Peer-to-Peer Media Streaming
+"Ensuring Cache Freshness in On-demand Routing Protocols for Mobile Ad
+  Hoc Network: A Cross-layer Framework"
+"Loss Rate Inference in Multi-Sources and Multicast-Based General
+  Topology"
+A New Route Maintenance in Dynamic Source Routing Protocol
+On the Reduction of Broadcast Traffic in Mobile Ad Hoc Networks
+"A Simple Battery Aware Gossip Based Sleep Protocol for Densely Deployed
+  Ad-hoc and Sensor Networks"
+"On the performance evaluation of wireless networks with broadcast and
+  interference-limited channels"
+"Performance Analysis of an Improved Graded Precision Localization
+  Algorithm for Wireless Sensor Networks"
+Sensor Management for Tracking in Sensor Networks
+Temporal Starvation in CSMA Wireless Networks
+Internal Location Based System for Mobile Devices Using Passive RFID
+"Delay Modelling for Single Cell IEEE 802.11 WLANs Using a Random Polling
+  System"
+"Open, Closed, and Shared Access Femtocells in the Downlink"
+PC 2 Phone Event Announcer
+Efficient Indexing of the BitTorrent Distributed Hash Table
+"A General Analog Network Coding for Wireless Systems with Fading and
+  Noisy Channels"
+Outage Probability for Multi-Cell Processing under Rayleigh Fading
+"Exploiting Channel Memory for Joint Estimation and Scheduling in
+  Downlink Networks"
+On the Flow-Level Delay of a Spatial Multiplexing MIMO Wireless Channel
+Decentralised Learning MACs for Collision-free Access in WLANs
+Architecture and Algorithms for an Airborne Network
+"An Energy Efficient Multichannel MAC Protocol for Cognitive Radio Ad Hoc
+  Networks"
+CR-MAC: A multichannel MAC protocol for cognitive radio ad hoc networks
+"Comparative Investigation for Energy Consumption of Different Chipsets
+  Based on Scheduling for Wireless Sensor Networks"
+"A Cluster Based Replication Architecture for Load Balancing in
+  Peer-to-Peer Content Distribution"
+"Threshold Policy for Route Discovery Initiation in Mobile Ad hoc
+  Networks"
+"TCP-controlled Long File Transfer Throughput in Multirate WLANs with
+  Nonzero Round Trip Propagation Delays"
+"Location Estimation with Reactive Routing in Resource Constrained Sensor
+  Networks"
+"Bulk File Download Throughput in a Single Station WLAN with Nonzero
+  Propagation Delay"
+"Application Delay Modelling for Variable Length Packets in Single Cell
+  IEEE 802.11 WLANs"
+"Monitoring wild animal communities with arrays of motion sensitive
+  camera traps"
+"A proposed ""osi based"" network troubles identification model"
+"A Low Overhead Reachability Guaranteed Dynamic Route Discovery Mechanism
+  for Dense MANETs"
+"A Fair and Efficient Packet Scheduling Scheme for IEEE 802.16 Broadband
+  Wireless Access Systems"
+"Sensor Activation and Radius Adaptation (SARA) in Heterogeneous Sensor
+  Networks"
+"NetInf Mobile Node Architecture and Mobility Management based on LISP
+  Mobile Node"
+Survey of trust models in different network domains
+Routing Protocols for Cognitive Radio Networks: A Survey
+On TCP-based Session Initiation Protocol (SIP) Server Overload Control
+A New Approach in Packet Scheduling in the Vanet
+Back To The Future: On Predicting User Uptime
+Real-Time Multi-path Tracking of Probabilistic Available Bandwidth
+Duty-Cycle-Aware Minimum-Energy Multicasting in Wireless Sensor Networks
+A Hidden Markov Model for Localization Using Low-End GSM Cell Phones
+A Survey of Green Networking Research
+Exact Analysis of Rate Adaptation Algorithms in Wireless LANs
+Emergency Response Communications and Associated Security Challenges
+A Testbed Implementation for Securing OLSR in Mobile Ad hoc Networks
+"TCP over low-power and lossy networks: tuning the segment size to
+  minimize energy consumption"
+On Wireless Scheduling Using the Mean Power Assignment
+Rethinking low extra delay background transport protocols
+Intelligent Lighting System Using Wireless Sensor Networks
+"Globally Optimal Distributed Power Control for Nonconcave Utility
+  Maximization"
+Performance Comparison and Analysis of Preemptive-DSR and TORA
+"An Adaptive and Multi-Service Routing Protocol for Wireless Sensor
+  Networks"
+"Graffiti Networks: A Subversive, Internet-Scale File Sharing Model"
+Dynamic Coverage of Mobile Sensor Networks
+Buffer Sizing for 802.11 Based Networks
+"GeoQuorum: Load Balancing and Energy Efficient Data Access in Wireless
+  Sensor Networks"
+"Data Accuracy Estimation for Cluster with Spatially Correlated Data in
+  Wireless Sensor Networks"
+"Data Accuracy Estimation for Spatially Correlated Data in Wireless
+  Sensor Networks under Distributed Clustering"
+A Novel Mechanism for Detection of Distributed Denial of Service Attacks
+Energy-Efficient Design and Optimization of Wireline Access Networks
+"Routing Security Issues in Wireless Sensor Networks: Attacks and
+  Defenses"
+"Experimental Performance Evaluation of Location Distinction for MIMO
+  Channels"
+Relay Selection with Partial Information in Wireless Sensor Networks
+OSPF Weight Setting Optimization for Single Link Failures
+"A QoS Routing Protocol based on Available Bandwidth Estimation for
+  Wireless Ad Hoc Networks"
+BitTorrent Swarm Analysis through Automation and Enhanced Logging
+Mobility Control for Machine-to-Machine LTE Systems
+"Distributed Algorithm to Locate Critical Nodes to Network Robustness
+  based on Spectral Analysis"
+Competitive and Deterministic Embeddings of Virtual Networks
+"Reduce to the Max: A Simple Approach for Massive-Scale
+  Privacy-Preserving Collaborative Network Measurements (Extended Version)"
+"Co-Designing Multi-Packet Reception, Network Coding, and MAC Using a
+  Simple Predictive Model"
+"Let Cognitive Radios Imitate: Imitation-based Spectrum Access for
+  Cognitive Radio Networks"
+Distributed Denial of Service is a Scalability Problem
+Doubly Cognitive Architecture Based Cognitive Wireless Sensor Network
+"An Efficient Method Based on Genetic Algorithms to Solve Sensor Network
+  Optimization Problem"
+NCRAWL: Network Coding for Rate Adaptive Wireless Links
+"Modeling network technology deployment rates with different network
+  models"
+Real-Time Video Streaming in Multi-hop Wireless Static Ad Hoc Networks
+"Coding the Beams: Improving Beamforming Training in mmWave Communication
+  System"
+"QEMPAR: QoS and Energy Aware Multi-Path Routing Algorithm for Real-Time
+  Applications in Wireless Sensor Networks"
+M-AODV : AODV variant to improve quality of service in MANETs
+Node coloring for dense wireless sensor networks
+"Internet Resource Pricing Models, Mechanisms, and Methods"
+A Case for a Global Information Network
+"Comparison of Random Waypoint & Random Walk Mobility Model under DSR,
+  AODV & DSDV MANET Routing Protocols"
+Efficient Distributed Medium Access
+Speeding Multicast by Acknowledgment Reduction Technique (SMART)
+A Large Family of Multi-path Dual Congestion Control Algorithms
+"Removing bias due to finite measurement of dynamic systems: case study
+  on P2P systems"
+General Linearized Polynomial Interpolation and Its Applications
+MiCi: A Novel Micro-Level Temporal Channel Imploration for Mobile Hosts
+On Using Seeders for P2P Live Streaming
+Adaptive Probabilistic Flooding for Multipath Routing
+Why Does Flow Director Cause Packet Reordering?
+A Transport-Friendly NIC for Multicore/Multiprocessor Systems
+"Cross-Layer Scheduling for Cooperative Multi-Hop Cognitive Radio
+  Networks"
+"Random Deployment of Data Collectors for Serving Randomly-Located
+  Sensors"
+Exploring Network Economics
+"Scheduling links for heavy traffic on interfering routes in wireless
+  mesh networks"
+Sleep Mode Analysis via Workload Decomposition
+"SVM and Dimensionality Reduction in Cognitive Radio with Experimental
+  Validation"
+"Network Selection Using TOPSIS in Vertical Handover Decision Schemes for
+  Heterogeneous Wireless Networks"
+Inferring Internet AS Relationships Based on BGP Routing Policies
+"Key Factors for Information Dissemination on Communicating Products and
+  Fixed Databases"
+A Review of the Enviro-Net Project
+Multi-User MIMO Scheduling in the Fourth Generation Cellular Uplink
+BGP Stability is Precarious
+"Grid Information Security Functional Requirement - Fulfilling
+  Information Security of a Smart Grid System"
+"Policy Creation Model for Policy-Based Management in Telecommunications
+  Networks"
+"A Novel Trajectory Clustering technique for selecting cluster heads in
+  Wireless Sensor Networks"
+A Hybrid Trajectory Clustering for Predicting User Navigation
+"A Fault Tolerant Trajectory Clustering (FTTC) for selecting cluster
+  heads inWireless Sensor Networks"
+"Optimal Base Station Placement: A Stochastic Method Using Interference
+  Gradient In Downlink Case"
+"DANCE: A Framework for the Distributed Assessment of Network
+  Centralities"
+Multi-channel Hybrid Access Femtocells: A Stochastic Geometric Analysis
+"Two-stage coordination multi-radio multi-channel mac protocol for
+  wireless mesh networks"
+Green: Towards a Pollution-Free Peer-to-Peer Content Sharing Service
+"Sparsity without the Complexity: Loss Localisation using Tree
+  Measurements"
+"A Driven Backup Routing Table to Find Alternative Dijoint Path in Ad Hoc
+  Wireless"
+Efficient Algorithms to Enhance Recovery Schema in Link State Protocols
+"G-NetMon: A GPU-accelerated Network Performance Monitoring System for
+  Large Scale Scientific Collaborations"
+"Technical Report: Multi-Carrier Position-Based Packet Forwarding
+  Protocol For Wireless Sensor Networks"
+Can User-Level Probing Detect and Diagnose Common Home-WLAN Pathologies?
+A Comparative Study of Various Routing Protocols in VANET
+"Partner selection in indoor-to-outdoor cooperative networks: an
+  experimental study"
+"Effects of MAC Approaches on Non-Monotonic Saturation with COPE - A
+  Simple Case Study"
+"Tensor-Based Link Prediction in Intermittently Connected Wireless
+  Networks"
+"Data Accuracy Model for Distributed Clustering Algorithm based on
+  Spatial Data Correlation in Wireless Sensor Networks"
+Vehicular Ad Hoc and Sensor Networks; Principles and Challenges
+"Fear: A Fuzzy-based Energy-aware Routing Protocol for Wireless Sensor
+  Networks"
+"Information Centric Networking based Handover Support for QoS
+  Maintenance in Cooperative Heterogeneous Wireless Networks"
+"Modeling Routing Overhead Generated by Wireless Reactive Routing
+  Protocols"
+Identifying Design Requirements for Wireless Routing Link Metrics
+Evaluating Impact of Mobility on Wireless Routing Protocols
+Downlink Scheduling over Markovian Fading Channels
+"Multihop Adjustment for the Number of Nodes in Contention-Based MAC
+  Protocols for Wireless Ad hoc Networks"
+Spatial Interactions of Peers and Performance of File Sharing Systems
+QoS Routing using OLSR with Optimization for Flooding
+Comparison Of The Consumption Of Resources Between HTTP And SIP
+"Probabilistic Performance Analysis of Networks using an Improved Network
+  Service Envelope Approach"
+"Distributed Power Control and Coding-Modulation Adaptation in Wireless
+  Networks using Annealed Gibbs Sampling"
+"Green Cellular Networks: A Survey, Some Research Issues and Challenges"
+Geographic Trough Filling for Internet Datacenters
+Sliding Trellis-Based Frame Synchronization
+"Consistent Reconstruction of the Input of an Oversampled Filter Bank
+  From Noisy Subbands"
+"Optimizing Network Topology to Reduce Aggregate Traffic in Systems of
+  Mobile Robots"
+Analysis of Recent Checkpointing Techniques for Mobile Computing Systems
+"Integrated Solution Scheme for Handover Latency Diminution in Proxy
+  Mobile IPv6"
+Provide a Model for Handover Technology in Wireless Networks
+Smart Radio Spectrum Management for Cognitive Radio
+"Doubly Optimal Secure Multicasting: Hierarchical Hybrid Communication
+  Network : Disaster Relief"
+P2P Simulator for Queries Routing using Data Mining
+P2P Domain Classification using Decision Tree
+"The Stability of The Longley-Rice Irregular Terrain Model for Typical
+  Problems"
+"Modeling Routing Overhead Generated by Wireless Proactive Routing
+  Protocols"
+Case study and analysis of WAN Optimization pre-requirements
+An Efficient Paging Algorithm for Multi-Carrier CDMA System
+"CCABC: Cyclic Cellular Automata Based Clustering For Energy Conservation
+  in Sensor Networks"
+Whether and Where to Code in the Wireless Relay Channel
+Downlink Capacity and Base Station Density in Cellular Networks
+"On Periodic Node Deployment in Wireless Sensor Networks: A Statistical
+  Analysis"
+Dynamic Deferral of Workload for Capacity Provisioning in Data Centers
+"On-Demand Multicasting in Ad-hoc Networks: Performance Evaluation of
+  AODV, ODMRP and FSR"
+"A Lightweight and Flexible Mobile Agent Platform Tailored to Management
+  Applications"
+"I Know Where You are and What You are Sharing: Exploiting P2P
+  Communications to Invade Users' Privacy"
+"Enabling Adaptive Rate and Relay Selection for 802.11 Mobile Ad Hoc
+  Networks"
+"Vertical Handover decision schemes using SAW and WPM for Network
+  selection in Heterogeneous Wireless Networks"
+Minimum-Energy All-to-All Multicasting in Multi-hop Wireless Networks
+"Self-Organization of Wireless Ad Hoc Networks as Small Worlds Using Long
+  Range Directional Beams"
+Distributed sensor failure detection in sensor networks
+"Self-organization of Nodes using Bio-Inspired Techniques for Achieving
+  Small World Properties"
+How to prolong network life-span in wireless networks
+CSI-aided MAC with Multiuser Diversity for Cognitive Radio Networks
+Self-Adjusting Networks to Minimize Expected Path Length
+"Storage Area Network Implementation on an Educational Institute Network
+  Computer Networking and Communication"
+"Getting routers out of the core: Building an optical wide area network
+  with ""multipaths"""
+"Netrawalm: Network Based Resource Aware Application Layer Multicast for
+  Multiparty Video Conference"
+Cross Layer Adaptation for QoS in WSN
+"On the Coloring of Grid Wireless Sensor Networks: the Vector-Based
+  Coloring Method"
+Parallel routing in Mobile Ad-Hoc Networks
+"Robust Estimators for Variance-Based Device-Free Localization and
+  Tracking"
+PSA: The Packet Scheduling Algorithm for Wireless Sensor Networks
+Jellyfish: Networking Data Centers Randomly
+"A New Energy Efficient Approach Towards WASN Routing with Modified QCS
+  Protocol"
+"BSK-WBSN: Biometric Symmetric Keys to Secure Wireless Body Sensors
+  Networks"
+"Side-payment profitability and interacting eyeball ISPs under convex
+  demand-response modeling congestion-sensitive applications"
+"A Simple Proof of Linear Scaling of End-to-End Probabilistic Bounds
+  using Network Calculus"
+"Method for reducing of noise by improving signal-to-noise-ratio in
+  wireless LAN"
+Noise Analysis and Detection Based on RF Energy Duration in wireless LAN
+"Enhancing congestion control to address link failure loss over mobile
+  ad-hoc network"
+Efficient Traffic Control of VoD System
+"An Approach to Provide Security in Mobile Ad-Hoc Networks Using Counter
+  Mode of Encryption on Mac Layer"
+CellSense: An Accurate Energy-Efficient GSM Positioning System
+"Network on Chip: a New Approach of QoS Metric Modeling Based on Calculus
+  Theory"
+Performance Measurement of the Heterogeneous Network
+"Generalized Optimization Framework for Graph-based Semi-supervised
+  Learning"
+"QoS Aware and Survivable Network Design for Planned Wireless Sensor
+  Networks"
+"Experimental Assessment of BitTorrent Completion Time in Heterogeneous
+  TCP/uTP swarms"
+"An End-to-End Stochastic Network Calculus with Effective Bandwidth and
+  Effective Capacity"
+"1-D Coordinate Based on Local Information for MAC and Routing Issues in
+  WSNs"
+"Reliable Communication in Wireless Body Area Sensor Network for Health
+  Monitoring"
+Instance-based XML data binding for mobile devices
+Quantitative Analysis for Authentication of Low-cost RFID Tags
+"Wireless Communications and Networking Technologies for Smart Grid:
+  Paradigms and Challenges"
+Intelligent Paging Strategy for Multi-Carrier CDMA System
+Multiuser Cellular Network
+A Multipath TCP model for ns-3 simulator
+Channel Estimation for MIMO MC-CDMA Systems
+Symmetrical Dispersion Compensation For High Speed Optical Links
+"MC CDMA PAPR Reduction Techniques using Discrete Transforms and
+  Companding"
+"A Survey on Cooperative Diversity and Its Applications in Various
+  Wireless Networks"
+A comparative study of aggregate TCP retransmission rates
+"Performance Analysis of Bidirectional Relay Selection with Imperfect
+  Channel State Information"
+"Performance Evaluation and Impact of Weighting Factors on an Energy and
+  Delay Aware Dynamic Source Routing Protocol"
+"Joint Rate Selection and Wireless Network Coding for Time Critical
+  Applications"
+Variation principle and the universal metric of dynamic routing
+How Far Can Client-Only Solutions Go for Mobile Browser Speed?
+Modeling Tiered Pricing in the Internet Transit Market
+A Distributed Scheduling Algorithm for High-Speed Switching Systems
+A Multipath Transport Protocol for Future Internet
+"Selective data collection in vehicular networks for traffic control
+  applications"
+Towards realistic modeling of IP-level routing topology dynamics
+Simulation-based study of MPTCP (Multipath TCP)
+"NACS: non-overlapping AP's caching scheme to reduce handoff in 802.11
+  wireless LAN"
+"Combining Adaptive Coding and Modulation with Hierarchical Modulation in
+  Satcom Systems"
+Coded Path Protection: Efficient Conversion of Sharing to Coding
+"Comments on ""Capacity with explicit delay guarantees for generic sources
+  over correlated Rayleigh channel"""
+Transferring Voice using SMS over GSM Network
+"A Comprehensive Performance Analysis of Proactive, Reactive and Hybrid
+  MANETs Routing Protocols"
+"An Overview of Context-Aware Vertical Handover Schemes in Heterogeneous
+  Networks"
+"A study on Modeling of Dependency between Configuration Parameters and
+  Overall Energy Consumption in Wireless Sensor Network (WSN)"
+Modeling overall energy consumption in Wireless Sensor Networks
+"Disseny d'un prototipus de xarxa MESH sense fils multirádio i
+  multicanal sobre OLSR modificat amb canal de senyalització dedicat"
+"Neighbor Discovery in a Wireless Sensor Network: Multipacket Reception
+  Capability and Physical-Layer Signal Processing"
+"Energy Efficient Ant Colony Algorithms for Data Aggregation in Wireless
+  Sensor Networks"
+A Localization Method for the Internet of Things
+"A Comparative Study of Location Management Schemes: Challenges and
+  Guidelines"
+"A Failure Self-recovery Strategy with Balanced Energy Consumption for
+  Wireless Ad Hoc Networks"
+"A Hop-by-hop Cross-layer Congestion Control Scheme for Wireless Sensor
+  Networks"
+"Real-Time Performance Analysis of Infrastructure-based IEEE 802.11
+  Distributed Coordination Function"
+"A Secured Health Care Application Architecture for Cyber-Physical
+  Systems"
+"ART-GAS: An Adaptive and Real-Time GTS Allocation Scheme for IEEE
+  802.15.4"
+Monitoring Energy Consumption of Smartphones
+"A-GPS Assisted Wi-Fi Access Point Discovery on Mobile Devices for Energy
+  Saving"
+Design and Analysis of Coalitions in Data Swarming Systems
+A Task Based Sensor-Centeric Model for overall Energy Consumption
+"A Novel Data-Aided Channel Estimation with Reduced Complexity for
+  TDS-OFDM Systems"
+"LMEEC: Layered Multi-Hop Energy Efficient Cluster-based Routing Protocol
+  for Wireless Sensor Networks"
+Topological Trends of Internet Content Providers
+Performance of Modeling wireless networks in realistic environment
+"Un protocole de routage à basse consommation d'énergie selon
+  l'approche de clustering pour les réseaux de capteurs sans fils"
+UMTS-WiMAX Vertical Handover in Next Generation Wireless Networks
+"DMFSGD: A Decentralized Matrix Factorization Algorithm for Network
+  Distance Prediction"
+"Minimizing the Switch and Link Conflicts in an Optical Multi-stage
+  Interconnection Network"
+"Packet Skipping and Network Coding for Delay-Sensitive Network
+  Communication"
+Slick Packets
+Hybrid LS-LMMSE Channel Estimation Technique for LTE Downlink Systems
+Mobile node localization in cellular networks
+A simulation model for the lifetime of wireless sensor networks
+Network Coding Meets Information-Centric Networking
+"The Development of a LAN for DVB-T Transmission and DVB-S Reception with
+  Designed QAM Modulators and COFDM in the Island Mauritius"
+"Flooding attacks to internet threat monitors (ITM): Modeling and counter
+  measures using botnet and honeypots"
+DBAS: A Deployable Bandwidth Aggregation System
+Opportunistic Adaptive Relaying in Cognitive Radio Networks
+Performance Analysis of Beacon-Less IEEE 802.15.4 Multi-Hop Networks
+Stability of the Max-Weight Protocol in Adversarial Wireless Networks
+"DISco: a Distributed Information Store for network Challenges and their
+  Outcome"
+"Asymptotic Laws for Joint Content Replication and Delivery in Wireless
+  Networks"
+"Performance Analysis of Observation Based Cooperation Enforcement in Ad
+  Hoc Networks"
+Multi-User Scheduling in the 3GPP LTE Cellular Uplink
+"QGRP: A Novel QoS-Geographic Routing Protocol for Multimedia Wireless
+  Sensor Networks"
+Congestion Control and Routing over Challenged Networks
+"Optimal Threshold Control by the Robots of Web Search Engines with
+  Obsolescence of Documents"
+"Push-and-Track: Saving Infrastructure Bandwidth Through Opportunistic
+  Forwarding"
+"A Robust Client Verification in cloud enabled m-Commerce using Gaining
+  Protocol"
+Livelock free routing schemes
+Network Coding-Based Cooperative ARQ Scheme
+"Decentralized Lifetime Maximizing Tree with Clustering for Data Delivery
+  in Wireless Sensor Networks"
+"Real Time Communication Capacity for Data Delivery in Wireless Sensor
+  Networks"
+"Separating the Effect of Independent Interference Sources with Rayleigh
+  Faded Signal Link: Outage Analysis and Applications"
+Mobile Ad Hoc Networks: A Comparative Study of QoS Routing Protocols
+"Contextual Multi-armed Bandits for the Prevention of Spam in VoIP
+  Networks"
+Outbound SPIT Filter with Optimal Performance Guarantees
+On the Frequency-Selective Scheduling Gain in SDMA-OFDMA Systems
+Sleep Deprivation Attack Detection in Wireless Sensor Network
+"A Survey of Recent Intrusion Detection Systems for Wireless Sensor
+  Network"
+Application of Multi-layer Graphs In the Design of MPLS Networks
+"Multiservice Telecommunication Systems Parametrical Synthesis by using
+  of Multilayer Graph Mathematical Model"
+"Describing and Modeling of Video-on-Demand Service with the Usage of
+  Multi-Layer Graph"
+On the Role of Vehicular Mobility in Cooperative Content Caching
+"Opportunistic Routing with Congestion Diversity in Wireless Ad-hoc
+  Networks"
+"A Self-Organization Framework for Wireless Ad Hoc Networks as Small
+  Worlds"
+AMC Model for Denial of Sleep Attack Detection
+Optimal control of end-user energy storage
+"Local heuristic for the refinement of multi-path routing in wireless
+  mesh networks"
+On the Effect of Channel Fading on Greedy Scheduling
+Towards MAC/Anycast Diversity in IEEE 802.11n MIMO Networks
+Secure and reliable routing in mobile adhoc networks
+"Tiresias: Online Anomaly Detection for Hierarchical Operational Network
+  Data"
+Design and Implementation of IEEE 802.15.4 Mac Protocol on FPGA
+Accomplish the Application Area in Cloud Computing
+"Optimal Node Selection using Estimated Data Accuracy Model in Wireless
+  Sensor Networks"
+Multiuser Detection in Asynchronous Multibeam Communications
+Primary User Traffic Estimation for Dynamic Spectrum Access

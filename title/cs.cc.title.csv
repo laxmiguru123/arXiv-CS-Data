@@ -1,0 +1,1229 @@
+title
+Nested satisfiability
+Textbook examples of recursion
+Downward Collapse from a Weaker Hypothesis
+Immunity and Simplicity for Exact Counting and Other Counting Classes
+Tally NP Sets and Easy Census Functions
+The descriptive complexity approach to LOGCFL
+A Generalized Quantifier Concept in Computational Complexity Theory
+"The Complexity of Computing Optimal Assignments of Generalized
+  Propositional Formulae"
+Hard instance generation for SAT
+"Generalization of automatic sequences for numeration systems on a
+  regular language"
+On the Power of Positive Turing Reductions
+Robust Reductions
+"Unambiguous Computation: Boolean Hierarchies and Sparse Turing-Complete
+  Sets"
+Polynomial-Time Multi-Selectivity
+Easy Sets and Hard Certificate Schemes
+"Exact Analysis of Dodgson Elections: Lewis Carroll's 1876 Voting System
+  is Complete for Parallel Access to NP"
+"Boolean Operations, Joins, and the Extended Low Hierarchy"
+A Second Step Towards Complexity-Theoretic Analogs of Rice's Theorem
+Raising NP Lower Bounds to Parallel NP Lower Bounds
+Restrictive Acceptance Suffices for Equivalence Problems
+Construction of regular languages and recognizability of polynomials
+Query Order
+"What's Up with Downward Collapse: Using the Easy-Hard Technique to Link
+  Boolean and Polynomial Hierarchy Collapses"
+R_{1-tt}^{SN}(NP) Distinguishes Robust Many-One and Turing Completeness
+An Introduction to Query Order
+Query Order and the Polynomial Hierarchy
+Self-Specifying Machines
+A Downward Collapse within the Polynomial Hierarchy
+Translating Equality Downwards
+"Numeration systems on a regular language: Arithmetic operations,
+  Recognizability and Formal power series"
+Separating the complexity classes NL and NP
+A Moment of Perfect Clarity I: The Parallel Census Technique
+"Low Ambiguity in Strong, Total, Associative, One-Way Functions"
+If P \neq NP then Some Strongly Noninvertible Functions are Invertible
+P-Immune Sets with Holes Lack Self-Reducibility Properties
+Using the No-Search Easy-Hard Technique for Downward Collapse
+"Computing Complete Graph Isomorphisms and Hamiltonian Cycles from
+  Partial Ones"
+"A Note on the Complexity of Computing the Smallest Four-Coloring of
+  Planar Graphs"
+Recursively Undecidable Properties of NP
+A Note on Tiling under Tomographic Constraints
+Exact Complexity of Exact-Four-Colorability
+"Recognizing When Heuristics Can Approximate Minimum Vertex Covers Is
+  Complete for Parallel Access to NP"
+Two heads are better than two tapes
+A New Approach to Formal Language Theory by Kolmogorov Complexity
+"On the complexity of inducing categorical and quantitative association
+  rules"
+A comparison of Zeroes and Ones of a Boolean Polynomial
+An Average Case NP-Complete Graph Coloring Problem
+Exact Complexity of the Winner Problem for Young Elections
+Lower Bounds for Matrix Product
+Dimension in Complexity Classes
+The Dimensions of Individual Strings and Sequences
+Forbidden Information
+Lecture Notes on Evasiveness of Graph Properties
+Parameterized Intractability of Motif Search Problems
+A polynomial time (heuristic) SAT algorithm
+Rectangle Size Bounds and Threshold Covers in Communication Complexity
+Does P = NP?
+Gales Suffice for Constructive Dimension
+"Gales and supergales are equivalent for defining constructive Hausdorff
+  dimension"
+Does NP not equal P?
+Cellular automata and communication complexity
+Phase Transitions and all that
+"Effective Strong Dimension, Algorithmic Information, and Computational
+  Complexity"
+How long is a Proof? - A short note
+"Solution Bounds for a Hypothetical Polynomial Time Aproximation
+  Algorithm for the TSP"
+Traveling Salesmen in the Presence of Competition
+"Complexity of the Exact Domatic Number Problem and of the Exact Conveyor
+  Flow Shop Problem"
+On the Work of Madhu Sudan: the 2002 Nevalinna Prize Winner
+Hard satisfiable formulas for DPLL-type algorithms
+Independence Properties of Algorithmically Random Sequences
+Lower Bounds on the Bounded Coefficient Complexity of Bilinear Maps
+A direct sum theorem in communication complexity via message compression
+A New Multilayered PCP and the Hardness of Hypergraph Vertex Cover
+Small Spans in Scaled Dimension
+"How NP got a new definition: a survey of probabilistically checkable
+  proofs"
+Approximation thresholds for combinatorial optimization problems
+Hardness as randomness: a survey of universal derandomization
+"$P \ne NP$, propositional proof complexity, and resolution lower bounds
+  for the weak pigeonhole principle"
+Hardness of approximating the weight enumerator of a binary linear code
+The Computational Complexity of Computing the Permanent of a Matrix
+Complexity of Cycle Length Modularity Problems in Graphs
+Defying Dimensions Mod 6
+Minimal DFAs for Testing Divisibility
+Theory of One Tape Linear Time Turing Machines
+Puzzle: Zermelo-Fraenkel set theory is inconsistent
+Uniform test of algorithmic randomness over a general space
+A note on dimensions of polynomial size circuits
+Implementation of Logical Functions in the Game of Life
+On the Computational Complexity of the Forcing Chromatic Number
+A New Look at Survey Propagation and its Generalizations
+Inapproximability of Combinatorial Optimization Problems
+"Overhead-Free Computation, DCFLs, and CFLs"
+Hardware-Oriented Group Solutions for Hard Problems
+Generalized Counters and Reversal Complexity
+Basic properties for sand automata
+On Invariance and Convergence in Time Complexity theory
+A Note on Bulk Quantum Turing Machine
+Zeno machines and hypercomputation
+The approximability of three-valued MAX CSP
+On computing fixed points for generalized sandpiles
+Isomorphic Implication
+Complexity of Self-Assembled Shapes
+The Computational Power of Benenson Automata
+On The Liniar Time Complexity of Finite Languages
+Algebraic Properties for Selector Functions
+On the Sensitivity of Cyclically-Invariant Boolean Functions
+Fixed Type Theorems
+Limits of Rush Hour Logic Complexity
+"Comment on ""Some non-conventional ideas about algorithmic complexity"""
+"Enforcing and Defying Associativity, Commutativity, Totality, and Strong
+  Noninvertibility for One-Way Functions in Complexity Theory"
+"Time, Space, and Energy in Reversible Computing"
+"P-Selectivity, Immunity, and the Power of One Bit"
+On the Solution of Graph Isomorphism by Dynamical Algorithms
+"Application of Kolmogorov complexity and universal codes to identity
+  testing and nonparametric testing of serial independence for time series"
+Three lines proof of the lower bound for the matrix rigidity
+Open Questions in the Theory of Semifeasible Computation
+An Exact 2.9416^n Algorithm for the Three Domatic Number Problem
+On the NP-Completeness of Some Graph Cluster Measures
+A new sibling of BQP
+The Phase Transition in Exact Cover
+"Proving that P is not equal to NP and that P is not equal to the
+  intersection of NP and co-NP"
+Semidefinite programming and arithmetic circuit evaluation
+Comments on Beckmann's Uniform Reducts
+Query-Monotonic Turing Reductions
+"Reducing Tile Complexity for Self-Assembly Through Temperature
+  Programming"
+Approximability of Integer Programming with Generalised Constraints
+The approximability of MAX CSP with fixed-value constraints
+A Measure of Space for Computing over the Reals
+An Improved Exact Algorithm for the Domatic Number Problem
+Hypercomputing the Mandelbrot Set?
+Towards Analog Reverse Time Computation
+"Efficient algorithms for deciding the type of growth of products of
+  integer matrices"
+One-in-Two-Matching Problem is NP-complete
+The Consequences of Eliminating NP Solutions
+"Natural Halting Probabilities, Partial Randomness, and Zeta Functions"
+Average-Case Complexity
+Approximability of Bounded Occurrence Max Ones
+Improved Exponential Time Lower Bound of Knapsack Problem under BT model
+On the structure of linear-time reducibility
+Elementary Proof of a Theorem of Jean Ville
+An Elegant Argument that P is not NP
+A new function algebra of EXPTIME functions by safe nested recursion
+Quasi-friendly sup-interpretations
+Reversal Complexity Revisited
+On Polynomial Time Computable Numbers
+From Invariants to Canonization in Parallel
+Lp Computable Functions and Fourier Series
+Baire Categories on Small Complexity Classes and Meager-Comeager Laws
+"The Connectivity of Boolean Satisfiability: Computational and Structural
+  Dichotomies"
+VPSPACE and a Transfer Theorem over the Reals
+The Computational Complexity of the Traveling Salesman Problem
+P is not equal to NP
+An algebraic approach to complexity of data stream computations
+On the Computational Complexity of Defining Sets
+"A Reply to Hofman On: ""Why LP cannot solve large instances of
+  NP-complete problems in polynomial time"""
+A Counterexample to a Proposed Proof of P=NP by S. Gubin
+On the Complexity of a Derivative Chess Problem
+Interference Automata
+Hierarchical Unambiguity
+The DFAs of Finitely Different Languages
+Exploring k-Colorability
+Fast Exact Method for Solving the Travelling Salesman Problem
+A Quantifier-Free String Theory for ALOGTIME Reasoning
+Dimension and Relative Frequencies
+"Geometric Complexity Theory IV: nonstandard quantum group for the
+  Kronecker problem"
+Reducing SAT to 2-SAT
+"Geometric Complexity Theory V: On deciding nonvanishing of a generalized
+  Littlewood-Richardson coefficient"
+"Geometric Complexity Theory VI: the flip via saturated and positive
+  integer programming in representation theory and algebraic geometry"
+Differential Recursion and Differentially Algebraic Functions
+"Satisfiability Parsimoniously Reduces to the Tantrix(TM) Rotation Puzzle
+  Problem"
+Does P=NP?
+VPSPACE and a transfer theorem over the complex field
+Critique of Feinstein's Proof that P is not Equal to NP
+On Canonical Forms of Complete Problems via First-order Projections
+Assisted Problem Solving and Decompositions of Finite Automata
+Report on Generic Case Complexity
+Small weakly universal Turing machines
+Attribute Estimation and Testing Quasi-Symmetry
+A Polynomial-time Algorithm for Computing the Permanent in GF(3^q)
+Graph Isomorphism is PSPACE-complete
+Interpolation in Valiant's theory
+"On the Satisfiability Threshold and Clustering of Solutions of Random
+  3-SAT Formulas"
+Probabilistic communication complexity over the reals
+P-matrix recognition is co-NP-complete
+"On a New Type of Information Processing for Efficient Management of
+  Complex Systems"
+An approximation trichotomy for Boolean #CSP
+"The Three-Color and Two-Color Tantrix(TM) Rotation Puzzle Problems are
+  NP-Complete via Parsimonious Reductions"
+A Polynomial Time Algorithm for Graph Isomorphism
+"Analysis and Counterexamples Regarding Yatsenko's Polynomial-Time
+  Algorithm for Solving the Traveling Salesman Problem"
+"New results on Noncommutative and Commutative Polynomial Identity
+  Testing"
+Multiparty Communication Complexity of Disjointness
+Merkle Puzzles are Optimal
+Non-Deterministic Communication Complexity of Regular Languages
+On the Double Coset Membership Problem for Permutation Groups
+Zero-Knowledge Proofs of the Conjugacy for Permutation Groups
+Approximability Distance in the Space of H-Colourability Problems
+3-Way Composition of Weighted Finite-State Transducers
+Longest paths in Planar DAGs in Unambiguous Logspace
+SAT Has No Wizards
+"A review of the Statistical Mechanics approach to Random Optimization
+  Problems"
+Approximation Resistant Predicates From Pairwise Independence
+Limit complexities revisited
+A Theory for Valiant's Matchcircuits (Extended Abstract)
+"Efficient Algorithms for Membership in Boolean Hierarchies of Regular
+  Languages"
+Succinctness of the Complement and Intersection of Regular Expressions
+General Algorithms for Testing the Ambiguity of Finite Automata
+Separating NOF communication complexity classes RP and NP
+Curves That Must Be Retraced
+A compact topology for sand automata
+Robust Stochastic Chemical Reaction Networks and Bounded Tau-Leaping
+Product theorems via semidefinite programming
+Common Permutation Problem
+A Dual Polynomial for OR
+Quantum Query Complexity of Multilinear Identity Testing
+Linear Kernelizations for Restricted 3-Hitting Set Problems
+Instruction sequences and non-uniform complexity theory
+"The complexity of counting solutions to Generalised Satisfiability
+  Problems modulo k"
+An approximation algorithm for approximation rank
+A Log-space Algorithm for Canonization of Planar Graphs
+"Improved Monotone Circuit Depth Upper Bound for Directed Graph
+  Reachability"
+A simple constant-probability RP reduction from NP to Parity P
+Ogden's Lemma for Regular Tree Languages
+Solving the P/NP Problem under Intrinsic Uncertainty
+Modular difference logic is hard
+On models of a nondeterministic computation
+An Almost Optimal Rank Bound for Depth-3 Identities
+On the Complexity of Matroid Isomorphism Problem
+Extractors and an efficient variant of Muchnik's theorem
+"Language recognition by generalized quantum finite automata with
+  unbounded error (abstract & poster)"
+"Measuring communication complexity using instance complexity with
+  oracles"
+Bounds on the Size of Small Depth Circuits for Approximating Majority
+Asymptotically Optimal Lower Bounds on the NIH-Multi-Party Information
+Polynomial Kernelizations for MIN F^+Pi_1 and MAX NP
+"A Superpolynomial Lower Bound on the Size of Uniform Non-constant-depth
+  Threshold Circuits for the Permanent"
+Languages recognized by nondeterministic quantum finite automata
+A Stronger LP Bound for Formula Size Lower Bounds via Clique Constraints
+A Dichotomy Theorem for Polynomial Evaluation
+Inseparability and Strong Hypotheses for Disjoint NP Pairs
+Bounded Independence Fools Halfspaces
+"Résolution du ""partition problem"" par une approche arithmétique"
+Method of resolution of 3SAT in polynomial time
+A note on the sign degree of formulas
+Proceedings Fourth Athens Colloquium on Algorithms and Complexity
+Partition Arguments in Multiparty Communication Complexity
+Bounds on monotone switching networks for directed connectivity
+"Characterizing Polynomial Time Computability of Rational and Real
+  Functions"
+Bounded Independence Fools Degree-2 Threshold Functions
+"Polynomial Threshold Functions: Structure, Approximation and
+  Pseudorandomness"
+"Towards a Dichotomy for the Possible Winner Problem in Elections Based
+  on Scoring Rules"
+"Circuit Lower Bounds, Help Functions, and the Remote Point Problem"
+Hardness Results for the Gapped Consecutive-Ones Property
+Hardness Amplification in Proof Complexity
+"A boundary between universality and non-universality in spiking neural P
+  systems"
+On the Optimality of a Class of LP-based Algorithms
+Deterministic Identity Testing of Read-Once Algebraic Branching Programs
+The Multivariate Resultant is NP-hard in any Characteristic
+Derandomizing from Random Strings
+New Learning and Testing Problems for Read-Once Functions
+On the circuit-size of inverses
+The complexity of the list homomorphism problem for graphs
+Log-space Algorithms for Paths and Matchings in k-trees
+Inapproximability of maximal strip recovery
+Better Gap-Hamming Lower Bounds via Better Round Elimination
+"Deterministic Black-Box Identity Testing $π$-Ordered Algebraic
+  Branching Programs"
+Derandomized Parallel Repetition via Structured PCPs
+Finding and counting vertex-colored subtrees
+On the complexity of stratified logics
+A PCP Characterization of AM
+Polyominoes Simulating Arbitrary-Neighborhood Zippers and Tilings
+Properties of Pseudo-Primitive Words and their Applications
+Pebbling and Branching Programs Solving the Tree Evaluation Problem
+Repeating Patterns in Linear Programs that express NP-Complete Problems
+On a variant of Monotone NAE-3SAT and the Triangle-Free Cut problem
+An Effective Dichotomy for the Counting Constraint Satisfaction Problem
+"On Extractors and Exposure-Resilient Functions for Sublogarithmic
+  Entropy"
+Improved Direct Product Theorems for Randomized Query Complexity
+Min-Rank Conjecture for Log-Depth Circuits
+A Short Introduction to Kolmogorov Complexity
+On Tractable Exponential Sums
+Pebbles and Branching Programs for Tree Evaluation
+The complexity of weighted and unweighted #CSP
+A Proof for P =? NP Problem
+Using a Skewed Hamming Distance to Speed Up Deterministic Local Search
+On the Weak Computability of Continuous Real Functions
+"The descriptive set-theoretic complexity of the set of points of
+  continuity of a multi-valued function (Extended Abstract)"
+"Computing the Solutions of the Combined Korteweg-de Vries Equation by
+  Turing Machines"
+Complete Multi-Representations of Sets in a Computable Measure Space
+"Impossibility of independence amplification in Kolmogorov complexity
+  theory"
+Counting dependent and independent strings
+Arithmetic circuits: the chasm at depth four gets wider
+Explicit Proofs and The Flip
+Knowledge Recognition Algorithm enables P = NP
+"Complexity classifications for different equivalence and audit problems
+  for Boolean circuits"
+"The Exponential Time Complexity of Computing the Probability That a
+  Graph is Connected"
+"Quantum function computation using sublogarithmic space (abstract &
+  poster)"
+The Complexity of Rerouting Shortest Paths
+3-SAT Polynomial Solution of Knowledge Recognition Algorithm
+The Complexity of Counting Eulerian Tours in 4-Regular Graphs
+"Improving the Space-Bounded Version of Muchnik's Conditional Complexity
+  Theorem via ""Naive"" Derandomization"
+"The Baire partial quasi-metric space: A mathematical tool for asymptotic
+  complexity analysis in Computer Science"
+"A Path Order for Rewrite Systems that Compute Exponential Time Functions
+  (Technical Report)"
+"A Simple Deterministic Reduction for the Gap Minimum Distance of Code
+  Problem"
+Almost Settling the Hardness of Noncommutative Determinant
+The Complexity of 3SAT_N and the P versus NP Problem
+"Lower bound for deterministic semantic-incremental branching programs
+  solving GEN"
+Short Propositional Refutations for Dense Random 3CNF Formulas
+"Tight bounds on the randomized communication complexity of symmetric XOR
+  functions in one-way and SMP models"
+A zero-one SUBEXP-dimension law for BPP
+Resource Bounded Measure
+Possibilities and impossibilities in Kolmogorov complexity extraction
+A Small PRG for Polynomial Threshold Functions of Gaussians
+Minimization for Generalized Boolean Formulas
+Computational Complexity on Signed Numbers
+On the optimal compression of sets in PSPACE
+Storage Enforcement with Kolmogorov Complexity and List Decoding
+Numbers as Data Structures: The Prime Successor Function as Primitive
+"Correlation Testing for Affine Invariant Properties on $\mathbb{F}_p^n$
+  in the High Error Regime"
+"Empirical Encounters with Computational Irreducibility and
+  Unpredictability"
+Arc-preserving subsequences of arc-annotated sequences
+The 3-satisfiability problem
+The Computational Complexity of Disconnected Cut and 2K2-Partition
+The Complexity of Surjective Homomorphism Problems -- a Survey
+Asymptotic Granularity Reduction and Its Application
+"A Dual Approach for Solving Nonlinear Infinite-Norm Minimization
+  Problems with Applications in Separable Cases"
+"Barbosa, Uniform Polynomial Time Bounds, and Promises"
+A Novel Hybrid Algorithm for Task Graph Scheduling
+Zen Puzzle Garden is NP-complete
+"Algorithmic Complexity for Short Binary Strings Applied to Psychology: A
+  Primer"
+Confronting Intractability via Parameters
+Width-parameterized SAT: Time-Space Tradeoffs
+New separation between $s(f)$ and $bs(f)$
+A SWAR Approach to Counting Ones
+"Taking the Final Step to a Full Dichotomy of the Possible Winner Problem
+  in Pure Scoring Rules"
+"The expressibility of functions on the Boolean domain, with applications
+  to Counting CSPs"
+The Complexity of the Empire Colouring Problem
+Various complexity results for computational mass spectrometry problems
+"Optimization, Randomized Approximability, and Boolean Constraint
+  Satisfaction Problems"
+Autómatas celulares elementales aplicados a la encriptación de datos
+"Approximation Complexity of Complex-Weighted Degree-Two Counting
+  Constraint Satisfaction Problems"
+NP is not AL and P is not NC is not NL is not L
+LSM is not generated by binary functions
+Spider Solitaire is NP-Complete
+"NP-Hardness and Fixed-Parameter Tractability of Realizing Degree
+  Sequences with Directed Acyclic Graphs"
+Algorithm that Solves 3-SAT in Polynomial Time
+Restricted Parameter Range Promise Set Cover Problems Are Easy
+The complexity of small universal Turing machines: a survey
+The complexity of conservative valued CSPs
+Approximation for Maximum Surjective Constraint Satisfaction Problems
+Software Engineering and Complexity in Effective Algebraic Geometry
+About set-theoretic properties of one-way functions
+A Counterexample to the Generalized Linial-Nisan Conjecture
+"Monomials in arithmetic circuits: Complete problems in the counting
+  hierarchy"
+Small Jump with Negation-UTM Trampoline
+What makes normalized weighted satisfiability tractable
+Improved hardness results for unique shortest vector problem
+A discrepancy lower bound for information complexity
+"Efficiency Theory: a Unifying Theory for Information, Computation and
+  Intelligence"
+"Errors in Improved Polynomial Algorithm For 3 Sat Proposed By Narendra
+  Chaudhari"
+Constraint Satisfaction with Counting Quantifiers
+Computing Bits of Algebraic Numbers
+Intractability of the Minimum-Flip Supertree problem and its variants
+Turing Machines and Understanding Computational Complexity
+"A direct product theorem for bounded-round public-coin randomized
+  communication complexity"
+"Polynomial Time Algorithms for Multi-Type Branching Processes and
+  Stochastic Context-Free Grammars"
+"A New Order-theoretic Characterisation of the Polytime Computable
+  Functions"
+Simulating Special but Natural Quantum Circuits
+"On the intrinsic complexity of elimination problems in effective
+  Algebraic Geometry"
+"Gaming is a hard job, but someone has to do it!"
+Scrabble is PSPACE-Complete
+A Turing Machine Resisting Isolated Bursts Of Faults
+The Complexity of the Puzzles of Final Fantasy XIII-2
+"Calculation of the minimum computational complexity based on information
+  entropy"
+Relativized Propositional Calculus
+Revisiting the Complexity of And/Or Graph Solution
+Space-Bounded Kolmogorov Extractors
+Homomorphic Hashing for Sparse Coefficient Extraction
+"Turing machines can be efficiently simulated by the General Purpose
+  Analog Computer"
+How to solve kSAT in polynomial time
+Complexity Information Flow in a Multi-threaded Imperative Language
+The Power of Linear Programming for Valued CSPs
+"The Complexity of Monotone Hybrid Logics over Linear Frames and the
+  Natural Numbers"
+"Strengthened Hardness for Approximating Minimum Unique Game and Small
+  Set Expansion"
+A New Reduction from Search SVP to Optimization SVP
+Lower Bound on Weights of Large Degree Threshold Functions
+The computational complexity of Minesweeper
+"Kolmogorov Complexity, Causality And Spin"
+Relativizing Small Complexity Classes and their Theories
+"Efficient programs of NPC problems should be length upper-bounded, and a
+  thought experiment to search for them by machine enumeration"
+On the Usefulness of Predicates
+A new point of NP-hardness for 2-to-1 Label Cover
+Degree two approximate Boolean #CSPs with variable weights
+A Complete Dichotomy Rises from the Capture of Vanishing Signatures
+Universal Factor Graphs
+"A note on: No need to choose: How to get both a PTAS and Sublinear Query
+  Complexity"
+Nonuniform Kolmogorov extractors
+"Streaming algorithms for recognizing nearly well-parenthesized
+  expressions"
+A Proof Checking View of Parameterized Complexity
+Improved Inapproximability for TSP
+Decomposition of Kolmogorov Complexity And Link To Geometry
+Hardness of Vertex Deletion and Project Scheduling
+On bilinear algorithms for multiplication in quaternion algebras
+P = NP
+The complexity of approximating conservative counting CSPs
+Space-Efficient Circuit Evaluation
+Revisiting the enumeration of all models of a Boolean 2-CNF
+"The Relative Exponential Time Complexity of Approximate Counting
+  Satisfying Assignments"
+The Complexity of the Comparator Circuit Value Problem
+On Derivatives and Subpattern Orders of Countable Subshifts
+"Enumerable Distributions, Randomness, Dependence"
+Approximating the partition function of planar two-state spin systems
+Hidden cliques and the certification of the restricted isometry property
+New results on stabbing segments with a polygon
+On the Parameterized and Approximation Hardness of Metric Dimension
+Approximability and proof complexity
+Computational Aspects of Nearly Single-Peaked Electorates
+Optimal Hitting Sets for Combinatorial Shapes
+On the principal impossibility to prove P=NP
+Value Constraint and Monotone circuit
+Unshuffling a Square is NP-Hard
+Checking generalized debates with small space and randomness
+"Rational series and asymptotic expansion for linear homogeneous
+  divide-and-conquer recurrences"
+"One Hierarchy Spawns Another: Graph Deconstructions and the Complexity
+  Classification of Conjunctive Queries"
+Randomness Conservation over Algorithms
+A reduction of 3-SAT problem to Buchberger algorithm
+Algebraic Complexity Classes
+Some Improvements to Total Degree Tests
+Small Depth Proof Systems
+"On the NP-Hardness of Approximating Ordering Constraint Satisfaction
+  Problems"
+An exact algorithm for 1-in-3 SAT
+Efficient quantum protocols for XOR functions
+A new kind of complexity
+Randomness-efficient Curve Samplers
+"Topology and Non-Deterministic Polynomial Time Computation : Avoidance
+  of The Misbehaviour of Hub-Free Diagrams and Consequences"
+Fractal dimension versus process complexity
+"Determinant versus Permanent: salvation via generalization? The
+  algebraic complexity of the Fermionant and the Immanant"
+"Element Distinctness, Frequency Moments, and Sliding Windows"
+"Parameterized Exact and Approximation Algorithms for Maximum $k$-Set
+  Cover and Related Satisfiability Problems"
+"Pseudorandomness for Multilinear Read-Once Algebraic Branching Programs,
+  in any Order"
+On Regular Sets of Bounds and Determinism versus Nondeterminism
+Small Polynomial Time Universal Petri Nets
+On the Tape-Number Problem for Deterministic Time Classes
+On the Limits of Depth Reduction at Depth 3 Over Small Finite Fields
+"Hardness of robust graph isomorphism, Lasserre gaps, and asymmetry of
+  random graphs"
+Lines Missing Every Random Point
+$2^3$ Quantified Boolean Formula Games and Their Complexities
+Testing Equivalence of Polynomials under Shifts
+"A quadratically tight partition bound for classical communication
+  complexity and query complexity"
+"On the Computing Power of $+$, $-$, and $\times$"
+Partition Expanders
+The Effective Solving of the Tasks from NP by a Quantum Computer
+Approximation Resistance by Disguising Biased Distributions
+NP is contained in DTIME(n^O(log^{gamma}))
+"Relationship between clustering and algorithmic phase transitions in the
+  random k-XORSAT model and its NP-complete extensions"
+Geometric Complexity Theory: Introduction
+"On P vs. NP, Geometric Complexity Theory, and the Flip I: a high level
+  view"
+"Geometric Complexity Theory VII: Nonstandard quantum group for the
+  plethysm problem"
+"Geometric Complexity Theory VIII: On canonical bases for the nonstandard
+  quantum groups"
+The P versus NP Brief
+"Deciding Unambiguity and Sequentiality starting from a Finitely
+  Ambiguous Max-Plus Automaton"
+Derandomizing the Isolation Lemma and Lower Bounds for Circuit Size
+P is a proper subset of NP
+"Analysis of the Deterministic Polynomial Time Solvability of the
+  0-1-Knapsack Problem"
+Almost-natural proofs
+Efficiently Testing Sparse GF(2) Polynomials
+Communication Lower Bounds Using Dual Polynomials
+Independence of P vs. NP in regards to oracle relativizations
+A New Structural Property of SAT
+3-connected Planar Graph Isomorphism is in Log-space
+About the impossibility to prove P=NP and the pseudo-randomness in NP
+Variations on Muchnik's Conditional Complexity Theorem
+Refutation of Aslam's Proof that NP = P
+"A Critique of ""Solving the P/NP Problem Under Intrinsic Uncertainty"",
+  arXiv:0811.0463"
+Representating groups on graphs
+Physical portrayal of computational complexity
+"Computational Power of P Systems with Small Size Insertion and Deletion
+  Rules"
+Are stable instances easy?
+A General Notion of Useful Information
+New Choice for Small Universal Devices: Symport/Antiport P Systems
+Limitations of Self-Assembly at Temperature One (extended abstract)
+Self-Assembly of Infinite Structures
+Speedup for Natural Problems and Noncomputability
+The Complexity of Probabilistic Lobbying
+Response to Refutation of Aslam's Proof that NP = P
+On the Running Time of the Shortest Programs
+"Matrix P-norms are NP-hard to approximate if p \neq 1,2,\infty"
+"On P vs. NP, Geometric Complexity Theory, Explicit Proofs and the
+  Complexity Barrier"
+"On P vs. NP, Geometric Complexity Theory, and the Riemann Hypothesis"
+Approximate Counting and Quantum Computation
+Concurrent Knowledge-Extraction in the Public-Key Model
+A Strong Direct Product Theorem for Disjointness
+Recombinations of Busy Beaver Machines
+"Approximate Counting for Complex-Weighted Boolean Constraint
+  Satisfaction Problems"
+Learning Read-Once Functions Using Subcube Identity Queries
+Communication Complexity
+NP=PSPACE
+The Complexity of Testing Monomials in Multivariate Polynomials
+Algorithms for Testing Monomials in Multivariate Polynomials
+"Approximating Multilinear Monomial Coefficients and Maximum Multilinear
+  Monomials in Multivariate Polynomials"
+"About functions where function input describes inner working of the
+  function"
+Sensitivity versus block sensitivity of Boolean functions
+"Holographic Algorithms with Matchgates Capture Precisely Tractable
+  Planar #CSP"
+"A Decidable Dichotomy Theorem on Directed Graph Homomorphisms with
+  Non-negative Weights"
+The complexity of conservative finite-valued CSPs
+"Understanding Space in Proof Complexity: Separations and Trade-offs via
+  Substitutions"
+"A Dichotomy Theorem for the Approximate Counting of Complex-Weighted
+  Bounded-Degree Boolean CSPs"
+Motion planning with pull moves
+"Generalising tractable VCSPs defined by symmetric tournament pair
+  multimorphisms"
+A dichotomy theorem for conservative general-valued CSPs
+Separations of Matroid Freeness Properties
+Variations on the Sensitivity Conjecture
+Reductions Between Expansion Problems
+A Solution to the P versus NP Problem
+Realizable Paths and the NL vs L Problem
+Cross-Composition: A New Technique for Kernelization Lower Bounds
+Complexity of Homogeneous Co-Boolean Constraint Satisfaction Problems
+Enumeration Order complexity Equivalency
+Border basis detection is NP-complete
+Tensor Rank: Some Lower and Upper Bounds
+The hardness of Median in the synchronized bit communication model
+Spectral Algorithms for Unique Games
+Min CSP on Four Elements: Moving Beyond Submodularity
+BPP is in NP and coNP
+The influence lower bound via query elimination
+On Unique Games with Negative Weights
+Analysis of Boolean Functions
+"Tight Bounds for Low Dimensional Star Stencils in the Parallel External
+  Memory Model"
+A note on a problem in communication complexity
+A Wronskian Approach to the real τ-conjecture
+Inapproximability After Uniqueness Phase Transition in Two-Spin Systems
+DNF Sparsification and a Faster Deterministic Counting Algorithm
+P versus UP
+An NP-Complete Problem in Grid Coloring
+"The permanent, graph gadgets and counting solutions for certain types of
+  planar formulas"
+Translating the Cantor set by a random
+Solving satisfiability by statistical estimation
+Weak Bases of Boolean Co-Clones
+Parameterized (in)approximability of subset problems
+Trading inference effort versus size in CNF Knowledge Compilation
+The Frequent Paucity of Trivial Strings
+On Logical Depth and the Running Time of Shortest Programs
+Power of Nondetreministic JAGs on Cayley graphs
+Ray tracing -- computing the incomputable?
+Two Structural Results for Low Degree Polynomials and Applications
+Binary pattern tile set synthesis is NP-hard
+"A Polylogarithmic PRG for Degree $2$ Threshold Functions in the Gaussian
+  Setting"
+Tighter Fourier Transform Complexity Tradeoffs
+On the power of homogeneous depth 4 arithmetic circuits
+Computing Minimum Tile Sets to Self-Assemble Colors Patterns
+On the sum of the L1 influences of bounded functions
+"Diameter Constrained Reliability: Computational Complexity in terms of
+  the diameter and number of terminals"
+"The Complexity of Counting Edge Colorings and a Dichotomy for Some
+  Higher Domain Holant Problems"
+"Polynomials Modulo Composite Numbers: Ax-Katz type theorems for the
+  structure of their solution sets"
+On Uniform Reductions between Direct Product and XOR Lemmas
+"Critique of J. Kim's ""P is not equal to NP by Modus Tollens"""
+"Computable real function F such that F is not polynomial time computable
+  on [0,1]"
+Depth Lower Bounds against Circuits with Sparse Orientation
+Polynomial solvability of $NP$-complete problems
+"Computational complexity of solving polynomial differential equations
+  over unbounded domains"
+New Algorithms and Hard Instances for Non-Commutative Computation
+Kolmogorov complexity and the geometry of Brownian motion
+"On Stability Property of Probability Laws with Respect to Small
+  Violations of Algorithmic Randomness"
+"The Corruption Bound, Log Rank, and Communication Complexity"
+Parameterized Analogues of Probabilistic Computation
+About accuracy of the solution of NP-complete tasks
+Hard constraint satisfaction problems have hard gaps at location 1
+On Exponential Time Lower Bound of Knapsack under Backtracking
+Disjointness is hard in the multi-party number on the forehead model
+Multitask Efficiencies in the Decision Tree Model
+Analysis of the postulates produced by Karp's Theorem
+Hierarchy and equivalence of multi-letter quantum finite automata
+Scarf is Ppad-Complete
+"Two conjectures such that the proof of any one of them will lead to the
+  proof that P = NP"
+Graph Field Automata
+Succinctness of two-way probabilistic and quantum finite automata
+Graph Homomorphisms with Complex Values: A Dichotomy Theorem
+"On the complexity of deciding whether the distinguishing chromatic
+  number of a graph is at most two"
+"Reducing Tile Complexity for the Self-Assembly of Scaled Shapes Through
+  Temperature Programming"
+Separations of non-monotonic randomness notions
+Homogeneous formulas and symmetric polynomials
+A Survey on Continuous Time Computations
+On Lower Bounds for Constant Width Arithmetic Circuits
+P != NP Proof
+Arithmetic Circuits and the Hadamard Product of Polynomials
+Complexity Classes of Equivalence Problems Revisited
+"A hitting set construction, with application to arithmetic circuit lower
+  bounds"
+Balancing Bounded Treewidth Circuits
+"Weakening Assumptions for Deterministic Subexponential Time Non-Singular
+  Matrix Completion"
+The intersection of two halfspaces has high threshold degree
+Improved Inapproximability Results for Maximum k-Colorable Subgraph
+Polynomially Correlated Knapsack is NP-complete
+Adaptive Concurrent Non-Malleability with Bare Public-Keys
+Improved Approximation of Linear Threshold Functions
+Pseudorandom Generators for Polynomial Threshold Functions
+"Optimal bounds for sign-representing the intersection of two halfspaces
+  by polynomials"
+"The Partition Bound for Classical Communication Complexity and Query
+  Complexity"
+Preprocessing of Min Ones Problems: A Dichotomy
+"Collapsing and Separating Completeness Notions under Average-Case and
+  Worst-Case Hypotheses"
+Intrinsic Universality in Self-Assembly
+Restricted Space Algorithms for Isomorphism on Bounded Treewidth Graphs
+Holant Problems for Regular Graphs with Complex Edge Functions
+Fooling functions of halfspaces under product distributions
+On the Power of Unambiguity in Logspace
+Block Sensitivity of Minterm-Transitive Functions
+Randomness Testing of Compressed Data
+The P versus NP Problem
+"Is Space a Stronger Resource than Time? Positive Answer for the
+  Nondeterministic at-Least-Quadratic Time Case"
+m-sophistication
+"The Complexity of Approximating Bounded-Degree Boolean #CSP (Extended
+  Abstract)"
+On the parity complexity measures of Boolean functions
+From Holant To #CSP And Back: Dichotomy For Holant$^c$ Problems
+A Separation of NP and coNP in Multiparty Communication Complexity
+On the Complexity of Local Search for Weighted Standard Set Problems
+Algebraic Proofs over Noncommutative Formulas
+On the approximability of robust spanning tree problems
+"Enumeration of the Monomials of a Polynomial and Related Complexity
+  Classes"
+Parameterized Control Complexity in Fallback Voting
+Improved Inapproximability For Submodular Maximization
+"An Oracle Strongly Separating Deterministic Time from Nondeterministic
+  Time, via Kolmogorov Complexity"
+"Self-Assembly of Arbitrary Shapes Using RNAse Enzymes: Meeting the
+  Kolmogorov Bound with Small Scale Factor (extended abstract)"
+Shallow Circuits with High-Powered Inputs
+Space Complexity of Perfect Matching in Bounded Genus Bipartite Graphs
+Circuits with arbitrary gates for random operators
+Settling the complexity of local max-cut (almost) completely
+Kolmogorov-Loveland Sets and Advice Complexity Classes
+A Note on Nonuniform versus Uniform ACC^k Circuits for NE
+Interactive proofs with competing teams of no-signaling provers
+Unary Subset-Sum is in Logspace
+Robust Simulations and Significant Separations
+NP-completeness Proof: RBCDN Reduction Problem
+"Multivariate Polynomial Integration and Derivative Are Polynomial Time
+  Inapproximable unless P=NP"
+NE is not NP Turing Reducible to Nonexpoentially Dense NP Sets
+Solving the Rural Postman problem using the Adleman-Lipton model
+Random Generation and Approximate Counting of Combinatorial Structures
+On the polynomial depth of various sets of random strings
+"A Relation between the Protocol Partition Number and the Quasi-Additive
+  Bound"
+Non-negative Weighted #CSPs: An Effective Complexity Dichotomy
+On Computational Power of Quantum Read-Once Branching Programs
+On the Complexity of Edge Packing and Vertex Packing
+"Symmetry of information and bounds on nonuniform randomness extraction
+  via Kolmogorov extractors"
+QCSP on partially reflexive forests
+On Gröbner Basis Detection for Zero-dimensional Ideals
+New Heuristic Rounding Approaches to the Quadratic Assignment Problem
+"Computing in the fractal cloud: modular generic solvers for SAT and
+  Q-SAT variants"
+A Combination of Testability and Decodability by Tensor Products
+"The Limited Power of Powering: Polynomial Identity Testing and a
+  Depth-four Lower Bound for the Permanent"
+Sets Have Simple Members
+Intuitionistic implication makes model checking hard
+Complexity of Metric Dimension on Planar Graphs
+"Lower Bounds for Number-in-Hand Multiparty Communication Complexity,
+  Made Easy"
+"Computational Hardness of Enumerating Satisfying Spin-Assignments in
+  Triangulations"
+"Analysis on the computability over the efficient utilization problem of
+  the four-dimensional space-time"
+Construction of an NP Problem with an Exponential Lower Bound
+"Making the long code shorter, with applications to the Unique Games
+  Conjecture"
+Inclusion of Unambiguous RE#s is NP-Hard
+Maximum Bounded Rooted-Tree Packing Problem
+A Casual Tour Around a Circuit Complexity Bound
+"Monotone switching networks for directed connectivity are strictly more
+  powerful than certain-knowledge switching networks"
+Complexity of Counting CSP with Complex Weights
+Approximating Fixation Probabilities in the Generalized Moran Process
+Unpredictability and Computational Irreducibility
+An additivity theorem for plain Kolmogorov complexity
+Topological approach to solve P versus NP
+Smoothed Complexity Theory
+Lower Bounds on Testing Functions of Low Fourier Degree
+"On the complexity of solving linear congruences and computing nullspaces
+  modulo a constant"
+Some results on more flexible versions of Graph Motif
+Explicit Optimal Hardness via Gaussian stability results
+On the computational complexity of a game of cops and robbers
+Functions that preserve p-randomness
+"Complexity of complexity and strings with maximal plain and prefix
+  Kolmogorov complexity"
+Extending Partial Representations of Subclasses of Chordal Graphs
+Optimization of Quadratic Forms: NP Hard Problems : Neural Networks
+Relationship between circuit complexity and symmetry
+Dichotomy for Holant* Problems with a Function on Domain Size 3
+Complexity of Canadian Traveler Problem Variants
+"""Two betting strategies that predict all compressible sequences""
+  presentation"
+"Cancellation-free circuits: An approach for proving superlinear lower
+  bounds for linear Boolean operators"
+"The power of linear programming for valued CSPs: a constructive
+  characterization"
+A strong direct product theorem in terms of the smooth rectangle bound
+Quasi-polynomial Hitting-set for Set-depth-Delta Formulas
+"Quasipolynomial-time Identity Testing of Non-Commutative and Read-Once
+  Oblivious Algebraic Branching Programs"
+Notes on random reals
+Polynomial Path Orders: A Maximal Model
+The arithmetic complexity of tensor contractions
+Probabilistic verifiers for asymmetric debates
+"The Parameterized Complexity of Domination-type Problems and Application
+  to Linear Codes"
+Better Pseudorandom Generators from Milder Pseudorandom Restrictions
+Extensions of the Minimum Cost Homomorphism Problem
+The complexity of finite-valued CSPs
+A quantum algorithm for solving the 3-SAT problem
+"On efficient constructions of short lists containing mostly Ramsey
+  graphs"
+An Improved Lower Bound of The Spark With Application
+New NP-hardness results for 3-Coloring and 2-to-1 Label Cover
+Synthesis of sup-interpretations: a survey
+A Dichotomy Theorem for Homomorphism Polynomials
+Finite and infinite basis in P and NP
+Natural Proofs Versus Derandomization
+Subtraction makes computing integers faster
+AND and/or OR: Uniform Polynomial-Size Circuits
+A Satisfiability Algorithm for Sparse Depth Two Threshold Circuits
+"Hypercontractive inequalities via SOS, and the Frankl--Rödl graph"
+Short lists for shortest descriptions in short time
+Solvability of HornSAT and CNFSAT
+The ODD EVEN DELTA problem is #P-hard
+Three-Element Min-Sol and Conservative Min-Cost-Hom
+On Lower Bound Methods for Tree-like Cutting Plane Proofs
+"Pebbling, Entropy and Branching Program Size Lower Bounds"
+On the Power of Many One-Bit Provers
+A Characterization of Approximation Resistance for Even $k$-Partite CSPs
+One-Round Multi-Party Communication Complexity of Distinguishing Sums
+On the logical depth function
+Improved Hardness of Approximating Chromatic Number
+"A direct reduction of PPAD Lemke-verified linear complementarity
+  problems to bimatrix games"
+"A strong direct product theorem for the tribes function via the
+  smooth-rectangle bound"
+Orbit Problem Revisited
+A Combination Framework for Complexity
+Short lists with short programs in short time - a short proof
+Arithmetic Circuit Lower Bounds via MaxRank
+Global Optimal Solutions to General Sensor Network Localization Problem
+A composition theorem for decision tree complexity
+On the sum of $L1$ influences
+Towards Randomized Testing of $q$-Monomials in Multivariate Polynomials
+"Dual Lower Bounds for Approximate Degree and Markov-Bernstein
+  Inequalities"
+QCSP on partially reflexive cycles - the wavy line of tractability
+Monomial Testing and Applications
+"Constant Unary Constraints and Symmetric Real-Weighted Counting
+  Constraint Satisfaction Problems"
+Arithmetic Branching Programs with Memory
+"Proof of the hypothesis Edmonds's, not polynomial of NPC-problems and
+  classification of the problems with polynomial certificates"
+The complexity of proving that a graph is Ramsey
+On the computational complexity of Data Flow Analysis
+Computing in the Limit
+Projection onto the Cosparse Set is NP-Hard
+Matchgates Revisited
+Holographaic Alogorithms on Bases of Rank 2
+"Separating OR, SUM, and XOR Circuits"
+"Represent MOD function by low degree polynomial with unbounded one-sided
+  error"
+On optimal language compression for sets in PSPACE/poly
+"On the communication complexity of sparse set disjointness and
+  exists-equal problems"
+"Fourier sparsity, spectral norm, and the Log-rank conjecture"
+On the structure of the class NP
+A composition theorem for the Fourier Entropy-Influence conjecture
+Intrinsic universality in tile self-assembly requires cooperation
+The Round Complexity of Small Set Intersection
+On the Subexponential Time Complexity of CSP
+Resolution structure in HornSAT and CNFSAT
+The H-index can be easily manipulated
+The Complexity of Approximating Vertex Expansion
+All Sampling Methods Produce Outliers
+Computational Irreducibility and Computational Analogy
+Complexity Classifications for logic-based Argumentation
+"A note on the complexity of comparing succinctly represented integers,
+  with an application to maximum probability parsing"
+La machine α: modèle générique pour les algorithmes naturels
+"Another Asymptotic Notation : ""Almost"""
+Improved bounds for reduction to depth 4 and depth 3
+"On fixed-polynomial size circuit lower bounds for uniform polynomials in
+  the sense of Valiant"
+"Unifying and generalizing known lower bounds via geometric complexity
+  theory"
+Distance-Sensitive Property Testing Lower Bounds
+Sparser Random 3SAT Refutation Algorithms and the Interpolation Problem
+"A Collapse Theorem for Holographic Algorithms with Matchgates on Domain
+  Size at Most 4"
+Analytical Approach to Parallel Repetition
+Cancellation-Free Circuits in Unbounded and Bounded Depth
+Computing Cliques is Intractable
+An exponential lower bound for Cunningham's rule
+Computability vs. Nondeterministic and P vs. NP
+"A Lower Bound for Fourier Transform Computation in a Linear Model Over
+  2x2 Unitary Gates Using Matrix Entropy"
+The Promise Polynomial Hierarchy
+Computing with and without arbitrary large numbers
+The Complexity of Approximately Counting Tree Homomorphisms
+Lower Bounds for RAMs and Quantifier Elimination
+"Composition limits and separating examples for some Boolean function
+  complexity measures"
+Estimating the distance from testable affine-invariant properties
+Some properties are not even partially testable
+"Generalization of Boole-Shannon expansion, consistency of Boolean
+  equations and elimination by orthonormal expansion"
+Pseudorandomness for Regular Branching Programs via Fourier Analysis
+3-color Bounded Patterned Self-assembly
+Truth Table Minimization of Computational Models
+Satisfiability Algorithms for Restricted Circuit Classes
+"New upper bound on block sensitivity and certificate complexity in terms
+  of sensitivity"
+Counting list matrix partitions of graphs
+On Kolmogorov Complexity of Random Very Long Braided Words
+A note on Türing's 1936
+"Computational Complexity of the Minimum Cost Homomorphism Problem on
+  Three-Element Domains"
+"Depth-4 Lower Bounds, Determinantal Complexity : A Unified Approach"
+A tau-conjecture for Newton polygons
+Completeness Results for Parameterized Space Classes
+Gap Theorems for the Delay of Circuits Simulating Finite Automata
+"Hardness of Finding Independent Sets in 2-Colorable and Almost
+  2-Colorable Hypergraphs"
+Locally Testable Codes and Cayley Graphs
+"Algorithmic randomness and Ramsey properties of countable homogeneous
+  structures"
+Oracle Tractability of Skew Bisubmodular Functions
+Pebbling Arguments for Tree Evaluation
+"Hardness Amplification and the Approximate Degree of Constant-Depth
+  Circuits"
+Communication Lower Bounds via Critical Block Sensitivity
+"Derandomizing Polynomial Identity over Finite Fields Implies
+  Super-Polynomial Circuit Lower Bounds for NEXP"
+Local reductions
+Average case polyhedral complexity of the maximum stable set problem
+The power of linear programming for general-valued CSPs
+"#BIS-Hardness for 2-Spin Systems on Bipartite Bounded Degree Graphs in
+  the Tree Nonuniqueness Region"
+Challenges in computational lower bounds
+Improved Extractors for Affine Lines
+The Ergodicity of the Collatz Process in Positive Integer Field
+"A Deterministic Polynomial Space Construction for eps-nets under any
+  Norm"
+"The Limits of Depth Reduction for Arithmetic Formulas: It's all about
+  the top fan-in"
+Hierarchies
+"Linear list-approximation for short programs (or the power of a few
+  random bits)"
+"Super-polylogarithmic hypergraph coloring hardness via low-degree long
+  codes"
+Formulas vs. Circuits for Small Distance Connectivity
+Upper semicomputable sumtests for lower semicomputable semimeasures
+Hitting-sets for low-distance multilinear depth-3
+A composition theorem for parity kill number
+"Hardness of Finding Independent Sets in 2-Colorable Hypergraphs and of
+  Satisfiable CSPs"
+"Decision Trees, Protocols, and the Fourier Entropy-Influence Conjecture"
+Iterated group products and leakage resilience against NC^1
+On Constraint Satisfaction Problems below P
+On the dynamic width of the 3-colorability problem
+"Superpolynomial lower bounds for general homogeneous depth 4 arithmetic
+  circuits"
+Generating Matrix Identities and Proof Complexity
+"Reachability in Cooperating Systems with Architectural Constraints is
+  PSPACE-Complete"
+"Remarks on AKS Primality Testing Algorithm and A Flaw in the Definition
+  of P"
+"Approximate Computation of DFT without Performing Any Multiplications:
+  Applications to Radar Signal Processing"
+Robust Satisfiability of Systems of Equations
+"A Characterization of Locally Testable Affine-Invariant Properties via
+  Decomposition Theorems"
+"Inequalities and tail bounds for elementary symmetric polynomial with
+  applications"
+"A Tight Lower Bound on Certificate Complexity in Terms of Block
+  Sensitivity and Sensitivity"
+On the Power of Multiplexing in Number-on-the-Forehead Protocols
+"An Improved Interactive Streaming Algorithm for the Distinct Elements
+  Problem"
+On the Complexity of Computing Two Nonlinearity Measures
+Algebraic Properties of Valued Constraint Satisfaction Problem
+"An n\log n Lower Bound for Fourier Transform Computation in the Well
+  Conditioned Model"
+Candy Crush is NP-hard
+Minimal TSP Tour is coNP-Complete
+"Parameterized Inapproximability of Target Set Selection and
+  Generalizations"
+Organization mechanism and counting algorithm on Vertex-Cover solutions
+P is not equal to NP by Modus Tollens
+Occam Bound on Lowest Complexity of Elements
+"Bejeweled, Candy Crush and other Match-Three Games are (NP-)Hard"
+Havannah and TwixT are PSPACE-complete
+"Pseudorandomness and Fourier Growth Bounds for Width 3 Branching
+  Programs"
+"On total communication complexity of collapsing protocols for pointer
+  jumping problem"
+Very narrow quantum OBDDs and width hierarchies for classical OBDDs
+Size of Sets with Small Sensitivity: a Generalization of Simon's Lemma
+"Computing rank of finite algebraic structures with limited
+  nondeterminism"
+Lower Bounds for Tropical Circuits and Dynamic Programs
+"Relating the Time Complexity of Optimization Problems in Light of the
+  Exponential-Time Hypothesis"
+The Parameterized Complexity of k-Biclique
+"Fourier spectra of measures associated with algorithmically random
+  Brownian motion"
+"Beautiful Structures: An Appreciation of the Contributions of Alan
+  Selman"
+"On the Complexity of Trial and Error for Constraint Satisfaction
+  Problems"
+Computational Complexity of Certifying Restricted Isometry Property
+A Lower Bound for Boolean Satisfiability on Turing Machines
+"A Lower Bound of $2^n$ Conditional Branches for Boolean Satisfiability
+  on Post Machines"
+"A framework for good SAT translations, with applications to CNF
+  representations of XOR constraints"
+Hitting-sets for ROABP and Sum of Set-Multilinear circuits
+The Polyhedron-Hitting Problem
+On Termination of Integer Linear Loops
+"Sub-linear Upper Bounds on Fourier dimension of Boolean Functions in
+  terms of Fourier sparsity"
+On relative OR-complexity of Boolean matrices and their complements
+Into the Square - On the Complexity of Quadratic-Time Solvable Problems
+Multiplicative Complexity of Vector Valued Boolean Functions
+Counting $4\times 4$ Matrix Partitions of Graphs
+"Reducing uniformity in Khot-Saket hypergraph coloring hardness
+  reductions"
+"Pre-Reduction Graph Products: Hardnesses of Properly Learning DFAs and
+  Approximating EDP on DAGs"
+FP//LINSPACE computability of Riemann zeta function in Ko-Friedman model
+"Notes on space complexity of integration of computable real functions in
+  Ko-Friedman model"
+Computing with Coloured Tangles
+"Faster FPT Algorithm for Graph Isomorphism Parameterized by Eigenvalue
+  Multiplicity"
+Conservative constraint satisfaction re-revisited
+On the Tractability of Un/Satisfiability
+"2048 is (PSPACE) Hard, but Sometimes Easy"
+"A constructive proof presenting languages in $Σ_2^P$ that cannot be
+  decided by circuit families of size $n^k$"
+Constructive Relationships Between Algebraic Thickness and Normality
+"On Circuit Complexity of Parity and Majority Functions in Antichain
+  Basis"
+Mutual Dimension
+Hardness of Peeling with Stashes
+"Proof Complexity Modulo the Polynomial Hierarchy: Understanding
+  Alternation as a Source of Hardness"
+Zig-Zag Numberlink is NP-Complete
+Permutation Reconstruction from Differences
+Computing an Evolutionary Ordering is Hard
+Deterministic Extractors for Additive Sources
+Binary Determinantal Complexity
+Affine reductions for LPs and SDPs
+NP-hardness of hypercube 2-segmentation
+A Strongly Exponential Separation of DNNFs from CNF Formulas
+On Characterizing the Data Access Complexity of Programs
+Computational Complexity of Functions
+Tighter Relations Between Sensitivity and Other Complexity Measures
+Derandomized Graph Product Results using the Low Degree Long Code
+Pseudorandomness for concentration bounds and signed majorities
+TrackMania is NP-complete
+PSPACE-completeness of Bloxorz and of Games with 2-Buttons
+Almost Optimal Pseudorandom Generators for Spherical Caps
+Complexity of Secure Sets
+Approximately counting locally-optimal structures
+"Deterministic Identity Testing for Sum of Read-Once Oblivious Arithmetic
+  Branching Programs"
+Dimension Expanders via Rank Condensers
+Subexponential Size Hitting Sets for Bounded Depth Multilinear Formulas
+A Characterization of hard-to-cover CSPs
+An Algorithmic Separating Hyperplane Theorem and Its Applications
+Dichotomy Theorems for Homomorphism Polynomials of Graph Classes
+Braid is undecidable
+Tree-like resolution complexity of two planar problems
+SAT is a problem with exponential complexity measured by negentropy
+Bounded Treewidth and Space-Efficient Linear Algebra
+"Homonym Population Protocols, or Providing a Small Space of Computation
+  Using a Few Identifiers"
+Scheduling with two non-unit task lengths is NP-complete
+Uniformity is weaker than semi-uniformity for some membrane systems
+Nonclassical polynomials as a barrier to polynomial lower bounds
+Variable Selection is Hard
+New Bounds for the Garden-Hose Model
+New algorithms and lower bounds for monotonicity testing
+"Boolean function monotonicity testing requires (almost) $n^{1/2}$
+  non-adaptive queries"
+The simplified weighted sum function and its average sensitivity
+On the Lattice Smoothing Parameter Problem
+On the complexity of finite valued functions
+On the Complexity of Noncommutative Polynomial Factorization
+Sum of Squares Lower Bounds from Pairwise Independence
+"On Sharing, Memoization, and Polynomial Time (Long Version)"
+Combinatorial Optimization Algorithms via Polymorphisms
+"What is NP? - Interpretation of a Chinese paradox ""white horse is not
+  horse"""
+What is Cook's theorem?
+Efficient Computation by Three Counter Machines
+On the Complexity of Slide-and-Merge Games
+"From complexity to algebra and back: digraph classes, collapsibility and
+  the PGP"
+The Parity Hamiltonian Cycle Problem
+The Complexity of the Kth Largest Subset Problem and Related Problems
+"On Restricting No-Junta Boolean Function and Degree Lower Bounds by
+  Polynomial Method"
+Lower Bounds for Monotone Counting Circuits
+Necessary conditions for tractability of valued CSPs
+Width Hierarchy for k-OBDD of Small Width
+"Parallel Identity Testing for Skew Circuits with Big Powers and
+  Applications"
+Lower Bound for General Circuits Computing Clique Function
+"Extended Formulation for CSP that is Compact for Instances of Bounded
+  Treewidth"
+Minimal Distance of Propositional Models
+Identifying an Honest ${\rm EXP}^{\rm NP}$ Oracle Among Many
+SAT problem and statistical distance
+Multinational War is Hard
+Comparator Circuits over Finite Bounded Posets
+"No Small Linear Program Approximates Vertex Cover within a Factor $2 -
+  ε$"
+The Complexity of Phylogeny Constraint Satisfaction
+Sensitivity versus Certificate Complexity of Boolean Functions
+Bi-polynomial rank and determinantal complexity
+Understanding SAT is in P
+Refuting Unique Game Conjecture
+"Efficient indexing of necklaces and irreducible polynomials over finite
+  fields"
+"Trading query complexity for sample-based testing and multi-testing
+  scalability"
+The matching problem has no small symmetric SDP
+Technical Notes on Complexity of the Satisfiability Problem
+Separating decision tree complexity from subcube partition complexity
+Tight Size-Degree Bounds for Sums-of-Squares Proofs
+An average-case depth hierarchy theorem for Boolean circuits
+$2^{(\log N)^{1/10-o(1)}}$ Hardness for Hypergraph Coloring
+"Pseudorandomness for Read-Once, Constant-Depth Circuits"
+On Fortification of Projection Games
+"High rate locally-correctable and locally-testable codes with
+  sub-polynomial query complexity"
+Maximum Pagenumber-k Subgraph is NP-Complete
+"Sums of products of polynomials in few variables : lower bounds and
+  polynomial identity testing"
+The Range of Topological Effects on Communication
+Lower Bounds for the Size of Nondeterministic Circuits
+"Information Complexity and the Quest for Interactive Compression (A
+  Survey)"
+"A Refutation of the Clique-Based P=NP Proofs of LaPlante and
+  Tamta-Pande-Dhami"
+ETH Hardness for Densest-$k$-Subgraph with Perfect Completeness
+Rational Proofs with Multiple Provers
+Transforming NP to P: An Approach to Solve NP Complete Problems
+Finding the Median (Obliviously) with Bounded Space
+Universality and Almost Decidability
+"Average-case complexity of a branch-and-bound algorithm for maximum
+  independent set, under the $\mathcal{G}(n,p)$ random model"
+Incremental complexity of a bi-objective hypergraph transversal problem
+"Polynomially Low Error PCPs with polyloglog n Queries via Modular
+  Composition"
+Combinatorial Game Complexity: An Introduction with Poset Games
+"Constraint Satisfaction and Semilinear Expansions of Addition over the
+  Rationals and the Reals"
+On Slepian--Wolf Theorem with Interaction
+Dependent Random Graphs and Multiparty Pointer Jumping
+"Polynomial Fixed-Parameter Algorithms: A Case Study for Longest Path on
+  Interval Graphs"
+"Parity Decision Tree Complexity and 4-Party Communication Complexity of
+  XOR-functions Are Polynomially Equivalent"
+Tropically convex constraint satisfaction
+Pseudorandomness via the discrete Fourier transform
+"The Complexity of the Path-following Solutions of Two-dimensional
+  Sperner/Brouwer Functions"
+All Permutations Supersequence is coNP-complete
+"Towards Better Separation between Deterministic and Randomized Query
+  Complexity"
+"An $O(n^{0.4732})$ upper bound on the complexity of the GKS
+  communication game"
+Hybrid (V)CSPs and algebraic reductions
+Complexity of a Tetris variant
+Algorithmic Aspects of Upper Domination
+On the H-Free Extension Complexity of the TSP
+On the Communication Complexity of Distributed Clustering
+"An exponential lower bound for homogeneous depth-5 circuits over finite
+  fields"
+"A Reduction from Valued CSP to Min Cost Homomorphism Problem for
+  Digraphs"
+Towards Tight Lower Bounds for Scheduling Problems
+Lower Bounds by Birkhoff Interpolation
+An NL-Complete Puzzle
+"The Complexity of Computing the Optimal Composition of Differential
+  Privacy"
+On the Polytope Escape Problem for Continuous Linear Dynamical Systems
+Polynomial Kernels for Weighted Problems
+"Sub-exponential Approximation Schemes for CSPs: from Dense to Almost
+  Sparse"
+The Complexity of Switching and FACTS Maximum-Potential-Flow Problems
+"SoS and Planted Clique: Tight Analysis of MPW Moments at all Degrees and
+  an Optimal Lower Bound at Degree Four"
+On the GI-Completeness of a Sorting Networks Isomorphism
+All Colors Shortest Path Problem
+A Classification of Connected f -factor Problems inside NP
+The Complexity of Some Combinatorial Puzzles

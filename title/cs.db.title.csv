@@ -1,0 +1,1306 @@
+title
+"The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules
+  of Thumb"
+Similarity-Based Queries for Time Series Data
+Efficient Retrieval of Similar Time Sequences Using DFT
+Least expected cost query optimization: an exercise in utility
+Efficient and Extensible Algorithms for Multi Query Optimization
+Comparative Analysis of Five XML Query Languages
+"Don't Trash your Intermediate Results, Cache 'em"
+"Materialized View Selection and Maintenance Using Multi-Query
+  Optimization"
+"Managing Periodically Updated Data in Relational Databases: A Stochastic
+  Modeling Approach"
+Algorithms for Rewriting Aggregate Queries Using Views
+EquiX---A Search and Query Language for XML
+"Rapid Application Evolution and Integration Through Document
+  Metamorphosis"
+A Seamless Integration of Association Rule Mining with Database Systems
+The Internet and Community Networks: Case Studies of Five U.S. Cities
+"Structuring Business Metadata in Data Warehouse Systems for Effective
+  Business Support"
+EquiX--A Search and Query Language for XML
+Mragyati : A System for Keyword-based Searching in Databases
+The Relational Database Aspects of Argonne's ATLAS Control System
+Proliferation of SDDS Support for Various Platforms and Languages
+Sprinkling Selections over Join DAGs for Efficient Query Optimization
+Towards practical meta-querying
+On the Computational Complexity of Consistent Query Answers
+Optimizing Queries Using a Meta-level Database
+Preference Queries
+Answer Sets for Consistent Query Answering in Inconsistent Databases
+"Monadic Datalog and the Expressive Power of Languages for Web
+  Information Extraction"
+Minimal-Change Integrity Maintenance Using Tuple Deletions
+Classes of Spatiotemporal Objects and Their Closure Properties
+ExploitingWeb Service Semantics: Taxonomies vs. Ontologies
+"Improving the Functionality of UDDI Registries through Web Service
+  Semantics"
+A Script Language for Data Integration in Database
+"Completeness and Decidability Properties for Functional Dependencies in
+  XML"
+The Evolution of the Computerized Database
+"Experience with the Open Source based implementation for ATLAS
+  Conditions Data Management System"
+Transparent Persistence with Java Data Objects
+Relational databases for data management in PHENIX
+"On the Verge of One Petabyte - the Story Behind the BaBar Database
+  System"
+A ROOT/IO Based Software Framework for CMS
+Twelve Ways to Build CMS Crossings from ROOT Files
+"POOL File Catalog, Collection and Metadata Components"
+The COMPASS Event Store in 2002
+The TESLA Requirements Database
+Integrated Information Management for TESLA
+"An on-line Integrated Bookkeeping: electronic run log book and Meta-Data
+  Repository for ATLAS"
+"Architecture of an Open-Sourced, Extensible Data Warehouse Builder:
+  InterBase 6 Data Warehouse Builder (IB-DWB)"
+Search and Navigation in Relational Databases
+Indexing of Tables Referencing Complex Structures
+The Lowell Database Research Self Assessment
+A Formal Comparison of Visual Web Wrapper Generators
+Providing Diversity in K-Nearest Neighbor Query Results
+Supporting Exploratory Queries in Database Centric Web Applications
+On Addressing Efficiency Concerns in Privacy Preserving Data Mining
+"XPath-Logic and XPathLog: A Logic-Programming Style XML Data
+  Manipulation Language"
+Declarative Semantics for Active Rules
+On A Theory of Probabilistic Deductive Databases
+Nested Intervals with Farey Fractions
+Semantic Optimization of Preference Queries
+Nested Intervals Tree Encoding with Continued Fractions
+Search Efficiency in Indexing Structures for Similarity Searching
+"Extending the SDSS Batch Query System to the National Virtual
+  Observatory Grid"
+The World Wide Telescope: An Archetype for Online Science
+"The Sloan Digital Sky Survey Science Archive: Migrating a Multi-Terabyte
+  Astronomical Archive from Object to Relational DBMS"
+Enhancing the expressive power of the U-Datalog language
+An Abductive Framework For Computing Knowledge Base Updates
+Application of Business Intelligence In Banks (Pakistan)
+"Schema-based Scheduling of Event Processors and Buffer Minimization for
+  Queries on Structured Data Streams"
+Subset Queries in Relational Databases
+The Revolution In Database System Architecture
+There Goes the Neighborhood: Relational Algebra for Spatial Data Search
+Scalable XSLT Evaluation
+"A Generalized Disjunctive Paraconsistent Data Model for Negative and
+  Disjunctive Information"
+The Infati Data
+Frequent Knot Discovery
+"An Extended Generalized Disjunctive Paraconsistent Data Model for
+  Disjunctive Information"
+Paraconsistent Intuitionistic Fuzzy Relational Data Model
+Using image partitions in 4th Dimension
+"Estimating Range Queries using Aggregate Data with Integrity
+  Constraints: a Probabilistic Approach"
+Relational Algebra as non-Distributive Lattice
+"First-order Complete and Computationally Complete Query Languages for
+  Spatio-Temporal Databases"
+Theory and Practice of Transactional Method Caching
+Efficient Management of Short-Lived Data
+"Consistent query answers on numerical databases under aggregate
+  constraints"
+Instance-Independent View Serializability for Semistructured Databases
+HepToX: Heterogeneous Peer to Peer XML Databases
+Database Reformulation with Integrity Constraints (extended abstract)
+Priority-Based Conflict Resolution in Inconsistent Relational Databases
+"Iterative Algorithm for Finding Frequent Patterns in Transactional
+  Databases"
+"Business intelligence systems and user's parameters: an application to a
+  documents' database"
+"Benefits of InterSite Pre-Processing and Clustering Methods in
+  E-Commerce Domain"
+Path Summaries and Path Partitioning in Modern XML Databases
+First Steps in Relational Lattice
+Semantically Correct Query Answers in the Presence of Null Values
+Semantics and Complexity of SPARQL
+"10^(10^6) Worlds and Beyond: Efficient Representation and Processing of
+  Incomplete Information"
+"The Management and Integration of Biomedical Knowledge: Application in
+  the Health-e-Child Project (Position Paper)"
+XString: XML as a String
+Efficient Threshold Aggregation of Moving Objects
+Reducing Order Enforcement Cost in Complex Query Plans
+The Dichotomy of Conjunctive Queries on Probabilistic Structures
+The Boundary Between Privacy and Utility in Data Anonymization
+Architecture for Modular Data Centers
+Fragmentation in Large Object Repositories
+Managing Query Compilation Memory Consumption to Improve DBMS Throughput
+Isolation Support for Service-based Applications: A Position Paper
+Demaq: A Foundation for Declarative XML Message Processing
+Consistent Streaming Through Time: A Vision for Event Stream Processing
+bdbms -- A Database Management System for Biological Data
+SASE: Complex Event Processing over Streams
+Impliance: A Next Generation Information Management Appliance
+Turning Cluster Management into Data Management: A System Overview
+"Data Cube: A Relational Aggregation Operator Generalizing Group-By,
+  Cross-Tab, and Sub-Totals"
+"Data Management: Past, Present, and Future"
+A Critique of ANSI SQL Isolation Levels
+Queues Are Databases
+"To BLOB or Not To BLOB: Large Object Storage in a Database or a
+  Filesystem?"
+Firebird Database Backup by Serialized Database Table Dump
+Attribute Value Reordering For Efficient Hybrid OLAP
+Slope One Predictors for Online Rating-Based Collaborative Filtering
+Concept of a Value in Multilevel Security Databases
+Automatic Selection of Bitmap Join Indexes in Data Warehouses
+Clustering-Based Materialized View Selection in Data Warehouses
+"Une plate-forme dynamique pour l'évaluation des performances des bases
+  de données à objets"
+Conception d'un banc d'essais décisionnel
+Vers l'auto-administration des entrepôts de données
+"Dynamic Clustering in Object-Oriented Databases: An Advocacy for
+  Simplicity"
+"VOODB: A Generic Discrete-Event Random Simulation Model to Evaluate the
+  Performances of OODBs"
+"OCB: A Generic Benchmark to Evaluate the Performances of Object-Oriented
+  Database Systems"
+"Performance Evaluation for Clustering Algorithms in Object-Oriented
+  Database Systems"
+DWEB: A Data Warehouse Engineering Benchmark
+DOEF: A Dynamic Object Evaluation Framework
+Decision tree modeling with relational views
+Warehousing Web Data
+Web data modeling for integration in data warehouses
+Worst-Case Background Knowledge for Privacy-Preserving Data Publishing
+World-set Decompositions: Expressiveness and Efficient Algorithms
+"Semantic Information Retrieval from Distributed Heterogeneous Data
+  Sources"
+"The Requirements for Ontologies in Medical Data Integration: A Case
+  Study"
+"Espaces de représentation multidimensionnels dédiés à la
+  visualisation"
+Un index de jointure pour les entrepôts de données XML
+Sélection simultanée d'index et de vues matérialisées
+An Architecture Framework for Complex Data Warehouses
+"Data Mining-based Materialized View and Index Selection in Data
+  Warehouses"
+Spatial Aggregation: Data Model and Implementation
+"Why the relational data model can be considered as a formal basis for
+  group operations in object-oriented systems"
+Repairing Inconsistent XML Write-Access Control Policies
+Aggregation Languages for Moving Object and Places of Interest Data
+"Collaborative OLAP with Tag Clouds: Web 2.0 OLAP Formalism and
+  Experimental Evaluation"
+"Efficient Skyline Querying with Variable User Preferences on Nominal
+  Attributes"
+Neutrosophic Relational Data Model
+An Inflationary Fixed Point Operator in XQuery
+Two-Level Concept-Oriented Data Model
+Principles of the Concept-Oriented Data Model
+Fault-Tolerant Partial Replication in Large-Scale Database Systems
+"A Model-Based Frequency Constraint for Mining Associations from
+  Transaction Data"
+"Faster Sequential Search with a Two-Pass Dynamic-Time-Warping Lower
+  Bound"
+DescribeX: A Framework for Exploring and Querying XML Web Collections
+Relational Lattice Axioms
+A Logical Model and Data Placement Strategies for MEMS Storage Devices
+Toward Expressive and Scalable Sponsored Search Auctions
+Consistent Query Answers in the Presence of Universal Constraints
+Materialized View Selection by Query Clustering in XML Data Warehouses
+Dynamic index selection in data warehouses
+Knowledge and Metadata Integration for Warehousing Complex Data
+A Join Index for XML Data Warehouses
+An MAS-Based ETL Approach for Complex Data
+Frequent itemsets mining for database auto-administration
+"A Complex Data Warehouse for Personalized, Anticipative Medicine"
+Expressing OLAP operators with the TAX XML algebra
+XQuery Join Graph Isolation
+Data Mining-based Fragmentation of XML Data Warehouses
+Disjunctive Databases for Representing Repairs
+Semantics and Evaluation of Top-k Queries in Probabilistic Databases
+Temporal Support of Regular Expressions in Sequential Pattern Mining
+Concept-Oriented Model and Query Language
+Sorting improves word-aligned bitmap indexes
+Stop the Chase
+"Hyperset Approach to Semi-structured Databases and the Experimental
+  Implementation of the Query Language Delta"
+Electronical Health Record's Systems. Interoperability
+Reordering Columns for Smaller Indexes
+"LifeRaft: Data-Driven, Batch Processing for the Exploration of
+  Scientific Databases"
+RIOT: I/O-Efficient Numerical Computing without SQL
+Towards Eco-friendly Database Management Systems
+The Role of Schema Matching in Large Enterprises
+Search Driven Analysis of Heterogenous XML Data
+Capturing Data Uncertainty in High-Volume Stream Processing
+A Case for A Collaborative Query Management System
+"The Case for RodentStore, an Adaptive, Declarative Storage System"
+Principles for Inconsistency
+Harnessing the Deep Web: Present and Future
+"Inter-Operator Feedback in Data Stream Management Systems via
+  Punctuation"
+Reducing Network Traffic in Unstructured P2P Systems Using Top-k Queries
+Personal Information Databases
+Clustering with Obstacles in Spatial Databases
+Algorithm for Spatial Clustering with Obstacles
+Differential Privacy via Wavelet Transforms
+Optimization and Evaluation of Nested Queries and Procedures
+"""Almost automatic"" and semantic integration of XML Schemas at various
+  ""severity"" levels"
+"Structural Consistency: Enabling XML Keyword Search to Eliminate
+  Spurious Results Consistently"
+"A Multidatabase System as 4-Tiered Client-Server Distributed
+  Heterogeneous Database System"
+"Object Oriented Approach for Integration of Heterogeneous Databases in a
+  Multidatabase System and Local Schemas Modifications Propagation"
+Refactoring of a Database
+XML Multidimensional Modelling and Querying
+A Study on Feature Selection Techniques in Educational Data Mining
+The Hardness and Approximation Algorithms for L-Diversity
+Extraction of Flat and Nested Data Records from Web Pages
+The WebStand Project
+A Logical Temporal Relational Data Model
+Finding Sequential Patterns from Large Sequence Data
+"Mining The Successful Binary Combinations: Methodology and A Simple Case
+  Study"
+Significant Interval and Frequent Pattern Discovery in Web Log Data
+"Mining Statistically Significant Substrings Based on the Chi-Square
+  Measure"
+View Synthesis from Schema Mappings
+"Hierarchical Approach for Online Mining--Emphasis towards Software
+  Metrics"
+Role of Data Mining in E-Payment systems
+Adding HL7 version 3 data types to PostgreSQL
+A Novel Approach For Discovery Multi Level Fuzzy Association Rule Mining
+"Similarity Data Item Set Approach: An Encoded Temporal Data Base
+  Technique"
+XPath Whole Query Optimization
+Tuple-based abstract data types: full parallelism
+"A framework for designing concurrent and recoverable abstract data types
+  based on commutativity"
+Limits of Commutativity on Abstract Data Types
+Automating Fine Concurrency Control in Object-Oriented Databases
+Cubes convexes
+Transparent Anonymization: Thwarting Adversaries Who Know the Algorithm
+Personnalisation de Systèmes OLAP Annotés
+Personnalisation de bases de données multidimensionnelles
+Construction graphique d'entrepôts et de magasins de données
+Algèbre OLAP et langage graphique
+Modélisation et extraction de données pour un entrepôt objet
+Analyse multigraduelle OLAP
+Contraintes pour modèle et langage multidimensionnels
+"Modélisation et manipulation de données historisées et archivées
+  dans un entrepôt orienté objet"
+Elaboration d'entrepôts de données complexes
+Towards Conceptual Multidimensional Design in Decision Support Systems
+"TSDS: high-performance merge, subset, and filter software for time
+  series-like data"
+"Adaptive Tuning Algorithm for Performance tuning of Database Management
+  System"
+Defining and Mining Functional Dependencies in Probabilistic Databases
+Attribute oriented induction with star schema
+A Data Warehouse Assistant Design System Based on Clover Model
+"Efficient Support Coupled Frequent Pattern Mining Over Progressive
+  Databases"
+Query Routing and Processing in Peer-To-Peer Data Sharing Systems
+"Managing Semantic Loss during Query Reformulation in Peer Data
+  Management Systems"
+A New Framework for Join Product Skew
+XQ2P: Efficient XQuery P2P Time Series Processing
+"Gestion efficace de séries temporelles en P2P: Application à
+  l'analyse technique et l'étude des objets mobiles"
+"Building a Data Warehouse for National Social Security Fund of the
+  Republic of Tunisia"
+Using Grid Files for a Relational Database Management System
+Tata Kelola Database Perguruan Tinggi Yang Optimal Dengan Data Warehouse
+Attribute Oriented Induction with simple select SQL statement
+Multidimensional Datawarehouse with Combination Formula
+Multidimensi Pada Data Warehouse Dengan Menggunakan Rumus Kombinasi
+Classification rule with simple select SQL statement
+Diamond Dicing
+A Generic Storage API
+Linear Detrending Subsequence Matching in Time-Series Databases
+Report on the XBase Project
+"The Conceptual Integration Modeling Framework: Abstracting from the
+  Multidimensional Model"
+"Discovering potential user browsing behaviors using custom-built apriori
+  algorithm"
+"Clustering high dimensional data using subspace and projected clustering
+  algorithms"
+Mobile Information Collectors' Trajectory Data Warehouse Design
+"A Novel Watermarking Scheme for Detecting and Recovering Distortions in
+  Database Tables"
+Mining Target-Oriented Sequential Patterns with Time-Intervals
+ETP-Mine: An Efficient Method for Mining Transitional Patterns
+Active Integrity Constraints and Revision Programming
+"A Blink Tree latch method and protocol to support synchronous node
+  deletion"
+Towards an incremental maintenance of cyclic association rules
+"Rule-based Generation of Diff Evolution Mappings between Ontology
+  Versions"
+"Preserving Privacy in Sequential Data Release against Background
+  Knowledge Attacks"
+Ontological Matchmaking in Recommender Systems
+Scalable XML Collaborative Editing with Undo short paper
+"Treillis des concepts skylines : Analyse multidimensionnelle des
+  skylines fondée sur les ensembles en accord"
+Provenance for Aggregate Queries
+"A Novel Probabilistic Pruning Approach to Speed Up Similarity Queries in
+  Uncertain Databases"
+"A Comparative Agglomerative Hierarchical Clustering Method to Cluster
+  Implemented Course"
+Analysis of Web Logs and Web User in Web Mining
+Determining Relevance of Accesses at Runtime (Extended Version)
+"Latent table discovery by semantic relationship extraction between
+  unrelated sets of entity sets of structured data sources"
+Optimizing XML querying using type-based document projection
+Preprocessing: A Prerequisite for Discovering Patterns in WUM Process
+"Optimal Cell Towers Distribution by using Spatial Mining and Geographic
+  Information System"
+Privacy Preserving Moving KNN Queries
+"CoPhy: A Scalable, Portable, and Interactive Index Advisor for Large
+  Workloads"
+"Tuffy: Scaling up Statistical Inference in Markov Logic Networks using
+  an RDBMS"
+"EMBANKS: Towards Disk Based Algorithms For Keyword-Search In Structured
+  Databases"
+Data Base Mappings and Theory of Sketches
+Web services synchronization health care application
+Using Ontologies for the Design of Data Warehouses
+Consistent Query Answering under Spatial Semantic Constraints
+"Caching Stars in the Sky: A Semantic Caching Approach to Accelerate
+  Skyline Queries"
+Composition with Target Constraints
+"Probabilistic Voronoi Diagrams for Probabilistic Moving Nearest Neighbor
+  Queries"
+"Differentially Private Search Log Sanitization with Optimal Output
+  Utility"
+"Estudo de Viabilidade de uma Plataforma de Baixo Custo para Data
+  Warehouse"
+Towards Spatio-Temporal SOLAP
+Rule-based Construction of Matching Processes
+"XML content warehousing: Improving sociological studies of mailing lists
+  and web data"
+"A Frequent Closed Itemsets Lattice-based Approach for Mining Minimal
+  Non-Redundant Association Rules"
+"A Uniform Fixpoint Approach to the Implementation of Inference Methods
+  for Deductive Databases"
+"A Performance Study of Data Mining Techniques: Multiple Linear
+  Regression vs. Factor Analysis"
+Modification of GTD from Flat File Format to OLAP for Data Mining
+"Foundations of Traversal Based Query Execution over Linked Data
+  (Extended Version)"
+"Comments on ""Stack-based Algorithms for Pattern Matching on DAGs"""
+"Improving the recall of decentralised linked data querying through
+  implicit knowledge"
+"Metadata Challenge for Query Processing Over Heterogeneous Wireless
+  Sensor Network"
+Compression Aware Physical Database Design
+"A Business Intelligence Model to Predict Bankruptcy using Financial
+  Domain Ontology with Association Rule Mining Algorithm"
+"Event Centric Modeling Approach in Colocation Pattern Snalysis from
+  Spatial Data"
+Data Mining Techniques: A Source for Consumer Behavior Analysis
+"Adding a new site in an existing Oracle Multimaster replication without
+  quiescing the replication"
+"Representation for alphanumeric data type based on space and speed case
+  study: Student ID of X university"
+Maximal frequent itemset generation using segmentation approach
+"Adding Logical Operators to Tree Pattern Queries on Graph-Structured
+  Data"
+"Sensitivity Analysis for Declarative Relational Query Languages with
+  Ordinal Ranks"
+Explanation-Based Auditing
+Human-powered Sorts and Joins
+Verifying Computations with Streaming Interactive Proofs
+"A MovingObject Index for Efficient Query Processing with Peer-Wise
+  Location Privacy"
+"ERA: Efficient Serial and Parallel Suffix Tree Construction for Very
+  Long Strings"
+Fast Updates on Read-Optimized Databases Using Multi-Core CPUs
+A Data-Based Approach to Social Influence Maximization
+Analysing complexity of XML Schemas in geospatial web services
+Dealing with large schema sets in mobile SOS-based applications
+Adaptive Data Stream Management System Using Learning Automata
+"Array Requirements for Scientific Applications and an Implementation for
+  Microsoft SQL Server"
+An Efficient Fuzzy Clustering-Based Approach for Intrusion Detection
+ELCA Evaluation for Keyword Search on Probabilistic XML Data
+Efficient Incremental Breadth-Depth XML Event Mining
+Dimension Reduction of Health Data Clustering
+GTRACE-RS: Efficient Graph Sequence Mining using Reverse Search
+"On Predictive Modeling for Optimizing Transaction Execution in Parallel
+  OLTP Systems"
+View Selection in Semantic Web Databases
+Building Wavelet Histograms on Large Data in MapReduce
+"Summarization and Matching of Density-Based Clusters in Streaming
+  Environments"
+Multilingual Schema Matching for Wikipedia Infoboxes
+Controlling False Positives in Association Rule Mining
+Finding Heavy Paths in Graphs: A Rank Join Approach
+"Data Mining and Electronic Health Records: Selecting Optimal Clinical
+  Treatments in Practice"
+Differentially Private Trajectory Data Publication
+Compact Weighted Class Association Rule Mining using Information Gain
+"A Concurrency Control Method Based on Commitment Ordering in Mobile
+  Databases"
+The Spatial Nearest Neighbor Skyline Queries
+A Real-Time Database QoS-aware Service Selection Protocol for MANET
+The ViP2P Platform: XML Views in P2P
+Customer Data Clustering using Data Mining Technique
+Open Source CRM Systems for SMEs
+"Proposing Cluster_Similarity Method in Order to Find as Much Better
+  Similarities in Databases"
+"Usage Des Mesures Pour La Génération Des Règles d'Associations
+  Cycliques"
+Towards Cost-Effective Storage Provisioning for DBMSs
+"B+-tree Index Optimization by Exploiting Internal Parallelism of
+  Flash-based Solid State Drives"
+"High-Performance Concurrency Control Mechanisms for Main-Memory
+  Databases"
+Capturing Topology in Graph Pattern Matching
+RTED: A Robust Algorithm for the Tree Edit Distance
+Putting Lipstick on Pig: Enabling Database-style Workflow Provenance
+Relational Approach for Shortest Path Discovery over Large Graphs
+Mining Flipping Correlations from Large Datasets with Taxonomies
+A Statistical Approach Towards Robust Progress Estimation
+"ART : Sub-Logarithmic Decentralized Range Query Processing with
+  Probabilistic Guarantees"
+Detecting Priming News Events
+An Efficient Method for Mining Event-Related Potential Patterns
+"Relation Strength-Aware Clustering of Heterogeneous Information Networks
+  with Incomplete Attributes"
+"Shortest Path and Distance Queries on Road Networks: An Experimental
+  Evaluation"
+"The Filter-Placement Problem and its Application to Minimizing
+  Information Multiplicity"
+Fast and Exact Top-k Search for Random Walk with Restart
+Densest Subgraph in Streaming and MapReduce
+"Mining Attribute-structure Correlated Patterns in Large Attributed
+  Graphs"
+Aggregation in Probabilistic Databases via Knowledge Compilation
+"Verification of Relational Data-Centric Dynamic Systems with External
+  Services"
+"Stochastic Database Cracking: Towards Robust Adaptive Indexing in
+  Main-Memory Column-Stores"
+SharedDB: Killing One Thousand Queries With One Stone
+"Pushing the Boundaries of Crowd-enabled Databases with Query-driven
+  Schema Expansion"
+How to Price Shared Optimizations in the Cloud
+"Dense Subgraph Maintenance under Streaming Edge Weight Updates for
+  Real-time Story Identification"
+ReStore: Reusing Results of MapReduce Jobs
+Queries with Guarded Negation (full version)
+Bayesian inference under differential privacy
+"SPARQL for a Web of Linked Data: Semantics and Computability (Extended
+  Version)"
+Outlier detection from ETL Execution trace
+Towards a Unified Architecture for in-RDBMS Analytics
+"Quartile Clustering: A quartile based technique for Generating
+  Meaningful Clusters"
+Outlier Detection Techniques for SQL and ETL Tuning
+Analyzing closed frequent itemsets with convex polytopes
+"A Unifying Framework to Characterize the Power of a Language to Express
+  Relations"
+PerfXplain: Debugging MapReduce Job Performance
+Uncertain Centroid based Partitional Clustering of Uncertain Data
+Scalable K-Means++
+Querying Schemas With Access Restrictions
+"Definition, Detection, and Recovery of Single-Page Failures, a Fourth
+  Class of Database Failures"
+Concurrency Control for Adaptive Indexing
+An Analysis of Structured Data on the Web
+XRecursive: An Efficient Method to Store and Query XML Documents
+"Using Fuzzy Logic to Evaluate Normalization Completeness for An Improved
+  Database Design"
+"GeT_Move: An Efficient and Unifying Spatio-Temporal Pattern Mining
+  Algorithm for Moving Objects"
+How do Ontology Mappings Change in the Life Sciences?
+"Intelligent Database Flexible Querying System by Approximate Query
+  Processing"
+Converging to the Chase - a Tool for Finite Controllability
+On Injective Embeddings of Tree Patterns
+Taxonomy and synthesis of Web services querying languages
+Shortest Path Computation with No Information Leakage
+"V-SMART-Join: A Scalable MapReduce Framework for All-Pair Similarity
+  Joins of Multisets and Vectors"
+Learning Semantic String Transformations from Examples
+Cologne: A Declarative Distributed Constraint Optimization Platform
+Optimizing I/O for Big Array Analytics
+Clinical Productivity System - A Decision Support Model
+Efficient techniques for mining spatial databases
+Frequent Patterns mining in time-sensitive Data Stream
+"Aggregate Skyline Join Queries: Skylines with Aggregate Operations over
+  Multiple Relations"
+A Scalable Algorithm for Maximizing Range Sum in Spatial Databases
+Spatial Queries with Two kNN Predicates
+Optimal Algorithms for Crawling a Hidden Database in the Web
+Diversifying Top-K Results
+Keyword-aware Optimal Route Search
+"Answering Queries using Views over Probabilistic XML: Complexity and
+  Tractability"
+Probabilistic Databases with MarkoViews
+The Complexity of Social Coordination
+Efficient Multi-way Theta-Join Processing Using MapReduce
+Stubby: A Transformation-based Optimizer for MapReduce Workflows
+Labeling Workflow Views with Fine-Grained Dependencies
+Fundamentals of Order Dependencies
+Optimization of Analytic Window Functions
+Opening the Black Boxes in Data Flow Optimization
+Spinning Fast Iterative Data Flows
+"REX: Recursive, Delta-Based Data-Centric Computation"
+K-Reach: Who is in Your Small World
+Performance Guarantees for Distributed Reachability Queries
+Efficient Indexing and Querying over Syntactically Annotated Trees
+PrivBasis: Frequent Itemset Mining with Differential Privacy
+Low-Rank Mechanism: Optimizing Batch Queries under Differential Privacy
+Spatial and Spatio-Temporal Multidimensional Data Modelling: A Survey
+"Towards the Next Generation of Data Warehouse Personalization System: A
+  Survey and a Comparative Study"
+Functional Mechanism: Regression Analysis under Differential Privacy
+Publishing Microdata with a Robust Privacy Guarantee
+Measuring Two-Event Structural Correlations on Graphs
+Ranking Large Temporal Data
+Compacting Transactional Data in Hybrid OLTP & OLAP Databases
+Processing a Trillion Cells per Mouse Click
+OLTP on Hardware Islands
+"Serializability, not Serial: Concurrency Control and Availability in
+  Multi-Datacenter Datastores"
+Automatic Partitioning of Database Applications
+"Whom to Ask? Jury Selection for Decision Making Tasks on Micro-blog
+  Services"
+"ALAE: Accelerating Local Alignment with Affine Gap Exactly in
+  Biosequence Databases"
+"sDTW: Computing DTW Distances using Locally Relevant Constraints based
+  on Salient Feature Alignments"
+SCOUT: Prefetching for Latent Feature Following Queries
+"Accelerating Pathology Image Data Cross-Comparison on CPU-GPU Hybrid
+  Systems"
+"Robust Estimation of Resource Consumption for SQL Queries using
+  Statistical Techniques"
+Who Tags What? An Analysis Framework
+A Generic Framework for Efficient and Effective Subsequence Retrieval
+Only Aggressive Elephants are Fast Elephants
+"Multiple Location Profiling for Users and Relationships from Social
+  Network and Content"
+Flash-based Extended Cache for Higher Throughput and Faster Recovery
+Don't Thrash: How to Cache Your Hash on Flash
+Learning Expressive Linkage Rules using Genetic Programming
+Mining Frequent Itemsets over Uncertain Databases
+Comparative Evaluation of Data Stream Indexing Models
+Building and Maintaining Halls of Fame over a Database
+CrowdER: Crowdsourcing Entity Resolution
+Uncertain Time-Series Similarity: Return to the Basics
+Statistical Distortion: Consequences of Data Cleaning
+Towards Energy-Efficient Database Cluster Design
+Breaking Out The XML MisMatch Trap
+Privacy Preserving Record Linkage via grams Projections
+"Impedance mismatch is not an ""Objects vs. Relations"" problem"
+"DisC Diversity: Result Diversification based on Dissimilarity and
+  Coverage"
+"Algorithms for Efficient Mining of Statistically Significant Attribute
+  Association Information"
+"Digging Deeper into Deep Web Databases by Breaking Through the Top-k
+  Barrier"
+Concept driven framework for Latent Table Discovery
+Injecting Uncertainty in Graphs for Identity Obfuscation
+"The MADlib Analytics Library or MAD Skills, the SQL"
+Can the Elephants Handle the NoSQL Onslaught?
+"Solving Big Data Challenges for Enterprise Application Performance
+  Management"
+M3R: Increased performance for in-memory Hadoop jobs
+A Storage Advisor for Hybrid-Store Databases
+From Cooperative Scans to Predictive Buffer Management
+The Unified Logging Infrastructure for Data Analytics at Twitter
+Transaction Log Based Application Error Recovery and Point In-Time Query
+The Vertica Analytic Database: C-Store 7 Years Later
+"Interactive Analytical Processing in Big Data Systems: A Cross-Industry
+  Study of MapReduce Workloads"
+Muppet: MapReduce-Style Processing of Fast Data
+"Building User-defined Runtime Adaptation Routines for Stream Processing
+  Applications"
+"MOIST: A Scalable and Parallel Moving Object Indexer with School
+  Tracking"
+Serializable Snapshot Isolation in PostgreSQL
+"ODYS: A Massively-Parallel Search Engine Using a DB-IR
+  Tightly-Integrated Parallel DBMS"
+"Comparing N-Node Set Importance Representative results with Node
+  Importance Representative results for Categorical Clustering: An exploratory
+  study"
+A Framework for Extracting Semantic Guarantees from Privacy
+"Bayes Networks for Supporting Query Processing Over Incomplete
+  Autonomous Databases"
+Joining relations under discrete uncertainty
+Views over RDF Datasets: A State-of-the-Art and Open Challenges
+Data Shapes and Data Transformations
+"An Adaptive parameter free data mining approach for healthcare
+  application"
+"IS-LABEL: an Independent-Set based Labeling Scheme for Point-to-Point
+  Distance Querying on Large Graphs"
+The View Update Problem Revisited
+Multi Relational Data Mining Approaches: A Data Mining Technique
+Building a health care data warehouse for cancer diseases
+Temporal Provenance Model (TPM): Model and Query Language
+A survey on data and transaction management in mobile databases
+"Data Mining: A prediction Technique for the workers in the PR Department
+  of Orissa (Block and Panchayat)"
+Extending SPARQL to Support Entity Grouping and Path Queries
+Shark: SQL and Rich Analytics at Scale
+A RDF-based Data Integration Framework
+"NoSQL Database: New Era of Databases for Big data Analytics -
+  Classification, Characteristics and Comparison"
+A Sampling Algebra for Aggregate Estimation
+Making massive probabilistic databases practical
+Link Based Session Reconstruction: Finding All Maximal Paths
+"Les index pour les entrepôts de données : comparaison entre index
+  arbre-B et Bitmap"
+"Ontology Based Data Integration Over Document and Column Family Oriented
+  NOSQL"
+Integrity Verification for Outsourcing Uncertain Frequent Itemset Mining
+Spatio-Temporal Queries for moving objects Data warehousing
+"The technology of using a data warehouse to support decision-making in
+  health care"
+Pleasantly Consuming Linked Data with RDF Data Descriptions
+Evaluating a healthcare data warehouse for cancer diseases
+"Extending the ER Model to relational Model novel transformation
+  Algorithm: transforming relationship Types among Subtypes"
+Algorithm and approaches to handle large Data- A Survey
+Learning Schemas for Unordered XML
+"Data Warehouse Success and Strategic Oriented Business Intelligence: A
+  Theoretical Framework"
+"Towards an Efficient Discovery of the Topological Representative
+  Subgraphs"
+Introducing Access Control in Webdamlog
+ENFrame: A Platform for Processing Probabilistic Data
+Hyper-Graph Based Database Partitioning for Transactional Workloads
+"Performance analysis of modified algorithm for finding multilevel
+  association rules"
+"Forecasting Stock Time-Series using Data Approximation and Pattern
+  Sequence Similarity"
+Mine Blood Donors Information through Improved K-Means Clustering
+CrowdPlanner: A Crowd-Based Route Recommendation System
+Discovery of Approximate Differential Dependencies
+Undefined By Data: A Survey of Big Data Definitions
+"Determining Relevant Relations for Datalog Queries under Access
+  Limitations is Undecidable"
+Flexible SQLf query based on fuzzy linguistic summaries
+Discovering Compressing Serial Episodes from Event Sequences
+"Towards Breaking the Curse of Dimensionality for High-Dimensional
+  Privacy: An Extended Version"
+BigDataBench: a Big Data Benchmark Suite from Internet Services
+NoSQL Databases
+"High speed data retrieval from national data center (ndc) reducing time
+  and ignoring spelling error in search key based on double metaphone algorithm"
+Distance Landmarks Revisited for Road Graphs
+"Front End Data Cleaning And Transformation In Standard Printed Form
+  Using Neural Models"
+Termination of oblivious chase is undecidable
+"WaterFowl, a Compact, Self-indexed RDF Store with Inference-enabled
+  Dictionaries"
+BDGS: A Scalable Big Data Generator Suite in Big Data Benchmarking
+EagleTree: Exploring the Design Space of SSD-Based Algorithms
+OLAP on Structurally Significant Data in Graphs
+XLSearch: A Search Engine for Spreadsheets
+Security Implications of Distributed Database Management System Models
+An Optimal Linear Time Algorithm for Quasi-Monotonic Segmentation
+Optimization Approach for Detecting the Critical Data on a Database
+"Tri de la table de faits et compression des index bitmaps avec
+  alignement sur les mots"
+An Experimental Investigation of XML Compression Tools
+Histograms and Wavelets on Probabilistic Data
+Using rational numbers to key nested sets
+"Challenging More Updates: Towards Anonymous Re-publication of Fully
+  Dynamic Datasets"
+Nested Ordered Sets and their Use for Data Modelling
+"Conception et Evaluation de XQuery dans une architecture de médiation
+  ""Tout-XML"""
+Can the Utility of Anonymized Data be used for Privacy Breaches?
+Web 2.0 OLAP: From Data Cubes to Tag Clouds
+"Techniques for Securing Data Exchange between a Database Server and a
+  Client Program"
+Optimizing XML Compression
+"Progressive Processing of Continuous Range Queries in Hierarchical
+  Wireless Sensor Networks"
+"A Rough Sets Partitioning Model for Mining Sequential Patterns with Time
+  Constraint"
+Fast Probabilistic Ranking under x-Relation Model
+"Prioritized Repairing and Consistent Query Answering in Relational
+  Databases"
+Enhancing XML Data Warehouse Query Performance by Fragmentation
+"An Algorithmic Structuration of a Type System for an Orthogonal
+  Object/Relational Model"
+Multiresolution Cube Estimators for Sensor Network Aggregate Queries
+LiquidXML: Adaptive XML Content Redistribution
+PDM based I-SOAS Data Warehouse Design
+Removal of Communication Gap
+"Probabilistic Frequent Pattern Growth for Itemset Mining in Uncertain
+  Databases (Technical Report)"
+"Data Cleaning and Query Answering with Matching Dependencies and
+  Matching Functions"
+ElasTraS: An Elastic Transactional Data Store in the Cloud
+"Matching Dependencies with Arbitrary Attribute Values: Semantics, Query
+  Answering and Integrity Constraints"
+On the Count of Trees
+Preference Elicitation in Prioritized Skyline Queries
+Mining Frequent Itemsets Using Genetic Algorithm
+"Individual Privacy vs Population Privacy: Learning to Attack
+  Anonymization"
+Business Intelligence for Small and Middle-Sized Entreprises
+XWeB: the XML Warehouse Benchmark
+Pattern tree-based XOLAP rollup operator for XML complex hierarchies
+"A Trajectory UML profile For Modeling Trajectory Data: A Mobile Hospital
+  Use Case"
+"Specifying Data Bases Management Systems by Using RM-ODP Engineering
+  Language"
+"Using Data Warehouse to Support Building Strategy or Forecast Business
+  Tend"
+A Comprehensive Study of CRM through Data Mining Techniques
+"CSHURI - Modified HURI algorithm for Customer Segmentation and
+  Transaction Profitability"
+Moving Object Trajectories Meta-Model And Spatio-Temporal Queries
+"Using data mining techniques for diagnosis and prognosis of cancer
+  disease"
+"Publishing Life Science Data as Linked Open Data: the Case Study of
+  miRBase"
+Identifying And Weighting Integration Hypotheses On Open Data Platforms
+Improving Schema Matching with Linked Data
+Non-Interactive Differential Privacy: a Survey
+Efficient Spatial Keyword Search in Trajectory Databases
+Survey on Distributed Data Mining in P2P Networks
+"Tree Projections and Structural Decomposition Methods: The Power of
+  Local Consistency and Larger Islands of Tractability"
+"Robust representation for conversion UML class into XML Document using
+  DOM"
+"Mapping relational database into OWL Structure with data semantic
+  preservation"
+Efficient Subgraph Matching on Billion Node Graphs
+"Efficient Subgraph Similarity Search on Large Probabilistic Graph
+  Databases"
+Truss Decomposition in Massive Networks
+SEAL: Spatio-Textual Similarity Search
+On The Spatiotemporal Burstiness of Terms
+"Efficient Reachability Query Evaluation in Large Spatiotemporal Contact
+  Datasets"
+Boosting Moving Object Indexing through Velocity Partitioning
+Type-Based Detection of XML Query-Update Independence
+Minuet: A Scalable Distributed Multiversion B-Tree
+Challenging the Long Tail Recommendation
+"Hopping over Big Data: Accelerating Ad-hoc OLAP Queries with Grasshopper
+  Algorithms"
+Identifying Correlated Heavy-Hitters in a Two-Dimensional Data Stream
+"Review on Fragment Allocation by using Clustering Technique in
+  Distributed Database System"
+Handy Annotations within Oracle 10g
+Multi-Sorted Inverse Frequent Itemsets Mining
+Real Time Data Warehouse
+Ontology based data warehouses federation management system
+"New Proximity Estimate for Incremental Update of Non-uniformly
+  Distributed Clusters"
+Scalable Visibility Color Map Construction in Spatial Databases
+Approximation Schemes for Many-Objective Query Optimization
+"D-P2P-Sim+:A Novel Distributed Framework for P2P Protocols Performance
+  Testing"
+Validating RDF with Shape Expressions
+Main Memory Adaptive Indexing for Multi-core Systems
+SAP HANA and its performance benefits
+"A 2D based Partition Strategy for Solving Ranking under Team Context
+  (RTP)"
+"Case study: Data Mining of Associate Degree Accepted Candidates by
+  Modular Method"
+Functional dependencies with null markers
+"EAGr: Supporting Continuous Ego-centric Aggregate Queries over Large
+  Dynamic Graphs"
+"How to extract data from proprietary software database systems using
+  TCP/IP?"
+Causality in Databases: The Diagnosis and Repair Connections
+Continuous Matrix Approximation on Distributed Data
+An LSH Index for Computing Kendall's Tau over Top-k Lists
+"DataHub: Collaborative Data Science & Dataset Version Management at
+  Scale"
+Monoidal functional dependencies
+FS^3: A Sampling based method for top-k Frequent Subgraph Mining
+"Finding Patterns in a Knowledge Base using Keywords to Compose Table
+  Answers"
+Two-level Data Staging ETL for Transaction Data
+Optimizing ETL Dataflow Using Shared Caching and Parallelization Methods
+Representation Independent Analytics Over Structured Data
+Towards Knowledge-Enriched Path Computation
+"A Sample-Based Approach to Data Quality Assessment in Spatial Databases
+  with Application to Mobile Trajectory Nearest-Neighbor Search"
+Reconciliation of RDF* and Property Graphs
+Concept-oriented model: inference in hierarchical multidimensional space
+"A novel recovery mechanism enabling fine-granularity locking and fast,
+  REDO-only recovery"
+"The Missing Piece in Complex Analytics: Low Latency, Scalable Model
+  Management and Serving with Velox"
+Scalable and Efficient Self-Join Processing technique in RDF data
+Enabling Incremental Query Re-Optimization
+Truth Discovery Algorithms: An Experimental Evaluation
+Scalable Density-Based Distributed Clustering
+A New Clustering Algorithm Based on Near Neighbor Influence
+Estimating the pattern frequency spectrum inside the browser
+"The Expected Optimal Labeling Order Problem for Crowdsourced Joins and
+  Entity Resolution"
+"Histogram-Aware Sorting for Enhanced Word-Aligned Compression in Bitmap
+  Indexes"
+Consensus Answers for Queries over Probabilistic Databases
+Equivalence of SQL Queries in Presence of Embedded Dependencies
+"A Data Model for Integrating Heterogeneous Medical Data in the
+  Health-e-Child Project"
+"Ontology Assisted Query Reformulation Using Semantic and Assertion
+  Capabilities of OWL-DL Ontologies"
+Business processes integration and performance indicators in a PLM
+Foundations of SPARQL Query Optimization
+An Array Algebra
+Home Heating Systems Design using PHP and MySQL Databases
+"Laconic schema mappings: computing core universal solutions by means of
+  SQL queries"
+Discovering Matching Dependencies
+Evaluation d'une requete en SQL
+Cooperative Update Exchange in the Youtopia System
+Why Did My Query Slow Down?
+Composition and Inversion of Schema Mappings
+A framework to model real-time databases
+Efficient Candidacy Reduction For Frequent Pattern Mining
+"Finding top-k similar pairs of objects annotated with terms from an
+  ontology"
+A Model for Mining Multilevel Fuzzy Association Rule in Database
+Proposing a New Method for Query Processing Adaption in DataBase
+"Page-Differential Logging: An Efficient and DBMS-independent Approach
+  for Storing Data into Flash Memory"
+The WebContent XML Store
+"Anonimos: An LP based Approach for Anonymizing Weighted Social Network
+  Graphs"
+Semi-Automatic Index Tuning: Keeping DBAs in the Loop
+PROBER: Ad-Hoc Debugging of Extraction and Integration Pipelines
+"Mining The Data From Distributed Database Using An Improved Mining
+  Algorithm"
+Mobile Database System: Role of Mobility on the Query Processing
+Database Reverse Engineering based on Association Rule Mining
+An Optimized Weighted Association Rule Mining On Dynamic Content
+Database Security: A Historical Perspective
+A Data Cleansing Method for Clustering Large-scale Transaction Databases
+"Faster Query Answering in Probabilistic Databases using Read-Once
+  Functions"
+A Survey on Data Warehouse Evolution
+YeastMed: an XML-Based System for Biological Data Integration of Yeast
+Benchmarking triple stores with biological data
+ChemCloud: Chemical e-Science Information Cloud
+Provenance and evidence in UniProtKB
+Ontology Usage at ZFIN
+Relational transducers for declarative networking
+A fast divide-and-conquer algorithm for indexing human genome sequences
+Target-driven merging of Taxonomies
+Fast and Tiny Structural Self-Indexes for XML
+Cluster Evaluation of Density Based Subspace Clustering
+"Mining Target-Oriented Fuzzy Correlation Rules to Optimize Telecom
+  Service Management"
+Inverse Queries For Multidimensional Spaces
+"RDBNorma: - A semi-automated tool for relational database schema
+  normalization up to third normal form"
+Querying and Manipulating Temporal Databases
+Differentially Private Publication of Sparse Data
+Managing and Querying Web Services Communities: A Survey
+"A General Framework for Representing, Reasoning and Querying with
+  Annotated Semantic Web Data"
+Efficient Batch Query Answering Under Differential Privacy
+Automatic Wrappers for Large Scale Web Extraction
+Large-Scale Collective Entity Matching
+Guided Data Repair
+Incrementally Maintaining Classification using an RDBMS
+On the Scalability of Multidimensional Databases
+Difference Sequence Compression of Multidimensional Databases
+"Multidimensional or Relational? / How to Organize an On-line Analytical
+  Processing Database"
+Caching in Multidimensional Databases
+Difference-Huffman Coding of Multidimensional Databases
+"Distributed Inference and Query Processing for RFID Tracking and
+  Monitoring"
+Detection of Spatial Changes using Spatial Data Mining
+An Introduction to Functional dependency in Relational Databases
+Differentially Private Spatial Decompositions
+"Heuristic Algorithm for Interpretation of Non-Atomic Categorical
+  Attributes in Similarity-based Fuzzy Databases - Scalability Evaluation"
+Negative Database for Data Security
+"Preprocessing: A Prerequisite for Discovering Patterns in Web Usage
+  Mining Process"
+Emerging multidisciplinary research across database management systems
+"An analytical framework for data stream mining techniques based on
+  challenges and requirements"
+On the Limitations of Provenance for Queries With Difference
+Synthesizing Products for Online Catalogs
+Implementing Performance Competitive Logical Recovery
+Default-all is dangerous!
+Performance of Short-Commit in Extreme Database Environment
+A Call to Arms: Revisiting Database Design
+"SERIMI - Resource Description Similarity, RDF Instance Matching and
+  Interlinking"
+"A Survey of User-Centric Data Warehouses: From Personalization to
+  Recommendation"
+Optimizing Index Deployment Order for Evolving OLAP (Extended Version)
+Discovering Attractive Products based on Influence Sets
+A semantically enriched web usage based recommendation model
+A Novel Approach for Web Page Set Mining
+Principles of Distributed Data Management in 2020?
+"A fusion algorithm for joins based on collections in Odra (Object
+  Database for Rapid Application development)"
+"CBLOCK: An Automatic Blocking Mechanism for Large-Scale De-duplication
+  Tasks"
+"A New Technique to Backup and Restore DBMS using XML and .NET
+  Technologies"
+"Coron : Plate-forme d'extraction de connaissances dans les bases de
+  données"
+The Coron System
+"Nouvelle représentation concise exacte des motifs corrélés rares :
+  Application à la détection d'intrusions"
+"PARIS: Probabilistic Alignment of Relations, Instances, and Schema"
+"Answering Top-k Queries Over a Mixture of Attractive and Repulsive
+  Dimensions"
+PIQL: Success-Tolerant Query Processing in the Cloud
+gSketch: On Query Estimation in Graph Streams
+Indexing the Earth Mover's Distance Using Normal Distributions
+Size-l Object Summaries for Relational Keyword Search
+REX: Explaining Relationships between Entity Pairs
+PASS-JOIN: A Partition-based Method for Similarity Joins
+"Generating Exact- and Ranked Partially-Matched Answers to Questions in
+  Advertisements"
+Getting It All from the Crowd
+"Detection of Calendar-Based Periodicities of Interval-Based Temporal
+  Patterns"
+Randomization Resilient To Sensitive Reconstruction
+Data quality measurement on categorical data using genetic algorithm
+Small Count Privacy and Large Count Utility in Data Publishing
+Adaptively Sharing Time-Series with Differential Privacy
+"On Directly Mapping Relational Databases to RDF and OWL (Extended
+  Version)"
+Inferential or Differential: Privacy Laws Dictate
+"An Adaptive Mechanism for Accurate Query Answering under Differential
+  Privacy"
+Association Rule Mining Based On Trade List
+"DPCube: Differentially Private Histogram Release through
+  Multidimensional Partitioning"
+Trajectory and Policy Aware Sender Anonymity in Location Based Services
+Answering Table Queries on the Web using Column Keywords
+SODA: Generating SQL for Business Users
+Privacy Preservation by Disassociation
+"Supercharging Recommender Systems using Taxonomies for Learning User
+  Purchase Behavior"
+"DBToaster: Higher-order Delta Processing for Dynamic, Frequently Fresh
+  Views"
+Sketch-based Querying of Distributed Sliding-Window Data Streams
+LogBase: A Scalable Log-structured Database System in the Cloud
+Efficient Processing of k Nearest Neighbor Joins using MapReduce
+Early Accurate Results for Advanced Analytics on MapReduce
+CDAS: A Crowdsourcing Data Analytics System
+"Mining Statistically Significant Substrings using the Chi-Square
+  Statistic"
+"Massively Parallel Sort-Merge Joins in Main Memory Multi-Core Database
+  Systems"
+"hStorage-DB: Heterogeneity-aware Data Management to Exploit the Full
+  Capability of Hybrid Storage Systems"
+Data Mining on Educational Domain
+Reordering Rows for Better Compression: Beyond the Lexicographic Order
+"Presentation an Approach for Optimization of Semantic Web Language Based
+  on the Document Structure"
+"Minimally Infrequent Itemset Mining using Pattern-Growth Paradigm and
+  Residual Trees"
+"On the Relative Trust between Inconsistent Data and Inaccurate
+  Constraints"
+"Approximate Inverse Frequent Itemset Mining: Privacy, Complexity, and
+  Approximation"
+"Accurate and Efficient Private Release of Datacubes and Contingency
+  Tables"
+Covering Rough Sets From a Topological Point of View
+Provenance for SPARQL queries
+A New Similairty Measure For Spatial Personalization
+"Shadow Theory, data model design for data integration"
+Protecting oracle pl/sql source code from a dba user
+Incomplete Information in RDF
+Formal Concept Analysis Based Association Rules Extraction
+Cyclic Association Rules Mining under Constraints
+"Hybrid Data Mining Technique for Knowledge Discovery from Engineering
+  Materials' Data sets"
+Ranking Search Engine Result Pages based on Trustworthiness of Websites
+"A Coherent Distributed Grid Service for Assimilation and Unification of
+  Heterogeneous Data Source"
+Granular association rules on two universes with four measures
+Managing Complex Structured Data In a Fast Evolving Environment
+"An Efficient Algorithm for Mining Multilevel Association Rule Based on
+  Pincer Search"
+Spatial Indexing of Large Multidimensional Databases
+A Comparative Analysis of Data Mining Tools in Agent Based Systems
+"Data Mining and Its Applications for Knowledge Management: A Literature
+  Review from 2007 to 2012"
+Semantic integration and analysis of clinical data
+An Experience Report of Large Scale Federations
+"The Ontological Key: Automatically Understanding and Integrating Forms
+  to Access the Deep Web"
+AMBER: Automatic Supervision for Multi-Attribute Extraction
+Enhancing Algebraic Query Relaxation with Semantic Similarity
+Affinity-based XML Fragmentation
+Shared Execution of Path Queries on Road Networks
+"Top Down Approach to find Maximal Frequent Item Sets using Subset
+  Creation"
+"Resolution and Datalog Rewriting Under Value Invention and Equality
+  Constraints"
+An Improved UP-Growth High Utility Itemset Mining
+mqr-tree: A 2-dimensional Spatial Access Method
+A Data Warehouse Design for a Typical University Information System
+A Propagation Model for Provenance Views of Public/Private Workflows
+Controlled conflict resolution for replicated document
+On optimum left-to-right strategies for active context-free games
+Partout: A Distributed Engine for Efficient RDF Processing
+Automatic approach for generating ETL operators
+Heuristics Miners for Streaming Event Data
+"A Dichotomy on the Complexity of Consistent Query Answering for Atoms
+  with Simple Keys"
+BigDB: Automatic Machine Learning Optimizer
+User Profile-Driven Data Warehouse Summary for Adaptive OLAP Queries
+Quasi-SLCA based Keyword Query Processing over Probabilistic XML Data
+Context-based Diversification for Keyword Queries over XML Data
+"Query-driven Frequent Co-occurring Term Extraction over Relational Data
+  using MapReduce"
+Mining Frequent Graph Patterns with Differential Privacy
+"A Survey on Array Storage, Query Languages, and Systems"
+"Highly Available Transactions: Virtues and Limitations (Extended
+  Version)"
+Perancangan basisdata sistem informasi penggajian
+New Dimension Value Introduction for In-Memory What-If Analysis
+Beyond Worst-Case Analysis for Joins with Minesweeper
+Validasi data dengan menggunakan objek lookup pada borland delphi 7.0
+Discovery of Maximal Frequent Item Sets using Subset Creation
+Update XML Views
+The Family of MapReduce and Large Scale Data Processing Systems
+On Sharing Private Data with Multiple Non-Colluding Adversaries
+"Adaptive Partitioning and its Applicability to a Highly Scalable and
+  Available Geo-Spatial Indexing Solution"
+Approximate k-nearest neighbour based spatial clustering using k-d tree
+Trajectory Based Optimal Segment Computation in Road Network Databases
+"Integrating Space, Time, Version and Scale Using Alexandrov Topologies"
+"Consistency Checking and Querying in Probabilistic Databases under
+  Integrity Constraints"
+Simple Schemas for Unordered XML
+BarQL: Collaborating Through Change
+"Does query performance optimization lead to energy efficiency? A
+  comparative analysis of energy efficiency of database operations under
+  different workload scenarios"
+Anatomy of the chase
+On the Formulation of Performant SPARQL Queries
+Conditional Tables in practice
+RITA: An Index-Tuning Advisor for Replicated Databases
+Object-Oriented Translation for Programmable Relational System (DRAFT)
+Containment of Nested Regular Expressions
+"GUI Database for the Equipment Store of the Department of Geomatic
+  Engineering, KNUST"
+SCAF An effective approach to Classify Subspace Clustering algorithms
+"Bidirectional Growth based Mining and Cyclic Behaviour Analysis of Web
+  Sequential Patterns"
+The Webdamlog System Managing Distributed Knowledge on the Web
+Learning and Verifying Quantified Boolean Queries by Example
+"Recursive Mechanism: Towards Node Differential Privacy and Unrestricted
+  Joins [Full Version, Draft 0.1]"
+"Traitement approximatif des requêtes flexibles avec groupement
+  d'attributs et jointure"
+"Left Bit Right: For SPARQL Join Queries with OPTIONAL Patterns
+  (Left-outer-joins)"
+"On the Complexity of Query Answering under Matching Dependencies for
+  Entity Resolution"
+"Simple, Fast, and Scalable Reachability Oracle"
+"Formal Representation of the SS-DB Benchmark and Experimental Evaluation
+  in EXTASCID"
+Optimization of stochastic database cracking
+Translating Relational Queries into Spreadsheets
+Using Page Size for Controlling Duplicate Query Results in Semantic Web
+Rule-Based Application Development using Webdamlog
+Mining Frequent Neighborhood Patterns in Large Labeled Graphs
+"Probabilistic Nearest Neighbor Queries on Uncertain Moving Object
+  Trajectories"
+Search and Result Presentation in Scientific Workflow Repositories
+Geographica: A Benchmark for Geospatial RDF Stores
+Towards a semantic and statistical selection of association rules
+Notes on Physical & Logical Data Layouts
+"Subgraph Pattern Matching over Uncertain Graphs with Identity Linkage
+  Uncertainty"
+"Tuple Value Based Multiplicative Data Perturbation Approach To Preserve
+  Privacy In Data Stream Mining"
+Verification of Query Completeness over Processes [Extended Version]
+A Conceptual Metadata Framework for Spatial Data Warehouse
+Fast Search for Dynamic Multi-Relational Graphs
+StreamWorks - A system for Dynamic Graph Search
+Preserving differential privacy under finite-precision semantics
+"Modifying the Entity relationship modelling notation: towards high
+  quality relational databases from better notated ER models"
+Communication Steps for Parallel Query Processing
+"Towards a better insight of RDF triples Ontology-guided Storage system
+  abilities"
+"A novel ER model to relational model transformation algorithm for
+  semantically clear high quality database design"
+"XPath Satisfiability with Parent Axes or Qualifiers Is Tractable under
+  Many of Real-World DTDs"
+Graywulf: A platform for federated scientific databases and services
+"Application of Inventory Management Principles for Efficient Data
+  Placement in Storage Networks"
+Mining Positive and Negative Association Rules Using CoherentApproach
+Just In Time Indexing
+"Combined-Semantics Equivalence Is Decidable for a Practical Class of
+  Conjunctive Queries"
+Gcube Indexing
+"Rewriting XPath Queries using View Intersections: Tractability versus
+  Completeness"
+"A Principled Approach to Bridging the Gap between Graph Data and their
+  Schemas"
+Framework Model for Database Replication within the Availability Zones
+"A Novel Query-Based Approach for Addressing Summarizability Issues in
+  XOLAP"
+"Benchmarking Summarizability Processing in XML Warehouses with Complex
+  Hierarchies"
+Enhanced Data Integration for LabVIEW Laboratory Systems
+"Revisiting Aggregation for Data Intensive Applications: A Performance
+  Study"
+"Explicit and Implicit Constrained-Space Probabilistic Threshold Range
+  Queries for Moving Objects"
+Sequential Mining: Patterns and Algorithms Analysis
+"Automated Change Detection and Reactive Clustering in Multivariate
+  Streaming Data"
+"The SPARQL2XQuery Interoperability Framework. Utilizing Schema Mapping,
+  Schema Transformation and Query Translation to Integrate XML and the Semantic
+  Web"
+"On the inequality of the 3V's of Big Data Architectural Paradigms: A
+  case for heterogeneity"
+A multi-terabyte relational database for geo-tagged social network data
+Querying Knowledge Graphs by Example Entity Tuples
+Anatomy of Graph Matching based on an XQuery and RDF Implementation
+Synthetic Data Generation using Benerator Tool
+Answering SPARQL queries modulo RDF Schema with paths
+Enhanced XML Validation using SRML
+Application of Rough Set Theory in Data Mining
+Incremental Discovery of Prominent Situational Facts
+"Scientific Workflows and Provenance: Introduction and Research
+  Opportunities"
+On Quantifying Qualitative Geospatial Data: A Probabilistic Approach
+Scalable Data Cube Analysis over Big Data
+SOFA: An Extensible Logical Optimizer for UDF-heavy Dataflows
+XQuery Streaming by Forest Transducers
+Efficient XML Keyword Search based on DAG-Compression
+"Partitioning Clustering algorithms for handling numerical and
+  categorical data: a review"
+Schemas for Unordered XML on a DIME
+"A Proposal for the Characterization of Multi-Dimensional
+  Inter-relationships of RDF Graphs Based on Set Theoretic Approach"
+Datom: Towards modular data management
+Distributed Data Placement via Graph Partitioning
+Implementation of CRISP Methodology for ERP Systems
+"On the difference between checking integrity constraints before or after
+  updates"
+"On the dependency on the size of the data when chasing under conceptual
+  dependencies"
+"Unsupervised classification of uncertain data objects in spatial
+  databases using computational geometry and indexing techniques"
+"DRSP : Dimension Reduction For Similarity Matching And Pruning Of Time
+  Series Data Streams"
+"Analysis & Prediction of Sales Data in SAP-ERP System using Clustering
+  Algorithms"
+Win-Move is Coordination-Free (Sometimes)
+Efficient Lineage for SUM Aggregate Queries
+Blowfish Privacy: Tuning Privacy-Utility Trade-offs using Policies
+Oblivious Query Processing
+On Load Shedding in Complex Event Processing
+GCG: Mining Maximal Complete Graph Patterns from Large Spatial Data
+New Approach to Optimize the Time of Association Rules Extraction
+Object Selection under Team Context
+Containment of Schema Mappings for Data Exchange (Preliminary Report)
+Deep Separability of Ontological Constraints
+"Extending Contexts with Ontologies for Multidimensional Data Quality
+  Assessment"
+Towards Connected Enterprises: The Business Network System
+Incremental classification using Feature Tree
+In-Memory Database Systems - A Paradigm Shift
+A Survey on Spatial Co-location Patterns Discovery from Spatial Datasets
+Use of Dynamical Systems Modeling to Hybrid Cloud Database
+PRESS: A Novel Framework of Trajectory Compression in Road Networks
+Foundation for Frequent Pattern Mining Algorithms Implementation
+Coordination Avoidance in Database Systems (Extended Version)
+GraphX: Unifying Data-Parallel and Graph-Parallel Analytics
+Materialized View Replacement using Markovs Analysis
+Efficient Analysis of Pattern and Association Rule Mining Approaches
+Differential Privacy: An Economic Method for Choosing Epsilon
+Program Transformations for Asynchronous and Batched Query Submission
+Better bitmap performance with Roaring bitmaps
+"Rapid AkNN Query Processing for Fast Classification of Multidimensional
+  Data in the Cloud"
+"Two Stage Prediction Process with Gradient Descent Methods Aligning with
+  the Data Privacy Preservation"
+Intensional RDB Manifesto: a Unifying NewSQL Model for Flexible Big Data
+Research Traceability using Provenance Services for Biomedical Analysis
+"GraphChi-DB: Simple Design for a Scalable Graph Database System -- on
+  Just a PC"
+"Hop Doubling Label Indexing for Point-to-Point Distance Querying on
+  Scale-Free Networks"
+Uncertainty in Crowd Data Sourcing under Structural Constraints
+"The Homeostasis Protocol: Avoiding Transaction Coordination Through
+  Program Analysis"
+Aggregate Estimation Over Dynamic Hidden Web Databases
+"An Approach for Normalizing Fuzzy Relational Databases Based on Join
+  Dependency"
+A Spatial Data Model for Moving Object Databases
+An Improved Apriori Algorithm for Association Rules
+"(α, k)-Minimal Sorting and Skew Join in MPI and MapReduce"
+Transaction Repair: Full Serializability Without Locks
+Metadata for Energy Disaggregation
+Intensional RDB for Big Data Interoperability
+A Fast Minimal Infrequent Itemset Mining Algorithm
+Updating RDFS ABoxes and TBoxes in SPARQL
+Multi-Resource Parallel Query Scheduling and Optimization
+"Integrated Data Acquisition, Storage, Retrieval and Processing Using the
+  COMPASS DataBase (CDB)"
+Approximate Query Answering in Inconsistent Databases
+"General upper bounds for well-behaving goodness measures on dependency
+  rules"
+Assessing the statistical significance of association rules
+Scalable Fault-Tolerant Data Feeds in AsterixDB
+Output Privacy Protection With Pattern-Based Heuristic Algorithm
+"The Efficiency Examination of Teaching of Different Normalization
+  Methods"
+Query Rewriting and Optimization for Ontological Databases
+"The SQL++ Query Language: Configurable, Unifying and Semi-structured"
+"Unifying Causality, Diagnosis, Repairs and View-Updates in Databases"
+"PHD-Store: An Adaptive SPARQL Engine with Dynamic Partitioning for
+  Distributed RDF Repositories"
+"Managing large-scale scientific hypotheses as uncertain and
+  probabilistic data with support for predictive analytics"
+On the CALM Principle for Bulk Synchronous Parallel Computation
+"Odysseus/DFS: Integration of DBMS and Distributed File System for
+  Transaction Processing of Big Data"
+Provenance and data differencing for workflow reproducibility analysis
+A ToolBox for Conservative XML Schema Evolution and Document Adaptation
+Intégration des règles actives dans des documents
+"ProvAbs: model, policy, and tooling for abstracting PROV graphs"
+ProvGen: generating synthetic PROV graphs with predictable structure
+Foundations of an Alternative Approach to Reification in RDF
+"BSTree: an Incremental Indexing Structure for Similarity Search and Real
+  Time Monitoring of Data Streams"
+Variance Competitiveness for Monotone Estimation: Tightening the Bounds
+Tupleware: Redefining Modern Analytics
+Performance Comparison of Two Streaming Data Clustering Algorithms
+Using Apriori with WEKA for Frequent Pattern Mining
+"Efficiency Analysis of Materialized views in DataWarehouse Using
+  selfmaintenance"
+"AsterixDB: A Scalable, Open Source BDMS"
+Pregelix: Big(ger) Graph Analytics on A Dataflow Engine
+Building A Smart Academic Advising System Using Association Rule Mining
+The data-exchange chase under the microscope
+Fedra: Query Processing for SPARQL Federations with Divergence
+Query Optimization for Dynamic Graphs
+"KDD-SC: Subspace Clustering Extensions for Knowledge Discovery
+  Frameworks"
+"Evaluating Accumulo Performance for a Scalable Cyber Data Processing
+  Pipeline"
+"Integrated ERP System for Improving the Functional efficiency of the
+  organization by Customized Architecture"
+Answering Regular Path Queries on Workflow Provenance
+Dynamic Provenance for SPARQL Update
+On the BDD/FC Conjecture
+Supporting SPARQL Update Queries in RDF-XML Integration
+"rdf:SynopsViz - A Framework for Hierarchical Linked Data Visual
+  Exploration and Analysis"
+"Mining Frequent Itemsets (MFI) over Data Streams: Variable Window Size
+  (VWS) by Context Variation Analysis (CVA) of the Streaming Transactions"
+Restpark: Minimal RESTful API for Retrieving RDF Triples
+"Web Usage mining framework for Data Cleaning and IP address
+  Identification"
+Location Estimation Using Crowdsourced Geospatial Narratives
